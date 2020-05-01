@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Pingelen samenstellen
 uuid: cb8cc043-9ea5-407c-b70f-3f1e37accdae
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: f76dcd31e58b94856bf551009c2ac50c3233e516
 
 ---
 
@@ -23,12 +23,12 @@ Wanneer Livefyre een updatebericht met `networkName` en `user_id`ontvangt, zal h
 
 1. Voeg code toe aan uw pagina die LiveCycle pingelt wanneer de gebruikers hun profiel bijwerken. Construeer de URL op deze manier:
 
-```
- POSThttps://{networkName}.quill.fyre.co/api/v3.0/user/{user_id}/refresh?lftoken={token}
-```
+   ```
+   POSThttps://{networkName}.quill.fyre.co/api/v3.0/user/{user_id}/refresh?lftoken={token}
+   ```
 
-* **[!UICONTROL networkName:]** Uw door Livefyre opgegeven netwerknaam.
-* **[!UICONTROL user_id:]** De gebruikersnaam.
-* **[!UICONTROL token:]** Geldige systeemtoken.
+   * **[!UICONTROL networkName:]** Uw door Livefyre opgegeven netwerknaam.
+   * **[!UICONTROL user_id:]** De gebruikersnaam.
+   * **[!UICONTROL token:]** Geldige systeemtoken.
 
 1. Trek de aanvraagstructuur uit.
