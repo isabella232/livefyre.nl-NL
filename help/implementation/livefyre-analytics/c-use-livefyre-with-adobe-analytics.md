@@ -4,7 +4,7 @@ seo-description: 'null'
 seo-title: LiveCycle gebruiken met Adobe Analytics en Dynamic Tag Manager (DTM), lk xavvefyre met Adobe Analytics en Dynamic Tag Manager (DTM)
 uuid: 9a1c25c0-c474-46ff-82ac-e89357007c7f
 translation-type: tm+mt
-source-git-commit: 987482066f1ca3c021a5c9f0fc0109edff616c0a
+source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
 
 ---
 
@@ -17,7 +17,7 @@ Stel Adobe Analytics en Dynamic Tag Manager (DTM) in om gegevens voor LiveCycle-
 
 Wijs Live-gebeurtenissen toe aan een of meer aangepaste succesgebeurtenissen in Adobe Analytics Report Suite Manager.
 
-Zie [Report Suite Manager](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html)voor meer informatie over Report Suite Manager.
+Zie [Report Suite Manager](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)voor meer informatie over Report Suite Manager.
 
 1. Meld u aan bij Adobe Analytics als beheerder.
 1. Open Adobe Analytics Admin Report Suite Manager.
@@ -38,7 +38,7 @@ Wijs bibliotheekconversievariabelen (eVars) toe aan conversievariabelen in Adobe
 
 ## Stap 3: DTM gebruiken om uw rapportsuite toe te voegen met LiveCycle Events {#section_t15_2hd_4cb}
 
-Voeg Adobe Analytics toe aan DTM om Analytics te laten werken. Hiertoe maakt u een nieuwe eigenschap en een nieuw gereedschap en voegt u de nieuwe rapportsuite met LiveCycle-gebeurtenissen toe aan de eigenschap. Zie [DTM voor meer informatie over DTM](https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html).
+Voeg Adobe Analytics toe aan DTM om Analytics te laten werken. Hiertoe maakt u een nieuwe eigenschap en een nieuw gereedschap en voegt u de nieuwe rapportsuite met LiveCycle-gebeurtenissen toe aan de eigenschap. Zie [DTM voor meer informatie over DTM](https://docs.adobe.com/content/help/en/dtm/using/c-overview.html).
 
 U hoeft deze stap niet uit te voeren als u al een eigenschap of gereedschap hebt ingesteld voor de rapportsuite die u hebt ingesteld met LiveCycle-gebeurtenissen.
 
@@ -65,7 +65,7 @@ Stel een regel voor het laden van pagina in om alle gegevens op te halen. Met de
 1. Klik op de **[!UICONTROL Create New Rule]** knop.
 1. Open de **[!UICONTROL Conditions]** sectie door op de **[!UICONTROL Plus]** knop te klikken.
 1. Trigger de regel. Kies **[!UICONTROL DOM Ready]** of **[!UICONTROL Onload]** triggertypen als u de regel asynchroon wilt vertragen of implementeren.
-1. (Optioneel) Voeg aanvullende parameters toe om de pagina&#39;s te beperken die Live Apps weergeven. Voor meer informatie over extra configuratieopties, zie [DTM](https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html).
+1. (Optioneel) Voeg aanvullende parameters toe om de pagina&#39;s te beperken die Live Apps weergeven. Voor meer informatie over extra configuratieopties, zie [DTM](https://docs.adobe.com/content/help/en/dtm/using/c-overview.html).
 1. Klik onder **[!UICONTROL Javascript/ Third Party Tags]** op het **[!UICONTROL Non-sequential]** tabblad en klik vervolgens op **[!UICONTROL Add New Script]**.
 1. Selecteer **[!UICONTROL Sequential HTML]** als scripttype.
 1. Voeg het volgende script toe aan de code-editor en klik op **[!UICONTROL Save Code]**.
@@ -305,7 +305,7 @@ function addAnalyticsHandler() {
 
 Voor meer informatie over de onderwerpen die op deze pagina worden besproken, zie:
 
-* [Report Suite Manager](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html)
-* [DTM](https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html)
-* [Regels](https://marketing.adobe.com/resources/help/en_US/dtm/rules.html)
+* [Report Suite Manager](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)
+* [DTM](https://docs.adobe.com/content/help/en/dtm/using/c-overview.html)
+* [Regels](https://docs.adobe.com/content/help/en/dtm/using/resources/rules/create-rules.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
