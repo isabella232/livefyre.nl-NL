@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Gebeurtenissen van Livefyre Analytics
 uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
 
 ---
 
@@ -44,7 +44,7 @@ De volgende code definieert de velden in het gebeurtenisobject die door de handl
 
 ## Livefyre Analytics Events and eVars {#section_u3k_tft_mcb}
 
-De volgende Livefy-gebeurtenissen moeten worden toegewezen aan aangepaste gebeurtenissen die moeten worden gebruikt in rapporten met de rapportsuite Manager. Raadpleeg [Report Suite Manager](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html)voor meer informatie over rapportsets in Adobe Analytics. Raadpleeg [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb)Report Suite Manager voor meer informatie over het gebruik van LiveCycle-gebeurtenissen.
+De volgende Livefy-gebeurtenissen moeten worden toegewezen aan aangepaste gebeurtenissen die moeten worden gebruikt in rapporten met de rapportsuite Manager. Raadpleeg [Report Suite Manager](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)voor meer informatie over rapportsets in Adobe Analytics. Raadpleeg [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb)Report Suite Manager voor meer informatie over het gebruik van LiveCycle-gebeurtenissen.
 
 ## Gebeurtenissen van Livefyre Analytics
 
@@ -97,7 +97,7 @@ Hieronder volgt een lijst met conversievariabelen (eVars) die door Livefyre word
 
 Voor meer informatie over de onderwerpen die op deze pagina worden besproken, zie:
 
-* [Report Suite](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html)[ManagerDTM](https://marketing.adobe.com/resources/help/en_US/livefyre/c_filmstrip_app.html)
+* [Report Suite](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[ManagerDTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
 
-* [Regels](https://marketing.adobe.com/resources/help/en_US/dtm/rules.html)
+* [Regels](https://docs.adobe.com/content/help/en/dtm/using/resources/rules/create-rules.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
