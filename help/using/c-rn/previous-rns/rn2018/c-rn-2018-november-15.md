@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Opmerkingen bij de release
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
 
 ---
 
@@ -33,7 +33,7 @@ De volgende nieuwe functies zijn vrijgegeven in de productieversie van deze rele
 
 Voor meer informatie over hoe te om rechten voor de rekeningen van het Installagram te verzoeken, zie de Verzoek van de Rechten van het Installagram manueel [verzenden en een Gedeeltelijk-Geautomatiseerde Verzoek](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) van de Rechten van het Installagram [](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)verzenden.
 
-* **Adobe Target-integratie.** Toegevoegde integratie met Adobe Target waarmee u LiveCyre-apps rechtstreeks kunt delen met uw Adobe Target-bibliotheek. Raadpleeg de documentatie bij [Target voor meer informatie over het gebruik van LiveCycle met Adobe Target](https://marketing.adobe.com/resources/help/en_US/livefyre/livefyre-target.html).
+* **Adobe Target-integratie.** Toegevoegde integratie met Adobe Target waarmee u LiveCyre-apps rechtstreeks kunt delen met uw Adobe Target-bibliotheek. Raadpleeg de documentatie bij [Target voor meer informatie over het gebruik van LiveCycle met Adobe Target](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
 
 ## Problemen {#section_ehw_ndt_wcb}
 
