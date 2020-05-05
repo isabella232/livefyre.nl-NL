@@ -5,7 +5,7 @@ seo-title: Adobe Experience Manager Live gebruiken met Adobe Target
 title: Adobe Experience Manager Live gebruiken met Adobe Target
 uuid: 98108ddb-5710-4331-891b-7e1bbb106059
 translation-type: tm+mt
-source-git-commit: 78399019741620ad8e16d2ba04db7f766631fe74
+source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
 
 ---
 
@@ -51,4 +51,4 @@ Er wordt een lijst met doelinstanties weergegeven.
 
 1. Klik op  **[!UICONTROL Publish]**.
 
-De Livefyre-app is nu beschikbaar voor gebruik in de bibliotheek met doelaanbiedingen. Zie Inhoud [en](/help/using/c-library/t-publish-content.md) aanbiedingen [](https://marketing.adobe.com/resources/help/en_US/target/target/c_manage_content.html) publiceren in de documentatie over het doel voor meer informatie over het publiceren van apps.
+De Livefyre-app is nu beschikbaar voor gebruik in de bibliotheek met doelaanbiedingen. Zie Inhoud [en](/help/using/c-library/t-publish-content.md) aanbiedingen [](https://docs.adobe.com/content/help/en/target/using/experiences/offers/manage-content.html) publiceren in de documentatie over het doel voor meer informatie over het publiceren van apps.
