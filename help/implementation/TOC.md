@@ -1,14 +1,17 @@
 ---
 product: livefyre
 audience: end-user
-user-guide-title: Experience Manager Livefyre Implementation Guide
+user-guide-title: Implementatiehandleiding voor Livefyre
 translation-type: tm+mt
-source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
+source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+workflow-type: tm+mt
+source-wordcount: '543'
+ht-degree: 0%
 
 ---
 
 
-# Implementatiehandleiding voor Experience Manager {#implementation}
+# Implementatiehandleiding voor Livefyre {#implementation}
 
 + [Implementatiehandleiding voor Livefyre](home.md)
 + Aan de slag {#getting-started}
