@@ -4,12 +4,15 @@ solution: Experience Manager
 title: Gebruikershandleiding voor Livefyre
 uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
 translation-type: tm+mt
-source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
+source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 
 
-# Handleiding voor Experience Manager LiveCycle {#livefyre-help}
+# Gebruikershandleiding voor Livefyre {#livefyre-help}
 
 Gebruik Live Studio om apps te maken, door de gebruiker gegenereerde inhoud te verzamelen en inhoud te matigen.
 
