@@ -5,7 +5,10 @@ seo-title: Moderne inhoud met ModQ
 title: Moderne inhoud met ModQ
 uuid: c630fb85-7bd0-4da0-ac7e-080e970fb4f9
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '1465'
+ht-degree: 0%
 
 ---
 
@@ -152,11 +155,11 @@ In het gedeelte Instellingen kunt u opties selecteren die beschikbaar zijn wanne
 
 ## Gebruikersstatus wijzigen in ModQ {#section_tmw_lg1_z1b}
 
-Klik op de **[!UICONTROL User actions]** knop in het deelvenster Gebruikersoverzicht om de gebruiker te dempen, te verbieden of een whitelist te maken.
+Klik op de **[!UICONTROL User actions]** knop in het deelvenster Gebruikersoverzicht om de gebruiker te dempen, te verbieden of toe te staan.
 
 * **[!UICONTROL Mute:]** Hiermee kunt u markeringen dempen van de gebruiker die het vermelde stuk inhoud heeft gemarkeerd. Gebruik deze optie om de vlaggen van de gebruiker van uw premoderatiefilters uit te sluiten. De inhoud die zij markeren, zal ModQ niet als gevolg van de vlag ingaan, en hun vlaggen zullen niet in de Regels van de Vlag worden omvat.
 * **[!UICONTROL Ban:]** kunt u de vermelde gebruiker van uw site of netwerk verbieden. (Alleen Studio-beheerders of gebruikersbeheerders kunnen een gebruiker in een netwerk verbieden.)
-* **[!UICONTROL Whitelist:]** Hiermee kunt u een whitelist maken van de vermelde gebruiker voor uw site of netwerk. (Alleen Studio-beheerders of gebruikersmanagers kunnen een whitelist van een gebruiker in een netwerk opnemen.)
+* **[!UICONTROL Whitelist:]** staat u toe toe-lijst van de vermelde gebruiker voor uw plaats of netwerk toe. (Alleen Studio-beheerders of gebruikersbeheerders kunnen een gebruiker in een netwerk aanbieden met een allow-list.)
 
 
 
