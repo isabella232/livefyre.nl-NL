@@ -5,7 +5,10 @@ seo-title: 9 februari 2017
 title: 9 februari 2017
 uuid: cbbf10f3-d8ca-4c10-849e-fa7208f987be
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '557'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +34,7 @@ SocialSync voor Twitter maakt al jaren deel uit van onze kernfunctionaliteit. Aa
 | Bug | Streams | Oplossing voor een probleem dat ervoor zorgde dat de regels van de Tumblr-stream niet konden worden opgeslagen. |
 | Bug | Streams | Oplossing voor een fout die onjuiste Generator-id&#39;s veroorzaakte in de Collection JSON voor RSS-feeds. |
 | Verbetering | Streams | Pas de instelling van de optie Alleen geverifieerde accounts aan om deze standaard uit te schakelen. |
-| Verbetering | Streams | Er is een nieuwe functie toegevoegd waarmee categorieën inhoud (via een stroomregel) kunnen worden gewhitelisteerd en de moderatie kan worden omzeild. |
+| Verbetering | Streams | Er is een nieuwe functie toegevoegd om toe te staan dat categorieën inhoud (via een stroomregel) worden toegestaan en dat de moderatie wordt omzeild. |
 | Bug | Streams | Oplossing van een bug die ervoor zorgde dat de instellingen &quot;Premodereren&quot; en &quot;Media Premodereren&quot; werden overgedragen naar een nieuwe stroomregel. |
 
 ## UAT Release {#section_dyx_yl2_wy}
