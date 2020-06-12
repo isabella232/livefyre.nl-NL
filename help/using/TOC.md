@@ -3,7 +3,7 @@ product: livefyre
 audience: end-user
 user-guide-title: Livefyre-documentatie
 translation-type: tm+mt
-source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%
@@ -187,8 +187,8 @@ ht-degree: 0%
    + [Producten aan inhoud koppelen met de bibliotheek](c-library/t-associate-products-with-content-using-the-library.md)
    + [Inhoud publiceren](c-library/t-publish-content.md)
    + [Tabblad App-inhoud](c-library/c-app-content.md)
-   + [Adobe Experience Manager gebruiken met Hootsuite](c-library/c-hootsuite-livefyre.md)
-   + [Adobe Experience Manager Live gebruiken met Adobe Target](c-library/livefyre-target.md)
+   + [Adobe Experience Manager Livefyre gebruiken met Hootsuite](c-library/c-hootsuite-livefyre.md)
+   + [Adobe Experience Manager Livefyre gebruiken met Adobe Target](c-library/livefyre-target.md)
    + [Adobe LiveCycle Extension gebruiken](c-library/launch-extension.md)
 + Streams {#streams}
    + [Streams](c-streams/c-streams.md)
@@ -220,7 +220,7 @@ ht-degree: 0%
    + [Zoeken naar gebruikers](c-users/t-search-for-users.md)
    + [Accountdetails weergeven](c-users/c-viewing-account-details.md)
    + [Een gebruiker verbieden](c-users/t-ban-a-user.md)
-   + [Een gebruiker whitelist](c-users/t-whitelist-a-user.md)
+   + [Gebruiker toestaan](c-users/allow-list-a-user.md)
    + [Gebruikersaccounts koppelen](c-users/t-link-user-accounts.md)
    + [Gebruikers die netwerken schakelen](c-users/c-users-switching-networks.md)
    + [Gebruikerssynchronisatie](c-users/t-set-up-user-sync.md)
