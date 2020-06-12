@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Accountdetails weergeven
 uuid: bace558f-ade8-49d6-abda-9ee754ce4ac0
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '366'
+ht-degree: 0%
 
 ---
 
@@ -41,12 +44,12 @@ De sectie Status bevat een overzicht van alle Bans of Whitelists die aan de acco
 
 ## Gebruikers verbieden {#section_l5b_5gr_vdb}
 
-Als een gebruiker ongepast post of spamcommentaren op een artikel of over uw plaats, kunt u verkiezen om de gebruiker van uw netwerk te verbieden. Als de inhoud die door de gebruiker is gepost, eenmaal is verboden, wordt deze automatisch ingesteld op de ***Bozo*** -status en is deze alleen zichtbaar voor de gebruiker die de inhoud heeft gepost. Verboden gebruikers kunnen zich aanmelden bij de stream, opmerkingen plaatsen en hun inhoud in de app bekijken. Verboden gebruikers zullen geloven dat zij nog steeds deel uitmaken van het gesprek. Nochtans, zal geen andere gebruiker op uw plaats deze inhoud kunnen zien.
+Als een gebruiker ongepast post of spamcommentaren op een artikel of over uw plaats, kunt u verkiezen om de gebruiker van uw netwerk te verbieden. Als de inhoud die door de gebruiker is gepost, eenmaal is verboden, wordt deze automatisch ingesteld op de status ***Bozo*** en is deze alleen zichtbaar voor de gebruiker die de inhoud heeft gepost. Verboden gebruikers kunnen zich aanmelden bij de stream, opmerkingen plaatsen en hun inhoud in de app bekijken. Verboden gebruikers zullen geloven dat zij nog steeds deel uitmaken van het gesprek. Nochtans, zal geen andere gebruiker op uw plaats deze inhoud kunnen zien.
 
 Omdat hun inhoud nu Bozo&#39;d is, kunnen verboden gebruikers ongepaste inhoud blijven plaatsen, maar de rest van uw gemeenschap ziet deze niet meer.
 
 Zie voor meer informatie **[!UICONTROL Studio > App Content > Bozo Content]**.
 
-## Whitelisting-gebruikers {#section_kr4_ptp_vz}
+## Gebruikers van lijsten toestaan {#section_kr4_ptp_vz}
 
-Met Whitelisting Users kunnen gebruikers rechtstreeks naar uw apps posten. Inhoud die door gebruikers met een whitelist wordt gepost, gaat niet door de filters SAFE, GREP of Premoderatie van Livefyre en wordt automatisch goedgekeurd en toegevoegd aan de app.
+Gebruikers die een aanbieding willen toestaan, kunnen ze direct naar uw apps posten. Inhoud die door op de lijst geplaatste gebruikers wordt gepost, gaat niet door de filters SAFE, GRIJsheid of Premoderatie van Livefyre en wordt automatisch goedgekeurd en toegevoegd aan de app.
