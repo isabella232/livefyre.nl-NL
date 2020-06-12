@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Moderne gebruikers
 uuid: b801cdfe-05ea-4c29-bb9b-0f6a33cb11d1
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '213'
+ht-degree: 0%
 
 ---
 
@@ -33,6 +36,6 @@ De volgende informatie wordt weergegeven (indien beschikbaar) voor elk van uw ge
 * **[!UICONTROL IP Address]**: hun IP adres, zoals die door Livefyre wordt bepaald.
 * **[!UICONTROL Bio]**: beschrijving van de gebruiker.
 * **[!UICONTROL Bans]**: bevat een lijst van sites waarvoor de gebruiker is verboden of Bozo’d.
-* **[!UICONTROL Whitelists]**: bevat een lijst met sites waarvoor de gebruiker is gewhitelist.
+* **[!UICONTROL Whitelists]**: bevat een lijst met sites waarvoor de gebruiker een lijst met toegestane adressen heeft.
 
 Voor meer op hoe u gebruikers op het lusje van de Inhoud van de Toepassing kunt matigen, zie [Matig Gebruikend App Inhoud](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).
