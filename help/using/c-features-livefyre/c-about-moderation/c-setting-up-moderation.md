@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Moderatie instellen
 uuid: 0ec53fdb-08c2-4058-88cb-2f6f4b56a95b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '1299'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +25,7 @@ U kunt inhoud op de volgende manieren verkleinen:
 * Inhoud automatisch vooraf comprimeren om ongewenste inhoud uit te filteren op basis van regels die u instelt voordat u de inhoud publiceert.
 * Verwijder of keur handmatig inhoud goed die is gemarkeerd met de automatische premoderatie met de ModQ- of App-inhoud in de bibliotheek.
 * Identificeer sitebezoekers die herhaaldelijk aanstootgevende inhoud plaatsen om te voorkomen dat ze deze posten door specifieke Livefyre-gebruikers, sociale gebruikers of IP-adressen te verbieden.
-* Identificeer mensen en inhoud die altijd kunnen tonen door het fluiten van gebruikers of het uitzetten van filters voor specifieke stromen, plaatsen, of netwerken.
+* Identificeer mensen en inhoud die altijd kunnen tonen door gebruikers toe te staan of filters voor specifieke stromen, plaatsen, of netwerken uit te zetten.
 
 U kunt inhoud automatisch op de volgende manieren premodereren:
 
@@ -35,7 +38,7 @@ U kunt inhoud automatisch op de volgende manieren premodereren:
    * IP-regio&#39;s per landcode op verzoek verbieden. Geboden inhoud wordt gemarkeerd als SPAM.
 
 * Maak een lijst met woorden die u als gewin beschouwt in de lijst Rentabiliteit onder **[!UICONTROL Settings > Moderation > Rules]** voor uw netwerk of site.
-* Whitelist-gebruikers (mogen inhoud van deze gebruikers altijd weergeven) door filters voor specifieke streams, sites of netwerken te gebruiken of uit te schakelen.
+* Gebruikers met een lijst toestaan (inhoud van deze gebruikers altijd toestaan om weer te geven) door filters voor specifieke streams, sites of netwerken te gebruiken of uit te schakelen.
 
 Nadat u de dieptelijsten, de filters van de VEILIGHEID, en de regels hebt opgesteld, kunt u verkiezen of om inhoud te premodereren en de filters van de VEILIGHEID in stromen toe te passen. Zie Opties [stroomregel voor alle stroomregels](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)voor meer informatie.
 
