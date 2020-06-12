@@ -5,7 +5,10 @@ seo-title: 26 januari 2017
 title: 26 januari 2017
 uuid: 5a04d31d-a26d-4369-8deb-adc3e28dfece
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '287'
+ht-degree: 0%
 
 ---
 
@@ -38,5 +41,5 @@ Opmerkingen bij de release van 26 januari 2017.
 | Bug | Streams | Uitgebreide inhoud (afbeeldingen en video&#39;s) van e-mailstreamregels beschikbaar via HTTPS. |
 | Verbetering | Streams | Pas de instelling van de optie Alleen geverifieerde accounts aan om deze standaard uit te schakelen. |
 | Bug | Streams | Oplossing van een bug die ervoor zorgde dat de instellingen &quot;Premodereren&quot; en &quot;Media Premodereren&quot; werden overgedragen naar een nieuwe stroomregel. |
-| Verbetering | Streams | Er is een nieuwe functie toegevoegd waarmee categorieën inhoud (via een stroomregel) kunnen worden gewhitelisteerd en de moderatie kan worden omzeild. |
+| Verbetering | Streams | Er is een nieuwe functie toegevoegd om toe te staan dat categorieën inhoud (via een stroomregel) worden toegestaan en dat de moderatie wordt omzeild. |
 
