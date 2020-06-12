@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Gebruikersmachtigingen naar externe systemen posten (optioneel)
 uuid: 9c18b20d-3b93-4666-b7de-1ec60318cf88
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '265'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +24,7 @@ LiveCycle gebruikt een PUSH-interface om externe systeeminformatie over wijzigin
 |--- |--- |
 | eigenaar | Deze gebruiker is een eigenaar, en kan zowel inhoud matigen, als nieuwe moderatoren toewijzen. |
 | beheerder | Deze gebruiker is een moderator, en kan inhoud matigen. |
-| lid | Deze gebruiker is gewhitelist. Geposte inhoud gaat niet door spam- of dieptefilters en vereist geen goedkeuring in vooraf gemodereerde stromen. |
+| lid | Deze gebruiker staat op de lijst. Geposte inhoud gaat niet door spam- of dieptefilters en vereist geen goedkeuring in vooraf gemodereerde stromen. |
 | none | Deze gebruiker is een standaardgebruiker en heeft geen speciale machtigingen. |
 | uitzenden | Deze gebruiker mag niet deelnemen aan gesprekken. |
 
