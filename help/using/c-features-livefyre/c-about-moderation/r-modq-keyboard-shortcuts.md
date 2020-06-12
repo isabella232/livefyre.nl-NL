@@ -5,7 +5,10 @@ seo-title: Sneltoetsen ModQ
 title: Sneltoetsen ModQ
 uuid: fc4e7796-b6b5-4782-a0fc-b2326ca56d66
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +27,6 @@ De volgende toetsenbordkortere weg is beschikbaar aan moderatoren in ModQ.
 | Bovenkant van wachtrij | Naar het eerste item boven aan de wachtrij gaan | l |  |
 | Vlaggen dempen of dempen opheffen | Vlaggen van de geselecteerde gebruiker dempen of dempen ongedaan maken | Shift + M |  |
 | Ban-gebruiker | De geselecteerde gebruiker alleen voor die site verbieden | Shift + B |  |
-| Whitelist-gebruiker | Whitelist de geselecteerde gebruiker voor slechts die plaats | Shift + W |  |
+| Whitelist-gebruiker | Alleen de geselecteerde gebruiker voor die site toestaan | Shift + W |  |
 | Site-filter wissen | Alle items in het netwerk weergeven | Shift + Q |  |
 
