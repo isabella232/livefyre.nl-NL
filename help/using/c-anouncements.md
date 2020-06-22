@@ -6,12 +6,33 @@ solution: Experience Manager
 title: Aankondigingen
 uuid: c05963db-4d96-494e-bdb3-da3570a14dfe
 translation-type: tm+mt
-source-git-commit: 82fde64518079ba1f08f4676449ec0e087ca1f36
+source-git-commit: 7a36b890dd828b0da2c95acce5a074eeacb7ea5d
+workflow-type: tm+mt
+source-wordcount: '1587'
+ht-degree: 0%
 
 ---
 
 
 # Aankondigingen{#announcements}
+
+## 22 juni 2020
+
+We willen u een update geven van de veranderende dynamiek van door gebruikers gegenereerde inhoud (UGC) en de invloed die dit heeft op de inhoud van Facebook en Twitter in het product.
+
+Vorig jaar heeft Facebook de Public Feed-API afgeschaft. We hebben gesprekken gevoerd om te proberen een weg voorwaarts te vinden. Er is ons gevraagd Facebook-gegevens te verwijderen uit het Livefyre-product. We voldoen aan het verzoek van Facebook en Adobe werkt snel aan de bescherming van onze klanten.
+
+Houd er rekening mee dat de toegang tot nieuwe en opgeslagen Facebook-inhoud de komende weken wordt verwijderd.
+
+* 22 juni 2020: de mogelijkheid om te zoeken naar nieuwe Facebook-inhoud in Livefyre eindigt.
+* 7 juli 2020: de toegang tot opgeslagen inhoud in de bibliotheek met Livefy-elementen en inhoud van de app wordt beëindigd.
+* 10 augustus 2020: Facebook-inhoud die is gepubliceerd op websites die zich in Livefyre bevinden, zoals mediamuren, functiekaarten, mozaïeken, carrousels en nog veel meer, wordt verwijderd.
+
+Deze wijziging heeft geen invloed op de inhoud van Instagram die in LiveCycle toegankelijk blijft.
+
+We willen ook delen dat vanwege de beperkte vraag van klanten naar Twitter-inhoud, de toegang tot Twitter volgend jaar op 3 mei 2021 uit Livefyre wordt verwijderd. U blijft tot deze datum volledige toegang hebben tot nieuwe en opgeslagen Twitter-inhoud.
+
+Daarnaast blijven alle andere functies beschikbaar, zoals beoordelingen en revisies, opmerkingen, identiteitsbewijzen en live bloggen. Adobe blijft ook doorlopende ondersteuning bieden voor foutoplossingen en updates van het besturingssysteem en de beveiliging.
 
 ## 25 oktober 2019
 
@@ -68,7 +89,7 @@ We zijn blij om aan te kondigen dat de mogelijkheid om te zoeken naar video-inho
 
 ## 14 juni 2018 {#section_kk5_qpz_d2b}
 
-Lees de meest recente updates over de status van functionaliteit die gerelateerd is aan de API-afleidingen van Instagram:
+Lees de meest recente updates over de status van functionaliteit die gerelateerd is aan de API-afwaarderingen van Instagram:
 
 * **Inhoud van zakelijke accounts zoeken en streamen**
 
@@ -117,7 +138,7 @@ Na een volledige systeemanalyse zijn hier de mogelijkheden die worden beïnvloed
 
 * **De werkstroom voor zoeken en streams van gebruikers: 14 juni 2018**
 
-   Hoewel u nog steeds kunt zoeken op hashtag en trefwoord, is de mogelijkheid om te zoeken in persoonlijke Instagram-accounts uitgeschakeld. Als alternatief, zal Livefyre functionaliteit bouwen die u toelaat om inhoud van bedrijfsrekeningen te zoeken en te stromen. Als u Livefyre gebruikt om de inhoud van uw eigen organisatie van het Installagram te zoeken en te stromen, ben zeker om aan een bedrijfsrekening te [bevorderen](https://help.instagram.com/502981923235522?helpref=search&sr=2&query=change%20personal%20account%20to%20business%20account) om uit deze functionaliteit voordeel te halen.
+   Hoewel u nog steeds kunt zoeken op hashtag en trefwoord, is de mogelijkheid om te zoeken in persoonlijke Instagram-accounts uitgeschakeld. Als alternatief, zal Livefyre functionaliteit bouwen die u toelaat om inhoud van bedrijfsrekeningen te zoeken en te stromen. Als u Livefyre gebruikt om de inhoud van uw eigen organisatie van het Installagram te zoeken en te stromen, ben zeker om aan een bedrijfsrekening te [bevorderen](https://help.instagram.com/502981923235522?helpref=search&amp;sr=2&amp;query=change%20personal%20account%20to%20business%20account) om uit deze functionaliteit voordeel te halen.
 
 **We blijven oplossingen evalueren voor de volgende functies die we op korte termijn niet kunnen vervangen:**
 
