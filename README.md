@@ -1,8 +1,8 @@
 ---
-source-git-commit: 4990e04d913b95ab903b358c78bf4263f4eb6a7f
+source-git-commit: 06ed2854bc5905e963c5dbf6c6b04725670796ec
 workflow-type: tm+mt
 translation-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '435'
 ht-degree: 6%
 
 ---
@@ -58,5 +58,3 @@ In de openbare bewaarplaats, worden de geautomatiseerde etiketten toegewezen om 
 
 * **Naar auteur** verzonden wijziging: De auteur is op de hoogte gesteld van het aanloopverzoek.
 * **Gereed voor samenvoegen**: Klaar voor overzicht door ons team van het trekpleonderzoek.
-
-Webhaktest - negeren
