@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Aantal opmerkingen weergeven
 uuid: 0f39b25e-11e0-4945-be71-55fb4798b6c7
 translation-type: tm+mt
-source-git-commit: c287e7a880f956f0444af746adee682571fe5a72
+source-git-commit: c2594f919f153d1230b3dc0370f31d64cb698146
+workflow-type: tm+mt
+source-wordcount: '381'
+ht-degree: 0%
 
 ---
 
@@ -41,7 +44,7 @@ Met Livefyre `CommentCount.js` kunt u het aantal inhoud ophalen voor verzameling
    </span>
    ```
 
-   >[!NOTE] {Important=&quot;high&quot;}
+   >[!NOTE]
    >
    >De `CommentCount.js` code controleert of een numerieke waarde wordt bijgewerkt met het werkelijke aantal. Zorg ervoor dat u een numerieke waarde tussen de tags opneemt.
 
