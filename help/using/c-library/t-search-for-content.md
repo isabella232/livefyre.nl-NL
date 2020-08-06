@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Zoeken naar Instagram-inhoud
 uuid: 38a7185d-9936-4eaa-97e9-5b23b3566496
 translation-type: tm+mt
-source-git-commit: e60a58bf949e6e4f6f4f8d2fad1bd8985a593677
+source-git-commit: c2594f919f153d1230b3dc0370f31d64cb698146
+workflow-type: tm+mt
+source-wordcount: '255'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ Met Sociale zoekfunctie kunt u zoeken naar inhoud van Instagram die u wilt opnem
 
 >[!NOTE]
 >
->Voordat u een sociale zoekopdracht naar Instagram kunt uitvoeren, moet u een Installagram-bedrijfsaccount toevoegen aan de **[!UICONTROL Social Accounts]** sectie in **[!UICONTROL Network Settings]** en Livefyre toestaan dat account te gebruiken. Zie voor meer informatie over het instellen van een Instagram-bedrijfsaccount in Adobe LiveCycle Studio [](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+>Voordat u een sociale zoekopdracht naar Instagram kunt uitvoeren, moet u een Installagram-bedrijfsaccount toevoegen aan de **[!UICONTROL Social Accounts]** sectie in **[!UICONTROL Network Settings]** en Livefyre toestaan dat account te gebruiken. Voor informatie over hoe te opstelling een Van het Bedrijfs installatieschema rekening in de Studio van Adobe Livefyre, zie [](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 U kunt zoekopdrachten opslaan en opnieuw gebruiken. Klik in de zoekbalk om een lijst weer te geven met uw recente en opgeslagen zoekopdrachten.
 
@@ -38,5 +41,4 @@ Wanneer u nieuwe elementen aan de bibliotheek toevoegt, worden elementen die al 
 
    * **[!UICONTROL Recent Tags Search]**: Zoek de meest recente posts met de hashtag.
 
->Er worden items weergegeven die overeenkomen met uw zoekopdracht. Plaats de muisaanwijzer op een item om het toe te voegen aan **[!UICONTROL View Details]** of toe te voegen aan de Asset Library of **[!UICONTROL Publish]** aan een app.
-
+Er worden items weergegeven die overeenkomen met uw zoekopdracht. Plaats de muisaanwijzer op een item om het toe te voegen aan **[!UICONTROL View Details]** of toe te voegen aan de Asset Library of **[!UICONTROL Publish]** aan een app.
