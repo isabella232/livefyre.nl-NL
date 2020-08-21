@@ -6,9 +6,9 @@ solution: Experience Manager
 title: CollectionMeta-token
 uuid: d5db0b0f-2807-4392-874a-94ac3c1e7550
 translation-type: tm+mt
-source-git-commit: acba83da6abd919062025322beeced500a3db662
+source-git-commit: 6978f0f36b5698c9c599c1828edea67703423397
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,10 @@ LiveCycle wijst een unieke id toe aan elke verzameling die u maakt. Livefyre wij
 
 | Parameter | Type | Beschrijving |
 |--- |--- |--- |
-| networkName | Tekenreeks (optioneel) | De naam van het Livefyre-netwerk (beschikbaar via {!UICONTROL Studio > Instellingen > Integratie-instellingen > Referenties]). Dit is optioneel wanneer u de bibliotheek gebruikt om een token voor collectionMeta te maken. |
+| networkName | Tekenreeks (optioneel) | De naam van het Livefyre-netwerk (beschikbaar via [!UICONTROL Studio] > [!UICONTROL Settings] > [!UICONTROL Integration Settings] > [!UICONTROL Credentials] ). Dit is optioneel wanneer u de bibliotheek gebruikt om een token voor collectionMeta te maken. |
 | networkKey | Tekenreeks (optioneel) | De geheime sleutel voor het specifieke netwerk (beschikbaar bij Studio > Instellingen > Integratie-instellingen > Referenties). Dit is optioneel wanneer u de bibliotheek gebruikt om een token voor collectionMeta te maken. |
 | siteId | Tekenreeks (optioneel) | De id voor de site (beschikbaar op [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). Optioneel wanneer u de bibliotheek gebruikt om een token voor collectionMeta te maken. |
-| siteKey | Tekenreeks (optioneel) | De geheime sleutel voor de site (beschikbaar via {!UICONTROL Studio > Instellingen > Integratie-instellingen > Referenties]). |
+| siteKey | Tekenreeks (optioneel) | De geheime sleutel voor de site (beschikbaar op [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). |
 | artikelId | Tekenreeks (optioneel) | Een unieke id voor de verzameling. |
 | titel | Tekenreeks (optioneel) | De titel die u op de verzameling wilt toepassen. Gewoonlijk komt dit overeen met de titel van de pagina waarop de app wordt weergegeven. <br>Bijvoorbeeld: &quot;Integratie is zo leuk!&quot; <br>Opmerking:  De maximale tekenlengte voor de titel is 255 tekens. Het titelveld ondersteunt geen HTML-entiteiten. Codeer speciale tekens met UTF-8. |
 | url | Tekenreeks (optioneel) | De canonieke absolute URL die u aan deze verzameling wilt koppelen. Deze URL wordt gebruikt om koppelingen naar de app te genereren op basis van inhoud die wordt gedeeld op Facebook en Twitter, e-mailmeldingen en LiveCyre Studio. <br>Opmerking:  Gebruik een geldig basis-URL-domein voor lokale tests (bijvoorbeeld: geldig: `https://customer.com`; ongeldig: `https://localhost:5995`). |
