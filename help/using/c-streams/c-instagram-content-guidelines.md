@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Richtlijnen voor inhoud van Instagram
 uuid: 4c5ba96b-a242-407f-aa36-3a4e431832b8
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: 6978f0f36b5698c9c599c1828edea67703423397
+workflow-type: tm+mt
+source-wordcount: '315'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ Wanneer u inhoud vanuit Instagram wilt curven, moet u de richtlijnen en aanbevol
 
 U moet een *Van Bedrijfs Instagram rekening* vormen om de stromen van het Installagram van een andere specifieke Van Bedrijfs Instagram rekening tot stand te brengen door het **[!UICONTROL By Author]** gebied te gebruiken. De gebruikersaccount die u in het **[!UICONTROL By Author]** veld identificeert, moet een zakelijke account zijn.
 
-Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)voor meer informatie over het instellen van een Instagram-bedrijfsaccount in LiveCycle.]
+Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)voor meer informatie over het instellen van een Instagram-bedrijfsaccount in LiveCycle.
 
 Instagram past de volgende regels toe voor het ophalen van inhoud van het platform:
 
@@ -38,4 +41,4 @@ Instagram heeft, net als andere merken, ook vereisten voor het gebruik van hun m
 * Geef toewijzing aan Instagram en de eigenaar van de inhoud.
 * Maak duidelijk onderscheid van andere sociale media-inhoud als deze samen met andere media-media wordt weergegeven.
 
-Zie het document van Instagram voor meer informatie: Merk-elementen [van Instagram](https://help.instagram.com/304689166306603)gebruiken.
+Zie het document van Instagram voor meer informatie: [Brand-elementen](https://help.instagram.com/304689166306603)van Instagram gebruiken.
