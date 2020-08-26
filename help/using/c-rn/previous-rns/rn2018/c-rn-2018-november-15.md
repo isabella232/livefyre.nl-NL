@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Opmerkingen bij de release
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: efb031b58f01ec69c8297a808998d25a0015f102
+workflow-type: tm+mt
+source-wordcount: '371'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ Release-aantekeningen voor de release van 15 november 2018.
 
 De volgende nieuwe functies zijn vrijgegeven in de productieversie van deze release:
 
-* **Updates voor zoeken en streamen in Instagram.** U kunt een *zakelijke account* voor Installagram gebruiken:
+* **Updates voor zoeken en streamen in Instagram.** U kunt een *zakelijke account* van Instagram gebruiken om:
 
    * Een sociale zoekopdracht uitvoeren op gebruiker (de gebruiker moet ook een zakelijke account in Instagram zijn).
 
@@ -33,7 +36,7 @@ De volgende nieuwe functies zijn vrijgegeven in de productieversie van deze rele
 
 Voor meer informatie over hoe te om rechten voor de rekeningen van het Installagram te verzoeken, zie de Verzoek van de Rechten van het Installagram manueel [verzenden en een Gedeeltelijk-Geautomatiseerde Verzoek](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) van de Rechten van het Installagram [](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)verzenden.
 
-* **Adobe Target-integratie.** Toegevoegde integratie met Adobe Target waarmee u LiveCyre-apps rechtstreeks kunt delen met uw Adobe Target-bibliotheek. Raadpleeg de documentatie bij [Target voor meer informatie over het gebruik van LiveCycle met Adobe Target](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
+* **Adobe Target-integratie.** Toegevoegde integratie met Adobe Target zodat u LiveCycle Apps rechtstreeks kunt delen met uw Adobe Target Offers Library. Raadpleeg de documentatie bij [Target voor meer informatie over het gebruik van Livefyre bij Adobe Target](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
 
 ## Problemen {#section_ehw_ndt_wcb}
 
@@ -43,7 +46,7 @@ De problemen in de volgende tabellen zijn opgelost in deze release.
 
 | Type probleem | Component | Opmerking vrijgeven |
 |--- |--- |--- |
-| Probleem | AppService: Livefyre-id | Probleem verholpen waarbij klikken op [! UICONTROL het Terugstellen aan Standaard] stelde het embleem onder Login Modal in Studio > de Montages van de Integratie > Identiteit van de Levensstijl aan het standaardbeeld niet terug. |
+| Probleem | AppService: Livefyre-id | Probleem verholpen waarbij bij klikken op [!UICONTROL Reset to Default] het logo onder Aanmeldingsmodule in Studio > Integratie-instellingen > Livefyre-identiteit niet opnieuw werd ingesteld op de standaardafbeelding. |
 | Probleem | Bibliotheek | Probleem verholpen waarbij een video die naar de bibliotheek is geüpload en vervolgens in detail wordt weergegeven, niet correct werd weergegeven. |
 | Probleem | Streams | Probleem verholpen waardoor producten niet konden worden weergegeven in een stroomregel. |
 | Probleem | Streams | Probleem verholpen waarbij productcodes niet beschikbaar waren voor een stroomregel. |
