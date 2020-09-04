@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Google AMP gebruiken met Storify 2
 uuid: 40c9f083-7284-43ba-ae27-53b1ff9e3954
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 65d931e5bd04964db44f8e3a0e000ecec2652893
+workflow-type: tm+mt
+source-wordcount: '358'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +31,7 @@ Google AMP gebruiken met Storify 2:
    1. [amp-iframe](https://www.ampproject.org/docs/reference/components/amp-iframe) om de weergave Storify 2 aan te passen
    1. [amp-live-list](https://www.ampproject.org/docs/reference/components/amp-live-list) om het tijdinterval voor updates aan te passen
    1. [amp-social-share](https://www.ampproject.org/docs/reference/components/amp-social-share) om een knop voor sociaal delen toe te voegen
-1. Neem de inhoud van de volgende pagina van AMP Storify 2 in CSS voor uw Storify 2 pagina binnen <style amp-custom> tag: [https://cdn.livefyre.com/libs/liveblog-v2-component/amp.min.css](https://cdn.livefyre.com/libs/liveblog-v2-component/amp.min.css)
+1. Neem de inhoud van de volgende AMP-pagina Storify 2 op in de CSS voor uw Storify 2-pagina in de `<style amp-custom>` tag: [https://cdn.livefyre.com/libs/liveblog-v2-component/amp.min.css](https://cdn.livefyre.com/libs/liveblog-v2-component/amp.min.css)
 1. Neem de inhoud van de volgende API voor AMP-markering voor Storify 2 op in de Google AMP-sjabloon: `https://api.livefyre.com/app-service/v4/bootstrap/{{APP_ID}}/amp` waarbij {APP_ID} de toepassings-id is voor de app Storify 2 in LiveCycle Studio.
    1. De enige queryparameter is **pollInterval**. Dit is het interval waarin de toepassing controleert op updates (ingesteld in milliseconden).
    1. De URL bevat inhoud van de meest recente posts (zoals tweets, video&#39;s, enz.)
