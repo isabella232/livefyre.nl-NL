@@ -1,9 +1,9 @@
 ---
 product: livefyre
 audience: end-user
-user-guide-title: Livefyre-documentatie
+user-guide-title: Livefyre Guide
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: c8f274185f642c528ec684373c63b80cee8fab35
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Livefyre-documentatie {#using}
+# Livefyre Guide {#using}
 
 + [Help bij Livefyre](home.md)
 + [Aankondigingen](c-anouncements.md)
@@ -189,7 +189,7 @@ ht-degree: 0%
    + [Tabblad App-inhoud](c-library/c-app-content.md)
    + [Adobe Experience Manager Livefyre gebruiken met Hootsuite](c-library/c-hootsuite-livefyre.md)
    + [Adobe Experience Manager Livefyre gebruiken met Adobe Target](c-library/livefyre-target.md)
-   + [Adobe LiveCycle Extension gebruiken](c-library/launch-extension.md)
+   + [Adobe-livefyre-extensie gebruiken](c-library/launch-extension.md)
 + Streams {#streams}
    + [Streams](c-streams/c-streams.md)
    + [Een nieuwe stream maken](c-streams/t-create-a-new-stream.md)
@@ -208,7 +208,7 @@ ht-degree: 0%
 + Verzoeken om rechten {#rights-requests}
    + [Rechten aanvragen](c-how-requesting-rights-works/c-how-requesting-rights-works.md)
    + [Rechten beheren](c-how-requesting-rights-works/c-managing-rights-requests.md)
-   + [Rechtenbeheer instellen](c-how-requesting-rights-works/t-set-up-rights-management.md)
+   + [Rights Management instellen](c-how-requesting-rights-works/t-set-up-rights-management.md)
    + [Een aanvraag voor Twitter-rechten verzenden](c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md)
    + [Een aanvraag voor gedeeltelijk geautomatiseerde installatierechten verzenden](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
    + [Verzoek om installatierechten handmatig verzenden](c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md)
