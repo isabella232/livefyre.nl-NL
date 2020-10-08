@@ -6,7 +6,10 @@ solution: Experience Manager
 title: LiveCycle integreren in een CMS
 uuid: 5a3e18e8-8568-45bb-9070-d0fa43dd819b
 translation-type: tm+mt
-source-git-commit: 40cd8c2c89c17134bfcda510527dd6fff41400b5
+source-git-commit: 2436c389cbe14c7d64dd8c0392a3e0f031468836
+workflow-type: tm+mt
+source-wordcount: '381'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 40cd8c2c89c17134bfcda510527dd6fff41400b5
 
 Maak vanaf het begin livefyre-apps om aangepaste ervaringen en gegevensvisualisaties te maken.
 
-U kunt een LiveCyre-app helemaal vanaf het begin maken door LiveCycle en sociale gegevens te gebruiken met de API Bootstrap en Stream.
+U kunt een LiveCyre-app helemaal vanaf het begin maken door LiveCycle en sociale gegevens te gebruiken met de API voor Bootstrap en streamen.
 
 Voor LiveCyre Apps die authentificatie vereisen, zie de Integratie van de Identiteit voor informatie over gesteunde derdeauthentificatieplatforms.
 
@@ -54,10 +57,11 @@ b. Integreer LiveCyre-apps met gebruik van de ingesloten codestructuur van Livef
    * Voor informatie over hoe te om Trending te integreren, zie [Trending](/help/using/c-about-apps/c-trending-app/c-trending-app.md).
 
 1. Voer authentificatieintegratie uit.
-a. Creeer de tokens van de Auteur van de Gebruiker om gebruikersgegevens over te gaan en op te slaan in Levefyre.
+a. Creeer de tokens van de Auteur van de Gebruiker om gebruikersgegevens over te gaan en op te slaan in Levfyre.
 b. Gebruikers- en verificatieplatforms van derden integreren. Zie [Identiteitsintegratie](/help/implementation/t-about-identity-integration/t-about-identity-integration.md)voor een lijst met ondersteunde platforms.
 
 >[!NOTE]
 >
 >Livefyre biedt geen ondersteuning voor apps voor carrousel, filmstrip, Storify, functiekaart, mozaïek en opiniepeilingen die Livefyre.js gebruiken.
+
 Integreer deze apps met behulp van het [Create an App](/help/using/c-about-apps/c-create-an-app.md) process.
