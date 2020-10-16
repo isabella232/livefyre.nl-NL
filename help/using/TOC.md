@@ -2,11 +2,11 @@
 product: livefyre
 audience: end-user
 user-guide-title: Livefyre Guide
-user-guide-description: Use Livefyre Studio to create apps, gather user-generated content, and moderate content.
+user-guide-description: Gebruik LiveCycle Studio om apps te maken, door de gebruiker gegenereerde inhoud te verzamelen en inhoud te matigen.
 translation-type: tm+mt
 source-git-commit: 9b568a6bbe638fae816c6992e33180f9349157f1
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '855'
 ht-degree: 0%
 
 ---
@@ -155,7 +155,7 @@ ht-degree: 0%
       + [Sociaal delen instellen](c-features-livefyre/c-social-sharing/c-setting-up-social-sharing.md)
    + Functies sorteren {#sort-features}
       + [Functies sorteren](c-features-livefyre/c-sort-features-composite/c-sort-features-composite.md)
-      + [Vermelding](c-features-livefyre/c-sort-features-composite/c-top-comments.md)
+      + [Opmerkingen bovenaan](c-features-livefyre/c-sort-features-composite/c-top-comments.md)
       + [Hot Threads](c-features-livefyre/c-sort-features-composite/c-hot-threads.md)
    + Stijlfuncties {#styling-features}
       + [Stijlfuncties](c-features-livefyre/c-styling-features/c-styling-features.md)
