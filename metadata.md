@@ -1,16 +1,20 @@
 ---
 cloud: experience-cloud
+solution: Experience Manager
 solution-title: Meer informatie en ondersteuning
 solution-hub-url: https://helpx.adobe.com/support/experience-manager/6-4.html
 solution-icon: assets/experience-cloud-logo-24.png
 getting-started-title: Aan de slag
 getting-started-url: https://docs.adobe.com/content/help/en/livefyre/implementation/c-getting-started/implementation-process/c-implementation-process.html
-tutorials-title: Zelfstudies
+tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-manager/kt/index/aem-6-4-videos.html
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/livefyre.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/livefyre.nl-NL
 translation-type: tm+mt
-source-git-commit: 170fa6b446345d5e2e272294a3267d1ebbb0cd09
+source-git-commit: deae9c7c98fa0417f1ed553239da630817c13f02
+workflow-type: tm+mt
+source-wordcount: '157'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +31,7 @@ Het bestand metadata.md bevat metagegevens op repo-niveau die worden doorgegeven
 | aan de slag-url | Aan de slag met Help-pagina koppelen |
 | zelfstudies-url | Koppeling maken naar videozelfstudies: helpx-zelfstudies of KT-zelfstudies |
 | mini-toc-niveaus | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrails. default is 2 |
-| git-repo | Hiermee geeft u de locatie op van het hoofdrepo voor intern gebruik |
+| git-repo | Hiermee wordt de locatie van het master repo voor intern gebruik opgegeven |
 
 In bestand TOC.md
 
