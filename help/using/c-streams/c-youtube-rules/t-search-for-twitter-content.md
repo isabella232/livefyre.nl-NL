@@ -5,7 +5,10 @@ seo-title: Zoeken naar Twitter-inhoud
 title: Zoeken naar Twitter-inhoud
 uuid: 7e36cc1f-7dce-446b-84b6-22939e8dcaf5
 translation-type: tm+mt
-source-git-commit: 3a50e3cfce40a74ce1ee354a9ce28da17eb85463
+source-git-commit: df5991d9d70282b289f2cca954dc8727c82d699f
+workflow-type: tm+mt
+source-wordcount: '318'
+ht-degree: 0%
 
 ---
 
@@ -39,7 +42,7 @@ Wanneer u nieuwe elementen aan de bibliotheek toevoegt, worden elementen die al 
       >[!NOTE]
       >
       >Sociaal zoeken ondersteunt complexe zoekopdrachten op Twitter en alle standaardsyntaxisinvoer op Twitter. Door gebrek, zullen de veelvoudige koorden als EN vraag worden behandeld. Klik op de **[!UICONTROL info]** knop om voorbeelden van geldige invoer te bekijken.
-
->=Resultaten die worden geretourneerd, worden van de meest recente naar minst weergegeven.
+      >
+      >=Resultaten die worden geretourneerd, worden van de meest recente naar minst weergegeven.
 
 Items die overeenkomen met uw zoekopdracht worden weergegeven in een rasterweergave. Plaats de muisaanwijzer op een item om het toe te voegen aan **[!UICONTROL View Details]** of toe te voegen aan de Asset Library of **[!UICONTROL Publish]** aan een app.
