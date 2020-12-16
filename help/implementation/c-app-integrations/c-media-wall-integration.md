@@ -7,11 +7,14 @@ title: Mediumwand
 uuid: c6087c80-a35b-44d2-9dd4-ba9cd471172d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '753'
+ht-degree: 0%
 
 ---
 
 
-# Mediumwand{#media-wall}
+# Media Wall{#media-wall}
 
 Maak een mediamuur met inhoud die in real-time wordt gestreamd.
 
@@ -54,11 +57,11 @@ Livefyre.require([
 
 U hebt nu een muur! Zie dit alles in actie in [dit voorbeeld](https://codepen.io/gobengo/pen/dFwDL).
 
-**Is er een fout opgetreden?** Controleer of u de juiste omgevingsparameter doorgeeft. De opties omvatten `livefyre.com` (productie) of `t402.livefyre.com` (UAT).
+**Is er een fout opgetreden?** Controleer of u de juiste omgevingsparameter doorgeeft. U kunt kiezen uit `livefyre.com` (productie) of `t402.livefyre.com` (UAT).
 
 >[!NOTE]
 >
->Elke aanpassing van de stijl van tweets die door de Media Wall App wordt weergegeven, moet plaatsvinden in overeenstemming met de Twitter- [weergavevereisten](https://dev.twitter.com/terms/display-requirements).
+>Elke aanpassing van de opmaak van tweets die door de Media Wall App worden weergegeven, moet worden uitgevoerd in overeenstemming met de [Weergavevereisten](https://dev.twitter.com/terms/display-requirements) van Twitter.
 
 ## Configuratieopties {#section_ucv_qvb_c1b}
 
@@ -113,12 +116,12 @@ var wallView = new MediaWall({
 
 `postButton`
 
-Bepaalt de [!UICONTROL Post Content] knoop om op uw Muur te verschijnen. Deze optie vereist dat u doorgeeft `opts.collection`, en een integratie Livefyre.js Auth aan de pagina toevoegt.
+Bepaalt [!UICONTROL Post Content] knoop om op uw Muur te verschijnen. Deze optie vereist dat u `opts.collection` doorgeeft, en een integratie Livefyre.js Auth aan de pagina toevoegt.
 
 `postButton` parameters:
 
 * `false` (standaard): Geen knop Inhoud plaatsen tonen. (Hiermee maakt u een alleen-lezen mediamuur.)
-* `true` (of `LiveMediaWall.postButtons.contentWithPhotos`): Neem een knop op waarmee gebruikers tekstinhoud kunnen toevoegen aan gekoppelde foto&#39;s.
+* `true` (of  `LiveMediaWall.postButtons.contentWithPhotos`): Neem een knop op waarmee gebruikers tekstinhoud kunnen toevoegen aan gekoppelde foto&#39;s.
 
 * `LiveMediaWall.postButtons.content`: Neem een knop op waarmee gebruikers tekstinhoud kunnen toevoegen, maar geen foto&#39;s kunnen bijvoegen.
 * `LiveMediaWall.postButtons.photo`: Neem een knop op waarmee gebruikers een foto kunnen toevoegen, maar geen tekst.
@@ -134,7 +137,7 @@ var wallView = new MediaWall({
 
 `showMore`
 
-Hiermee definieert u het aantal items in de vorm van inhoud dat aan de muur moet worden toegevoegd wanneer op de [!UICONTROL Show More] knop wordt geklikt.
+Bepaalt het aantal punten van de Inhoud om aan de muur toe te voegen wanneer uw [!UICONTROL Show More] knoop wordt geklikt.
 
 ```
 var wallView = new LiveMediaWall({ 
@@ -163,7 +166,7 @@ var wall2 = window.wall2 = new MediaWall({
 }); 
 ```
 
-Voor geldige invoer raadpleegt u de W3C-standaarden voor CSS- [lettertypefamilie](https://www.w3.org/TR/CSS2/fonts.html#propdef-font-family), [Tekengrootte](https://www.w3.org/TR/CSS2/fonts.html#font-size-props), [Lijnhoogte,](https://www.w3.org/TR/CSS2/visudet.html#propdef-line-height) en [Kleureigenschappen](https://www.w3.org/TR/css3-color/#colorunits) .
+Voor geldige invoer raadpleegt u de W3C-standaarden voor CSS [Fontfamilie](https://www.w3.org/TR/CSS2/fonts.html#propdef-font-family), [Fontgrootte](https://www.w3.org/TR/CSS2/fonts.html#font-size-props), [Lijnhoogte,](https://www.w3.org/TR/CSS2/visudet.html#propdef-line-height) en [Kleur](https://www.w3.org/TR/css3-color/#colorunits) eigenschappen.
 
 * **bodyFontSize** *(CSS Font Size String)* De tekengrootte voor de hoofdtekst van de inhoud.
 
@@ -173,7 +176,7 @@ Voor geldige invoer raadpleegt u de W3C-standaarden voor CSS- [lettertypefamilie
 
 * **buttonBorderColor** *(CSS Color String)** De kleur voor knopranden.
 
-* **buttonHoverBackgroundColor** *(CSS Color String)* De kleur voor de achtergrond van de knop bij aanwijzen.
+* **buttonHoverBackgroundColor** *(CSS Color String)* De kleur voor de knopachtergrond bij aanwijzen.
 
 * **buttonTextColor** *(CSS Color String)* De kleur voor de knoplabels.
 
@@ -183,7 +186,7 @@ Voor geldige invoer raadpleegt u de W3C-standaarden voor CSS- [lettertypefamilie
 
 * **fontFamily** *(CSS Font Family String)* De lettertypefamilie voor platte tekst.
 
-* **footerTextColor** *(CSS Color String)* De kleur voor secundaire tekst (zoals de voettekst en de gebruikersnaam in de byline).
+* **footerTextColor** *(CSS het Koord van de Kleur)* De kleur voor secundaire teksten (zoals de footer tekst, en de gebruikersbenaming in de byline).
 
 * **linkAttachmentBackgroundColor** *(CSS Color String)* De achtergrondkleur voor koppelingsbijlagen (gestapelde bijlagen).
 
@@ -201,4 +204,4 @@ Voor geldige invoer raadpleegt u de W3C-standaarden voor CSS- [lettertypefamilie
 
 * **sourceLogoColor** *(CSS Color String)* De kleur voor het bronlogo.
 
-* **usernameColor** *(CSS Color String)* De kleur voor de gebruikersnamen in de byline.
+* **usernameColor** *(CSS Color String)* The color for the usernames in the byline.
