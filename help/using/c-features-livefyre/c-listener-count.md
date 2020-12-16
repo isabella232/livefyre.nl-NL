@@ -7,6 +7,9 @@ title: Aantal listeners
 uuid: fdd7cfe4-ae69-4d31-baa2-8978368fc3e8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '316'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +40,7 @@ Het luisteraaraantal toont een maximum van 10 avatars, en toont avatars slechts 
 >
 >Vanwege ruimtebeperkingen geeft de mobiele interface alleen het aantal listeners weer en een klein &quot;personeels&quot;-pictogram.
 
-De levende Aantal van de Listener van de Listener toont het aantal mensen actief op de pagina op om het even welk bepaald ogenblik, plus het aantal mensen die het gesprek volgen. Als iemand op de pagina is en het gesprek volgt, zal die gebruiker niet worden dubbel geteld. Als een gebruiker bijvoorbeeld op een pagina klikt en **[!UICONTROL Follow]** erop klikt, wordt het aantal listeners niet verhoogd; als die gebruiker dan klikt **[!UICONTROL Unfollow]**, zal de telling niet verminderen.
+De levende Aantal van de Listener van de Listener toont het aantal mensen actief op de pagina op om het even welk bepaald ogenblik, plus het aantal mensen die het gesprek volgen. Als iemand op de pagina is en het gesprek volgt, zal die gebruiker niet worden dubbel geteld. Als een gebruiker bijvoorbeeld op een pagina staat en op **[!UICONTROL Follow]** klikt, neemt het aantal listeners niet toe; als die gebruiker dan **[!UICONTROL Unfollow]** klikt, zal de telling niet verminderen.
 
 Toepassingen die deze functie gebruiken:
 
