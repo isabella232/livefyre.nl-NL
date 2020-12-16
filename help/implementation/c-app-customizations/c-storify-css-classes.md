@@ -7,6 +7,9 @@ title: CSS-klassen stabiliseren
 uuid: 168a0db0-a209-417a-ba91-a33b4d411c8d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '389'
+ht-degree: 0%
 
 ---
 
@@ -51,7 +54,7 @@ Hiermee kunt u de koptekstsectie voor de artikelpagina aanpassen.
 | .s-share-button | Hoofdkoptekstrij 2, knop Delen. |
 | .s-share-menu | Hoofdkoptekstrij 2 Delen, menu. |
 
-## Elementen plaatsen {#section_lrs_fsh_xz}
+## Elementen {#section_lrs_fsh_xz} plaatsen
 
 Hiermee kunt u de opmaak aanpassen voor de artikelelementen van het bericht.
 
