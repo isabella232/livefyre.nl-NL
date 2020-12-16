@@ -7,6 +7,9 @@ title: Mozaïek
 uuid: 331c5f80-7440-4b91-8ac6-4f56a8a5befe
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '808'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ Met mozaïek wordt door de gebruiker gegenereerde inhoud omgezet in een dynamisc
 
 Sitebezoekers kunnen de muisaanwijzer boven een mozaïekkaart plaatsen om tekst en andere inhoudsgegevens weer te geven. Mobiele en niet-mobiele gebruikers kunnen een kaart uitvouwen om een groter beeld te zien, inhoud te delen en video af te spelen. Naarmate nieuwe items beschikbaar komen, worden oude items verwijderd en weer in de wachtrij geplaatst om het perfecte raster te vormen.
 
-## Info Mozaïek {#section_tng_slj_yy}
+## Info over Mozaïek{#section_tng_slj_yy}
 
 Met Mozaïek worden de meest recente Livefyre- en Stream-inhoud weergegeven in een uniform rasterscherm. Voor een naadloze visuele ervaring wordt de inhoudsinformatie alleen weergegeven bij mouseover. Wanneer nieuwe items beschikbaar komen, worden oude items verwijderd en weer in de wachtrij geplaatst.
 
@@ -86,7 +89,7 @@ Met Mozaïek wordt de inhoud in een perfect raster weergegeven. Als u 25 stukken
 
 Als uw containerbreedte slechts in vier klassen past om een perfect raster te maken, maar u hebt 25 stukken inhoud, classificeert Mosaic het extra ene stuk inhoud als outlier en geeft het niet weer in de App. Het enige uitbijsterende stuk inhoud wordt niet ingedraaid omdat het technisch gezien op de app staat, maar niet wordt weergegeven. Als de containerbreedte er zeven is, wordt er slechts 21 weergegeven, aangezien vier buitenstaanders zijn en niet het perfecte raster vormen.
 
-Soms wordt de inhoud niet weergegeven omdat u deze hebt ingeschakeld **[!UICONTROL Require rights]**. Als u deze optie inschakelt, moet u rechten hebben voor alle inhoud in de app. Als de rechtenstatus niet wordt &quot;verleend&quot; voor een stuk inhoud, wordt deze niet weergegeven in de app.
+Soms wordt de inhoud niet weergegeven omdat u **[!UICONTROL Require rights]** hebt ingeschakeld. Als u deze optie inschakelt, moet u rechten hebben voor alle inhoud in de app. Als de rechtenstatus niet wordt &quot;verleend&quot; voor een stuk inhoud, wordt deze niet weergegeven in de app.
 
 ## Mozaïek maken met Studio {#section_dwb_glj_yy}
 
