@@ -7,17 +7,20 @@ title: Switch Core App-typen
 uuid: 442a517c-3809-46c5-bb5f-8668a29dc3e8
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 0%
 
 ---
 
 
-# Switch Core App-typen{#switch-core-app-types}
+# De Types van Kern van de schakelaarApp{#switch-core-app-types}
 
 Leer hoe te om van één gespreksApp type aan een andere te veranderen.
 
-Met LiveCycle kunt u verzamelingen van het ene type LiveCycle Core-toepassing wijzigen in een ander type (Opmerkingen, Live Blog of Chat) door gewoon bepaalde instellingen in uw `collectionMeta` gegevens te wijzigen.
+Met LiveCycle kunt u verzamelingen van het ene type LiveCycle Core-toepassing wijzigen in een ander type (Opmerkingen, LiveBlog of Chat) door gewoon bepaalde instellingen in uw `collectionMeta`-gegevens te wijzigen.
 
-Als u een specifiek type app wilt implementeren, voegt u een nieuw veld toe aan het `collectionMeta` object. Opmerkingen is de standaardinstelling, dus u hoeft deze updates niet uit te voeren als dat uw gewenste app is. Als u wilt overschakelen naar een andere app nadat een verzameling is gemaakt, geeft u een waarde voor de controlesom door tijdens de initialisatie van de app. Meer informatie over het maken van een controlesom in de documentatie bij het `collectionMeta` token.
+Als u een specifiek type app wilt implementeren, voegt u een nieuw veld toe aan het object `collectionMeta`. Opmerkingen is de standaardinstelling, dus u hoeft deze updates niet uit te voeren als dat uw gewenste app is. Als u wilt overschakelen naar een andere app nadat een verzameling is gemaakt, geeft u een waarde voor de controlesom door tijdens de initialisatie van de app. Lees meer over het creëren van een controlesom waarde in onze `collectionMeta` symbolendocumentatie.
 
 ## Live blog {#section_kvj_3jj_11b}
 
