@@ -7,11 +7,14 @@ title: Regels voor Facebook-pagina
 uuid: 2be63476-1a92-409d-a22f-e1ec66b6dcc8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '288'
+ht-degree: 0%
 
 ---
 
 
-# Regels voor Facebook-pagina{#facebook-page-rules}
+# Facebook Page Rules{#facebook-page-rules}
 
 U kunt stroomregels maken die inhoud ophalen van Facebook-pagina&#39;s.
 
@@ -21,12 +24,12 @@ Als u Facebook-paginalijnen wilt maken om inhoud van Facebook-pagina&#39;s in uw
 
 * **[!UICONTROL Facebook Page]**
 
-   * Voer de naam **[!UICONTROL Name]** voor de pagina in. Voer alleen de navolgende tekst voor de URL in. **Bijvoorbeeld:** Als u inhoud wilt toevoegen van `https://facebook.com/KellysSuperFunFanPage`, typt u *KellysSuperFunPage* in het **[!UICONTROL Name]** veld.
+   * Voer de **[!UICONTROL Name]** voor de pagina in. Voer alleen de navolgende tekst voor de URL in. **Bijvoorbeeld:** om inhoud van toe te voegen  `https://facebook.com/KellysSuperFunFanPage`, typ  ** KellysSuperFunFanPage in het  **[!UICONTROL Name]** gebied.
 
-   * Schakel deze optie **[!UICONTROL Include Facebook Comments for each post]** in als u gebruikersopmerkingen wilt opnemen in paginarubrieken.
-   * Schakel deze optie **[!UICONTROL Only Show Author Posts]** in als u berichten van andere gebruikers wilt uitsluiten.
+   * Schakel **[!UICONTROL Include Facebook Comments for each post]** in als u opmerkingen van gebruikers wilt opnemen in paginaposten.
+   * Schakel **[!UICONTROL Only Show Author Posts]** in als u advertenties van andere gebruikers wilt uitsluiten.
 
-Zie Opties [stroomregel voor alle stroomregels](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)voor aanvullende stroomregelopties voor alle stroomregels.
+Voor extra de regelopties van de Stroom voor alle regels van de Stroom, zie [de Opties van de Regel van de Stroom voor Alle Regels van de Stroom](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
 
 >[!NOTE]
 >
