@@ -6,19 +6,22 @@ title: Moderne inhoud van een stream
 uuid: 38faf651-c547-49b3-b3d1-1a1d65c0f81c
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '228'
+ht-degree: 0%
 
 ---
 
 
-# Moderne inhoud van een stream{#moderate-content-from-a-stream}
+# Moderne inhoud van een stroom{#moderate-content-from-a-stream}
 
 Moderne inhoud die afkomstig is van een stream met behulp van de bibliotheek.
 
 De moderatoren kunnen in afwachting van commentaren direct van de stroom goedkeuren of verwerpen, gebruikend de Bibliotheek.
 
-Als u de inhoud in behandeling wilt gematigd, houdt u de muis boven de **[!UICONTROL Pending]** knop.
+Als u hangende inhoud wilt gematigd, houdt u de muis boven de knop **[!UICONTROL Pending]**.
 
-De **[!UICONTROL Pending]** knop verandert en u kunt kiezen of u de opmerking wilt weigeren ( **[!UICONTROL x]**) of goedkeuren ( **[!UICONTROL ✓]**).
+De **[!UICONTROL Pending]** knoop verandert en u kunt selecteren of om ( **[!UICONTROL x]**) te ontkennen of ( **[!UICONTROL ✓]**) de commentaar goed te keuren.
 
 Plaats de muis boven de ruimte met opmerkingen en de volgende opties voor de moderatie worden weergegeven:
 
