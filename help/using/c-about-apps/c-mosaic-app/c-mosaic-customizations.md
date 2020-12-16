@@ -7,6 +7,9 @@ title: Mozaïekaanpassingen
 uuid: 4e226d68-f517-4922-bc25-655d524d7d52
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '588'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Wijzig de grootte, breedte en interactieopties van de mozaïek-app.
 
-Alle toepassingen gebruiken **[!UICONTROL Style]** en **[!UICONTROL Config]** opties in de **[!UICONTROL App Designer]**. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle apps in het dialoogvenster **[!UICONTROL App Designer.]**
+Alle toepassingen gebruiken **[!UICONTROL Style]** en **[!UICONTROL Config]** opties in **[!UICONTROL App Designer]**. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]**- en **[!UICONTROL Config]**-opties voor alle toepassingen in **[!UICONTROL App Designer.]**
 
 U kunt Mozaïek aanpassen met de volgende aanvullende opties in App Designer:
 
@@ -45,7 +48,7 @@ U kunt Mozaïek aanpassen met de volgende aanvullende opties in App Designer:
 
    * **[!UICONTROL Call-to-action button text]** Pas de tekst op de vraag-aan-actie knoop aan. De standaardtekst is &#39;&#39;Nu kopen&#39;&#39;.
 
-   * **[!UICONTROL Product display options]** Kies of u de **[!UICONTROL Photo]** en **[!UICONTROL Product name]** met de vraag-aan-actie knoop wilt tonen.
+   * **[!UICONTROL Product display options]** Kies of u de vraag  **[!UICONTROL Photo]** en  **[!UICONTROL Product name]** met de vraag-aan-actie knoop wilt tonen.
 
    * **[!UICONTROL Product URL referral tracking]** Schakel de schakeloptie in om verwijzingen van deze app naar de bijbehorende productpagina bij te houden.
 
