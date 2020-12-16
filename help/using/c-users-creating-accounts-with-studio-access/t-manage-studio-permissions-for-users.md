@@ -7,6 +7,9 @@ title: Studio-machtigingen voor gebruikers beheren
 uuid: 15c395c8-a9bb-4b0b-9586-61ac36810730
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '104'
+ht-degree: 0%
 
 ---
 
@@ -19,5 +22,5 @@ De Beheerders van de Studio en de Managers van Studio kunnen de Toegewezen Rolle
 
 Gebruikersbeheerders kunnen accounts van eindgebruikers (sitebezoekers) weergeven en beheren.
 
-1. Klik het **[!UICONTROL Studio Access]** lusje om de toestemmingen van de Studio van de Gebruiker te bekijken en te beheren.
+1. Klik **[!UICONTROL Studio Access]** lusje om de toestemmingen van de Studio van de Gebruiker te bekijken en te beheren.
 1. Schakel de weergegeven opties in of uit om de Toegewezen rollen te wijzigen.
