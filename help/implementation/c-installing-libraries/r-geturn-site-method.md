@@ -7,11 +7,14 @@ title: getUrn-sitemethode
 uuid: 231c915c-6288-43e6-86e0-b8d09a08c4d3
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '54'
+ht-degree: 0%
 
 ---
 
 
-# getUrn-sitemethode{#geturn-site-method}
+# getUrn Site Method{#geturn-site-method}
 
 Deze methode retourneert de URL voor deze site.
 
@@ -29,7 +32,7 @@ Voorbeelduitvoer:
 "urn:livefyre:network=`example.fyre.co`:site=1" 
 ```
 
-## Voorbeeld van NodeJS {#section_xkd_gds_rz}
+## NodeJS-voorbeeld {#section_xkd_gds_rz}
 
 ```
 site.getUrn(); 
@@ -53,7 +56,7 @@ Voorbeelduitvoer:
 "urn:livefyre:network=`example.fyre.co`:site=1" 
 ```
 
-## Voorbeeld van Python {#section_dwg_gds_rz}
+## Python-voorbeeld {#section_dwg_gds_rz}
 
 ```
 site.urn 
