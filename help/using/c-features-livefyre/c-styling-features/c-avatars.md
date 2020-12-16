@@ -6,6 +6,9 @@ title: Avatars
 uuid: bf20f3bc-3dcc-4e16-a629-3380d1a7a3f2
 translation-type: tm+mt
 source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +25,7 @@ Gebruikersavatars worden (standaard) weergegeven naast de inhoud in alle toepass
 >
 >Avatars worden weergegeven bij 25p x 25p voor Chat en 50p x 50p in de meeste andere Apps.
 
-## Avatar-opslag {#section_zbh_x1f_wy}
+## Avatar storage {#section_zbh_x1f_wy}
 
 Avatars worden asynchroon geladen in LiveCycle. Wanneer een gebruiker zich voor het eerst aanmeldt in de app of het bijbehorende Avatar-afbeeldingsbestand wijzigt, wordt de profielafbeelding aan een taakwachtrij toegevoegd. (Er wordt tijdelijk een standaard-avatar weergegeven terwijl de gebruiker naar de opslaglocatie van Livefyre-avatar wordt geüpload.)
 
