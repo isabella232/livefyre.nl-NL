@@ -7,13 +7,16 @@ title: Embedly-integratie
 uuid: 1f27e32c-c2c3-4f7c-93de-c9c7bf783d6a
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '338'
+ht-degree: 8%
 
 ---
 
 
 # Embedly-integratie {#embedly-integration}
 
-Use `embed.ly` to display multiple media formats, directly in the App.
+Gebruik `embed.ly` om veelvoudige media formaten, direct in App te tonen.
 
 Om ingesloten media-inhoud van verschillende bronnen beter in te schakelen, zoals Google Maps, YouTube, Flickr, Facebook, Instagram, Spotify en Tumblr, gebruiken LiveCyre Apps Embedly als externe provider voor URL-uitbreiding. Als een gebruiker of moderator een gesteunde verbinding in een post omvat, zullen de media inbegrepen in de verbinding wanneer gepost aan de Inzameling uitbreiden.
 
@@ -23,7 +26,7 @@ Dit biedt Live Apps toegang tot de meer dan 250 verschillende ingesloten media-o
 >
 >Livefyre breidt slechts een ondergroep van Embedly&#39;s volledige leverancierslijst uit. Ingesloten afbeeldingen worden alleen op HTTPS-pagina&#39;s groter als de provider Twitter, YouTube, Imgur, Wine, Wikipedia of SoundCloud is. Neem contact op met uw technische accountmanager voor verdere vragen over het uitbreiden van koppelingen of bronnen.
 
-Deze pagina bevat voorbeelden van populaire ingesloten mediatypen en hun acceptabele URL-patronen. `Embed.ly` voegt voortdurend nieuwe bronnen toe. Ga naar `https://embed.ly/embed/features/providers`voor een volledige lijst met providers.
+Deze pagina bevat voorbeelden van populaire ingesloten mediatypen en hun acceptabele URL-patronen. `Embed.ly` voegt voortdurend nieuwe bronnen toe. Ga naar `https://embed.ly/embed/features/providers` voor een volledige lijst met providers.
 
 >[!NOTE]
 >
@@ -35,7 +38,7 @@ Alleen openbaar zichtbare inhoud kan worden ingesloten. Als u probeert inhoud in
 
 | Type | Provider | URL&#39;s |
 |--- |--- |--- |
-| Kaarten | Google Maps | <ul><li>`https://maps.google.com/maps?*`</li><li>`https://maps.google.com/?*`</li><li>`https://maps.google.com/maps/ms?*`</li></ul><br>**Opmerking **: URL moet beginnen met`http`en niet met`https.` |
+| Kaarten | Google Maps | <ul><li>`https://maps.google.com/maps?*`</li><li>`https://maps.google.com/?*`</li><li>`https://maps.google.com/maps/ms?*`</li></ul><br>**Opmerking**: URL moet beginnen met  `http` en niet  `https.` |
 | Sociale netwerken | Google Plus | <ul><li>`https://plus.google.com/*`</li><li>`https://www.google.com/profiles/*`</li><li> `https://plus.google.com/*`</li><li>`https://google.com/profiles/*`</li></ul> |
 | Video | YouTube | <ul><li>`https://*youtube.com/watch*`</li><li> `https://*.youtube.com/v/*`</li><li>`https://*youtube.com/watch*` </li><li>`https://*.youtube.com/v/*`</li><li>`https://youtu.be/*`</li><li>`https://*.youtube.com/user/*` </li><li>`https://*.youtube.com/*#*/*`</li><li>`https://m.youtube.com/watch*`</li><li>`https://m.youtube.com/index*`</li><li>`https://*.youtube.com/profile*`</li><li>`https://*.youtube.com/view_play_list*`</li><li>`https://*.youtube.com/playlist*`</li></ul> |
 | Foto&#39;s | Flickr | `https://www.flickr.com/photos/*`<br>`https://flic.kr/*` |
