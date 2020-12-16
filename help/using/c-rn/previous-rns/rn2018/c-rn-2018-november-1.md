@@ -7,6 +7,9 @@ title: 1 november 2018
 uuid: ed1a3bf1-b3f1-4746-8462-07283723ba62
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '360'
+ht-degree: 0%
 
 ---
 
@@ -29,11 +32,12 @@ De volgende nieuwe functies zijn vrijgegeven in de productieversie van deze rele
    * Hiermee worden video&#39;s gecodeerd in de indelingen .MP4, .MOV en AVI
    * Hiermee kunt u video&#39;s van maximaal 60 seconden of 50 MB labelen
    * Er zijn twee categorieën slimme tags van toepassing op video&#39;s: kenmerken (dieren, objecten, plaatsen, enz.) en handelingen (lopen, lopen, zingen, enz.)
-   Zie [Slimme tags voor meer informatie](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags)
+
+   Zie [Slimme tags](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags) voor meer informatie
 
 * Snelheidsbeperking installatieschema
 
-   Instagram heeft het aantal verzoeken veranderd dat om het even welk bedrijf dat Instagram API, met inbegrip van Levefyre gebruikt, van 5.000 verzoeken per uur per teken aan 200 verzoeken een uur per teken kan maken. Dit wordt *snelheidsbeperking* genoemd. Zie [Snelheidbeperking](/help/using/c-streams/c-instagram-rate-limiting.md)voor meer informatie.
+   Instagram heeft het aantal verzoeken veranderd dat om het even welk bedrijf dat de Instagram API, met inbegrip van Livefyre gebruikt, van 5.000 verzoeken per uur per teken aan 200 verzoeken een uur per teken kan maken. Dit wordt *snelheidsbegrenzing* genoemd. Voor meer informatie, zie [Beperking van het Snelheidscijfer ](/help/using/c-streams/c-instagram-rate-limiting.md).
 
 * Audiobestanden in de bibliotheek
 
@@ -47,9 +51,9 @@ De volgende nieuwe functies zijn vrijgegeven in de productieversie van deze rele
 
 ## Problemen {#section_ehw_ndt_wcb}
 
-Er zijn geen nieuwe problemen opgelost in de productieversie van deze release. Zie [bovenstaande](#c_rn/section_syx_mdt_wcb)sectie.
+Er zijn geen nieuwe problemen opgelost in de productieversie van deze release. Zie [sectie boven](#c_rn/section_syx_mdt_wcb).
 
-## UAT Release {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
+## UAT-release {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
 
 De kwesties in de volgende lijsten werden opgelost in de versie van UAT van deze versie.
 
