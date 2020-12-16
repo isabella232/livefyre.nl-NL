@@ -1,17 +1,20 @@
 ---
 description: Gebruik Bootstrap- en Stream-API met LiveCycle Apps.
 seo-description: Gebruik Bootstrap- en Stream-API met LiveCycle Apps.
-seo-title: Bootstrap- en Stream-API gebruiken met LiveCycle Apps
+seo-title: Bootstrap- en Stream-API gebruiken met LiveCycle-apps
 solution: Experience Manager
 title: Accountdetails weergeven
 uuid: bace558f-ade8-49d6-abda-9ee754ce4ac0
 translation-type: tm+mt
 source-git-commit: d615705ccf5e4511cc735ce91d95c3e15d0c0160
+workflow-type: tm+mt
+source-wordcount: '546'
+ht-degree: 0%
 
 ---
 
 
-# Bootstrap- en Stream-API gebruiken met LiveCycle Apps {#bootstrap-stream-api}
+# Bootstrap- en stream-API gebruiken met LiveCycle Apps {#bootstrap-stream-api}
 
 ## Bootstrap-API {#bootstrap-api}
 
@@ -23,21 +26,21 @@ Bootstrap is alle inhoud in een LiveCycle-app. Het zijn de gegevens in de cache,
 
 [Voorbeeld van aanvraag](https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init)
 
-Met de voorbeeldaanvraag hierboven wordt de `init` pagina geladen die de verzamelingsinstellingen en de enige oorspronkelijke set ~50 stuks nieuwste inhoud bevat. Als u oudere inhoud wilt opiniepeilen, moet u de volgende opstartpagina&#39;s met `N` het paginanummer laden:
+Met de voorbeeldaanvraag hierboven wordt de `init`-pagina geladen die de verzamelingsinstellingen en de enige oorspronkelijke set ~50 stuks nieuwste inhoud bevat. Als u oudere inhoud wilt opiniepeilen, moet u volgende opstartpagina&#39;s laden waarbij `N` het paginanummer is:
 
 Verzoek: `https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64articleId}/N.json`
 
 Een voorbeeldtoepassing heeft bijvoorbeeld 120 stukken inhoud. Inhoud &quot;1&quot; is het oudste stuk inhoud en Inhoud &quot;70&quot; is het nieuwste stuk inhoud.
 
-* `Init` Hiermee worden ~120-70 stukken inhoud in aflopende volgorde geladen: [https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init](https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init)
+* `Init` Hiermee worden ~120-70 stukken inhoud in aflopende volgorde geladen:  [https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init](https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init)
 
-* `O.json` Hiermee laadt u ~ 1-50 stukken inhoud in oplopende volgorde: [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json)
+* `O.json` Hiermee laadt u ~ 1-50 stukken inhoud in oplopende volgorde:  [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json)
 
-* `1.json` Hiermee laadt u ~ 51-100 stukken inhoud in oplopende volgorde: [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json)
+* `1.json` Hiermee laadt u ~ 51-100 stukken inhoud in oplopende volgorde:  [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json)
 
 * `2.json` hiermee worden ~101-120 stukken inhoud in oplopende volgorde geladen:[https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json)
 
-[Klik hier om het stroomschema van de opiniepeiling van Bootstrap te zien.](https://marketing-resource-help.s3.amazonaws.com/resources/help/en_US/livefyre/bootstrap-poll-flowchart.pdf)
+[Klik hier om het Bootstrap opiniepeilingdiagram te zien.](https://marketing-resource-help.s3.amazonaws.com/resources/help/en_US/livefyre/bootstrap-poll-flowchart.pdf)
 
 ## Stream-API {#stream-api}
 
@@ -54,7 +57,7 @@ Voorbeeld van aanvraag:
 
 `{"timeout":true,"parked":true,"h":"ct245.dsr.livefyre.com"}`
 
-Opmerking: De reactie `maxEventId` in een Stream API is de hoogste Event-id van de updates in deze reactie. Gebruik deze waarde als `lastEventId` padparameter wanneer u de URL van uw volgende Stream API-aanvraag samenstelt om updates te verkrijgen die optreden na alle updates in deze reactie.
+Opmerking: De `maxEventId` in een stroom API reactie is hoogste identiteitskaart van de Gebeurtenis van de updates in deze reactie. Gebruik deze waarde als padparameter `lastEventId` bij het maken van de URL van uw volgende Stream API-aanvraag om updates te verkrijgen die optreden na alle updates in deze reactie.
 
 Het onderstaande voorbeeld is gebaseerd op een Comments App:
 
@@ -64,10 +67,10 @@ Eerste API-reactie voor commentaarstroom:
 
 `{"timeout":true,"parked":true,"h":"ct239.dsr.livefyre.com"}`
 
-De `maxEventId` `lastEventId` in de reactie is &quot;1520289700953369&quot; die zal worden gebruikt om het eindpunt te opiniepeilen om updates (d.w.z. tweede Commentaar) te krijgen die na alle updates in deze reactie voorkomen.
+`maxEventId` in de reactie is &quot;1520289700953369&quot; die als `lastEventId` zal worden gebruikt om het eindpunt te onderzoeken om updates (d.w.z. tweede Commentaar) te krijgen die na alle updates in deze reactie voorkomen.
 
 Tweede API-reactie voor commentaarstroom:
 
 `{"timeout":true,"parked":true,"h":"ct239.dsr.livefyre.com"}`
 
-De `maxEventID` &quot;1520289700953369&quot; in de reactie moet op zijn beurt worden gebruikt als de reactie `lastEventID` om de Stream API-reactie voor de volgende update te maken.
+`maxEventID` &quot;1520289700953369&quot; in de reactie zou beurtelings als `lastEventID` moeten worden gebruikt om de stroom API reactie voor de volgende update te bouwen.
