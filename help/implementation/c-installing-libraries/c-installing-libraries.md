@@ -7,6 +7,9 @@ title: Installatie
 uuid: f60b4cc7-178f-4a16-ba75-f1d0d171c52f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '317'
+ht-degree: 0%
 
 ---
 
@@ -92,7 +95,7 @@ Vervolgens installeren met:
 composer.phar install 
 ```
 
-Als u Composer **niet** gebruikt, verkrijgt u de meest recente versie van de bibliotheek met:
+Als u **not** gebruik Composer, verkrijg de recentste versie van de bibliotheek gebruikend:
 
 ```
 git clone https://github.com/Livefyre/livefyre-php-utils 
@@ -112,7 +115,7 @@ De PHP bibliotheek is afhankelijk van de volgende modules:
 "firebase/php-jwt": ">=2.0" 
 ```
 
-Voor meer informatie, lees de PHP docs of zie de bron op [GitHub](https://github.com/Livefyre/livefyre-php-utils).
+Lees voor meer informatie de PHP docs of zie de bron op [GitHub](https://github.com/Livefyre/livefyre-php-utils).
 
 Koppelingen: [ext-json](https://php.net/manual/en/book.json.php), [Requests](https://github.com/rmccue/Requests/), [PHP-JWT](https://github.com/firebase/php-jwt/tree/v2.0.0)
 
@@ -132,7 +135,7 @@ enum34 == 1.0
 ordereddict == 1.1 if sys.version_info[:2] < 2.7 
 ```
 
-Voor meer informatie, lees de havens van Python of zie de bron op [GitHub](https://github.com/Livefyre/livefyre-python-utils).
+Voor meer informatie, lees de dokken van Python of zie de bron op [GitHub](https://github.com/Livefyre/livefyre-python-utils).
 
 Koppelingen: [PyJWT](https://github.com/progrium/pyjwt), [Requests](https://github.com/kennethreitz/requests), [Python-Dateutil](https://pypi.python.org/pypi/python-dateutil), [Enum34](https://pypi.python.org/pypi/enum34), [OrderedDict](https://pypi.python.org/pypi/ordereddict)
 
@@ -158,4 +161,4 @@ De Ruby-bibliotheek is afhankelijk van de volgende modules:
 
 Voor meer informatie, lees de Ruby dots of zie de bron op [GitHub](https://github.com/Livefyre/livefyre-ruby-utils).
 
-Koppelingen: [Ruby JWT](https://github.com/firebase/php-jwt/tree/v2.0.0), [REST Client](https://github.com/rest-client/rest-client/), [adresseerbaar](https://github.com/sporkmonger/addressable)
+Koppelingen: [Ruby JWT](https://github.com/firebase/php-jwt/tree/v2.0.0), [REST Client](https://github.com/rest-client/rest-client/), [Adressable](https://github.com/sporkmonger/addressable)
