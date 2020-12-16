@@ -7,11 +7,14 @@ title: Instellingen voor sterkeren
 uuid: 030936fb-7c8b-487e-b468-7128b641c8ed
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 0%
 
 ---
 
 
-# Instellingen voor sterkeren{#storify-settings}
+# Instellingen opgeven{#storify-settings}
 
 Pas de instellingen voor Storify 2 artikelen aan, zoals tags, moderatie en toegestane inhoud.
 
