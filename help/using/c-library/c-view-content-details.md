@@ -6,15 +6,18 @@ title: Details inhoud weergeven
 uuid: bca8dcb7-31d6-475c-9898-1b6436d2457d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 0%
 
 ---
 
 
-# Details inhoud weergeven{#view-content-details}
+# Inhoudsgegevens weergeven{#view-content-details}
 
 Bekijk de inhoudsdetails om meer informatie over een stuk inhoud te verzamelen voordat u het publiceert.
 
-Plaats de muisaanwijzer op een stuk geretourneerde inhoud en selecteer vervolgens **[!UICONTROL View Details]** om meer informatie over een element weer te geven.
+Plaats de muisaanwijzer op een stuk geretourneerde inhoud en selecteer **[!UICONTROL View Details]** om meer informatie over een element weer te geven.
 
 **[!UICONTROL Tweets]** weergave:
 
