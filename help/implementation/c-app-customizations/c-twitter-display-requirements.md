@@ -7,6 +7,9 @@ title: Vereisten voor Twitter-weergave
 uuid: 705c25b8-4a25-4640-9843-074f50ebae4f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '187'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Sociale media netwerken vereisen vaak dat hun inhoud wordt getoond om aan hun merknormen te voldoen. Wanneer u het Livefyre-platform gebruikt om Twitter-inhoud opnieuw te presenteren, bent u altijd verantwoordelijk voor de naleving van de gebruiksvoorwaarden, inclusief de weergavevereisten. Zorg ervoor dat u de algemene voorwaarden en bepalingen van de toepassingen begrijpt voordat u de inhoud ervan weergeeft in uw Live Apps.
 
-Raadpleeg de documentatie over de weergavevereisten [van](https://about.twitter.com/company/display-requirements) Twitter voor meer informatie.
+Zie [Twitter&#39;s Display Requirements](https://about.twitter.com/company/display-requirements) documentatie voor meer informatie.
 
 Twitter stelt de volgende presentatievereisten voor:
 
