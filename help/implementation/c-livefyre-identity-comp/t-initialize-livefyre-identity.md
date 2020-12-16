@@ -6,11 +6,14 @@ title: Livefyre-identiteit initialiseren
 uuid: 9365d827-2734-4a84-bfe7-9be573b2b03e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 0%
 
 ---
 
 
-# Livefyre-identiteit initialiseren{#initialize-livefyre-identity}
+# Livefyre Identity initialiseren{#initialize-livefyre-identity}
 
 Het pakket Livefyre.js Auth zorgt ervoor dat alle sociale componenten op uw pagina één enkele authentificatieintegratie kunnen ontdekken.
 
