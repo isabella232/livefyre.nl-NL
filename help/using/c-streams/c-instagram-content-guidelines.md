@@ -14,22 +14,22 @@ ht-degree: 0%
 ---
 
 
-# Richtlijnen voor inhoud van Instagram{#instagram-content-guidelines}
+# Richtlijnen voor Instagram-inhoud{#instagram-content-guidelines}
 
 Wanneer u inhoud vanuit Instagram wilt curven, moet u de richtlijnen en aanbevolen procedures volgen.
 
-U moet een *Van Bedrijfs Instagram rekening* vormen om de stromen van het Installagram van een andere specifieke Van Bedrijfs Instagram rekening tot stand te brengen door het **[!UICONTROL By Author]** gebied te gebruiken. De gebruikersaccount die u in het **[!UICONTROL By Author]** veld identificeert, moet een zakelijke account zijn.
+U moet een *Zakelijke account voor installagram configureren* om Instagram-streams te maken van een andere specifieke zakelijke account voor Instagram met behulp van het veld **[!UICONTROL By Author]**. De gebruikersaccount die u in het veld **[!UICONTROL By Author]** hebt opgegeven, moet een zakelijke account zijn.
 
-Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)voor meer informatie over het instellen van een Instagram-bedrijfsaccount in LiveCycle.
+Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over het instellen van een Instagram-bedrijfsaccount in LiveCycle.
 
 Instagram past de volgende regels toe voor het ophalen van inhoud van het platform:
 
-* De inhoud behoort tot de gebruiker, die toestemming moet geven voor het gebruik van de inhoud
+* Inhoud behoort tot de gebruiker, die toestemming moet geven voor het gebruik van de inhoud
 * U kunt elke 7 dagen maximaal 30 unieke hashtags per zakelijke installatieschema zoeken.
 
 LiveCycle raadt u aan de volgende richtlijnen te volgen om uw zoekfunctionaliteit en doeltreffendheid te maximaliseren:
 
-* Bevestig en selecteer hashtags die uniek zijn voor uw merk, zodat gebruikers &quot;expliciet&quot; aan de campagne kunnen deelnemen.
+* Promoot en selecteer hashtags die uniek zijn voor uw merk, zodat gebruikers &quot;expliciet&quot; aan de campagne kunnen deelnemen.
 * Gebruik een (1) hashtag in plaats van een (1) hashtag voor een bepaalde campagne of promotie, zodat u met één specifiek filter kunt bijhouden.
 * Gebruik specifieke woorden in plaats van algemene woorden in de zoekopdracht met hashtags. Het gebruik van generieke woorden kan onverwachte resultaten opleveren en kan gebruikers omvatten die niet van plan waren om hun foto te gebruiken in verband met uw campagne.
 * Sluit meerdere zakelijke accounts aan, zodat u naar meer unieke tags kunt zoeken.
@@ -41,4 +41,4 @@ Instagram heeft, net als andere merken, ook vereisten voor het gebruik van hun m
 * Geef toewijzing aan Instagram en de eigenaar van de inhoud.
 * Maak duidelijk onderscheid van andere sociale media-inhoud als deze samen met andere media-media wordt weergegeven.
 
-Zie het document van Instagram voor meer informatie: [Brand-elementen](https://help.instagram.com/304689166306603)van Instagram gebruiken.
+Zie het document van Instagram voor meer informatie: [Brand-elementen van Instagram gebruiken](https://help.instagram.com/304689166306603).
