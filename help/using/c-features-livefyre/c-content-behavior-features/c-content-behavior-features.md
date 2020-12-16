@@ -7,15 +7,18 @@ title: Functies van gedrag bij inhoud
 uuid: 4a1c6d6e-8785-49e8-aaf5-6fa4576d7232
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '472'
+ht-degree: 0%
 
 ---
 
 
-# Functies van gedrag bij inhoud{#content-behavior-features}
+# Functies van inhoudsgedrag{#content-behavior-features}
 
 LiveCycle biedt functies in apps waarmee u kunt kiezen hoe bezoekers van de site App-inhoud weergeven.
 
-## Streaming in realtime {#section_emd_syl_d1b}
+## Echte streamingtijd {#section_emd_syl_d1b}
 
 LiveCyre Apps streaminhoud in real-time wanneer inhoud handmatig wordt gepubliceerd vanuit Studio of vanuit een inhoudsstroom. dit betekent dat nieuw gepubliceerde inhoud in de app wordt weergegeven zonder dat de eindgebruiker de App-pagina hoeft te vernieuwen.
 
@@ -33,7 +36,7 @@ Toepassingen die deze functie gebruiken:
 
 ## Paginering {#section_mb5_lzl_d1b}
 
-Kies het aantal stukken inhoud dat u wilt weergeven in de app. Voor sommige toepassingen kunt u kiezen of u de knop &quot;Meer weergeven&quot; wilt gebruiken of dat u de inhoud doorlopend wilt doorbladeren.
+Kies het aantal stukken inhoud dat u wilt weergeven in de app. Voor sommige toepassingen kunt u kiezen of u de knop &quot;Meer weergeven&quot; wilt gebruiken of dat u doorlopend door de inhoud wilt bladeren.
 
 Toepassingen die deze functie gebruiken:
 
