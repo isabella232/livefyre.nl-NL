@@ -30,7 +30,7 @@ Opmerkingen bij de release van 26 januari 2017.
 | Bug | Studio | Verbeterde zoekfunctie voor bibliotheekelementen voor ondersteuning van Japanse tekens. |
 
 
-## UAT Release {#section_dyx_yl2_wy}
+## UAT-release {#section_dyx_yl2_wy}
 
 | Type probleem | Component | Opmerking vrijgeven |
 |--- |--- |--- |
