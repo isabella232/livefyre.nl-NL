@@ -7,11 +7,14 @@ title: Methoden van de netwerkklasse
 uuid: 4130beda-dd09-49ae-aafb-f6b956e30b51
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 2%
 
 ---
 
 
-# Methoden van de netwerkklasse{#network-class-methods}
+# Methoden van de Klasse van het netwerk{#network-class-methods}
 
 Maak een Network-object.
 
