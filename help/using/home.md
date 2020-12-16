@@ -12,11 +12,11 @@ ht-degree: 0%
 ---
 
 
-# Gebruikershandleiding voor Livefyre {#livefyre-help}
+# Handboek Livefy {#livefyre-help}
 
 Gebruik Live Studio om apps te maken, door de gebruiker gegenereerde inhoud te verzamelen en inhoud te matigen.
 
-Raadpleeg de [*Adobe Experience Manager-implementatiehandleiding *](/help/implementation/home.md)voor informatie over het implementeren en aanpassen van Live-apps op uw site met ontwikkelaars-programma&#39;s.
+Raadpleeg de [*Adobe Experience Manager Live Implementation Guide*](/help/implementation/home.md) voor informatie over het implementeren en aanpassen van LiveCycle Apps op uw site met ontwikkelaars.
 
 ## Populaire onderwerpen
 
@@ -30,12 +30,12 @@ Raadpleeg de [*Adobe Experience Manager-implementatiehandleiding *](/help/implem
 
    LiveCycle-apps maken en publiceren (inclusief opmerkingen).
 
-* [LiveCyre-apps gebruiken met Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
+* [Livefyre-apps gebruiken met Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
 
 
-* [LiveCycle gebruiken met Adobe Target](/help/using/c-library/livefyre-target.md)
+* [Livefyre gebruiken met Adobe Target](/help/using/c-library/livefyre-target.md)
 
-* [Livefyre gebruiken met Adobe Launch Livefyre Extension](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension)
+* [Livefyre gebruiken met Livefyre-extensie Adobe starten](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension)
 
 * [Opmerkingen bij de release](c-rn/c-rn.md#c_rn)
 
