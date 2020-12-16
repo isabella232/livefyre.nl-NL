@@ -7,6 +7,9 @@ title: Vertaalsets
 uuid: 88b705e5-57c8-4065-8a41-a73546bd929a
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '1347'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ Met vertaalsets kunt u een alternatieve taal opgeven voor Apps.
 
 Gebruik vertaalinstellingen om apps in verschillende talen te lokaliseren of om alternatieve tekst voor verschillende apps vanaf één locatie in Studio op te geven. U kunt er bijvoorbeeld voor zorgen dat alle sites in het Spaans de Spaanse taal gebruiken voor alle App-velden. U kunt de tekst ook wijzigen zodat alle velden overeenkomen met de stem en het gevoel van uw site of netwerk.
 
-U kunt vertaalinstellingen opgeven voor alle apps, behalve Storify 2. Zie Tekenreeksen [lokaliseren voor meer informatie over welke velden u kunt lokaliseren](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md#c-localize-strings).
+U kunt vertaalinstellingen opgeven voor alle apps, behalve Storify 2. Zie [Tekenreeksen lokaliseren](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md#c-localize-strings) voor meer informatie over welke velden u kunt lokaliseren.
 
 Opmerkingen, Live Blog en Chat delen dezelfde set tekenreeksen binnen een vertaalset.
 
@@ -25,16 +28,23 @@ Geef een vertaalset op voor een netwerk, site, app of API.
 
 De vertaalsets op verschillende niveaus overschrijven elkaar als volgt:
 
-API-vertaalsets overschrijven alle vertaalsets op elk niveau (App, netwerk en site). De vertaalset van de app overschrijft de vertaalsets op netwerkniveau en op siteniveau.
+API-vertaalset overschrijft alle vertaalsets op elk niveau (app, netwerk en site)
+De vertaalreeks van de toepassing treedt netwerk-vlakke en plaats-vlakke vertaalreeksen met voeten.
 Vertaalsets op siteniveau overschrijven de vertaalsets op netwerkniveau.
 
-## Tekstreeksen controleren {#c_review_text_strings}
+## Tekstreeksen {#c_review_text_strings} controleren
 
 De tekstreeksen aanpassen voor LiveRevisies.
 
 Deze pagina bevat een overzicht en beschrijving van de tekenreeksen die beschikbaar zijn voor aanpassing in revisie-apps. De hier vermelde tekenreeksen komen bovenop en overschrijven voor de standaardtekenreeksen voor LiveCycle-kerntoepassingen, die worden vermeld in String Customizations. Waar duplicaten worden vermeld, zijn de tekenreeksen in deze tabellen de standaardinstelling voor revisieapps.
 
-ImplementationReview / Rating InterfaceStream InfoAuthor / Content InfoUser ActionsPost FunctionsErrors
+Implementatie
+Revisie-/beoordelingsinterface
+Stream-info
+Informatie auteur/inhoud
+Handelingen van gebruikers
+Functies
+Fouten
 
 ## Implementatie {#section-vsy-1k4-xz}
 
@@ -91,12 +101,12 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom.
 |  | newComments | Nieuwe revisies |
 | Aantal listeners | listenerCount | persoon die luistert |
 |  | listenerCountPlural | mensen luisteren |
-| Aantal opmerkingen | commentCountLabel | LiveReviews<strong> | </strong>%s |
-|  | commentCountLabelPlural | LiveReviews<strong> | </strong>%s |
+| Aantal opmerkingen | commentCountLabel | LiveRevisies<strong> | </strong>%s |
+|  | commentCountLabelPlural | LiveRevisies<strong> | </strong>%s |
 | Telling van opmerkingenkennisgever | commentNotifier | Nieuwe revisie |
 |  | commentNotifierPlural | Nieuwe revisies |
 
-## Informatie auteur/inhoud {#section_osx_xj4_xz}
+## Info auteur/inhoud {#section_osx_xj4_xz}
 
 Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 
@@ -105,7 +115,7 @@ Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 | Doorbraak van thread | reviewsContentNotFoundMsg | [Deze revisie is niet meer zichtbaar](https://d.pr/i/svXs) |
 |  | backToComments | Terug naar Revisies |
 
-## Handelingen van gebruikers {#section_tlx_wj4_xz}
+## Gebruikershandelingen {#section_tlx_wj4_xz}
 
 Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, delen en markeren als handig.
 
@@ -115,7 +125,7 @@ Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, dele
 |  | wasReviewHelpfulMobile | Nuttig? |
 |  | ownIsReviewHelpful | [Gevonden nuttig.](https://d.pr/i/Q0mA) |
 |  | reviewIsHelpful | [Ja](https://d.pr/i/Q0mA) |
-|  | NuttigeScheider | [&amp;vert;](https://d.pr/i/Q0mA) |
+|  | NuttigeScheider | [&amp;Omkeren;](https://d.pr/i/Q0mA) |
 |  | reviewIsNotHelpful | [Nee](https://d.pr/i/Q0mA) |
 | Stemmen over modaal | voiceTitle | Was deze herziening nuttig? |
 |  | stemmenDownloaden | Nee |
@@ -128,7 +138,7 @@ Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, dele
 | Meningmodaal | notifyDefaultText | Ik heb u in een Livefyre-revisie genoemd! |
 | Delen, modaal | shareTitle | Revisie delen |
 
-## Functies {#section_yl1_wj4_xz}
+## Functies {#section_yl1_wj4_xz} plaatsen
 
 Tekenreeksen beschikbaar voor gebruikers die revisies plaatsen.
 
@@ -172,13 +182,20 @@ Tekenreeksen beschikbaar voor algemene foutberichten.
 |  | errorTitleMaxChars | Je titel is te lang. Bewerk het bestand en probeer het opnieuw. |
 |  | errorStemOwnComment | Je kunt niet op je eigen beoordeling stemmen |
 
-## Geeft tekstreeksen aan {#c_sidenotes_text_strings}
+## Geeft tekstreeksen {#c_sidenotes_text_strings} aan
 
 Teksttekenreeksen aanpassen voor LiveCycle Sidenotes
 
 Deze pagina bevat een overzicht en beschrijving van alle tekenreeksen die beschikbaar zijn voor aanpassing in Sidenotes-apps. Zie Tekenreeksaanpassingen voor informatie over tekenreeksen die beschikbaar zijn voor de kerntoepassingen van LiveCycle.
 
-ImplementationAuthStream InfoAuthor / Content InfoUser ActionsPost FunctionsModerator InterfaceErrors
+Implementatie
+Auth
+Stream-info
+Informatie auteur/inhoud
+Handelingen van gebruikers
+Functies
+Moderatorinterface
+Fouten
 
 ## Implementatie {#section_wp2_ql4_xz}
 
@@ -221,7 +238,7 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom.
 |  | menuInfoHelp | Help |
 |  | menuInfoLiveLink | Bezoek Livefyre.com |
 
-## Informatie auteur/inhoud {#section_dhb_gl4_xz}
+## Info auteur/inhoud {#section_dhb_gl4_xz}
 
 Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 
@@ -236,11 +253,11 @@ Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 |  | commentStemCountSing | stemmen |
 |  | datetimeMinutePrefix | m |
 |  | datetimeMonths | Een array. Default =[ &quot;January&quot;, &quot;February&quot;, &quot;March&quot;, &quot;April&quot;, &quot;May&quot;, &quot;June&quot;, &quot;juli&quot;, &quot;August&quot;, &quot;September&quot;, &quot;Oktober&quot;, &quot;November&quot;, &quot;December&quot; ] |
-|  | questionExplanation | U kunt nu opmerkingen rechtstreeks lezen en schrijven over zinnen, alinea&#39;s, afbeeldingen en aanhalingstekens.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markeer tekst</span> en klik op het <span class="&rdquo;fycon-write&rdquo;"></span> pictogram of klik op het <span class="&rdquo;fycon-action-view&rdquo;"></span> pictogram aan het einde van elke alinea. |
+|  | questionExplanation | U kunt nu opmerkingen rechtstreeks lezen en schrijven over zinnen, alinea&#39;s, afbeeldingen en aanhalingstekens.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markeer </span> tekst en klik op het  <span class="&rdquo;fycon-write&rdquo;"></span> pictogram of klik op het  <span class="&rdquo;fycon-action-view&rdquo;"></span> pictogram aan het einde van elke alinea. |
 |  | questionMockText | Wat &quot;bekend&quot; is, is niet bekend, alleen omdat het &quot;bekend&quot; is. |
 |  | questionTitle | Wat is een Sidenote? |
 
-## Handelingen van gebruikers {#section_qxd_fl4_xz}
+## Gebruikershandelingen {#section_qxd_fl4_xz}
 
 Tekenreeksen beschikbaar voor gebruikersacties: het markeren, delen, en het houden van bestaande inhoud.
 
@@ -260,10 +277,10 @@ Tekenreeksen beschikbaar voor gebruikersacties: het markeren, delen, en het houd
 | Opties voor mobiele gebruikers | sliderCommentTally | van |
 |  | sliderInviteRead | Lezen |
 |  | sliderInviteWrite | Schrijven |
-|  | sliderLoading | Laden... |
+|  | sliderLoading | Bezig met laden... |
 |  | sliderWriteText | Wat denk je? Tik om te schrijven. |
 
-## Functies {#section_xzf_2l4_xz}
+## Functies {#section_xzf_2l4_xz} plaatsen
 
 Tekenreeksen beschikbaar voor gebruikers die inhoud posten.
 
