@@ -6,6 +6,9 @@ title: 20 juli 2017
 uuid: 550815a9-a6e2-4e98-b5d6-7f4897373716
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '361'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +19,7 @@ Opmerkingen bij de release van 20 juli 2017.
 
 ## Nieuwe functie {#section_swl_jsm_p1b}
 
-De Handel van UGC staat u toe om een vraag-aan-actie knoop van uw LevensmiddelenApps direct toe te voegen. Voor meer informatie over de Handel van UGC, zie [Handel](../../../c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce)UGC.
+De Handel van UGC staat u toe om een vraag-aan-actie knoop van uw LevensmiddelenApps direct toe te voegen. Zie [UGC Commerce](../../../c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce) voor meer informatie over UGC-handel.
 
 ## Opmerkingen bij de release {#section_bjq_3sm_p1b}
 
@@ -26,7 +29,7 @@ In de volgende tabellen worden de opmerkingen bij de release Productie en UAT we
 
 | Type probleem | Component | Opmerking vrijgeven |
 |--- |--- |--- |
-| Verbetering | Alles | Inleiding van Livefyre&#39;s nieuwe UGC Commerce-initiatief. Dit omvat de mogelijkheid om:  <br><ul><li>Voeg een omzettingsknoop aan Mozaïek en de Muur van Media toe. </li><li>UI-verbeteringen voor mozaïek, mediamuur en het modaal karakter van de inhoud voor beide toepassingen. </li><li>Capaciteit om producten in Studio in de Montages van het Netwerk te uploaden.</li><li> Mogelijkheid om inhoud te koppelen aan producten in de Studio-bibliotheek, de App Content en ModQ.</li><li> Mogelijkheid om producten te koppelen aan stroomregels voor automatische labeling.</li></ul> |
+| Verbetering | Alles | Inleiding van Livefyre&#39;s nieuwe UGC Commerce-initiatief. Dit omvat de mogelijkheid om:  <br><ul><li>Voeg een omzettingsknoop aan Mozaïek en de Muur van Media toe. </li><li>UI-verbeteringen voor mozaïek, mediamuur en het modaal inhoudsmodel voor beide toepassingen. </li><li>Capaciteit om producten in Studio in de Montages van het Netwerk te uploaden.</li><li> Mogelijkheid om inhoud te koppelen aan producten in de Studio-bibliotheek, de App Content en ModQ.</li><li> Mogelijkheid om producten te koppelen aan stroomregels voor automatische labeling.</li></ul> |
 | Bug | Verificatie | Probleem verholpen met het decoderen van JSON-webtokens bij verificatie in LiveCyre-apps. |
 | Verbetering | Opmerkingen | Er is een verbetering toegevoegd zodat de tabbladen Sorteervolgorde voor opmerkingen compatibel zijn met ADA. |
 | Bug | Mediumwand | Oplossing voor een bug in de mediamuur waardoor de knop Delen niet goed werkte in Firefox. |
