@@ -7,6 +7,9 @@ title: Definities en voorbeelden van JavaScript-gebeurtenissen
 uuid: 61da2e2e-8fcd-482d-93df-c946f0475277
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '401'
+ht-degree: 15%
 
 ---
 
@@ -154,13 +157,13 @@ gegevens zijn ongedefinieerd.
 
 ## showMore {#section_pqg_nz4_xz}
 
-Een gebruiker heeft op de **[!UICONTROL Show More]** knop geklikt.
+Een gebruiker heeft op de knop **[!UICONTROL Show More]** geklikt.
 
 gegevens zijn ongedefinieerd.
 
 ## userFollowed {#section_xxw_jz4_xz}
 
-Retourneert true wanneer de gebruiker op de **[!UICONTROL Follow]** knop klikt en false wanneer inhoud naar de stream wordt gepost.
+Retourneert true wanneer de gebruiker op de knop **[!UICONTROL Follow]** klikt en false wanneer inhoud naar de stream wordt gepost.
 
 ```
 data = { 
@@ -171,7 +174,7 @@ data = {
 
 ## userUnfollowed {#section_wm1_gz4_xz}
 
-Retourneert true wanneer de gebruiker op de knop **Onvolgen** klikt en false wanneer inhoud naar de stream wordt gepost.
+Retourneert true wanneer een gebruiker op de knop **Onvolgen** klikt en false wanneer inhoud naar de stream wordt gepost.
 
 ```
 data = { 
