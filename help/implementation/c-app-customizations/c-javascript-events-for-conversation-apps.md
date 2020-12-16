@@ -7,6 +7,9 @@ title: Javascript-gebeurtenissen voor conversie-apps
 uuid: cce112b5-7c3a-4721-9854-fc8471f3d5d0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '542'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 De beschikbare gebeurtenissen waaraan u JavaScript voor conversatieapps kunt binden (bijvoorbeeld Comments, Chat, Live Blog, Reviews en Sidenotes).
 
-## Matrix voor gesprekken en gebeurtenissen {#section_y4j_x4m_ybb}
+## Matrix voor conversie-apps en gebeurtenissen {#section_y4j_x4m_ybb}
 
 Hieronder volgt een matrix van de gebeurtenissen die beschikbaar zijn voor conversatie-apps. Een X geeft aan dat de gebeurtenis beschikbaar is voor de App, N.v.t. geeft aan dat de gebeurtenis niet van toepassing is op de App en dat geen markering betekent dat de gebeurtenis niet beschikbaar is voor die App:
 
