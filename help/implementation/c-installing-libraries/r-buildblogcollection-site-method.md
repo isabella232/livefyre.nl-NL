@@ -7,11 +7,14 @@ title: Site-methode buildBlogCollection
 uuid: 6a5ec6b9-bc32-467a-abe6-a57c6defe067
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 0%
 
 ---
 
 
-# Site-methode buildBlogCollection{#buildblogcollection-site-method}
+# buildBlogCollection Site Method{#buildblogcollection-site-method}
 
 Retourneert een object Collection dat is geïnstantieerd als een blogtype. Voer create_or_update() uit vanaf het object Collection om het constructieproces te voltooien.
 
@@ -27,7 +30,7 @@ Retourneert een object Collection dat is geïnstantieerd als een blogtype. Voer 
 Collection collection = site.buildBlogCollection(title, articleId, url); 
 ```
 
-## Voorbeeld van NodeJS {#section_xkd_gds_rz}
+## NodeJS-voorbeeld {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildBlogCollection(title, articleId, url); 
@@ -39,7 +42,7 @@ var collection = site.buildBlogCollection(title, articleId, url);
 $collection = site->buildBlogCollection(title, articleId, url); 
 ```
 
-## Voorbeeld van Python {#section_dwg_gds_rz}
+## Python-voorbeeld {#section_dwg_gds_rz}
 
 ```
 collection = site.build_blog_collection(title, articleId, url) 
