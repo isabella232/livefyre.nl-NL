@@ -7,15 +7,18 @@ title: Een app voor opmerkingen insluiten
 uuid: e4982ad3-cab1-4805-a55c-594cca3b7203
 translation-type: tm+mt
 source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 0%
 
 ---
 
 
-# Een app voor opmerkingen insluiten{#embed-a-comments-app}
+# Een toepassing voor opmerkingen insluiten{#embed-a-comments-app}
 
 Het insluiten van de Comments App volgt het proces voor het insluiten van een Core App.
 
-Het insluiten van de Comments App volgt het proces voor het insluiten van een Core App dat wordt beschreven in [Embed een App](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
+Het insluiten van de Commentaarstoepassing volgt het proces voor het inbedden van een Kernapp die in [wordt beschreven een App ](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md) inbedden
 
 ## Voorbeeld
 
