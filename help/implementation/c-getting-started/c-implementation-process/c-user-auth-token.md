@@ -7,6 +7,9 @@ title: Token van auteur
 uuid: 6483debd-453c-4780-b19c-1d8041693617
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '263'
+ht-degree: 0%
 
 ---
 
@@ -21,11 +24,11 @@ Als u het token wilt maken, gebruikt u de voorkeurstaalbibliotheek om de volgend
 
 | Parameter | Type | Beschrijving |
 |---|---|---|
-| networkName | Tekenreeks *vereist* | De naam van het Livefyre-netwerk (verstrekt door Livefyre). |
-| networkKey | Tekenreeks *vereist* | De geheime sleutel voor dit specifieke netwerk (verstrekt door Livefyre). |
-| userId | Tekenreeks *vereist* | De id van de gebruiker die zich aanmeldt als opgeslagen in uw gebruikersbeheersysteem (alleen alfanumerieke tekens, streepjes, onderstrepingstekens en punttekens zijn toegestaan: [a-zA-Z0-9_-.]). **Opmerking:** De userId moet uniek zijn. |
-| verloopt | Geheel getal *vereist* | Wanneer het token vanaf nu (in seconden) moet verlopen. **Opmerking:** Deze waarde kan ook als een float worden doorgegeven. Deze waarde wordt opgeslagen in de JSON-webtoken die wordt gemaakt in de tijdperk UNIX. |
-| displayName | Tekenreeks *vereist* | Tekst om deze gebruiker te identificeren in de gebruikersinterface en in opmerkingen. (Maximum aantal tekens: 50.) |
+| networkName | Tekenreeks *required* | De naam van het Livefyre-netwerk (verstrekt door Livefyre). |
+| networkKey | Tekenreeks *required* | De geheime sleutel voor dit specifieke netwerk (verstrekt door Livefyre). |
+| userId | Tekenreeks *required* | De id van de gebruiker die zich aanmeldt als opgeslagen in uw gebruikersbeheersysteem (alleen alfanumerieke tekens, streepjes, onderstrepingstekens en punttekens zijn toegestaan: [a-zA-Z0-9_-.]). **Opmerking:** de gebruikersnaam moet uniek zijn. |
+| verloopt | Geheel *vereist* | Wanneer het token vanaf nu (in seconden) moet verlopen. **Opmerking:** deze waarde kan ook als een zwevende waarde worden doorgegeven. Deze waarde wordt opgeslagen in de JSON-webtoken die wordt gemaakt in de tijdperk UNIX. |
+| displayName | Tekenreeks *required* | Tekst om deze gebruiker te identificeren in de gebruikersinterface en in opmerkingen. (Maximum aantal tekens: 50.) |
 
 ## Java {#section_b42_mjz_1cb}
 
