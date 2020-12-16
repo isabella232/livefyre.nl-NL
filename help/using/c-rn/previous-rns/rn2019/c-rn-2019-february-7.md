@@ -7,6 +7,9 @@ title: Opmerkingen bij de release
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
 source-git-commit: 46f00bccc617b5d5ddc2e205c912d52d3602a8a0
+workflow-type: tm+mt
+source-wordcount: '60'
+ht-degree: 0%
 
 ---
 
@@ -21,4 +24,4 @@ source-git-commit: 46f00bccc617b5d5ddc2e205c912d52d3602a8a0
 
 ## Opgeloste problemen
 
-* Probleem verholpen waarbij inhoud die is gemarkeerd door Moderation Recommendations als *neergezet*, niet werd weergegeven wanneer werd geprobeerd alle inhoud, inclusief neergezette inhoud, weer te geven.
+* Probleem verholpen waarbij inhoud die door Moderation Recommendations is gemarkeerd als *verouderd*, niet werd weergegeven tijdens een poging om alle inhoud, inclusief verouderde inhoud, weer te geven.
