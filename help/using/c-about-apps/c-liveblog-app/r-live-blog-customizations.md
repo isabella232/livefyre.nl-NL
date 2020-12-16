@@ -7,6 +7,9 @@ title: Live-blogaanpassingen
 uuid: f07d4c33-4aef-4d69-b9dd-3fd3c27ffd6d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '247'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +28,7 @@ Gebruik Live Blog om real-time updates voor lopende artikelen te posten, waardoo
 
 * **[!UICONTROL Comments appear in cards]**
 
-   Als deze optie is ingeschakeld, worden de posten weergegeven met een omringend vak en wordt de achtergrondkleur weergegeven die is voorgeschreven door de **themakeuze** .
+   Als deze optie is ingeschakeld, worden posten weergegeven met een omringend vak en wordt de achtergrondkleur weergegeven die is voorgeschreven door de selectie **Thema**.
 
 * **[!UICONTROL Nest levels for replies]**
 
@@ -61,7 +64,7 @@ Gebruik Live Blog om real-time updates voor lopende artikelen te posten, waardoo
 
 U kunt Live blog aanpassen met:
 
-* **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle toepassingen in de **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle apps in de **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor details over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle Apps in **[!UICONTROL App Designer]**.
 
 * Integratiegereedschappen. Zie Live Blog voor meer informatie over het aanpassen van apps met integratieprogramma&#39;s.
 
