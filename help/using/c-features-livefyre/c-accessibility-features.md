@@ -7,6 +7,9 @@ title: Toegankelijkheidsfuncties
 uuid: e04970d5-f45d-40e0-807e-ae88a9386ef7
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +40,7 @@ LiveCyre benadrukt de volgende gebieden om ervoor te zorgen dat de Identiteit va
 
 Als u wilt testen of een app werkt met toegankelijkheidsfuncties, kunt u het volgende doen:
 
-* Schakel een schermlezer in (bijvoorbeeld [VoicOver](https://www.apple.com/accessibility/mac/vision/) op een Mac- of Apple-apparaat of [Narrator](https://www.microsoft.com/en-us/accessibility/windows) op een pc) om de pagina met de App hardop te lezen. Wanneer u een schermlezer gebruikt, wordt gecontroleerd of de inhoud beschikbaar is
+* Schakel een schermlezer in (bijvoorbeeld [Voicovers](https://www.apple.com/accessibility/mac/vision/) op een Mac- of Apple-apparaat of [Narrator](https://www.microsoft.com/en-us/accessibility/windows) op een pc) om de pagina te lezen die de App hardop bevat. Wanneer u een schermlezer gebruikt, wordt gecontroleerd of de inhoud beschikbaar is
 
 * Tab door een app en probeer deze alleen te gebruiken met het toetsenbord om te controleren of u elke knop of koppeling op een logische manier kunt openen.
 * Wijzig de zoomfactor en de contrastverhouding om te zien of de inhoud op een leesbare en eenvoudig te bekijken manier wordt weergegeven.
