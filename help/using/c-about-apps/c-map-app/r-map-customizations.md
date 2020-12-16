@@ -7,6 +7,9 @@ title: Kaartaanpassingen
 uuid: 3a3bffde-5d1b-41da-9aa8-d25b43d0df76
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '268'
+ht-degree: 0%
 
 ---
 
@@ -45,7 +48,7 @@ De volgende opties zijn beschikbaar in de app Map:
 
    >[!NOTE]
    >
-   >Als uw webontwikkelaars een waarde hebben gedefinieerd **[!UICONTROL height]** voor uw Kaart op de pagina, worden deze waarden genegeerd en wordt voor uw Kaart de conventies voor het aanpassen van de ontwerpgrootte gevolgd. Als zij geen hoogte hebben bepaald, zullen deze waarden worden gebruikt, en uw Kaart zal bij een vastgestelde grootte worden geplaatst (niet-ontvankelijk ontwerp). Als deze velden leeg blijven, wordt de waarde standaard ingesteld op een breedte van 600 px en een hoogte van 400 px. De Kaart reageert dan niet.
+   >Als uw webontwikkelaars een **[!UICONTROL height]** voor uw Kaart op de pagina hebben gedefinieerd, worden deze waarden genegeerd en wordt voor uw Kaart de conventies voor het aanpassen van de ontwerpgrootte gevolgd. Als zij geen hoogte hebben bepaald, zullen deze waarden worden gebruikt, en uw Kaart zal bij een vastgestelde grootte worden geplaatst (niet-ontvankelijk ontwerp). Als deze velden leeg blijven, wordt de waarde standaard ingesteld op een breedte van 600 px en een hoogte van 400 px. De Kaart reageert dan niet.
 
 * **[!UICONTROL Location]**
 
@@ -53,7 +56,7 @@ De volgende opties zijn beschikbaar in de app Map:
 
 U kunt de app Map aanpassen met:
 
-* **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle toepassingen in de **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle apps in de **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor details over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle Apps in **[!UICONTROL App Designer]**.
 
 * Integratiegereedschappen. Zie Kaart voor meer informatie over het aanpassen van apps met behulp van integratiehulpmiddelen.
 
