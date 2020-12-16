@@ -7,6 +7,9 @@ title: Weergaveopties wijzigen
 uuid: 121bb921-d9a7-4925-ab46-8e3d7dd0cbfe
 translation-type: tm+mt
 source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+workflow-type: tm+mt
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
@@ -22,10 +25,10 @@ LiveCycle biedt verschillende opties waarmee de weergave van de app kan worden a
 In deze sectie worden de volgende beschikbare opties voor het aanpassen van de weergave beschreven:
 
 * Met de beschikbare CSS-klassen kunt u div-elementen, sorteeropties, selectiekaders, pictogrammen en andere weergaveopties voor uw apps wijzigen.
-* [Lokaliseer Tekenreeksen](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md) om de taal en toon voor uw apps in te stellen.
+* [Lokaliseer ](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md) tekenreeksen om de taal en toon voor uw apps in te stellen.
 * Geef de datum-/tijdnotatie op zodat deze overeenkomt met uw stijl.
 * Verplaats het Livefyre-logo om het minder opvallend weer te geven op uw app.
 * Beperk media om te voorkomen dat gebruikers opgegeven insluitingstypen uploaden.
 * Verberg App Elements om uw gebruikerservaring te vereenvoudigen.
-* Wijzig het `@mention` pictogram LiveCycle om een aangepast pictogram te selecteren dat moet worden weergegeven in keuzemenu @notify voor leden van uw Livefyre-publiek.
+* Wijzig het pictogram LiveCycle `@mention` om een aangepast pictogram te selecteren dat u wilt weergeven in keuzemenu&#39;s met @vermeld voor leden van uw Livefyre-publiek.
 
