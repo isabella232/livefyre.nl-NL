@@ -7,6 +7,9 @@ title: Toepassingsimplementatie
 uuid: null
 translation-type: tm+mt
 source-git-commit: b737f2c6afb03d91041a317cc0afb790c3eadcb1
+workflow-type: tm+mt
+source-wordcount: '312'
+ht-degree: 0%
 
 ---
 
@@ -14,19 +17,19 @@ source-git-commit: b737f2c6afb03d91041a317cc0afb790c3eadcb1
 
 Hoofdlettergebruik: Als klant, wil ik Livefyre in mijn derde partij CMS integreren gebruikend de methode Livefyre.js.
 
-Er zijn drie manieren om Livefyre in aan een douaneAEM component of andere CMS&#39;s zoals WordPress, Sitecore, of DemandWare uit te voeren: Implementatie, API, implementatie en integratie van externe verificatie in Designer.
+Er zijn drie manieren om Livefy in aan een douane AEM component of andere CMS&#39;s zoals WordPress, Sitecore, of DemandWare uit te voeren: Implementatie, API, implementatie en integratie van externe verificatie in Designer.
 
 ## Designer-app-implementatie {#designerapp}
 
 Wat: Eenvoudige en snelste manier om een LiveCycle-app te integreren. U kunt een aangepaste Javascript-insluitcode ontwerpen, configureren en genereren om een Live App in minuten op een pagina te integreren.
 
-Hoe: Een LiveCyre-app [maken, voorvertonen, publiceren en insluiten](/help/using/c-about-apps/c-create-an-app.md)
+Hoe: [Een LiveCyre-app maken, voorvertonen, publiceren en insluiten](/help/using/c-about-apps/c-create-an-app.md)
 
 Voorbeeld: [https://codepen.io/dharafyre/pen/bvGrLo](https://codepen.io/dharafyre/pen/bvGrLo)
 
-### Implementatie van Livefyre.js {#livefyrejsimp}
+### Implementatie LiveCyre.js {#livefyrejsimp}
 
-Wat: [Livefyre.js](/help/implementation/c-livefyre.js.md) is de kernbibliotheek die Apps en Auth op een plaats macht. Het definieert het algemene `window.Livefyre` object en één openbare methode, Livefyre.require, die kan worden gebruikt om andere LiveCycle JavaScript-bibliotheken te laden die helpen bij het insluiten van LiveCycle Apps en het integreren met externe gebruikersauteplatforms.
+Wat: [Livefyre.js](/help/implementation/c-livefyre.js.md) is de kernbibliotheek die Apps en Auth op een plaats macht. Het definieert het globale `window.Livefyre`-object en één openbare methode, Livefyre.require, die kan worden gebruikt om andere LiveCycle JavaScript-bibliotheken te laden die helpen bij het insluiten van LiveCycle Apps en het integreren met externe gebruikersauteplatforms.
 
 Hoe:
 
@@ -46,11 +49,11 @@ Voorbeelden:
 
 ## API-implementatie {#apiimplementation}
 
-Voor het maken van aangepaste ervaringen en gegevensvisualisaties kunnen LiveCyre-apps helemaal vanaf het begin worden gemaakt door LiveCycle en sociale gegevens te gebruiken met de API Bootstrap en Stream.
+Voor het maken van aangepaste ervaringen en gegevensvisualisaties kunnen LiveCyre-apps helemaal vanaf het begin worden gemaakt door LiveCycle- en sociale gegevens te gebruiken met de API voor Bootstrap en streamen.
 
-## Integratie van verificatie door derden {#thirdpartyauth}
+## Integratie van verificatie van derden {#thirdpartyauth}
 
-Voor LiveCyre Apps die authentificatie vereisen, zie de Integratie [van de](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) Identiteit voor derdeauthentificatieplatforms.
+Zie [Identiteitsintegratie](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) voor externe verificatieplatforms voor Livefyre-toepassingen die verificatie vereisen.
 
 ## Voorbeelden van klanten {#customerexamples}
 
