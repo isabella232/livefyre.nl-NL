@@ -6,11 +6,14 @@ title: VEILIGE REGELS
 uuid: 2f91d0d4-dffe-4651-88af-79bbb96c1b5c
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '885'
+ht-degree: 0%
 
 ---
 
 
-# VEILIGE REGELS{#safe-rules}
+# VEILIGE regels{#safe-rules}
 
 De Livefyre Spam en de Misbruik het Filtreren Motor (SAFE), is een achtergrondproces dat alle inkomende inhoud analyseert, en voor alle klanten van Livefyre toegelaten.
 
@@ -22,7 +25,7 @@ SAFE maakt gebruik van patroonregels en statistische modellen om spam, misbruik,
 >
 >SAFE is alleen in het Engels, behalve voor de indeling voor bulkmailing. Neem contact op met uw strategische accountmanager als u ondersteuning voor andere talen nodig hebt.
 
-## Studio Components using SAFE {#section_k34_4tx_vy}
+## Studio-componenten die gebruikmaken van VEILIG {#section_k34_4tx_vy}
 
 De vlaggen die door SAFE worden toegepast kunnen met de volgende componenten van Studio worden gebruikt:
 
@@ -30,7 +33,7 @@ De vlaggen die door SAFE worden toegepast kunnen met de volgende componenten van
 
    U kunt VEILIGE regels bepalen om inhoud automatisch te markeren en te bepalen hoe de gemarkeerde inhoud in **[!UICONTROL Network Settings]** zou moeten worden behandeld.
 
-   Een site kan bijvoorbeeld een zeer lage tolerantie voor winstgevendheid instellen en SAFE-regels definiëren waarmee alle inhoud die als Winst wordt gemarkeerd, wordt ingesteld op Bozo&#39;d. Andere plaatsen kunnen Regels bepalen die de inhoud van het Winst om voorgematigd te plaatsen alvorens de stroom in te gaan.
+   Een site kan bijvoorbeeld een zeer lage tolerantie voor winstgevendheid instellen en VEILIGE regels definiëren die alle inhoud die als Winst wordt gemarkeerd, instellen op Bozo&#39;d. Andere plaatsen kunnen Regels bepalen die de inhoud van het Winst om voorgematigd te plaatsen alvorens de stroom in te gaan.
 
 * ModQ
 
@@ -38,7 +41,7 @@ De vlaggen die door SAFE worden toegepast kunnen met de volgende componenten van
 
 * App-inhoud in de bibliotheek
 
-   Inhoud die is gemarkeerd door SAFE, wordt weergegeven in de inhoud van de app op het **[!UICONTROL Library]** tabblad. U kunt inhoud filteren door vlaggen om inhoud te matigen.
+   Inhoud die is gemarkeerd door SAFE, wordt weergegeven in de inhoud van de app op het tabblad **[!UICONTROL Library]**. U kunt inhoud filteren door vlaggen om inhoud te matigen.
 
 ## Opties voor VEILIG filter {#section_pg5_ttx_vy}
 
@@ -61,20 +64,20 @@ SAFE past de volgende vlaggen op gefiltreerde inhoud toe en kan worden gebruikt 
 * **[!UICONTROL ALL CAPS]**: Tekst die in alle hoofdletters wordt weergegeven (lezen als geel).
 * **[!UICONTROL Mild Threat]**: Een bedreiging of belediging die meestal een soort milde wreedheid tegen iemand anders bevat. Deze optie markeert vaker mogelijke bedreigingen, maar heeft ook een hoger fout-positief tarief dan **[!UICONTROL Strong Threat]**.
 
-* **[!UICONTROL Strong Threat]**: Een ernstige bedreiging of belediging die stelt dat een of meer mensen lichamelijk letsel kunnen oplopen, vaak met een sterke grove belediging. Deze optie markeert mogelijke bedreigingen minder vaak, maar heeft ook een minder vals-positief tarief dan **[!UICONTROL Mild Threat]**.
+* **[!UICONTROL Strong Threat]**: Een ernstige bedreiging of belediging die stelt dat een of meer mensen lichamelijk letsel kunnen oplopen, vaak met een sterke grove belediging. Deze optie markeert mogelijke bedreigingen minder vaak, maar heeft ook een lager vals-positief tarief dan **[!UICONTROL Mild Threat]**.
 
-* **[!UICONTROL Probable Nudity]**: Een afbeelding die nuchterheid kan hebben. Deze optie geeft nuditeit minder vaak weer, maar heeft ook een lagere fout-positieve frequentie dan **[!UICONTROL Possible Nudity]**.
+* **[!UICONTROL Probable Nudity]**: Een afbeelding die nuchterheid kan hebben. Deze optie markeert nudity minder vaak, maar heeft ook een lager fout-positief tarief dan **[!UICONTROL Possible Nudity]**.
 
-* **[!UICONTROL Possible Nudity]**: Een afbeelding die nuchterheid kan hebben. Deze optie markeert nuditeit vaker, maar heeft ook een hoger fout-positief tarief dan **[!UICONTROL Probable Nudity]**.
+* **[!UICONTROL Possible Nudity]**: Een afbeelding die nuchterheid kan hebben. Deze optie markeert nuditeit vaker, maar heeft ook een hogere fout-positieve snelheid dan **[!UICONTROL Probable Nudity]**.
 
 * **[!UICONTROL PII]** (Persoonlijk identificeerbare informatie): Informatie die de gebruiker kan identificeren. Dit kan een e-mailadres, fysiek adres, socialezekerheidsnummer (voor klanten in de VS), creditcardnummer, wachtwoord of iets anders zijn dat in fraude kan worden gebruikt of de identiteit van iemand kan verkrijgen.
 * **[!UICONTROL Livefyre Recommends Trash]**. Plaats de actie die het systeem uitvoert wanneer de geautomatiseerde Aanbeveling van de Moderatie inhoud voor verwerping identificeert.  ![](assets/mod_reco1.png)
 
    >[!NOTE]
    >
-   >Neem contact op met uw Adobe LiveCycle Support-medewerker om aanbevelingen voor moderatie in te schakelen.
+   >Neem contact op met uw Adobe Livefyre-supportprofessional om Moderation Recommendations in te schakelen.
 
-## Inhoud verwerken die niet door VEILIG wordt afgevangen {#section_pjy_5tx_vy}
+## Inhoud verwerken die niet door VEILIG {#section_pjy_5tx_vy} wordt afgevangen
 
 Er zijn verschillende manieren beschikbaar om inhoud die niet door dit filter wordt afgevangen, effectief af te handelen. De onderstaande opties staan in de aanbevolen volgorde van het proces.
 
