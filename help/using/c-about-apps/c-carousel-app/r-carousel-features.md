@@ -7,11 +7,14 @@ title: Carousel-functies
 uuid: c5c95675-d7ca-4677-b293-16de5ccf0022
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 0%
 
 ---
 
 
-# Carousel-functies {#carousel-features}
+# Carrouselfuncties {#carousel-features}
 
 De Carousel-app biedt deze functies voor uw site.
 
