@@ -7,6 +7,9 @@ title: De datum- en tijdstempel aanpassen
 uuid: 632ea405-56b7-4664-8d2b-0dd0a7611bd8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '383'
+ht-degree: 0%
 
 ---
 
@@ -23,8 +26,8 @@ LiveCycle Apps biedt de parameter option, datetimeFormat, waarmee u de datumnota
 
 ## Terminologie {#section_xsk_jn4_xz}
 
-* **Absolute tijdstempels** worden gedefinieerd als exacte en specifieke tijden (bijvoorbeeld 1 januari 2012, 12:00 uur)
-* **Relatieve tijdstempels** worden gedefinieerd als algemene en minder precieze tijden (bijvoorbeeld 25 seconden geleden, 14 minuten geleden, 1 dag geleden, 1 jaar geleden, enz.)
+* **Absolute** tijdstempels worden gedefinieerd als exacte en specifieke tijden (bijvoorbeeld 1 januari 2012, 12:00pm)
+* **Relatieve** tijdstempels worden gedefinieerd als algemene en minder precieze tijden (bijvoorbeeld 25 seconden geleden, 14 minuten geleden, 1 dag geleden, 1 jaar geleden, enz.)
 
 ## Opmaak {#section_ynx_gn4_xz}
 
@@ -85,7 +88,7 @@ var conv = fyre.conv.load(networkConfig, [convConfig]);
 
 ## Symboolaanduiding {#section_inq_2n4_xz}
 
-De opmaakfuncties van de datumtijd die de patroonspecificatie volgen zoals die in JDK, ICU en CLDR wordt bepaald, met kleine wijziging voor typisch gebruik in JS. Raadpleeg de documentatie bij de gesloten [Google-bibliotheek voor meer informatie](https://developers.google.com/closure/library/docs/overview).
+De opmaakfuncties van de datumtijd die de patroonspecificatie volgen zoals die in JDK, ICU en CLDR wordt bepaald, met kleine wijziging voor typisch gebruik in JS. Zie de [Google Closure Library Documentation](https://developers.google.com/closure/library/docs/overview) voor meer informatie.
 
 ```
   Symbol Meaning Presentation        Example 
@@ -126,7 +129,7 @@ Objecten die zijn gemarkeerd met ‘#’, werken anders dan Java.
 De notatie wordt bepaald door het aantal patroonletters.
 
 * **Tekst:** 4 of meer, volledige vorm gebruiken. Minder dan 4, gebruik korte of afgekorte vorm als het bestaat. (Bijvoorbeeld: &quot;EEEE&quot; produceert &quot;maandag&quot;, &quot;EEE&quot; produceert &quot;maan&quot;.)
-* **Aantal:** het minimumaantal cijfers. Kortere getallen worden met nul opgevuld (bijvoorbeeld: Als &quot;m&quot; &quot;6&quot; produceert, produceert &quot;mm&quot; &quot;06&quot;.) Het jaar wordt speciaal afgehandeld; Wanneer het aantal &quot;y&quot; 2 is, wordt het jaar ingekort tot 2 cijfers. (Bijvoorbeeld: als &quot;yyyy&quot; &quot;1997&quot; produceert, produceert &quot;yy&quot; &quot;97&quot;.) In tegenstelling tot andere velden worden fractionele seconden rechts met nul opgevuld.
-* **Tekst en nummer:** 3 of meer, gebruik tekst. Minder dan 3, gebruik aantal. (Bijvoorbeeld: &quot;M&quot; produceert &quot;1&quot;, &quot;MM&quot; produceert &quot;01&quot;, &quot;MMM&quot; produceert &quot;Jan&quot; en &quot;MMMM&quot; produceert &quot;Januari&quot;.)
+* **Getal:** het minimum aantal cijfers. Kortere getallen worden met nul opgevuld (bijvoorbeeld: Als &quot;m&quot; &quot;6&quot; produceert, produceert &quot;mm&quot; &quot;06&quot;.) Het jaar wordt speciaal afgehandeld; Wanneer het aantal &quot;y&quot; 2 is, wordt het jaar ingekort tot 2 cijfers. (Bijvoorbeeld: als &quot;yyyy&quot; &quot;1997&quot; produceert, produceert &quot;yy&quot; &quot;97&quot;.) In tegenstelling tot andere velden worden fractionele seconden rechts met nul opgevuld.
+* **Tekst en nummer:** 3 of hoger, gebruik tekst. Minder dan 3, gebruik aantal. (Bijvoorbeeld: &quot;M&quot; produceert &quot;1&quot;, &quot;MM&quot; produceert &quot;01&quot;, &quot;MMM&quot; produceert &quot;Jan&quot; en &quot;MMMM&quot; produceert &quot;Januari&quot;.)
 
-Tekens in het patroon die niet binnen het bereik van [&quot;a&quot; vallen.&quot;z’] en [&quot;A&quot;.&quot;Z&#39;] wordt behandeld als geciteerde tekst. Tekens als &#39;:&#39;, &#39;.&#39;, &#39;, &#39;#&#39; en &#39;@&#39; worden bijvoorbeeld in de resulterende tekst weergegeven, ook al worden ze niet binnen enkele aanhalingstekens geplaatst.
+Tekens in het patroon die niet binnen het bereik van [&quot;a&quot; vallen.&quot;z&quot;] en [&quot;A&quot;.&quot;Z’] wordt behandeld als geciteerde tekst. Tekens als &#39;:&#39;, &#39;.&#39;, &#39;, &#39;#&#39; en &#39;@&#39; worden bijvoorbeeld in de resulterende tekst weergegeven, ook al worden ze niet binnen enkele aanhalingstekens geplaatst.
