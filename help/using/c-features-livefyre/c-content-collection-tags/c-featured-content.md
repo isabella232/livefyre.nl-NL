@@ -7,25 +7,28 @@ title: Aanbevolen inhoud
 uuid: 2204a989-69b3-440d-beae-7e9c6e9d5698
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '233'
+ht-degree: 0%
 
 ---
 
 
-# Aanbevolen inhoud{#featured-content}
+# Informatie over aanbevolen inhoud{#featured-content}
 
 Markeer belangrijke inhoud voor uw gebruikers met CSS naar inhoud met aangepaste stijl aanbevolen.
 
-Om het even welk stuk van inhoud in een Inzameling kan worden geëtiketteerd zoals &quot;gespiegeld&quot;door uw eigenaars of moderators van de netwerkplaats, om belangrijke inhoud te benadrukken en kwalitatief hoogstaande antwoorden van andere gebruikers aan te moedigen. Wanneer een stuk inhoud is voorzien, zal een **[!UICONTROL Featured]** markering op de inhoud in app worden getoond, zodat de gebruikers inhoud gemakkelijk kunnen identificeren die eigenaars en moderatoren hebben benadrukt.
+Om het even welk stuk van inhoud in een Inzameling kan worden geëtiketteerd zoals &quot;gespiegeld&quot;door uw eigenaars of moderators van de netwerkplaats, om belangrijke inhoud te benadrukken en kwalitatief hoogstaande antwoorden van andere gebruikers aan te moedigen. Nadat een stuk inhoud is voorzien, wordt een **[!UICONTROL Featured]**-tag weergegeven op de inhoud in de app, zodat gebruikers eenvoudig inhoud kunnen identificeren die door eigenaars en moderatoren is gemarkeerd.
 
 In opmerkingen:
 
-* De twee meest recente stukken **[!UICONTROL Featured]** inhoud worden ook boven de stream geplaatst.
+* De twee meest recente stukken **[!UICONTROL Featured]** inhoud zullen ook boven de stroom worden getrokken.
 * Het kan tot zeven minuten duren voordat aanbevolen inhoud boven de editor wordt weergegeven.
-* Een **[!UICONTROL Featured]** tag kan worden toegevoegd aan elke opmerking in de stream en wordt gebruikt om de opmerking op te maken, maar alleen inhoud die door de gebruiker in LiveCycle is gegenereerd, wordt boven de editor weergegeven.
+* Een **[!UICONTROL Featured]**-tag kan worden toegevoegd aan elke opmerking binnen de stream en worden gebruikt om de opmerking op te maken. Alleen door de gebruiker gegenereerde inhoud die in LiveCycle is gemaakt, wordt boven de editor weergegeven.
 
-Wanneer de inhoud onzichtbaar is, wordt de weergegeven **[!UICONTROL Featured]** tag in real-time verwijderd.
+Wanneer inhoud niet is voorzien, wordt de weergegeven tag **[!UICONTROL Featured]** in real-time verwijderd.
 
-Nadat een stuk inhoud is voorzien, wordt een **[!UICONTROL Featured]** badge weergegeven op de inhoud in de app en kunt u de geavanceerde CSS-klasse gebruiken om de inhoud aan te passen.
+Nadat een stuk inhoud is voorzien, wordt een **[!UICONTROL Featured]**-badge weergegeven op de inhoud in de app en kunt u de uitgebreide CSS-klasse gebruiken om de inhoud aan te passen.
 
 Toepassingen die deze functie gebruiken:
 
