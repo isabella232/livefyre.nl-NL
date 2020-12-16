@@ -7,11 +7,14 @@ title: validateLivefyreToken Netwerkmethode
 uuid: 2bac11de-d6c4-419f-9c7b-92cfb541d07e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 0%
 
 ---
 
 
-# validateLivefyreToken Netwerkmethode{#validatelivefyretoken-network-method}
+# validateLivefyreToken Network Method{#validatelivefyretoken-network-method}
 
 Controleert of een token Livefyre nog geldig is voor dit netwerk. Retourneert een Booleaanse waarde.
 
@@ -31,7 +34,7 @@ Voorbeelduitvoer:
 true 
 ```
 
-## Voorbeeld van NodeJS {#section_xkd_gds_rz}
+## NodeJS-voorbeeld {#section_xkd_gds_rz}
 
 ```
 network.validateLivefyreToken(lfToken); 
@@ -55,7 +58,7 @@ Voorbeelduitvoer:
 true 
 ```
 
-## Voorbeeld van Python {#section_dwg_gds_rz}
+## Python-voorbeeld {#section_dwg_gds_rz}
 
 ```
 network.validate_livefyre_token(lfToken) 
