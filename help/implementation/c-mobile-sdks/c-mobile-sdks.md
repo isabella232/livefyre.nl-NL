@@ -7,6 +7,9 @@ title: Mobiele SDK's
 uuid: 84c7ca1c-3401-492a-bfa5-62b996947a44
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '376'
+ht-degree: 0%
 
 ---
 
@@ -62,5 +65,5 @@ De HTTP APIs is de groep eindpunten die u toestaat om gesprekken en inhoud op he
 
 >[!IMPORTANT]
 >
->**Maak geen** verificatietokens voor gebruikers binnen de mobiele client, omdat u hiervoor de LiveCycle-geheime netwerksleutel in een onbeveiligde app beschikbaar moet maken. Voor een robuustere en veiligere oplossing, zie de Tokens van de Authentificatie van de Gebruiker sectie.
+>**Creëer** geen verificatietokens voor gebruikers binnen de mobiele client, omdat u hiervoor de sleutel voor het geheim netwerk van LiveCycle in een onbeveiligde app beschikbaar moet maken. Voor een robuustere en veiligere oplossing, zie de Tokens van de Authentificatie van de Gebruiker sectie.
 
