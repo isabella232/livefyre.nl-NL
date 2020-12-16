@@ -7,6 +7,9 @@ title: setSSL-netwerkmethode
 uuid: 8d989e63-c859-456a-99ca-8d87933913ba
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +28,7 @@ Plaatst SSL voor API vraag om of weg te zijn.
 network.setSsl(ssl); 
 ```
 
-## Voorbeeld van NodeJS {#section_xkd_gds_rz}
+## NodeJS-voorbeeld {#section_xkd_gds_rz}
 
 ```
 network.ssl = false; 
@@ -37,7 +40,7 @@ network.ssl = false;
 $network->setSsl(false); 
 ```
 
-## Voorbeeld van Python {#section_dwg_gds_rz}
+## Python-voorbeeld {#section_dwg_gds_rz}
 
 ```
 network.ssl = False 
