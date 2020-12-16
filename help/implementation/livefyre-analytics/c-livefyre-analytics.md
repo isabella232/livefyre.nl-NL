@@ -7,17 +7,20 @@ title: LiveCycle gebruiken met Ander Analyseprogramma
 uuid: 26c835f6-aced-41f7-aabe-418afce8a829
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '227'
+ht-degree: 0%
 
 ---
 
 
-# LiveCycle gebruiken met Ander Analyseprogramma{#use-livefyre-with-other-analytics-tool}
+# LiveCycle gebruiken met Ander Analytics Tool{#use-livefyre-with-other-analytics-tool}
 
-U kunt hulpprogramma&#39;s voor analyse gebruiken om gegevens te verzamelen over gebruikersinteracties met LiveCycle Apps. U kunt Adobe Analytics of een hulpprogramma van uw keuze gebruiken.
+U kunt hulpprogramma&#39;s voor analyse gebruiken om gegevens te verzamelen over gebruikersinteracties met LiveCycle Apps. U kunt naar keuze Adobe Analytics of een ander gereedschap gebruiken.
 
-Als u LiveCycle wilt gebruiken met een programma van uw keuze (niet Adobe Analytics), volgt u de procedure die op deze pagina wordt beschreven.
+Als u LiveCycle wilt gebruiken met een gereedschap van uw keuze (niet Adobe Analytics), volgt u de procedure die op deze pagina wordt beschreven.
 
-## Stap 1: Gebeurtenishandler instellen {#section_ngm_gzl_pdb}
+## Stap 1: Gebeurtenishandler {#section_ngm_gzl_pdb} instellen
 
 Stel een gebeurtenishandler in op pagina&#39;s waarop u Live Apps gebruikt. Op deze manier kunt u gegevens verzamelen van de toepassingen op die pagina die u kunt gebruiken voor analyses.
 
