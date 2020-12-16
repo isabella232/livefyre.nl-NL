@@ -7,6 +7,9 @@ title: Verzameling wijzigen
 uuid: 69bafcc7-c55e-47d6-bc79-b0db80fdf138
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ Met de Change Collection Delegate kunt u de verzameling wijzigen die op een pagi
 
 Als u bijvoorbeeld op een video of foto in een galerie klikt, wordt een verzameling geladen die specifiek is voor die selectie, terwijl de URL van de pagina niet wordt gewijzigd.
 
-Een van de drie verzamelingen op één pagina voor het tellen van [opmerkingen](/help/implementation/c-advanced-topics/t-display-comment-count.md) laden:
+Om één van drie Inzamelingen van één enkele [commentaartelling](/help/implementation/c-advanced-topics/t-display-comment-count.md) pagina te laden:
 
 ```
 <html> 
