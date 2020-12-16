@@ -7,11 +7,14 @@ title: Het Livefyre-logo verplaatsen
 uuid: 807304ae-6070-4505-87db-169a925f714c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 0%
 
 ---
 
 
-# Het Livefyre-logo verplaatsen{#move-the-livefyre-logo}
+# Het Livefyre-logo{#move-the-livefyre-logo} verplaatsen
 
 Verander de positie van het Livefyre-logo op de pagina.
 
