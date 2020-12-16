@@ -7,6 +7,9 @@ title: Activiteitenstroom
 uuid: f40deec1-58ab-41c9-aac4-d2d8c9192bb9
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '574'
+ht-degree: 0%
 
 ---
 
@@ -39,20 +42,20 @@ GET https://bootstrap.livefyre.com/api/v3.1/activity/
 
 ### Parameters
 
-* **resource:** *tekenreeks* A URN van het object waarvoor u activiteitsgegevens aanvraagt.
+* **resource:** ** stringA URN van het object waarvoor u activiteitsgegevens aanvraagt.
 
-* **sinds:** Een 64-bits geheel *getal* dat de id vertegenwoordigt van de laatste gebeurtenis die u hebt ontvangen. Geef &quot;0&quot; op als u geen eerdere gegevens hebt.
+* **sinds:** ** integerA 64-bits integer die de id vertegenwoordigt van de laatste gebeurtenis die u hebt ontvangen. Geef &quot;0&quot; op als u geen eerdere gegevens hebt.
 
 ## URN-tekenreeksen {#section_skl_q4l_b1b}
 
 Voorbeelden:
 
-* **urn:livefyre:** `example.fyre.co` De activiteitsstroom voor `example.fyre.co`.
-* **urn:livefyre:** `example.fyre.co:site=54321` De activiteitsstroom voor plaats 54321 onder het `example.fyre.co` netwerk.
+* **urn:livefyre:** `example.fyre.co` De activiteitsstroom voor  `example.fyre.co`.
+* **urn:livefyre:** `example.fyre.co:site=54321` De activiteitenstroom voor plaats 54321 onder het  `example.fyre.co` netwerk.
 
 ## Tokenbeleid {#section_nwh_c5j_11b}
 
-De Activiteitenstroom-API gebruikt een OAuth-token voor verificatie. Dragertokens maken deel uit van de OAuth 2.0-specificatie en worden [hier](https://tools.ietf.org/html/rfc6750#section-1.2)officieel beschreven.
+De Activiteitenstroom-API gebruikt een OAuth-token voor verificatie. Dragertokens maken deel uit van de OAuth 2.0-specificatie en worden [hier](https://tools.ietf.org/html/rfc6750#section-1.2) officieel beschreven.
 
 Een token bevat verschillende elementen:
 
@@ -98,7 +101,7 @@ Wanneer de toonder-tokens als volgt worden gedefinieerd:
 * **is** *(Uitgever)* Een entiteit met de bevoegdheid tokens te genereren. Dit kan Livefyre, een plaats of een netwerk zijn. (Een notitie die laat op school moet zijn, is uw ouder.)
 * **aud** *(Publiek)* De persoon voor wie dit teken werd geproduceerd. Als u het token zelf maakt, is dit de site of het netwerk.
 * **sub** *(Onderwerp)* Het onderwerp waarvoor toestemmingen moeten worden verleend. Als u bijvoorbeeld een verzameling gebruikt, moet het onderwerp de id voor de verzameling zijn. (In de notitie van het schoolvoorbeeld bent u het.)
-* **exp** *(Expiration)* A point in time which the token is no longer valid.
+* **exp** *(Expiration)* Een tijdpunt waarop de token niet langer geldig is.
 * **scope** *(Scope)* This is a list of the permissions allowed on the subject. &quot;Te laat voor school&quot; is een voorbeeld. De naam van een API is een ander voorbeeld.
 
 ## Voorbeeld {#section_dhl_ytj_11b}
@@ -107,7 +110,7 @@ Wanneer de toonder-tokens als volgt worden gedefinieerd:
 curl -H "Authorization: Bearer <BEARER TOKEN>" https://bootstrap.livefyre.com/api/v3.1/activity/?resource=&since=
 ```
 
-## Antwoord {#section_gs2_stj_11b}
+## Reactie {#section_gs2_stj_11b}
 
 ```
 { 
@@ -273,8 +276,8 @@ Een reactie met nieuwe gegevens sinds het laatste verzoek:
 ## Notities {#section_hj3_crj_11b}
 
 * Een geslaagde aanroep van de API levert een HTTP 200-statuscode op. Alle andere statuscodes moeten als fouten worden beschouwd.
-* Als de waarde niet null is, gebruikt u de waarde van `data.meta.cursor.next` als de `since` parameter van uw volgende aanvraag.
-* Als de waarde van `data.meta.cursor.next` null is, betekent dit dat er geen nieuwe gegevens zijn om te verbruiken. U zou later met de zelfde `since` waarde opnieuw moeten verzoeken om te zien of zijn de nieuwe gegevens gearriveerd.
-* In de praktijk moet u onmiddellijk om meer gegevens vragen als de `data.meta.cursor.next` waarde niet null is.
+* Als niet-null, gebruik de waarde van `data.meta.cursor.next` als `since` parameter van uw volgende verzoek.
+* Als de waarde van `data.meta.cursor.next` ongeldig is, betekent het dat er geen nieuwe gegevens zijn om te verbruiken. U zou later met de zelfde `since` waarde opnieuw moeten verzoeken om te zien of zijn de nieuwe gegevens gearriveerd.
+* In de praktijk moet u onmiddellijk om meer gegevens vragen als de waarde `data.meta.cursor.next` niet null is.
 * Ongeveer twee uur van recente gegevens is beschikbaar door deze API in productie.
 * U zou uw processen moeten opstelling om dit eindpunt regelmatig op baan te onderzoeken om ontbrekende gegevens te vermijden. Voor de meeste implementaties moet een interval van vijf minuten perfect toereikend zijn.
