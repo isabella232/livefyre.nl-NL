@@ -7,15 +7,18 @@ title: Synchroniseren met Livefyre Ping for Pull gebruiken
 uuid: 7b059064-1cca-46d7-8055-dfe59f493ac1
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+workflow-type: tm+mt
+source-wordcount: '340'
+ht-degree: 0%
 
 ---
 
 
-# Synchroniseren met Livefyre Ping for Pull gebruiken{#sync-with-livefyre-using-ping-for-pull}
+# Synchroniseren met Livefyre Ping for Pull{#sync-with-livefyre-using-ping-for-pull}
 
 Gebruik Ping for Pull om Livefyre synchroon te houden met uw gebruikersbeheersysteem.
 
-In het algemeen ***pingelt*** u LiveCycle wanneer een gebruiker van uw website/app zijn profiel (vertoningsnaam, avatar, enz.) bijwerkt, en Livefyre ***trekt*** het bijgewerkte profiel van die gebruiker.
+In het algemeen ***Ping*** Leven wanneer een gebruiker van uw website/app zijn profiel (vertoningsnaam, avatar, enz.) bijwerkt, en Livefyre ***Pulls*** het bijgewerkte profiel van die gebruiker.
 
 ![](assets/Ping-for-Pull.png)
 
