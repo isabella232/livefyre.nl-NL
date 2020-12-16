@@ -6,6 +6,9 @@ title: Functie-API's
 uuid: eac3a156-0b60-4ffa-8b6f-e451eb03da77
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 0%
 
 ---
 
@@ -34,7 +37,7 @@ POST: https://{networkName}.quill.fyre.co/api/v3.0/collection/<collectionId>/fea
 {value: <number>} 
 ```
 
-De waarde wordt gebruikt voor het sorteren van aanbevolen inhoud, het grootst tot het kleinst (10 wordt vóór 1 weergegeven in de lijst met aanbevolen inhoud). Deze waarde is standaard **nu** in tijdperk, dus aanbevolen opmerkingen worden meestal Nieuwst naar Oudst gesorteerd.
+De waarde wordt gebruikt voor het sorteren van aanbevolen inhoud, het grootst tot het kleinst (10 wordt vóór 1 weergegeven in de lijst met aanbevolen inhoud). Deze waarde is standaard **now** in tijdperk, zodat aanbevolen opmerkingen doorgaans het nieuwste naar het oudste worden gesorteerd.
 
 **Voorbeeld-reactie**
 
@@ -46,7 +49,7 @@ De waarde wordt gebruikt voor het sorteren van aanbevolen inhoud, het grootst to
 >
 >Het gegevensveld is nog niet in gebruik.
 
-## Ongedaan maken {#section_knh_mqw_xz}
+## Onbekend {#section_knh_mqw_xz}
 
 **Resource**
 
