@@ -7,11 +7,14 @@ title: Uw sociale apps maken
 uuid: b3698e44-19ba-489f-a4d2-072ba5430974
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '58'
+ht-degree: 0%
 
 ---
 
 
-# Uw sociale apps maken{#create-your-social-apps}
+# Uw sociale toepassingen maken{#create-your-social-apps}
 
 Om uw gebruikers in staat te stellen zich aan te melden gebruikend hun geloofsbrieven voor deze sociale leveranciers:
 
