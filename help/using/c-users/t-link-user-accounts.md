@@ -7,6 +7,9 @@ title: Gebruikersaccounts koppelen
 uuid: f1106367-64f9-4304-aa04-f931f79ffd6d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '161'
+ht-degree: 0%
 
 ---
 
@@ -22,8 +25,8 @@ Koppel uw Studio-account aan uw Livefyre-account om al uw LiveCyre-sites of -net
 Accounts koppelen:
 
 1. Meld u aan bij Studio nadat u een gebruikersprofiel voor LiveCycle op uw netwerk hebt gemaakt.
-1. Ga naar **[!UICONTROL Users]**, zoek het gebruikersprofiel en dubbelklik om details weer te geven.
+1. Ga naar **[!UICONTROL Users]**, zoek uw Profiel van de Gebruiker, en klik tweemaal om details te bekijken.
 1. Klik op **[!UICONTROL Connect account]**.
 1. Selecteer in het venster dat wordt geopend de gebruikersaccount die u aan deze account wilt koppelen.
-1. Bevestig de **[!UICONTROL Link Profile]** gegevens en klik op **[!UICONTROL Link]**. ![](assets/UsersConnectAccount-1024x311.png)
+1. Bevestig de **[!UICONTROL Link Profile]** informatie en klik **[!UICONTROL Link]**. ![](assets/UsersConnectAccount-1024x311.png)
 
