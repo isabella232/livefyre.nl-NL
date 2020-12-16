@@ -7,6 +7,9 @@ title: Livefyre.js
 uuid: 7b3eca57-d5e8-416d-badf-a9c51d10dadd
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '509'
+ht-degree: 0%
 
 ---
 
@@ -15,11 +18,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 De kernbibliotheek van Livefyre die wordt gebruikt om Livefyre op uw plaats aan te drijven.
 
-`Livefyre.js` Dit is de kernbibliotheek die u op elke LiveCycle-webpagina kunt installeren. Het definieert het algemene `window.Livefyre` object en één openbare methode, `Livefyre.require`die kan worden gebruikt om andere LiveCycle JavaScript-bibliotheken te laden die u helpen bij het [insluiten van LiveCycle Apps](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md), door uw verificatieprovider te [integreren met LiveCycle](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) en meer.
+`Livefyre.js` Dit is de kernbibliotheek die u op elke LiveCycle-webpagina kunt installeren. Het definieert het globale `window.Livefyre`-object en één openbare methode, `Livefyre.require`, die kan worden gebruikt om andere LiveCycle JavaScript-bibliotheken te laden die helpen met [Livefyre Apps insluiten](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md), [Uw verificatieprovider integreren met LiveCycle](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) en meer.
 
 ## Toevoegen aan uw site {#section_cst_twg_xz}
 
-Voeg de volgende `<script>` tag toe aan uw webpagina of websitesjabloon. Voeg het indien mogelijk toe aan de `<head>` sectie van uw HTML-document, zodat het snel wordt geladen.
+Voeg de volgende tag `<script>` toe aan uw webpagina of websitesjabloon. Voeg het bestand indien mogelijk toe aan de sectie `<head>` van uw HTML-document, zodat het snel wordt geladen.
 
 ```
 <script src="//cdn.livefyre.com/Livefyre.js"></script>
@@ -31,15 +34,15 @@ Voeg de volgende `<script>` tag toe aan uw webpagina of websitesjabloon. Voeg he
 
 ## Livefyre.require {#section_ipq_hwg_xz}
 
-`Livefyre.require` is een aangepaste JavaScript-modulelader, zoals [curl.js](https://github.com/cujojs/curl) of [RequireJS](https://requirejs.org/). Het kan worden gebruikt om de meeste pakketten te laden die door Livefyre worden gepubliceerd en biedt een handig en intuïtief integratiepad.
+`Livefyre.require` is een aangepaste JavaScript-modulelader, zoals  [curl.](https://github.com/cujojs/curl) jsor  [RequireJS](https://requirejs.org/). Het kan worden gebruikt om de meeste pakketten te laden die door Livefyre worden gepubliceerd en biedt een handig en intuïtief integratiepad.
 
-Pakketten die toegankelijk zijn via `Livefyre.require` een versienummer, zijn [semantische versiering](https://semver.org/). Pakketten kunnen in een specifieke versie of in een reeks versies worden vereist, zodat uw webpagina automatisch kan profiteren van de nieuwe functies voor foutopsporing. Dit biedt u flexibiliteit bij het integreren van Livefyre op uw site. Er zijn drie niveaus van versie die u kunt gebruiken met `Livefyre.require`.
+Pakketten die toegankelijk zijn via `Livefyre.require` worden versioned met [Semantische versie](https://semver.org/). Pakketten kunnen in een specifieke versie of in een reeks versies worden vereist, zodat uw webpagina automatisch kan profiteren van de nieuwe functies voor foutopsporing. Dit biedt u flexibiliteit bij het integreren van Livefyre op uw site. Er zijn drie niveaus van versie die u met `Livefyre.require` kunt gebruiken.
 
 * **package-name#1:** Vastzetten op hoofdversie v1. U ontvangt alle nieuwe updates die een achterwaarts compatibele API onderhouden. Vastzetten aan een belangrijke versie om insectenmoeilijke situaties en minder belangrijke eigenschapverhogingen voor die versie te ontvangen.
-* **package-name#1.1:** Vastzetten op secundaire versie v1.1. Alle problemen worden in deze kleine versie opgelost. Met LiveCycle Engineering wordt altijd een kleine versie van een pakket geplaatst als het standaardgedrag of het functionele bereik zodanig verandert dat er nieuw, onverwacht gedrag op de webpagina kan optreden. Als u geautomatiseerde foutoplossingen wilt ontvangen, maar geen aanvullende functionaliteit of wijzigingen in standaardgedrag wilt toepassen, moet u deze vastzetten in een lagere versie.
-* **package-name#1.1.1:** Vastzetten op patchversie v1.1.1. Het gedrag van deze insluiten verandert nooit, zelfs niet als er fouten zijn. Zet aan een flardversie als u uitgebreide CSS aanpassingen voor uw plaats hebt die van de de prijsverhogingsstructuur van een pakket afhangen die kan veranderen, of als u andere redenen hebt om te verkiezen dat de versie van de Levensstijl u loopt op geen enkele manier zal veranderen.
+* **package-name#1.1:** Pin to minor version v1.1. Alle problemen worden in deze kleine versie opgelost. Met LiveCycle Engineering wordt altijd een kleine versie van een pakket geplaatst als het standaardgedrag of het functionele bereik zodanig verandert dat er nieuw, onverwacht gedrag op de webpagina kan optreden. Als u geautomatiseerde foutoplossingen wilt ontvangen, maar geen aanvullende functionaliteit of wijzigingen in standaardgedrag wilt toepassen, moet u deze vastzetten in een lagere versie.
+* **package-name#1.1.1:** Vastmaken aan patchversie v1.1.1. Het gedrag van deze insluiten verandert nooit, zelfs niet als er fouten zijn. Zet aan een flardversie als u uitgebreide CSS aanpassingen voor uw plaats hebt die van de de prijsverhogingsstructuur van een pakket afhangen die kan veranderen, of als u andere redenen hebt om te verkiezen dat de versie van de Levensstijl u loopt op geen enkele manier zal veranderen.
 
-Een voorbeeldintegratie met behulp van `Livefyre.require` kan er als volgt uitzien:
+Een voorbeeldintegratie met `Livefyre.require` zou als volgt kunnen kijken:
 
 ```
 <!-- First add Livefyre.js to the page --> 
@@ -61,11 +64,11 @@ Livefyre.require([
 
 Welke LiveCycle JavaScript-pakketten zijn beschikbaar via `Livefyre.require`? Hier vindt u altijd een bijgewerkte lijst met ondersteunde pakketten en de meest recente versies: [packages.html](https://cdn.livefyre.com/packages.html).
 
-## Versies van pakketten die vooraf zijn uitgebracht testen {#section_pgm_dpg_xz}
+## Prereleaseversies van pakketten testen {#section_pgm_dpg_xz}
 
 Soms wilt u een volgende versie van een LiveCycle-pakket testen om ervoor te zorgen dat het op uw website werkt of om een functie die op uw verzoek wordt ontwikkeld, te accepteren. Naast het opnemen van een Semantische waaier van de Versie, kan het preUAT milieu worden gespecificeerd.
 
-Hieronder vindt u bijvoorbeeld de UAT-release van `fyre.conv`, de toepassingen Opmerkingen, Live Blog en Chat.
+Hieronder vindt u bijvoorbeeld de UAT-release van `fyre.conv`, de toepassingen Opmerkingen, Live blog en Chat.
 
 ```
 Livefyre.require(['fyre.conv#uat'], callback); 
