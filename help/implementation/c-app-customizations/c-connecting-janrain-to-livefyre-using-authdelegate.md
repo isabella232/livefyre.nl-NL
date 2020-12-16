@@ -6,6 +6,9 @@ title: Janrain verbinden met Livefyre met gebruik van AuthDelegate
 uuid: 9d56e3f4-960a-4108-aab5-2795b0e71c88
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '276'
+ht-degree: 0%
 
 ---
 
@@ -76,9 +79,9 @@ authDelegate.login = function(finishLogin) {
 
 Afmelden
 
-* **finishLogout:** De callback ging tot de login van uw auteur methode over.
+* **finishLogout:** De callback ging tot de login methode van uw auth afgevaardigde over.
 
-* **window.Backplane:** Een verwijzing naar het object Backplane.
+* **window.Backplane:** Een verwijzing naar uw Backplane-object.
 
 ```
 /** 
