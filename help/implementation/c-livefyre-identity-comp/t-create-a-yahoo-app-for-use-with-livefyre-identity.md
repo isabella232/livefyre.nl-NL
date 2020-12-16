@@ -7,11 +7,14 @@ title: Maak een Yahoo! Toepassen voor gebruik met livefyre-id
 uuid: 6863cd2e-eb0d-465b-b706-88ecaccf41bc
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '234'
+ht-degree: 0%
 
 ---
 
 
-# Maak een Yahoo! Toepassen voor gebruik met livefyre-id{#create-a-yahoo-app-for-use-with-livefyre-identity}
+# Maak een Yahoo! App voor gebruik met LiveCyre-identiteit{#create-a-yahoo-app-for-use-with-livefyre-identity}
 
 U kunt Livefyre Identity gebruiken met Yahoo! om gebruikers toe te staan hun Yahoo te gebruiken! meldt zich aan om te communiceren met Apps op uw site.
 
@@ -22,9 +25,9 @@ Uw gebruikers kunnen zich alleen aanmelden met hun Yahoo-referenties als Livefyr
 
 Een Yahoo maken! app voor gebruik met LiveCycle Identity:
 
-1. Ga naar [https://developer.yahoo.com/apps/](https://developer.yahoo.com/apps/)en meld u aan bij uw Yahoo! een nieuwe account maken of een bestaande app selecteren voor gebruik met LiveCycle Identity.
+1. Ga naar [https://developer.yahoo.com/apps/](https://developer.yahoo.com/apps/) en meld u aan bij uw Yahoo! een nieuwe account maken of een bestaande app selecteren voor gebruik met LiveCycle Identity.
 1. Selecteer **[!UICONTROL Application Type: Web Application]**.
-1. Enter **[!UICONTROL Callback Domain:]**`https://identity.livefyre.com`
+1. **[!UICONTROL Callback Domain:]** `https://identity.livefyre.com` invoeren
 1. Selecteer **[!UICONTROL API Permissions: Profiles (Social Directory)]** en **[!UICONTROL Read Public]**.
 
    Wanneer deze bewerking is voltooid, wordt op de pagina met toepassingsdetails van Yahoo de client-id (Consumer Key) en de clientgeheim (Consumer Secret) vermeld voor gebruik op de pagina Integratie-instellingen van Studio.
