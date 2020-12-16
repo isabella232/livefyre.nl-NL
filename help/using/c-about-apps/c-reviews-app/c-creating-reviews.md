@@ -7,6 +7,9 @@ title: Een Revisietoepassing maken
 uuid: 6caeafe7-c04e-484e-b02f-98dc6d9b3184
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '731'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Revisies bieden een breed scala aan aanpassingen, zodat u een Revisie-app kunt maken die aan uw behoeften en branding voldoet.
 
-Gebruik de Reviews-app door deze als een JS-toepassing op uw site in te sluiten. U kunt geen Revisies-app maken in LiveCyre Studio. Zie [Revisies-integratie](/help/implementation/c-app-integrations/c-reviews-integration.md)voor informatie over het maken van een Revisies-app op uw site.
+Gebruik de Reviews-app door deze als een JS-toepassing op uw site in te sluiten. U kunt geen Revisies-app maken in LiveCyre Studio. Zie [Integratie van revisies](/help/implementation/c-app-integrations/c-reviews-integration.md) voor informatie over het maken van een Revisies-app op uw site.
 
 
 ## Waarderingen {#section_hs5_c4h_21b}
@@ -26,13 +29,13 @@ De beoordelingsschaal van 0,5 tot en met 5 kan worden geconfigureerd tot een rat
 
 Zie het veld maxRating voor het object Reviews convConfig voor meer informatie.
 
-## Stijl classificatiepictogram {#section_cqn_c4h_21b}
+## Stijl van classificatiepictogram {#section_cqn_c4h_21b}
 
 Beoordelingspictogrammen kunnen worden aangepast aan uw merk en stijl.
 
-Zie **[!UICONTROL Configure Star Ratings]** onder Revisies-aanpassing voor meer informatie.
+Raadpleeg **[!UICONTROL Configure Star Ratings]** onder Aanpassing van revisies voor meer informatie.
 
-## Beoordelingsafmetingen {#section_cnx_snh_21b}
+## Dimension voor waardering {#section_cnx_snh_21b}
 
 Beoordelingsdimensies zijn de categorieën waarover uw revisoren uw product of service beoordelen. Voorbeelden van beoordelingsdimensies zijn &#39;prestaties&#39;, &#39;ontwerp&#39;, &#39;kosten&#39;, &#39;totaal&#39; of een andere categorie die u kiest.
 
@@ -40,7 +43,7 @@ Standaard wordt één &quot;algemene&quot; ratingdimensie weergegeven, maar u ku
 
 Zie het veld RatingDimensions onder Metagegevens verzameling revisie voor meer informatie.
 
-## Tekstvelden controleren {#section_xcm_4nh_21b}
+## Tekstvelden {#section_xcm_4nh_21b} controleren
 
 U kunt ook extra tekstvelden toevoegen aan het product of de ervaring die wordt gecontroleerd. (Tekstvelden kunnen bijvoorbeeld Pros en Cons bevatten, of Niet Mappen.) Het nummer, de titel en de standaardtekst voor het veld kunnen worden aangepast. Gebruikers moeten alle tekstvelden invullen, evenals de titel, de instantie en de classificatie van de revisie, om hun revisie te publiceren. Optionele tekstvelden kunnen niet worden opgenomen.
 
@@ -52,7 +55,7 @@ Standaard wordt een overzichtssectie boven aan de Revisies-app weergegeven. Deze
 
 Zie het veld ratingSummaryEnabled voor het object Reviews convConfig voor meer informatie.
 
-## Filter Spam en Winstgevendheid {#section_hcm_jnh_21b}
+## Filter Spam en Profaniteit {#section_hcm_jnh_21b}
 
 De tekst van de Titel en het Lichaam van een Overzicht wordt overgegaan door ons filter van de Filter van het Spam en van de Winst zodra het Overzicht wordt gepost.
 
@@ -60,7 +63,7 @@ De tekst van de Titel en het Lichaam van een Overzicht wordt overgegaan door ons
 
 Tekstreeksen, inclusief knopinfo en labels, kunnen worden aangepast aan de taal of uw merk.
 
-## Reageren op een revisie {#section_yng_fnh_21b}
+## Beantwoorden op een revisie {#section_yng_fnh_21b}
 
 Gebruikers kunnen in elke Revisieverzameling reageren op hun eigen of andere revisie. Alleen gebruikers die zijn aangemeld, kunnen een reactie op een revisie plaatsen.
 
@@ -70,13 +73,13 @@ De optie voor gebruikers om op een Overzicht te antwoorden wordt toegelaten in S
 
 Omdat Revisies zijn ontworpen om een numerieke waarde toe te voegen voor elk stukje verzonden inhoud, worden SocialSync en Curate niet ondersteund in de Revisies.
 
-## API&#39;s voor revisies {#section_xrh_wmh_21b}
+## Revisies-API&#39;s {#section_xrh_wmh_21b}
 
-Revisies-API&#39;s zijn beschikbaar zodat u de gemiddelde informatie over de classificatie en de classificatie van gebruikers en de activiteiten van gebruikersbeoordelingen op andere secties van de site kunt weergeven.
+Revisies-API&#39;s zijn beschikbaar zodat u gemiddelde informatie over de beoordeling van gebruikers en de classificaties kunt weergeven en de activiteiten van gebruikers op andere secties van de site kunt bekijken.
 
 [Beoordelingen en beoordelingen](https://api.livefyre.com/docs/apis/by-category/ratings-and-reviews)
 
-* **[!UICONTROL Bootstrap API Endpoint]** Met het eindpunt van de Bootstrap-API kan uw revisie worden gelezen door zoekmachines zoals Google, zodat de inhoud en trefwoorden de optimalisatie van uw zoekmachine kunnen verbeteren.
+* **[!UICONTROL Bootstrap API Endpoint]** Met het eindpunt van de Bootstrap API kan uw revisie worden gelezen door zoekmachines zoals Google, zodat de inhoud en trefwoorden de optimalisatie van uw zoekmachine kunnen verbeteren.
 
 * **[!UICONTROL Average User Ratings]** Met de API Gemiddelde gebruikersbeoordelingen haalt u de gemiddelde gebruikersclassificatie voor een of meer Revisies-verzamelingen op. Zo kunt u een visualisatie van deze gegevens op een indexpagina maken of aan een zoekindexpagina toevoegen.
 
