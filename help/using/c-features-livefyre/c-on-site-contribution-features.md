@@ -7,11 +7,14 @@ title: Functies voor on-site interventie
 uuid: 1f441490-28eb-4fc4-9fe8-0879c62c4b4a
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '302'
+ht-degree: 1%
 
 ---
 
 
-# Functies voor on-site interventie{#on-site-contribution-features}
+# Functies voor on-site bijdrage{#on-site-contribution-features}
 
 Kies hoe sitebezoekers communiceren met Apps en op welke manieren ze met de inhoud kunnen communiceren.
 
@@ -51,7 +54,7 @@ Toepassingen die deze functie gebruiken:
 
 * [Knop Uploaden](../c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
 
-## Compatibel met Upload Button {#section_vzs_t2s_d1b}
+## Knop Uploaden compatibel {#section_vzs_t2s_d1b}
 
 U kunt ervoor kiezen om een knop Uploaden in uw app weer te geven waarmee sitebezoekers tekst of media kunnen uploaden naar een app of uw bibliotheek.
 
