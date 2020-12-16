@@ -6,6 +6,9 @@ title: Hovercards
 uuid: a7336a4d-b92f-4b3b-a3de-713aa388b58a
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '205'
+ht-degree: 0%
 
 ---
 
@@ -20,11 +23,11 @@ De Livefyre Hovercard is een pop-up die een snelle momentopname van gebruikersin
 >
 >Hovercards kunnen op het netwerkniveau worden in- of uitgeschakeld en worden geïmplementeerd of uitgeschakeld in alle sites onder uw aangepaste netwerk. Neem contact op met uw accountmanager als u hyperlinks wilt inschakelen voor uw netwerk.
 
-## Hovercards bekijken {#section_zjl_jtk_wy}
+## Hovercards {#section_zjl_jtk_wy} weergeven
 
 Als u de muisaanwijzer op de avatar van een gebruiker plaatst voor opmerkingen, liveblogs of chatberichten, wordt de bijbehorende hoofdkaart weergegeven.
 
-Als u op deze knop klikt, gaat de gebruiker naar de volledige profielpagina voor die gebruiker. **[!UICONTROL View Full Profile]**
+Als u op **[!UICONTROL View Full Profile]** klikt, gaat de gebruiker naar de volledige profielpagina voor die gebruiker.
 
 >[!NOTE]
 >
