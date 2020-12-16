@@ -1,15 +1,18 @@
 ---
-description: Opmerkingen bij de nieuwste release voor Adobe LiveCycle.
-seo-description: Opmerkingen bij de nieuwste release voor Adobe LiveCycle.
-seo-title: Opmerkingen bij de nieuwste release van Adobe LiveCyre
+description: Opmerkingen bij de nieuwste release voor Adobe Livefyre.
+seo-description: Opmerkingen bij de nieuwste release voor Adobe Livefyre.
+seo-title: Opmerkingen bij de nieuwste release voor Adobe Livefyre
 title: Opmerkingen bij de nieuwste release voor LiveCyre
 translation-type: tm+mt
 source-git-commit: 0efc365d4496bd44142ad1513f51163f24676084
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 0%
 
 ---
 
 
-# Opmerkingen bij de huidige release {#current-release-notes}
+# Huidige releaseopmerkingen {#current-release-notes}
 
 **Opmerkingen bij de release voor de update van 11 juli 2019.**
 
