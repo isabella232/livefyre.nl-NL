@@ -7,6 +7,9 @@ title: Opmerkingen bij de release van Livefyre dec 13, 2018
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
 source-git-commit: 6d0f9feb17ca65391242e95651a89d734d297cb2
+workflow-type: tm+mt
+source-wordcount: '216'
+ht-degree: 0%
 
 ---
 
@@ -33,11 +36,11 @@ U kunt:
 
    >[!NOTE]
    >
-   >Als u in Instagram wilt zoeken op zakelijke gebruiker, moeten zowel u als de auteur van de inhoud van het Installagram een zakelijke account hebben. Voor informatie over hoe te opstelling een Van het Bedrijfs installatieschema rekening in de Studio van Adobe LiveCycle, zie het [Creëren van rekeningen met de Toegang](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)van Studio.
+   >Als u in Instagram wilt zoeken op zakelijke gebruiker, moeten zowel u als de auteur van de inhoud van het Installagram een zakelijke account hebben. Voor informatie over hoe te opstelling een Van het bedrijfs installatieschema rekening in de Studio van Adobe Livefyre, zie [het Creëren van rekeningen met Studio Access](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 * U kunt nu met de volgende functionaliteit zoeken in Instagram op hashtag:
 
    * **[!UICONTROL Top Tags Search]**: Zoek naar de populairste media geëtiketteerd met een specifieke hashtag. Bovenste labels worden bepaald door de criteria die hier worden beschreven: [](https://developers.facebook.com/docs/instagram-api/reference/hashtag/top-media)
    * **[!UICONTROL Recent Tags Search]**: Zoek de meest recente posts met de hashtag.
 
-Voor meer informatie over de bijgewerkte functionaliteit van het Installagram, [zie de video van een webinar die de eigenschappen hier](https://youtu.be/wRkGc3obaOA)toelicht.
+Voor meer informatie over de bijgewerkte functionaliteit van het Installagram, [zie de video van een webinar waarin de eigenschappen hier worden uitgelegd](https://youtu.be/wRkGc3obaOA).
