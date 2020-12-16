@@ -7,6 +7,9 @@ title: Toepassingsaanpassingen
 uuid: 6f27654d-c2b4-45b5-aae7-6fbf312fb829
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '171'
+ht-degree: 0%
 
 ---
 
@@ -29,11 +32,11 @@ LiveCycle biedt verschillende manieren om de interactie en weergaveopties van uw
 
 * **Inhoud markeren**
 
-   Met stijlen kunt u geselecteerde inhoud of gebruikersgroepen weergeven en promoten.
+   Met stijlen kunt u geselecteerde inhoud of gebruikersgroepen functies geven en promoten.
 
 * **Aangepaste knoppen toevoegen**
 
-   Trigger douaneacties wanneer de gebruikers met uw Levensmiddelenapp in wisselwerking staan.
+   Aangepaste acties activeren wanneer gebruikers met uw LiveCycle-app werken.
 
 * **Luisteren naar toepassingsgebeurtenissen**
 
