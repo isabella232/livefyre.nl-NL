@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Gebruik het lusje van de Moderatie om premoderatieregels voor inkomende inhoud, met inbegrip van woekerlijsten, vlagregels, en verboden IP adressen te plaatsen.
 
-## Hoe Moderatie werkt {#section_kyf_gvc_t1b}
+## Hoe Moderatie {#section_kyf_gvc_t1b} werkt
 
 U kunt inhoud op de volgende manieren verkleinen:
 
@@ -31,18 +31,18 @@ U kunt inhoud automatisch op de volgende manieren premodereren:
 
 * Stel regels in om bepaalde typen inhoud automatisch te markeren:
 
-   * Vlagregels instellen voor inhoud die is gemarkeerd door de vlag voor sitebezoekers **[!UICONTROL Settings > Moderation > Rules]**
+   * Vlagregels instellen voor inhoud die is gemarkeerd door de vlag voor sitebezoekers met **[!UICONTROL Settings > Moderation > Rules]**
    * VEILIGE regels instellen met **[!UICONTROL Settings > Moderation > Rules]**
    * Specifieke Twitter-gebruikers verbieden met **[!UICONTROL Settings > Streams]**
    * IP-adressen verbieden met **[!UICONTROL Settings > Bans]**
    * IP-regio&#39;s per landcode op verzoek verbieden. Geboden inhoud wordt gemarkeerd als SPAM.
 
-* Maak een lijst met woorden die u als gewin beschouwt in de lijst Rentabiliteit onder **[!UICONTROL Settings > Moderation > Rules]** voor uw netwerk of site.
+* Maak een lijst met woorden die u als gewin beschouwt in de lijst Rendement onder **[!UICONTROL Settings > Moderation > Rules]** voor uw netwerk of site.
 * Gebruikers met een lijst toestaan (inhoud van deze gebruikers altijd toestaan om weer te geven) door filters voor specifieke streams, sites of netwerken te gebruiken of uit te schakelen.
 
-Nadat u de dieptelijsten, de filters van de VEILIGHEID, en de regels hebt opgesteld, kunt u verkiezen of om inhoud te premodereren en de filters van de VEILIGHEID in stromen toe te passen. Zie Opties [stroomregel voor alle stroomregels](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)voor meer informatie.
+Nadat u de dieptelijsten, de filters van de VEILIGHEID, en de regels hebt opgesteld, kunt u verkiezen of om inhoud te premodereren en de filters van de VEILIGHEID in stromen toe te passen. Voor meer informatie, zie [de Opties van de Regel van de stroom voor Alle Regels van de Stroom](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
 
-In LiveCycle wordt inhoud gemarkeerd als **[!UICONTROL Approved]**, **[!UICONTROL Pending]**, **[!UICONTROL Junk]** enzovoort. afhankelijk van waar de inhoud vandaan komt, waar deze wordt gepubliceerd en welke regels u in uw systeem hebt ingesteld. In de volgende tabel worden de acties beschreven die Livefyre, afhankelijk van deze factoren, in detail uitvoert.
+In LiveCycle wordt inhoud gemarkeerd als **[!UICONTROL Approved]**, **[!UICONTROL Pending]**, **[!UICONTROL Junk]**, enz. afhankelijk van waar de inhoud vandaan komt, waar deze wordt gepubliceerd en welke regels u in uw systeem hebt ingesteld. In de volgende tabel worden de acties beschreven die Livefyre, afhankelijk van deze factoren, in detail uitvoert.
 
 ## Hoe Moderatie werkt
 
@@ -56,7 +56,7 @@ In LiveCycle wordt inhoud gemarkeerd als **[!UICONTROL Approved]**, **[!UICONTRO
 | Streepjesregel | Map | Is de inhoud door het filter VEILIG gemarkeerd als Gebrok? <br><ul><li>Nee - geen status (in map, niet gepubliceerd, niet getrapt)</li><li>Ja - Inhoud is opgeschoond</li></ul> |
 | App Post | App | Is de inhoud door het filter VEILIG gemarkeerd als Gebrok? <br><ul><li>No - Post-to-App Moderation Workflow</li><li>Ja - Inhoud is opgeschoond</li></ul> |
 
-## Workflow voor streamings-naar-app moderatie {#section_z5z_w4d_t1b}
+## Stream-naar-app Moderation Workflow {#section_z5z_w4d_t1b}
 
 ![](assets/stream_to_app_workflow.png)
 
@@ -69,10 +69,10 @@ Voordat de inhoud van een stream naar een app wordt gepubliceerd, voert LiveCyre
 1. Als premoderatie niet is ingeschakeld, controleert LiveCyre of de inhoud is gemarkeerd met SAFE.
 1. Als de inhoud met de vlag SAFE is gemarkeerd, keurt LiveCyre de inhoud goed en publiceert het de inhoud naar de app.
 1. Als SAFE de inhoud markeert en u geen VEILIGE regels opstelde, dan keurt Livefyre de inhoud goed en publiceert de inhoud naar App.
-1. Als de VEILIGE vlaggen de inhoud en u opstelling VEILIGE regels, Levenslang controleert als u de regels van de opstelling VEILIGE voor de Stroom.
+1. Als de VEILIGE vlaggen de inhoud en u opstelling VEILIGE regels, Levenslang controleert als u opstelling VEILIGE regels voor de Stroom.
 1. Als u SAFE-regels instelt voor de stream, keurt Livefyre de inhoud goed en publiceert het de inhoud naar de app. Als u geen VEILIGE regels voor de stroom opstelde, gebruikt Livefefyre de regels van de moderatieVEILIGE om te bepalen hoe te om de inhoud te behandelen (verzend naar ModQ, afval, enz.).
 
-## Workflow voor postapp-moderatie {#section_fwn_w4d_t1b}
+## Workflow {#section_fwn_w4d_t1b} voor modernisering na toepassing
 
 ![](assets/post_to_app_workflow.png)
 
@@ -92,7 +92,7 @@ Met het filter Bulk zoekt u naar herhaalde inhoud die binnen een korte tijdsperi
 Gebruik de sectie van Regels om pre-moderatieregels tot stand te brengen, die op VEILIG en gebruiker toegepaste vlaggen worden gebaseerd. Dit paneel biedt twee soorten regels:
 
 * **[!UICONTROL Flag Rules:]** Geef een actie op die moet worden uitgevoerd op een opmerking die door gebruikers een bepaald aantal keren is gemarkeerd.
-* **[!UICONTROL SAFE Rules:]**VEILIGE vlaggen combineren met acties om de gemarkeerde inhoud over te nemen.
+* **[!UICONTROL SAFE Rules:]**combineer VEILIGE vlaggen met acties om de gemarkeerde inhoud over te nemen.
 
 Als u Vlagregels wilt maken, selecteert u de markering (Aanstootgevend, Van onderwerp, Niet akkoord of Spam), geeft u het aantal keren op dat deze op een stuk inhoud moet worden toegepast en selecteert u de actie die u wilt uitvoeren. U kunt één vlagregel instellen voor elke vlagoptie (Aanstootgevend, Uit Onderwerp, Niet akkoord of Spamma).
 
@@ -100,22 +100,22 @@ U kunt regels op de niveaus van het Netwerk, van de Plaats, en van de Stroom tot
 
 Beschikbare acties:
 
-* **[!UICONTROL Trash it:]**stuurt de gemarkeerde opmerking naar de prullenbak.
+* **[!UICONTROL Trash it:]** verzendt de gemarkeerde opmerking naar de prullenbak.
 * **[!UICONTROL Bozo it:]** Hiermee verbergt u de gemarkeerde opmerking van alle gebruikers, met uitzondering van de schrijver, aan wie deze zichtbaar blijft.
-* **[!UICONTROL Pending:]** stelt de inhoud in als in behandeling. Als u Premoderatie aan onder plaatst, dan zal het in ModQ zijn. **[!UICONTROL Settings > ModQ]** Anders is dit alleen in App Content.
+* **[!UICONTROL Pending:]** stelt de inhoud in als in behandeling. Als u Premoderatie aan onder **[!UICONTROL Settings > ModQ]** plaatst, dan zal het in ModQ zijn. Anders is dit alleen in App Content.
 
 >[!NOTE]
 >
 >Livefefyre raadt u aan regels voor Bozo-opmerkingen te maken die door vijf gebruikers zijn gemarkeerd als Spam of Aanstootgevend.
 
-## Aanbevelingen voor modernisering {#section_ec3_vr3_2cb}
+## Moderatie Recommendations {#section_ec3_vr3_2cb}
 
-U kunt aanbevelingen voor moderatie gebruiken om u te helpen bepalen hoe te om inhoud te matigen die door plaatsbezoekers in Apps Livefyre wordt geplaatst. De indicator van de Aanbeveling van de Moderatie adviseert wanneer een stuk van inhoud waarschijnlijk zal worden gesloopt, gebaseerd op welke acties u eerder over gelijkaardige inhoud nam. Aanbevelingen voor moderatie gebruiken:
+U kunt aanbevelingen voor moderatie gebruiken om u te helpen bepalen hoe te om inhoud te matigen die door plaatsbezoekers in Apps Livefyre wordt geplaatst. De indicator van de Aanbeveling van de Moderatie adviseert wanneer een stuk van inhoud waarschijnlijk zal worden gesloopt, gebaseerd op welke acties u eerder over gelijkaardige inhoud nam. Moderatie Recommendations gebruiken:
 
-1. Schakel de functie Moderation Recommendations in door contact op te nemen met uw Adobe LiveCyre-supportprofessional.
+1. Schakel de functie Moderation Recommendations in door contact op te nemen met uw Adobe Livefyre-supportprofessional.
 1. De aanbevelingen van de opstellingsmoderatie in de Montages van het Netwerk.
 
-   Stel moderatie-aanbevelingen in met behulp van de **[!UICONTROL Livefyre Recommends Trash]** instelling onder **[!UICONTROL Network Settings]**.
+   Stel moderatie-aanbevelingen in met de instelling **[!UICONTROL Livefyre Recommends Trash]** onder **[!UICONTROL Network Settings]**.
 
    ![](assets/image_mod_reco_trash.png)
 
@@ -123,12 +123,12 @@ U kunt aanbevelingen voor moderatie gebruiken om u te helpen bepalen hoe te om i
 
    ![](assets/modreco4.png)
 
-1. Gebruik de code **[!UICONTROL Moderation Recommendation Indicator]** in ModQ of in App Content om inhoud te filteren die volgens de moderatieaanbeveling waarschijnlijk zal worden getrapt.
+1. Gebruik **[!UICONTROL Moderation Recommendation Indicator]** in ModQ of in de Inhoud van de Toepassing om inhoud te filtreren die de moderatieaanbeveling als waarschijnlijk beschouwt om worden getrapt.
 
    In ModQ ziet de indicator er als volgt uit:  ![](assets/mod_reco1.png)
 
-   Voor meer informatie over hoe te om de Aanbevelingen van de Moderatie te gebruiken om inhoud in ModQ te matigen, zie [ModQ](/help/using/c-features-livefyre/c-about-moderation/c-modq.md#c_modq).
+   Zie [ModQ](/help/using/c-features-livefyre/c-about-moderation/c-modq.md#c_modq) voor meer informatie over het gebruik van Moderation Recommendations voor het verkleinen van inhoud in ModQ.
 
    In App Content zien de aanbevelingen van de matiging er als volgt uit:  ![](assets/modreco3.png)
 
-   Voor meer informatie over hoe te om de Aanbevelingen van de Moderatie in de Inhoud van de Toepassing te gebruiken, zie [Moderne Inhoud Gebruikend de Inhoud](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content)van de Toepassing.
+   Voor meer informatie over hoe te om de Moderatie Recommendations in de Inhoud van de Toepassing te gebruiken, zie [Moderate Inhoud Gebruikend App Inhoud](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).
