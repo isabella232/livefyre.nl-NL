@@ -7,6 +7,9 @@ title: Gebruikersberichten
 uuid: 41242f4d-614c-4737-a1f6-6f0a914f5f7f
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '656'
+ht-degree: 0%
 
 ---
 
@@ -17,11 +20,11 @@ Gebruikers toestaan inhoud in uw verzamelingen te plaatsen, te bewerken, te mark
 
 Met LiveCycle Apps kunnen uw gebruikers inhoud naadloos en intuïtief plaatsen en interageren. De interface LiveCycle biedt rijke tekst- en afbeeldingsinvoer, de mogelijkheid om te houden van opmerkingen van anderen, vlaggen of reageren op opmerkingen van anderen, en de mogelijkheid om uw eigen, vorige posts te bewerken of te verwijderen.
 
-## Post {#section_bty_ww2_wy}
+## {#section_bty_ww2_wy} plaatsen
 
-Gebruikers kunnen inhoud na het aanmelden plaatsen door een opmerking of een mediakoppeling in te voeren in het editorvak en te klikken **[!UICONTROL Post comment]**.
+Gebruikers kunnen inhoud na het aanmelden plaatsen door een opmerking of mediakoppeling in te voeren in het editorvak en op **[!UICONTROL Post comment]** te klikken.
 
-Als u inhoud wilt posten wanneer u zich niet hebt aangemeld, voeren gebruikers een opmerking of een mediakoppeling in de editor in en klikken ze **[!UICONTROL Post comment as…]**. Het aanmeldingsvenster verschijnt om een aanmeldingsaanvraag in te dienen.
+Als gebruikers inhoud willen posten wanneer ze zich niet hebben aangemeld, voeren ze een opmerking of een mediakoppeling in de editor in en klikken ze op **[!UICONTROL Post comment as…]**. Het aanmeldingsvenster verschijnt om een aanmeldingsaanvraag in te dienen.
 
 (In de meeste browsers zijn opmerkingen van 8.000 tekens toegestaan. Internet Explorer staat 1.500 tekens toe.)
 
@@ -39,25 +42,25 @@ Gebruikers kunnen reageren op opmerkingen in een thread door op de koppeling Rea
 
 Voor Chat en Levende Blog, kunnen de antwoorden worden toegelaten of worden onbruikbaar gemaakt gebruikend de montages van de Inzameling binnen Studio.
 
-## leuk {#section_its_kw2_wy}
+## Als {#section_its_kw2_wy}
 
-Gebruikers moeten zijn aangemeld om de inhoud van een andere gebruiker te mogen beamen en mogen hun eigen inhoud niet leuk vinden.
+Gebruikers moeten zijn aangemeld om de inhoud van een andere gebruiker te mogen bedienen en mogen hun eigen inhoud niet leuk vinden.
 
-Naast de **[!UICONTROL Like]** knop worden maximaal vier gebruikersavatars weergegeven.
+Naast de knop **[!UICONTROL Like]** worden maximaal vier gebruikersavatars weergegeven.
 
-Als u inhoud als iets verliest, verandert de **[!UICONTROL Like]** koppeling in **[!UICONTROL Unlike]**. Als u klikt, wordt de avatar voor die gebruiker verwijderd en wordt het getal met 1 verlaagd. **[!UICONTROL Unlike]**
+Als u inhoud van de koppeling **[!UICONTROL Like]** wilt voorzien, wordt deze gewijzigd in **[!UICONTROL Unlike]**. Als u op **[!UICONTROL Unlike]** klikt, wordt de avatar voor die gebruiker verwijderd en wordt het getal met 1 verlaagd.
 
-## Bewerken {#section_ubt_qwx_vy}
+## {#section_ubt_qwx_vy} bewerken
 
-Standaard kunnen gebruikers hun eigen inhoud binnen 5 minuten na het plaatsen bewerken door op de **[!UICONTROL Edit]** koppeling te klikken om een tekstvak Bewerken te openen.
+Standaard kunnen gebruikers hun eigen inhoud binnen 5 minuten na het posten bewerken door op de koppeling **[!UICONTROL Edit]** te klikken om een tekstvak Bewerken te openen.
 
 U kunt deze eigenschap op het niveau van de Inzameling onbruikbaar maken gebruikend het paneel van Montages van Studio. Het deelvenster Instellingen kan ook worden gebruikt om de tijd te wijzigen waarin opmerkingen op netwerkniveau kunnen worden bewerkt.
 
 De moderatoren kunnen gebruikersinhoud op elk ogenblik uitgeven, zowel gealigneerd in de stroom als van het paneel van de Inhoud.
 
-## Verwijderen {#section_gbr_pwx_vy}
+## {#section_gbr_pwx_vy} verwijderen
 
-Gebruikers kunnen hun eigen inhoud op elk gewenst moment verwijderen door op de inhoud te klikken **[!UICONTROL Delete]** (deze wordt weergegeven wanneer ze de muisaanwijzer op de inhoud plaatsen). De moderatoren kunnen klikken **[!UICONTROL Delete]** om de inhoud van om het even welke gebruiker te verwijderen. ( **[!UICONTROL Delete]** is niet beschikbaar op mobiel.)
+Gebruikers kunnen hun eigen inhoud op elk gewenst moment verwijderen door op **[!UICONTROL Delete]** te klikken (weergegeven wanneer ze de muisaanwijzer op de inhoud plaatsen). De moderatoren kunnen **[!UICONTROL Delete]** klikken om de inhoud van om het even welke gebruiker te verwijderen. ( **[!UICONTROL Delete]** is niet beschikbaar op mobiele apparaten.)
 
 >[!NOTE]
 >
@@ -65,9 +68,9 @@ Gebruikers kunnen hun eigen inhoud op elk gewenst moment verwijderen door op de 
 
 ## Markering {#section_j3l_qvx_vy}
 
-Gebruikers kunnen de vlag van de inhoud van een andere gebruiker voeren door op de weergegeven **[!UICONTROL Flag]** koppeling te klikken wanneer zij de muisaanwijzer op de inhoud plaatsen.
+Gebruikers kunnen markering toewijzen aan de inhoud van een andere gebruiker door op de koppeling **[!UICONTROL Flag]** te klikken die wordt weergegeven wanneer ze de muisaanwijzer op de inhoud plaatsen.
 
-Als u op deze koppeling klikt, wordt het modaal van de vlag weergegeven, zodat gebruikers de inhoud kunnen markeren als **[!UICONTROL Offensive]**, **[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]** of **[!UICONTROL Spam]**. Er kan een optionele notitie en een optioneel e-mailadres worden toegevoegd aan de markering.
+Als u op deze koppeling klikt, wordt het modaal gemarkeerd, zodat gebruikers de inhoud kunnen markeren als **[!UICONTROL Offensive]**, **[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]** of **[!UICONTROL Spam]**. Er kan een optionele notitie en een optioneel e-mailadres worden toegevoegd aan de markering.
 
 Gebruikers hoeven niet aangemeld te zijn om een opmerking te markeren, zodat iedereen een opmerking kan markeren voor moderatie zonder een account te hoeven maken.
 
@@ -77,15 +80,15 @@ Als een moderator een commentaar als Spam vlagt, zal de commentaar onmiddellijk 
 
 U kunt ook Moderatieregels maken om de acties die worden uitgevoerd bij gemarkeerde opmerkingen te automatiseren.
 
-## Sorteren {#section_bpg_nwx_vy}
+## {#section_bpg_nwx_vy} sorteren
 
-Gestroomde inhoud kan worden gesorteerd op leeftijd, nieuwste eerst (standaard) of oudste eerst, door op de **[!UICONTROL Newest]** koppeling of de **[!UICONTROL Oldest]** koppeling boven aan de stream te klikken.
+Gestroomde inhoud kan worden gesorteerd op leeftijd, nieuwste eerst (standaard) of oudste eerst, door op de **[!UICONTROL Newest]**- of **[!UICONTROL Oldest]**-koppelingen boven aan de stream te klikken.
 
-## Samenvouwen/uitvouwen {#section_ypt_qr4_h1b}
+## {#section_ypt_qr4_h1b} samenvouwen/uitvouwen
 
 * **[!UICONTROL Collapse Replies]**
 
-   Reacties kunnen in de stream worden uitgevouwen of samengevouwen door op de knoppen **+ / -** boven de reacties te klikken.
+   Reacties kunnen in de stream worden uitgevouwen of samengevouwen door op de knoppen **+ / -** boven de antwoorden te klikken.
 
 * **[!UICONTROL Collapsed View]**
 
