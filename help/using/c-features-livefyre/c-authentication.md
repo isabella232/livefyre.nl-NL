@@ -7,6 +7,9 @@ title: Verificatiefuncties
 uuid: 6f1236a0-7766-47c6-b6b5-1e6b8f1c0781
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 U kunt kiezen of en hoe uw sitebezoekers zich aanmelden bij uw apps.
 
-Stel verificatie in met livefyre.js. Zie Verificatie [toevoegen aan een app met Livefyre.js voor meer informatie](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
+Stel verificatie in met livefyre.js. Zie [Verificatie toevoegen aan een toepassing met Livefyre.js](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md) voor meer informatie
 
 Toepassingen die deze functie gebruiken:
 
