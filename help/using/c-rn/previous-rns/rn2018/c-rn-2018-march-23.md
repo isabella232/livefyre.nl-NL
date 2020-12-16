@@ -7,6 +7,9 @@ title: 23 maart 2018
 uuid: b69b8715-ace4-48e0-8f54-ce4e12170ef3
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -19,12 +22,12 @@ Opmerkingen bij de release van 23 maart 2018.
 
 De volgende functies zijn nieuw in de productieversie van deze release:
 
-* **Nieuw in productie:** Facebook heeft een beveiligingsupdate gemaakt voor aanmelding bij Facebook waardoor de aanmelding bij Facebook van een klant niet correct werkt. U moet:
+* **Nieuw in Productie:** Facebook heeft een beveiligingsupdate gemaakt voor aanmelding bij Facebook waardoor de Facebook-aanmelding van een klant niet correct werkt. U moet:
 
-   1. Voeg de volgende URL toe aan **[!UICONTROL Valid OAuth redirect URIs]** veld in Client OAuth Settings. Vervangen `<networkname>` door de juiste netwerknaam:
+   1. Voeg de volgende URL toe aan **[!UICONTROL Valid OAuth redirect URIs]** gebied in de Montages van de Cliënt OAuth. Vervang `<networkname>` door uw correcte netwerknaam:
       `https://identity.livefyre.com/<networkname>/api/v1.0/public/profile/social/complete/facebook_fyre`
 
-   1. Schakel **[!UICONTROL Use Strict Mode for Redirect URI]** over naar **[!UICONTROL Yes]**.
+   1. Schakel **[!UICONTROL Use Strict Mode for Redirect URI]** naar **[!UICONTROL Yes]**.
 
 * **Nieuw in UAT:** U kunt nu de betrouwbaarheidsdrempel voor slimme tags in streams kiezen. Door de precisiescore (0-100) voor tags in te stellen, kunt u de nauwkeurigheid bepalen van de elementen die worden opgehaald.
 
