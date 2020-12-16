@@ -7,6 +7,9 @@ title: Tekenreeksen lokaliseren
 uuid: c0ab352d-5d3a-45d7-bbd0-aed165835646
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '1996'
+ht-degree: 0%
 
 ---
 
@@ -62,7 +65,7 @@ var customStrings = {
 
 Deze pagina bevat alle tekstreeksen die kunnen worden aangepast voor de LiveCycle Core-toepassingen.
 
-## Accounttoegang {#section_cm3_d24_xz}
+## Toegang tot account {#section_cm3_d24_xz}
 
 Tekenreeksen beschikbaar voor het verificatieproces en in de geverifieerde gebruikersmenu&#39;s.
 
@@ -98,7 +101,7 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom. Hier 
 |  | newReply | nieuw antwoord |
 |  | newReplies | nieuwe antwoorden |
 
-## Stream sorteren {#section_ih2_124_xz}
+## Streaming sorteren {#section_ih2_124_xz}
 
 Hiermee kunt u geretourneerde inhoud sorteren op leeftijd of populariteit.
 
@@ -301,7 +304,7 @@ Tenzij anders vermeld, beschikbaar aan alle het programma geopende gebruikers. P
 |  | banConfirmButton | OK |
 |  | banCancelButton | Annuleren |
 
-## Opmerkingmelding {#section_qqt_pd4_xz}
+## Commentaarkennisgeving {#section_qqt_pd4_xz}
 
 Indien toegelaten, beschikbaar bij de bodem van de pagina voor alle het gesprekstoepassingen van het Leven.
 
@@ -412,7 +415,7 @@ Tekenreeksen beschikbaar voor de functiekaart.
 | featuredText | Topaanbieding |
 | shareButtonText | Delen |
 
-## App uploaden {#section_grc_gkn_xz}
+## App {#section_grc_gkn_xz} uploaden
 
 Tekenreeksen beschikbaar voor de uploadtoepassing.
 
@@ -541,6 +544,6 @@ Tekenreeksen beschikbaar voor Livefyre Identity.
 | passwordErrorTooLong | Maximaal 32 tekens voor wachtwoord |
 | passwordErrorMissingUppercase | Wachtwoord moet ten minste één hoofdletter bevatten |
 | passwordErrorMissingLowercase | Wachtwoord moet ten minste één kleine letter bevatten |
-| passwordErrorMissingSymbol | Wachtwoord moet ten minste één symbool in de set bevatten `!@#$%^&*()?.,<>\’;:”[]{}|` |
+| passwordErrorMissingSymbol | Wachtwoord moet ten minste één symbool in de set `!@#$%^&*()?.,<>\’;:”[]{}|` bevatten |
 
 
