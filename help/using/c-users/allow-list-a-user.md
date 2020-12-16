@@ -12,7 +12,7 @@ ht-degree: 0%
 ---
 
 
-# Gebruiker toestaan{#allow-list-a-user}
+# Een gebruiker toestaan/aanbieden{#allow-list-a-user}
 
 Laat-lijst een gebruiker toe om hen toe te staan om aan Apps direct te posten zonder wordt gemodereerd.
 
