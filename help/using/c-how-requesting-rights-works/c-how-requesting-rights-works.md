@@ -6,6 +6,9 @@ title: Rechten aanvragen
 uuid: d3194afa-f3c6-44ed-b03f-9b1ecb50c1d3
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '373'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +21,7 @@ De volgende rechtenstatussen zijn beschikbaar in de Bibliotheek, App Content, Mo
 
 * **[!UICONTROL Granted]**. Wanneer de auteur u het recht verleent om hun inhoud opnieuw te gebruiken, verandert de status van de activa in **[!UICONTROL Granted]**.
 
-* **[!UICONTROL Expired]**. Livefyre controleert de Instagram- en Twitter-stream voor het antwoord van de auteur gedurende 14 dagen. Na 14 dagen verloopt de aanvraag, verandert de status van de rechtenaanvraag in **[!UICONTROL Expired]** en kunt u een tweede aanvraag verzenden of het item uit uw bibliotheek verwijderen.
+* **[!UICONTROL Expired]**. Livefyre controleert de Instagram- en Twitter-stream voor het antwoord van de auteur gedurende 14 dagen. Na 14 dagen, verloopt het verzoek, verandert de status van het rechtenverzoek in **[!UICONTROL Expired]**, en u kunt een tweede verzoek verzenden of het punt uit uw Bibliotheek verwijderen.
 * **[!UICONTROL Requested]**. Vraag toestemming voor inhoud uit de bibliotheek. U kunt dit voor een of meer elementen tegelijk doen. Nadat u toestemming vraagt, plaatst Livefyre de elementstatus aan **[!UICONTROL Requested]**.
 * **[!UICONTROL Needs Review]**. Als de auteur met een nota antwoordt die uw #approvalHashtag niet omvat, verandert de status van de activa in **[!UICONTROL Needs Review]**.
 
@@ -27,11 +30,11 @@ De volgende rechtenstatussen zijn beschikbaar in de Bibliotheek, App Content, Mo
 
 U kunt rechten aanvragen voor middelen die u van Twitter en Instagram hebt verkregen. U moet het element opslaan in de bibliotheek om rechten aan te vragen.
 
-U moet een *Installagram-bedrijfsaccount* configureren om via een gedeeltelijk geautomatiseerde workflow rechten voor middelen van Instagram aan te vragen.
+U moet een *Zakelijke account voor installateurs* configureren om rechten voor middelen van Instagram aan te vragen met behulp van een gedeeltelijk geautomatiseerde workflow.
 
 U kunt deze functionaliteit alleen gebruiken voor inhoud die u hebt opgehaald bij een zoekopdracht in een stream of in een zakelijke account. Als u rechten wilt aanvragen voor inhoud die u hebt ontvangen van een persoonlijk Instagram-account, moet u verzoeken om rechten handmatig verzenden.
 
 >[!NOTE]
 >
->Zie [Informatie over Instagram-accounts](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)voor meer informatie over de verschillende soorten Instagram-accounts en hoe u deze kunt gebruiken. Voor informatie over hoe te om rechten voor de rekeningen van het Installagram aan te vragen, zie de Verzoeken [van de Rechten van de](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md#c_send_instagram_manual_rights_request) Verzending Handmatig en [verzend gedeeltelijk-Geautomatiseerde Verzoeken](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md#c_send_an_instagram_rights_request_from_the_library)van de Rechten.
+>Zie [Informatie over Instagram-accounts](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over de verschillende soorten Instagram-accounts en hoe u deze kunt gebruiken. Zie [Handmatige verzoeken om rechten verzenden](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md#c_send_instagram_manual_rights_request) en [Gedeeltelijk geautomatiseerde verzoeken om rechten verzenden](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md#c_send_an_instagram_rights_request_from_the_library) voor informatie over het aanvragen van rechten voor Instagram-accounts.
 
