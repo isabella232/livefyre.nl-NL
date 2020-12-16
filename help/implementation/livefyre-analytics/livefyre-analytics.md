@@ -7,6 +7,9 @@ title: Analyse
 uuid: b022aa77-59b9-422a-8d9f-fb9d8a1b0478
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '730'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +28,7 @@ De dashboards kunnen door plaats, datum, en activiteit worden gefiltreerd. Gebru
 
 Deze pagina beschrijft:
 
-* Een [datumbereik](https://answers.livefyre.com/livefyre-studio-version-1/studio/analytics/#DateRange) voor het dashboard selecteren
+* Een [Datumbereik](https://answers.livefyre.com/livefyre-studio-version-1/studio/analytics/#DateRange) voor het dashboard selecteren
 * [Beschikbare activiteiten weergeven/verbergen](https://answers.livefyre.com/livefyre-studio-version-1/studio/analytics/#ShowHideActivities)
 * [Dashboardgegevens exporteren](https://answers.livefyre.com/livefyre-studio-version-1/studio/analytics/#ExportDashboardData)
 * [Het dashboard Verzamelingen](https://answers.livefyre.com/livefyre-studio-version-1/studio/analytics/#CollectionsDashboard)
@@ -34,7 +37,7 @@ Deze pagina beschrijft:
 
 >[!NOTE]
 >
->Analyses ondersteunen momenteel activiteiten die afkomstig zijn van Livefyre Core Apps en Moderation. De meeste activiteiten in deze dashboards zijn ook beschikbaar via [LiveCycle JavaScript Events](https://answers.livefyre.com/developers/reference/app-customizations/javascript-events/), die kunnen worden gebruikt om uw eigen aangepaste of externe analyseprogramma aan te sturen.
+>Analyses ondersteunen momenteel activiteiten die afkomstig zijn van Livefyre Core Apps en Moderation. De meeste activiteiten in deze dashboards zijn ook beschikbaar via [Live JavaScript Events](https://answers.livefyre.com/developers/reference/app-customizations/javascript-events/), die kunnen worden gebruikt om uw eigen aangepaste of externe analyseprogramma aan te sturen.
 
 ## Datumbereik {#concept_798C438120E643B6BE262C9997DC87C4}
 
@@ -44,18 +47,18 @@ Klik op de datumkeuzelijst om een bereik te selecteren dat u wilt weergeven. Geb
 
 Snelle datums:
 
-* **Vandaag:** Hiermee geeft u gegevens weer van middernacht op de ochtend van de huidige dag tot het laatste volledige uur voor dit moment.
-* **Gisteren:** Geeft de gegevens van de vorige 24 uur weer.
+* **Vandaag:** Toont gegevens van middernacht de ochtend van de huidige dag, tot het laatste volledige uur vóór dit moment.
+* **Gisteren:** geeft de gegevens van de vorige 24 uur weer.
 * **7 dagen:** Geeft de gegevens van de vorige 7 dagen weer, exclusief vandaag.
-* **30 dagen:** Geeft de gegevens van de vorige 30 dagen weer, exclusief vandaag.
-* **Deze week:** Geeft gegevens weer van middernacht op de ochtend van afgelopen zondag tot het laatste volledige uur voor dit moment.
-* **Deze maand:** Geeft gegevens weer van middernacht op de ochtend van de eerste dag van de huidige maand tot het laatste volledige uur voor dit moment.
-* **Vorige week:** Hier worden de gegevens van vorige week weergegeven.
-* **Vorige maand:** Gegevens van vorige maand worden weergegeven.
+* **30 dagen:** Geeft de gegevens van de voorgaande 30 dagen weer, exclusief vandaag.
+* **Deze week:** Hier worden gegevens weergegeven van middernacht op de ochtend van afgelopen zondag tot het laatste volledige uur voor dit moment.
+* **Deze maand:** Toont gegevens van middernacht de ochtend van de eerste dag van de huidige maand, tot het laatste volledige uur vóór dit moment.
+* **Vorige week:** geeft de gegevens van vorige week weer.
+* **Vorige maand:gegevens van vorige maand** weergeven.
 
-## Weergeven/verbergen {#concept_022D9851CBCE4A2FB80D0AE52A23744D}
+## Activiteiten {#concept_022D9851CBCE4A2FB80D0AE52A23744D} tonen/verbergen
 
-Activiteiten zijn acties die gebruikers op uw site uitvoeren, zoals opmerkingen plaatsen, markeren, delen en modereren. Gebruik de keuzelijst Activiteiten **** tonen/verbergen om de activiteiten te selecteren die u in het dashboard wilt opnemen.
+Activiteiten zijn acties die gebruikers op uw site uitvoeren, zoals opmerkingen plaatsen, markeren, delen en modereren. Gebruik **Activiteiten tonen/verbergen** keuzelijst om activiteiten te selecteren die u in het dashboard wilt opnemen.
 
 >[!NOTE]
 >
@@ -65,22 +68,22 @@ Activiteiten zijn acties die gebruikers op uw site uitvoeren, zoals opmerkingen 
 
 De beschikbare activiteiten variëren per dashboardtype en export en kunnen het volgende omvatten:
 
-* **Post:** Hiermee geeft u gegevens weer van middernacht op de ochtend van de huidige dag tot het laatste volledige uur voor dit moment.
-* **Reacties:** Geeft de gegevens van de vorige 24 uur weer.
-* **Koppelingen:** Geeft de gegevens van de vorige 7 dagen weer, exclusief vandaag.
-* **Niet leuk:** Geeft de gegevens van de vorige 30 dagen weer, exclusief vandaag.
-* **Bevat media:** Geeft gegevens weer van middernacht op de ochtend van afgelopen zondag tot het laatste volledige uur voor dit moment.
-* **Post heeft foto-upload:** Geeft gegevens weer van middernacht op de ochtend van de eerste dag van de huidige maand tot het laatste volledige uur voor dit moment.
-* **Post heeft koppeling:** Hier worden de gegevens van vorige week weergegeven.
-* **Post heeft @mnotices:** Gegevens van vorige maand worden weergegeven.
-* **Goedgekeurd:** Gegevens van vorige maand worden weergegeven.
-* **Bozo&#39;d:** Gegevens van vorige maand worden weergegeven.
-* **Verlopen:** Gegevens van vorige maand worden weergegeven.
-* **Totaal moderatie:** Gegevens van vorige maand worden weergegeven.
+* **Post:** Toont gegevens van middernacht de ochtend van de huidige dag, tot het laatste volledige uur vóór dit moment.
+* **Reacties:** geeft de gegevens van de vorige 24 uur weer.
+* **Likes:** toont de gegevens van vorige 7 dagen, niet met inbegrip van vandaag.
+* **Niet leuk:** geeft de gegevens van de vorige 30 dagen weer, niet inclusief vandaag.
+* **Bevat media:** Toont gegevens van middernacht de ochtend van vorige Zondag, tot het laatste volledige uur vóór dit moment.
+* **Post heeft foto&#39;s geüpload:** geeft gegevens weer vanaf middernacht op de ochtend van de eerste dag van de huidige maand, tot het laatste volledige uur voor dit moment.
+* **Post heeft koppeling:** geeft de gegevens van vorige week weer.
+* **Post heeft @mnotices:Gegevens van vorige maand** worden weergegeven.
+* **Goedgekeurd:Gegevens van vorige maand** worden weergegeven.
+* **Bozo&#39;d:Gegevens van vorige maand** weergeven.
+* **Verlopen:Gegevens van vorige maand** worden weergegeven.
+* **Totaal van de modernisering:** Toont de gegevens van vorige maand.
 
 ## Dashboardgegevens exporteren {#concept_730DB61A9F894BE6BFB34E0E2A421ED3}
 
-Gebruik het keuzemenu **Exporteren** om uw dashboardgegevens te exporteren als een CSV-bestand.
+Met het keuzemenu **Exporteren** kunt u uw dashboardgegevens exporteren als een CSV-bestand.
 
 * Dagelijkse samenvatting (alleen verzamelingen): exporteert de dagelijkse tabellen van de laatste volledige week voor elke verzameling.
 * Tabelgegevens: Hiermee exporteert u alle opgeschoven verzamelingsgegevens (alle kolommen en alle rijen in het huidige rapport).
