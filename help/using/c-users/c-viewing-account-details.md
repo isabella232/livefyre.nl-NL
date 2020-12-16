@@ -28,7 +28,7 @@ De pagina Profiel bevat informatie over gebruikersaccounts, zoals de datum waaro
 
 ![](assets/UsersProfile-1024x699.png)
 
-## Gebruikerstags {#section_vk2_stp_vz}
+## Gebruikerscodes {#section_vk2_stp_vz}
 
 Voeg gebruikerstags toe aan accounts om gemakkelijker naar gecodeerde gebruikers te kunnen zoeken en om de inhoud van gecodeerde gebruikers stilistisch te onderscheiden van die van andere gebruikers op uw site.
 
@@ -42,13 +42,13 @@ Zie **[!UICONTROL App Customizations > Style User Group Content]** voor meer inf
 
 De sectie Status bevat een overzicht van alle Bans of Whitelists die aan de account zijn gekoppeld en stelt u in staat de account toe te voegen aan bestaande netwerken of siteverboden en whitelist.
 
-## Gebruikers verbieden {#section_l5b_5gr_vdb}
+## Gebruikers {#section_l5b_5gr_vdb} verbieden
 
-Als een gebruiker ongepast post of spamcommentaren op een artikel of over uw plaats, kunt u verkiezen om de gebruiker van uw netwerk te verbieden. Als de inhoud die door de gebruiker is gepost, eenmaal is verboden, wordt deze automatisch ingesteld op de status ***Bozo*** en is deze alleen zichtbaar voor de gebruiker die de inhoud heeft gepost. Verboden gebruikers kunnen zich aanmelden bij de stream, opmerkingen plaatsen en hun inhoud in de app bekijken. Verboden gebruikers zullen geloven dat zij nog steeds deel uitmaken van het gesprek. Nochtans, zal geen andere gebruiker op uw plaats deze inhoud kunnen zien.
+Als een gebruiker ongepast post of spamcommentaren op een artikel of over uw plaats, kunt u verkiezen om de gebruiker van uw netwerk te verbieden. Als de inhoud die door de gebruiker is gepost, is verboden, wordt deze automatisch ingesteld op de status ***Bozo***. De inhoud wordt alleen weergegeven voor de postingsgebruiker. Verboden gebruikers kunnen zich aanmelden bij de stream, opmerkingen plaatsen en hun inhoud in de app bekijken. Verboden gebruikers zullen geloven dat zij nog steeds deel uitmaken van het gesprek. Nochtans, zal geen andere gebruiker op uw plaats deze inhoud kunnen zien.
 
 Omdat hun inhoud nu Bozo&#39;d is, kunnen verboden gebruikers ongepaste inhoud blijven plaatsen, maar de rest van uw gemeenschap ziet deze niet meer.
 
-Zie voor meer informatie **[!UICONTROL Studio > App Content > Bozo Content]**.
+Zie **[!UICONTROL Studio > App Content > Bozo Content]** voor meer informatie.
 
 ## Gebruikers van lijsten toestaan {#section_kr4_ptp_vz}
 
