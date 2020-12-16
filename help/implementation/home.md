@@ -12,17 +12,17 @@ ht-degree: 0%
 ---
 
 
-# Implementatiehandleiding voor Livefyre {#livefyre-help}
+# Handleiding voor implementatie van Livefy {#livefyre-help}
 
 Implementeer LiveCyre Studio- en LiveCyre-apps op uw website met ontwikkelaarsgereedschappen om uw ervaring aan te passen.
 
-Raadpleeg voor meer informatie over het gebruik van Livefyre Studio- en Livefyre Apps in Livefyre Studio de [*Adobe Experience Manager Live User Guide *](/help/using/home.md).
+Voor informatie over hoe te om Studio Livefyre en Apps Livefyre binnen de Studio van Livefyre te gebruiken, zie [*de Gids van de Gebruiker van de Levensstijl van Adobe Experience Manager*](/help/using/home.md).
 
 ## Populaire onderwerpen
 
 * [Aan de slag met de implementatie](c-getting-started/c-getting-started.md)
 
-* [LiveCyre-apps gebruiken met Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
+* [Livefyre-apps gebruiken met Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
 
 * [Android-SDK voor mobiele apparaten](c-mobile-sdks/c-android-sdk.md)
 
