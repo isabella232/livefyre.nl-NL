@@ -7,6 +7,9 @@ title: Kaart
 uuid: 1c3e399d-a610-4b80-a3b2-a5502b31480d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +28,7 @@ Met de kaart kunt u geotagged inhoud streamen op een wereldkaart, zodat u de soc
 
 De snelste manier om Kaart te gebruiken is de gebouwde versie te gebruiken die op CDN van Livefyre wordt ontvangen.
 
-Voeg eerst [Livefyre.js](https://github.com/Livefyre/Livefyre.js) aan de pagina toe.
+Voeg eerst [Livefyre.js](https://github.com/Livefyre/Livefyre.js) toe aan uw pagina.
 
 ```
 <script src="https://cdn.livefyre.com/Livefyre.js"></script> 
@@ -73,7 +76,7 @@ var map = new Map({
 
 `leafletMapOptions`
 
-Opties die worden doorgegeven aan de onderliggende [bijsluiterkaart](https://leafletjs.com/) , waarmee het gebruik van de kaart voor rendering wordt aangegeven. Gebruik deze optie om opties voor de [bijsluiter in te stellen](https://leafletjs.com/reference.html#map-options), inclusief het beginpunt van de kaart en de initiële en maximale zoomniveaus. (Optioneel.)
+Opties voor het doorgeven aan de onderliggende [bijsluiter](https://leafletjs.com/)-kaart, die gebruikt wordt voor rendering. Gebruik deze optie om [Opties voor brochmap ](https://leafletjs.com/reference.html#map-options) in te stellen, inclusief het beginpunt van de kaart en de initiële en maximale zoomniveaus. (Optioneel.)
 
 ```
 var map = new Map({ 
