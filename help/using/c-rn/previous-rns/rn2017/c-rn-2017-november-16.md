@@ -7,6 +7,9 @@ title: 16 november 2017
 uuid: e7d09640-d2c1-4d23-8fa6-ecc90d0b2daa
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '532'
+ht-degree: 0%
 
 ---
 
@@ -32,11 +35,11 @@ Release-aantekeningen voor de release van 16 november 2017.
 | Bug | Bibliotheek | Gebruikers kunnen nu .mov-bestanden op verzamelingen plaatsen. |
 | Bug | Bibliotheek | Afbeeldingen met speciale tekens in de titel worden niet geüpload naar de bibliotheek. Dit is nu opgelost. |
 | Verbetering | Bibliotheek | We hebben ons algoritme &#39;relevantie&#39; bijgewerkt wanneer een gebruiker naar slimme tags zoekt. Wanneer een gebruiker de &#39;relevantie&#39;-sortering in het zoeken naar bibliotheken schakelt, wordt het nieuwe ranking-algoritme gebruikt. Dit nieuwe rangschikkingsalgoritme houdt rekening met, slimme markeringsprecisiescore, aantal sterren toegewezen door gebruiker en leeftijd van het document. Het doel is om de zoekervaring voor tags nauwkeuriger te maken voor de gebruiker. |
-| Verbetering | Bibliotheek | Wanneer een klant een element in de bibliotheek opslaat, gebruikt Livefefyre de leertechnologie van de Adobe Sensei-computer om automatisch tags toe te voegen die aangeven wat er in de afbeelding van het element staat. Hierdoor kan de gebruiker naar die tags in het systeem zoeken. |
-| Verbetering | Bibliotheek | Wanneer een klant een op afbeeldingen gebaseerd element opslaat in de bibliotheek, wordt het nu automatisch gelabeld met behulp van Adobe AI-technologie, waardoor functies, categorieën en esthetische eigenschappen van het systeem worden geëxtraheerd. Hierdoor kan de gebruiker de bibliotheek doorzoeken op basis van wat zich in de afbeeldingen bevindt, en niet alleen op basis van de tekst. |
+| Verbetering | Bibliotheek | Wanneer een klant een element in de bibliotheek opslaat, gebruikt Livefyre de leertechnologie van de Adobe Sensei-computer om automatisch codes toe te voegen die de afbeelding van het element beschrijven. Hierdoor kan de gebruiker naar die tags in het systeem zoeken. |
+| Verbetering | Bibliotheek | Wanneer een klant een op afbeeldingen gebaseerd element opslaat in de bibliotheek, zal Livefyre het nu automatisch labelen met behulp van Adobe AI-technologie, waardoor functies, categorieën en esthetische eigenschappen van het systeem worden geëxtraheerd. Hierdoor kan de gebruiker de bibliotheek doorzoeken op basis van wat zich in de afbeeldingen bevindt, en niet alleen op basis van de tekst. |
 | Bug | Livefyre-id | Avatars werden niet correct geladen voor Microsoft-implementatie van LF-identiteit. Dit is opgelost. |
 | Bug | ModQ | Probleem verholpen waarbij de voormatiging van streams en ModQ niet alle inhoud correct weergaven. |
-| Verbetering | Instellingen | Klanten kunnen nu ons privacybeleid en de servicevoorwaarden van Adobe in een voettekst bekijken in Instellingen. |
+| Verbetering | Instellingen | Klanten kunnen nu ons privacybeleid en onze Adobe in Settings bezoeken. |
 | Verbetering | Streams | Oplossing voor een bug in de premoderatie van op e-mail gebaseerde streamregels. |
 | Verbetering | Streams | Mogelijkheid toegevoegd om de stroominhoud te filteren op taal. |
 | Verbetering | Gebruikers | De mogelijkheid om .png-bestanden te gebruiken voor gebruikersavatars is toegevoegd. |
