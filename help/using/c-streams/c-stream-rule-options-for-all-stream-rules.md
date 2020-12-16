@@ -7,38 +7,41 @@ title: Opties voor stroomregel voor alle stroomregels
 uuid: 4072ee83-31e7-4de6-918c-134b8b8032e1
 translation-type: tm+mt
 source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
+workflow-type: tm+mt
+source-wordcount: '412'
+ht-degree: 0%
 
 ---
 
 
-# Opties voor stroomregel voor alle stroomregels{#stream-rule-options-for-all-stream-rules}
+# De Opties van de Regel van de stroom voor Alle Regels van de Stroom{#stream-rule-options-for-all-stream-rules}
 
 Deze opties zijn van toepassing op stroomregels van alle sociale netwerken of postingsmethoden.
 
 Functies zoeken voor tekst en trefwoordvelden:
 
-* Wanneer u trefwoorden invoert, gebruikt LiveCycle automatisch de Booleaanse operator **OR** wanneer voor afzonderlijke woorden. Als u bijvoorbeeld artikelen wilt zoeken met het woord *cake* of *recept*, voert u *cake* in en *recept* in het **[!UICONTROL keyword]** veld.
+* Wanneer u trefwoorden invoert, gebruikt LiveCycle automatisch de Booleaanse operator **OR** wanneer voor afzonderlijke woorden. Als u bijvoorbeeld artikelen wilt zoeken met het woord *cake* of *recipe*, voert u *cake* in en *recipe* in het veld **[!UICONTROL keyword]**.
 
-* U kunt zoeken naar exacte woordgroepen door de exacte woordtekst tussen aanhalingstekens te plaatsen. Als u bijvoorbeeld wilt zoeken naar de exacte uitdrukking *gebak*, voert u *&quot;gebak-recept&quot;* in het **[!UICONTROL keyword]** veld in.
+* U kunt zoeken naar exacte woordgroepen door de exacte woordtekst tussen aanhalingstekens te plaatsen. Als u bijvoorbeeld naar de exacte uitdrukking *cake recipe* wilt zoeken, voert u *&quot;cake recipe&quot;* in het veld **[!UICONTROL keyword]** in.
 
-* U kunt de zoekopdrachten voor Booleaanse en exacte woordgroepen combineren in één streamregel. U kunt bijvoorbeeld naar *taart*, *recept* en *&quot;gebak-recept&quot;* zoeken door elke zin een voor een in te voeren.
+* U kunt de zoekopdrachten voor Booleaanse en exacte woordgroepen combineren in één streamregel. U kunt bijvoorbeeld zoeken naar *cake*, *recept* en *&quot;koekjesrecept&quot;* door elke uitdrukking één voor één in te voeren.
 
 **[!UICONTROL Additional Filters]**:
 
 * **[!UICONTROL Media]**. Selecteer een van de volgende opties:
 
    * **[!UICONTROL All Content.]** Inhoud toestaan.
-   * **[!UICONTROL Media Required.]** Alleen inhoud met afbeeldingen en video&#39;s toestaan. (Voor Instagram- en Facebook-inhoud kunt u **[!UICONTROL Photos]** of **[!UICONTROL Videos]** alleen opgeven).
+   * **[!UICONTROL Media Required.]** Alleen inhoud met afbeeldingen en video&#39;s toestaan. (Voor Instagram- en Facebook-inhoud kunt u alleen **[!UICONTROL Photos]** of **[!UICONTROL Videos]** opgeven).
 
 * **[!UICONTROL Language]**. Kies de taal waarin u wilt zoeken. Engels is de standaardtaal.
-* **[!UICONTROL Smart Tags]**. Kies de tags die u wilt gebruiken om de inhoud te identificeren. LiveCycle gebruikt computergezichtstechnologie om foto&#39;s en video&#39;s met specifieke slimme tags te identificeren en deze zoekopdracht preciezer te maken. Gebruik de **[!UICONTROL ANY]** modifier om inhoud in de stream te filteren met een tag of de **[!UICONTROL ALL]** modifier om inhoud te filteren in de stream die alle tags gebruikt. Gebruik het **[!UICONTROL Image contains none of these smart tags]** veld om tags in te voeren voor foto&#39;s die inhoud bevatten die u niet in de stream wilt opnemen. Deze optie werkt niet voor tekstinhoud.
+* **[!UICONTROL Smart Tags]**. Kies de tags die u wilt gebruiken om de inhoud te identificeren. LiveCycle gebruikt computergezichtstechnologie om foto&#39;s en video&#39;s met specifieke slimme tags te identificeren en deze zoekopdracht preciezer te maken. Gebruik de **[!UICONTROL ANY]** bepaling om inhoud in de stroom te filtreren gebruikend om het even welke markering of **[!UICONTROL ALL]** bepaling om inhoud in de stroom te filtreren die alle markeringen gebruikt. Gebruik het veld **[!UICONTROL Image contains none of these smart tags]** om tags in te voeren voor foto&#39;s met inhoud die u niet in de stream wilt opnemen. Deze optie werkt niet voor tekstinhoud.
 
 * **[!UICONTROL Products]**. Voeg productcodes toe die overeenkomen met de streaming regel met producten uit uw productcatalogus.
 * **[!UICONTROL Premoderate]**. Selecteer een van de volgende opties:
 
    * **[!UICONTROL On]**. Alle binnenkomende regelinhoud voorbehouden. U kunt vooraf gemodereerde inhoud van de sectie van Streams van ModQ bekijken. **[!UICONTROL On]** Hiermee overschrijft u de instellingen in App Settings.
    * **[!UICONTROL Off]**. Voormatig geen binnenkomende regelinhoud. **[!UICONTROL Off]** Hiermee overschrijft u de instellingen in App Settings.
-   * **[!UICONTROL Inherited (Off)]**. Gebruik de prematige instellingen van de site (onder **[!UICONTROL Site Settings]**).
+   * **[!UICONTROL Inherited (Off)]**. Gebruik de vooraf gemiddelde instellingen van de site (onder **[!UICONTROL Site Settings]**).
 
 * **[!UICONTROL SAFE Rules]**. Selecteer een van de volgende opties:
    * **[!UICONTROL Apply SAFE Rules]**. Pas alle SAFE-regels toe op deze stream.
