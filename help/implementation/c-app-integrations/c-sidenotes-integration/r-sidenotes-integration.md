@@ -7,21 +7,24 @@ title: Sidenotes-integratie
 uuid: 4aa14ada-402a-482d-b43e-96f37afa6c53
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
 
-# Sidenotes-integratie{#sidenotes-integration}
+# Sidenotes Integration{#sidenotes-integration}
 
 Integreer een Sidenotes-app door een proces te volgen dat vergelijkbaar is met Core-toepassingen.
 
-Als de integratie van uw kerntoepassing is voltooid, kan de code die is geschreven om het `collectionMeta` object te genereren, doorgaans opnieuw worden gebruikt voor Sidenotes.
+Als algemene regel geldt dat als de integratie van uw kerntoepassing is voltooid, de code die is geschreven om het object `collectionMeta` te genereren, opnieuw kan worden gebruikt voor Sidenotes.
 
-U kunt uw bestaande `auth` afgevaardigden ook hergebruiken door een `auth` afgevaardigde te leveren die met `fyre.conv` aan Sidenotes op het (facultatieve) `authDelegate` gebied wordt gecreeerd.
+U kunt uw bestaande `auth` afgevaardigden ook hergebruiken door `auth` afgevaardigde te leveren die met `fyre.conv` aan Sidenotes in het (facultatieve) `authDelegate` gebied wordt gecreeerd.
 
 >[!NOTE]
 >
->Met behulp van identificaties kunt u `network`en `siteId`en `articleId` in één object opnemen in plaats van deze afzonderlijk door te geven in andere delen van de constructor.
+>Met identificaties kunt u `network`, `siteId` en `articleId` in één object opnemen in plaats van ze afzonderlijk door te geven in andere delen van de constructor.
 
 ```
 <!DOCTYPE html> 
@@ -53,7 +56,7 @@ Livefyre.require(['sidenotes#1', 'auth'], function (Sidenotes, Auth) {
 </html>
 ```
 
-Zoals vermeld in de `collectionMeta` sectie Building, `collectionMeta` is een gecodeerd JSON-object. In het bovenstaande voorbeeld heeft het JSON-object de volgende indeling voordat JWT-codering wordt uitgevoerd.
+Zoals vermeld in de sectie Building `collectionMeta`, is `collectionMeta` een gecodeerd JSON-object. In het bovenstaande voorbeeld heeft het JSON-object de volgende indeling voordat JWT-codering wordt uitgevoerd.
 
 ```
 { 
@@ -65,7 +68,7 @@ Zoals vermeld in de `collectionMeta` sectie Building, `collectionMeta` is een ge
 }
 ```
 
-Zie de `collectionMeta` token voor meer informatie.
+Zie de token `collectionMeta` voor meer informatie.
 
 ## Mobiele instellingen
 
