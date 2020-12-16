@@ -6,11 +6,14 @@ title: Aangepaste stijlen voor markeringen
 uuid: 0f6d7ad6-1f6a-4ed2-b86a-0d03782e591e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '425'
+ht-degree: 0%
 
 ---
 
 
-# Aangepaste stijlen voor markeringen{#sidenotes-custom-styles}
+# Aangepaste stijlen zoeken{#sidenotes-custom-styles}
 
 Aangepaste stijlen worden toegepast via een object dat in de constructor Sidenotes wordt geïnjecteerd.
 
