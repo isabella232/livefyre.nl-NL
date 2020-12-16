@@ -7,11 +7,14 @@ title: syncUser-netwerkmethode
 uuid: 2affb03d-3907-4b01-9a64-02ba1b06da14
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 0%
 
 ---
 
 
-# syncUser-netwerkmethode{#syncuser-network-method}
+# syncUser Network Method{#syncuser-network-method}
 
 Hiermee wordt Livefyre gevraagd om gebruikersgegevens van een eerder ingestelde URL voor gebruikerssynchronisatie te halen. Retourneert een Booleaanse waarde.
 
@@ -31,7 +34,7 @@ Voorbeelduitvoer:
 true
 ```
 
-## Voorbeeld van NodeJS {#section_xkd_gds_rz}
+## NodeJS-voorbeeld {#section_xkd_gds_rz}
 
 ```
 network.syncUser(userId); 
@@ -55,7 +58,7 @@ Voorbeelduitvoer:
 true
 ```
 
-## Voorbeeld van Python {#section_dwg_gds_rz}
+## Python-voorbeeld {#section_dwg_gds_rz}
 
 ```
 network.sync_user(userId) 
