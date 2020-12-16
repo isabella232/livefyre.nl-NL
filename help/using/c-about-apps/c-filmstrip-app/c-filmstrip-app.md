@@ -7,6 +7,9 @@ title: Filmstrip
 uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '814'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ Filmstrip is een visualisatie-app waarmee door de gebruiker gegenereerde inhoud 
 
 ## Info Filmstrip {#section_tng_slj_yy}
 
-U kunt Filmstrip met UGC in e-commercescenario&#39;s, zoals productpagina&#39;s of transactiewebsites gebruiken. Eindgebruikers kunnen door Filmstrip navigeren door op de zijpijlen te klikken om van links naar rechts door de beschikbare inhoud te bladeren. Nieuwe inhoud wordt aan de linkerkant weergegeven wanneer de inhoud in de app wordt geplaatst. U kunt kiezen of nieuw gestreamde UGC een label krijgt waarop staat: *Nieuw* om bezoekers van de site te helpen snel nieuwe inhoud te identificeren.
+U kunt Filmstrip met UGC in e-commercescenario&#39;s, zoals productpagina&#39;s of transactiewebsites gebruiken. Eindgebruikers kunnen door Filmstrip navigeren door op de zijpijlen te klikken om van links naar rechts door de beschikbare inhoud te bladeren. Nieuwe inhoud wordt aan de linkerkant weergegeven wanneer de inhoud in de app wordt geplaatst. U kunt kiezen of onlangs gestreamde UGC een etiket op het zal hebben dat, *Nieuw* zegt om plaatsbezoekers te helpen nieuwe inhoud snel identificeren.
 
 U kunt kiezen of bezoekers van de site een actieknop op een kaart kunnen weergeven en de muisaanwijzer op de knop kunnen plaatsen om een voorvertoning van de te koop aangeboden producten weer te geven. U kunt producten uit uw productcatalogus koppelen aan inhoud in de filmstrip. Mobiele en niet-mobiele sitebezoekers kunnen op een kaart klikken om een groter beeld weer te geven, inhoud te delen, video af te spelen of verwante producten weer te geven en een knop om te bellen.
 
@@ -72,11 +75,11 @@ Filmstrip geeft geen inhoud met alleen tekst weer. In de filmstrip worden alleen
 
 In de filmstrip wordt inhoud standaard weergegeven in een horizontale strook van vijf. Het aantal tegels is afhankelijk van de grootte van de container waarin de app wordt weergegeven en de grootte van de tegels die u kiest in App Designer. LiveCycle raadt u aan ten minste vijf tot tien stukken inhoud toe te voegen in uw Filmstrip-app om een voldoende aantal tegels met inhoud te bieden en gebruikers de mogelijkheid te bieden door te bladeren om meer te zoeken.
 
-Soms wordt de inhoud niet weergegeven omdat u deze hebt ingeschakeld **[!UICONTROL Require rights]**. Als u deze optie inschakelt, moet u rechten hebben voor alle inhoud in de app. Als de rechtenstatus niet wordt &quot;verleend&quot; voor een stuk inhoud, wordt deze niet weergegeven in de app.
+Soms wordt de inhoud niet weergegeven omdat u **[!UICONTROL Require rights]** hebt ingeschakeld. Als u deze optie inschakelt, moet u rechten hebben voor alle inhoud in de app. Als de rechtenstatus niet wordt &quot;verleend&quot; voor een stuk inhoud, wordt deze niet weergegeven in de app.
 
 ## Hoe weet een bezoeker van de site wanneer een nieuw product wordt toegevoegd? {#section_ttt_xps_mbb}
 
-U kunt ervoor kiezen om meldingen van nieuwe inhoud toe te voegen terwijl deze wordt toegevoegd door **[!UICONTROL Show Notifications]** naar **[!UICONTROL On]** te schakelen.
+U kunt verkiezen om berichten van nieuwe inhoud toe te voegen aangezien het door **[!UICONTROL Show Notifications]** aan **[!UICONTROL On]** wordt toegevoegd te schakelen.
 
 ## Filmstrip maken met Studio {#section_dwb_glj_yy}
 
