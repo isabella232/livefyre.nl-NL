@@ -7,15 +7,18 @@ title: Implementatie van SSO
 uuid: c96d456c-b1ac-40e0-8d18-224652b9697f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '218'
+ht-degree: 0%
 
 ---
 
 
-# Implementatie van SSO{#implementing-sso}
+# SSO{#implementing-sso} implementeren
 
 Om een gebruiker met Livefyre door een stroom voor authentiek te verklaren die niet door een Toepassing Livefyre wordt teweeggebracht, adviseert Livefyre dat u de forEachAuthentication methode op uw voorwerp AuthDelegate uitvoert.
 
-Dit zal worden aangehaald wanneer het `authDelegate` wordt overgegaan tot `auth.delegate`, en zal een authentiek functie worden overgegaan die veelvoudige tijden kan worden overgegaan. Deze methode verstrekt een inversie van controle voor authentificatiegebeurtenissen zodat uw met alle accomodatie zonder een globale verwijzing naar auth te vereisen `AuthDelegateobject` kan zijn.
+Dit zal worden aangehaald wanneer `authDelegate` wordt overgegaan tot `auth.delegate`, en zal een voor authentiek verklaren functie worden overgegaan die veelvoudige tijden kan worden overgegaan. Deze methode verstrekt een inversie van controle voor authentificatiegebeurtenissen zodat uw `AuthDelegateobject` met alle accomodatie zonder een globale verwijzing naar auth kan worden vereist.
 
 ```
 authDelegate.forEachAuthentication = function (authenticate) { 
