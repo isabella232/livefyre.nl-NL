@@ -5,21 +5,24 @@ title: Een app insluiten
 uuid: e75caf0e-04ea-4b04-89ed-fea1183ecf63
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 0%
 
 ---
 
 
-# Een app insluiten{#embed-an-app}
+# Een toepassing insluiten{#embed-an-app}
 
 Met de codestructuur van Livefyre.js kunt u Live-apps aan uw webpagina&#39;s toevoegen.
 
-Deze documentatie is bedoeld voor een technisch publiek. Voor [niet-technische informatie over toepassingen](/help/using/c-about-apps/c-about-apps.md).
+Deze documentatie is bedoeld voor een technisch publiek. Voor [niet-technische informatie over Apps](/help/using/c-about-apps/c-about-apps.md).
 
 In deze sectie wordt de codestructuur beschreven die u in uw paginasjabloon moet opnemen om Live-apps op uw site in te sluiten.
 
 1. Maak een HTML-bestand met een tijdelijke aanduiding voor LiveCycle.
 
-   Maak een nieuw HTML-bestand in de teksteditor van uw keuze. Maak een `<div>` element voor plaatsaanduiding Livefyre waarin de app wordt ingesloten.
+   Maak een nieuw HTML-bestand in de teksteditor van uw keuze. Creeer een placeholder Livefyre `<div>` element waarin de app zal worden ingebed.
 
    ```
    <html> 
@@ -42,7 +45,7 @@ In deze sectie wordt de codestructuur beschreven die u in uw paginasjabloon moet
 
 1. Construeer de Livefyre-app.
 
-   Gebruik deze optie `Livefyre.require` om zowel Core- als SDK-apps samen te stellen door de LiveCycle-pakketten door te geven die u wilt gebruiken.
+   Gebruik `Livefyre.require` om zowel Core- als SDK-apps te maken door de Livefyre-pakketten door te geven die u wilt gebruiken.
 
    1. Een Core-app ontwikkelen.
 
@@ -74,6 +77,6 @@ In deze sectie wordt de codestructuur beschreven die u in uw paginasjabloon moet
       }); 
       ```
 
-      Zie [meer informatie over specifieke apps](/help/using/c-about-apps/c-about-apps.md). U wordt aangeraden de nieuwste hoofdversie van het pakket (die u kunt vinden via [Livefyre.require](https://cdn.livefyre.com/packages.html)) vast te zetten om onverwachte verbroken integraties te voorkomen.
+      Zie [Meer informatie over specifieke toepassingen](/help/using/c-about-apps/c-about-apps.md). U wordt aangeraden de nieuwste hoofdversie van het pakket (die u kunt vinden via [Livefyre.require](https://cdn.livefyre.com/packages.html)) vast te zetten om onverwachte verbroken integraties te voorkomen.
 
 Volgende: Voeg verificatie toe aan uw site zodat uw gebruikers opmerkingen kunnen posten.
