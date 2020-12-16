@@ -7,6 +7,9 @@ title: Revisies
 uuid: 5386fc74-7a3b-4b2a-91fd-cfe5300e602d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '282'
+ht-degree: 0%
 
 ---
 
@@ -33,6 +36,6 @@ Revisies biedt verschillende functies die specifiek zijn voor deze app.
 * Aanpasbare beoordelingsinterface, waaronder het aantal sterren en hun afbeelding, de classificatiesubonderdelen (zoals Pro&#39;s en Cons) en meerdere ratingcategorieën.
 * Geef een overzicht van revisies aan de hand van een grafische visualisatie van de gemiddelde beoordeling door de gebruiker en de onderverdelingen voor beoordelingen voor de verzameling revisies.
 * De Revisies van de rij voor vertoning, terwijl het handhaven van het Overzicht van de gebruiker bij de bovenkant van de lijst voor hun mening.
-* Gebruikers toestaan te stemmen over de nut van beoordelingen en vervolgens te sorteren op de meest nuttige en/of hoogste beoordeling.
+* Gebruikers toestaan te stemmen over de nut van beoordelingen en deze vervolgens te sorteren op de meest nuttige en/of hoogste beoordeling.
 * Mobiele interface.
 
