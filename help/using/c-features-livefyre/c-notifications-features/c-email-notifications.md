@@ -7,6 +7,9 @@ title: E-mailmeldingen
 uuid: 27dad133-bd8d-4949-8146-1254c160d3af
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '951'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +30,7 @@ Gebruikers en moderatoren kunnen ervoor kiezen om e-mailmeldingen in of uit te v
 * Gegevenssynchronisatie met LiveCycle: het handhaven van voorkeur synchroniseert met Livefyre.
 * E-mails aanpassen: e-mailaanpassingen beschikbaar.
 
-Met de opties **Instellingen > Integratie-instellingen > Instellingen** voor e-mailmeldingen kunt u e-mailmeldingen aanpassen voor uw netwerk.
+Met de opties **Instellingen > Integratie-instellingen > E-mailmeldingsinstellingen** kunt u e-mailberichten voor uw netwerk aanpassen.
 
 >[!NOTE]
 >
@@ -43,7 +46,7 @@ Met LiveCycle kunt u gebruikers in staat stellen e-mailmeldingen over siteactivi
 
 Als u gebruikers wilt toestaan hun berichtvoorkeuren in te stellen, neemt u een sectie E-mailmelding op in de Gebruikersinstellingen voor het gebruikersprofielsysteem. Voeg de corresponderende velden toe aan het databaseschema van het gebruikersprofiel en beheer de gebruikersinstellingen met Ping for Pull. (Werk met uw Technische Manager van de Integratie om standaardfrequenties voor uw netwerk te bepalen. Als u een klant van Profielen van de Onderneming bent, ga uw geselecteerde gebreken aan uw leveringsteam van Livefy voor configuratie in het gegevensbestand van de Bibliotheek over.)
 
-Gebruikers op uw site kunnen dan een gesprek volgen en e-mailmeldingen ontvangen door op de **[!UICONTROL +Follow]** knop in de commentaareditor te klikken. De voorkeuren voor meldingen worden gedefinieerd op het niveau van het Livefy-netwerk. Om het even welke gebruikersmontages zullen op alle plaatsen en gesprekken over uw netwerk van toepassing zijn.
+Gebruikers op uw site kunnen dan een gesprek volgen en e-mailmeldingen ontvangen door op de knop **[!UICONTROL +Follow]** in de commentaareditor te klikken. De voorkeuren voor meldingen worden gedefinieerd op het niveau van het Livefy-netwerk. Om het even welke gebruikersmontages zullen op alle plaatsen en gesprekken over uw netwerk van toepassing zijn.
 
 **Aanbevolen standaardinstellingen**
 
@@ -61,7 +64,7 @@ Livefyre biedt twee opties voor e-mailfrequentie:
 
 **Meteen**
 
-E-mails die direct worden verzonden, geven de tekst, de titel van het artikel, de gebruikersnaam van de auteur en een koppeling **Reageren** weer waarmee de gebruiker naar de inhoud op de pagina gaat. Deze e-mailberichten bevatten ook een koppeling voor **afmelden** in de voettekst, waarmee gebruikers zich kunnen afmelden voor e-mailberichten voor die verzameling. Als u op **unsubscribe **klikt, worden de gebruikers doorgestuurd naar een bevestigingspagina waarop ze weten dat ze niet zijn geabonneerd op de verzameling.
+E-mails die direct worden verzonden, geven de tekst van de post, de artikeltitel, de gebruikersnaam van de auteur en een koppeling **Reageren** weer die de gebruiker naar de inhoud op de pagina stuurt. Deze e-mailberichten bevatten ook een **unsubscribe**-koppeling in de voettekst, waarmee gebruikers zich kunnen afmelden voor e-mailberichten voor die verzameling. Als u op **unsubscribe **klikt, worden de gebruikers doorgestuurd naar een bevestigingspagina waarop ze weten dat ze niet zijn geabonneerd op de verzameling.
 
 **Uurdigest**
 
@@ -73,9 +76,9 @@ E-mails die in een uuroverzicht worden verzonden, geven alle inhoud, antwoorden 
 
 **Moderator e-mailopties**
 
-Moderatoren kunnen zich aanmelden om e-mails te ontvangen voor inhoud die is gepost in een toepassing die zij volgen, en voor opmerkingen die zijn gemarkeerd als spam of offensief in een app die zij modereren. **Opmerking:** Er worden geen e-mailberichten verzonden wanneer gebruikers een opmerking markeren met Afwijzen of Buiten-onderwerp, omdat deze categorieën niet belangrijk worden geacht voor moderatormeldingen.
+Moderatoren kunnen zich aanmelden om e-mails te ontvangen voor inhoud die is gepost in een toepassing die zij volgen, en voor opmerkingen die zijn gemarkeerd als spam of offensief in een app die zij modereren. **Opmerking:** Er worden geen e-mailberichten verzonden wanneer gebruikers een opmerking markeren met Niet akkoord of Niet-onderwerp, omdat deze categorieën niet belangrijk worden geacht voor moderatormeldingen.
 
-De moderator_comments en moderator_flags gebieden zouden ook aan uw de montages van het de paginadatabase van het gebruikersprofiel van de moderator moeten worden toegevoegd om uw moderatoren toe te staan om de frequentie van hun e-mailberichten bij te werken, en te weigeren als zij wensen. Livefyre adviseert dat u deze twee gebieden van het moderator e-mailbericht aan **nooit** plaatst. De opties omvatten **nooit** (gebrek), **onmiddellijk**, en **vaak**.
+De moderator_comments en moderator_flags gebieden zouden ook aan uw de montages van het de paginadatabase van het gebruikersprofiel van de moderator moeten worden toegevoegd om uw moderatoren toe te staan om de frequentie van hun e-mailberichten bij te werken, en te weigeren als zij wensen. Livefefyre adviseert dat u deze twee moderator e-mailberichtgebieden aan **never** plaatst. De opties omvatten **never** (gebrek), **directly**, en **vaak**.
 
 **Moderator-e-mail (gemarkeerde inhoud):**
 
@@ -85,13 +88,13 @@ Wanneer een gebruiker zijn voorkeuren voor e-mailmeldingen op uw site in uw prof
 
 **Gegevenssynchronisatie met LiveCyre**
 
-## E-mails aanpassen {#section_jxb_c5k_yy}
+## E-mails {#section_jxb_c5k_yy} aanpassen
 
 Het is mogelijk dat verschillende velden in de sjablonen voor e-mailmeldingen worden gewijzigd zodat ze aan uw stijl en merk voldoen.
 
 * **[!UICONTROL From Email Address]**
 
-   Het e-mailadres &#39;Van&#39; voor alle e-mailberichten kan worden aangepast aan uw merk. Livefefyre raadt **noreply@customerdomain.com** aan en vervangt **** customerdomain door uw domeinnaam. (De standaardwaarde is **noreply@livefyre.com**.) Geef uw voorkeur &quot;van e-mailadres&quot;aan uw Technische Manager van de Integratie voor configuratie in het gegevensbestand van de Levensstijl voor uw netwerk door.
+   Het e-mailadres &#39;Van&#39; voor alle e-mailberichten kan worden aangepast aan uw merk. Livefyre adviseert **noreply@customerdomain.com**, die **customerdomain** met uw domeinnaam vervangt. (De standaardwaarde is **noreply@livefyre.com**.) Geef uw voorkeur &quot;van e-mailadres&quot;aan uw Technische Manager van de Integratie voor configuratie in het gegevensbestand van de Levensstijl voor uw netwerk door.
 
    >[!NOTE]
    >
@@ -99,7 +102,7 @@ Het is mogelijk dat verschillende velden in de sjablonen voor e-mailmeldingen wo
 
 * **[!UICONTROL Email Logo]**
 
-   Het logo dat in e-mailmeldingen wordt weergegeven, kan worden aangepast om uw bedrijfslogo weer te geven in plaats van het standaardlogo van Livefyre. Dit doet u op het tabblad Branding van de pagina **Netwerkinstellingen** van Studio. Deze aanpassing is alleen beschikbaar op netwerkniveau, niet op siteniveau en is alleen beschikbaar voor klanten met een betaald Livefyre.
+   Het logo dat in e-mailmeldingen wordt weergegeven, kan worden aangepast om uw bedrijfslogo weer te geven in plaats van het standaardlogo van Livefyre, op het tabblad Branding van de pagina **Netwerkinstellingen** van Studio. Deze aanpassing is alleen beschikbaar op netwerkniveau, niet op siteniveau en is alleen beschikbaar voor klanten met een betaald Livefyre.
 
 * **[!UICONTROL Custom Templates]**
 
