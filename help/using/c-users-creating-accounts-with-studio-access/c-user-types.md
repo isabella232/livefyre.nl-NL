@@ -45,7 +45,7 @@ De volgende gebruikersrollen en vermelde toegangsvoorrechten zijn beschikbaar bi
    * Accountgegevens van eindgebruikers weergeven en bewerken
    * Eindgebruikers verbieden of lijst met gebruikers toestaan
 
-* **Gegevensbeheer:** verleent toegang om het Livefyre Analytics dashboard te gebruiken.
+* **Data Manager:** verleent toegang om het dashboard van de Analyse van de Bibliotheek te gebruiken.
 * **App Manager**
    * Apps maken en bewerken
    * Streams maken en bewerken die naar toepassingen verwijzen
