@@ -37,7 +37,7 @@ SocialSync voor Twitter maakt al jaren deel uit van onze kernfunctionaliteit. Aa
 | Verbetering | Streams | Er is een nieuwe functie toegevoegd om toe te staan dat categorieën inhoud (via een stroomregel) worden toegestaan en dat de moderatie wordt omzeild. |
 | Bug | Streams | Oplossing van een bug die ervoor zorgde dat de instellingen &quot;Premodereren&quot; en &quot;Media Premodereren&quot; werden overgedragen naar een nieuwe stroomregel. |
 
-## UAT Release {#section_dyx_yl2_wy}
+## UAT-release {#section_dyx_yl2_wy}
 
 | Type probleem | Component | Opmerking vrijgeven |
 |--- |--- |--- |
