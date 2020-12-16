@@ -7,6 +7,9 @@ title: RSS-regels
 uuid: 3c9e2069-bb85-41dc-8b35-6237642a538a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '245'
+ht-degree: 0%
 
 ---
 
@@ -37,4 +40,4 @@ Livefyre parseert RSS-feeds op basis van de volgende RSS-specs:
 
 Livefyre leest geen feeds die zich niet aan deze specs houden, en de inhoud ervan zal niet in uw stroom worden getrokken. Gebruik de Dienst van de Bevestiging van het Veed WC3 om de syntaxis van uw voer van RSS te controleren, en ervoor te zorgen dat het geldig is.
 
-Zie Opties [stroomregel voor alle stroomregels](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)voor aanvullende stroomregelopties voor alle stroomregels.
+Voor extra de regelopties van de Stroom voor alle regels van de Stroom, zie [de Opties van de Regel van de Stroom voor Alle Regels van de Stroom](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
