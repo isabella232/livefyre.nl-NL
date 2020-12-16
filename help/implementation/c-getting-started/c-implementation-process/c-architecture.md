@@ -7,6 +7,9 @@ title: Architectuur
 uuid: 94358e6c-954a-4a52-9bb2-d800b2933130
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '443'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +24,7 @@ Deze sectie biedt een overzicht van de Livefyre Network Architecture.
 
 LiveCycle organiseert gebruikers en inhoud per netwerk en site. Elk netwerk kan één of meerdere gebruikersrekeningen verbonden aan het hebben, en elk netwerk kan één of meerdere plaatsen van de Levensstijl omvatten. Een LiveCycle-site is een willekeurige groep verzamelingen. Eén verzameling is toegewezen aan één artikel-id in uw CMS.
 
-## Netwerken {#section_hqt_4m4_xz}
+## Werken met netwerken {#section_hqt_4m4_xz}
 
 De klanten met veelvoudige domeinen kunnen gebruikersrekeningen over alle domeinen delen, gebruikend één enkel netwerk van de Levensstijl. De klanten die afzonderlijke gebruikersrekeningen voor verschillende domeinen willen houden zullen afzonderlijke netwerken van de Levensstijl vereisen.
 
@@ -31,7 +34,7 @@ De montages van de configuratie kunnen op plaatsen, netwerken en Inzamelingen va
 >
 >Sommige instellingen zijn alleen beschikbaar op netwerkniveau (zoals voorkeuren voor e-mailmeldingen, e-mailadressen en aangepaste e-maillogo&#39;s). Als u wilt dat deze instellingen voor elk domein anders zijn, moet u meerdere netwerken gebruiken.
 
-## Sites begrijpen {#section_vjw_nm4_xz}
+## Sites {#section_vjw_nm4_xz}
 
 Een site is een willekeurige groep artikelen. De groepering is nuttig aangezien het u toestaat om verschillende moderators aan verschillende groepen inhoud toe te wijzen. De moderatoren en de eigenaars kunnen opstelling zijn aan gematigde inhoud en vormen adminmontages op of het netwerk of plaatsniveau. Als u sommige moderatoren slechts bepaalde Inzamelingen wilt zien, kunnen deze Inzamelingen opstelling als afzonderlijke plaats van de Levensstijl zijn.
 
