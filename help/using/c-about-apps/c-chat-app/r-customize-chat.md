@@ -7,6 +7,9 @@ title: Chataanpassingen
 uuid: eac7be2f-2dcd-4a6b-ac84-e5e650af82e0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '259'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +28,7 @@ Deze opties zijn beschikbaar in de Chat-app:
 
 * **[!UICONTROL Posts appear in cards]**
 
-   Als deze optie is ingeschakeld, worden de posten weergegeven met een omringend vak en wordt de achtergrondkleur weergegeven die is voorgeschreven door de **themakeuze** .
+   Als deze optie is ingeschakeld, worden posten weergegeven met een omringend vak en wordt de achtergrondkleur weergegeven die is voorgeschreven door de selectie **Thema**.
 
 * **[!UICONTROL Preview media]**
 
@@ -53,7 +56,7 @@ Deze opties zijn beschikbaar in de Chat-app:
 
 U kunt Chat aanpassen met:
 
-* **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle toepassingen in de **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle apps in de **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor details over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle Apps in **[!UICONTROL App Designer]**.
 
 * Integratiegereedschappen. Zie Chat voor meer over hoe te om Praatje aan te passen gebruikend de Hulpmiddelen van de Integratie.
 
