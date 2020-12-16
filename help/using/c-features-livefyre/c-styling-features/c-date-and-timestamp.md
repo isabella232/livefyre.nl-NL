@@ -6,6 +6,9 @@ title: Datum en tijdstempel
 uuid: 3022059f-cfdc-4e13-aa3d-7537875ef431
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '113'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +19,7 @@ U kunt de datum- en tijdstempelnotatie naar wens wijzigen.
 
 Standaard wordt in LiveCyre Apps een relatieve tijdstempel weergegeven voor berichten naar de stream (4 minuten geleden, 5 uur geleden, 8 dagen geleden, 2 maanden geleden).
 
-U kunt de weergegeven tijdstempel aanpassen met de functie Aanpassing datum en tijdstempel. U kunt een keuze maken in een lijst met beschikbare indelingen. Zie [Datum en tijdstempel voor meer informatie](/help/using/c-features-livefyre/c-styling-features/c-date-and-timestamp.md)
+U kunt de weergegeven tijdstempel aanpassen met de functie Aanpassing datum en tijdstempel. U kunt een keuze maken in een lijst met beschikbare indelingen. Zie [Datum en tijdstempel](/help/using/c-features-livefyre/c-styling-features/c-date-and-timestamp.md) voor meer informatie
 
 Toepassingen die deze functie gebruiken:
 
