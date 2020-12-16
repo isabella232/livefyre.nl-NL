@@ -14,7 +14,7 @@ ht-degree: 0%
 ---
 
 
-# Gebruikersmachtigingen naar externe systemen posten (optioneel){#posting-user-permissions-to-external-systems-optional}
+# Gebruikersmachtigingen naar externe systemen verzenden (optioneel){#posting-user-permissions-to-external-systems-optional}
 
 LiveCycle gebruikt een PUSH-interface om externe systeeminformatie over wijzigingen in gebruikersmachtigingen te verzenden.
 
@@ -46,7 +46,7 @@ De geregistreerde URL moet POST&#39;s met de volgende gegevens als inhoudstype a
 
 | Parameter | Beschrijving |
 |--- |--- |
-| jid | JID van de gebruiker wiens aansluiting is gewijzigd. Een JID is een tekenreeks van het formulier `user_id@network`. |
+| jid | JID van de gebruiker wiens aansluiting is gewijzigd. Een JID is een tekenreeks in de vorm `user_id@network`. |
 | aansluiting | Naam van de toegewezen toestemmingen, die één van het volgende moet zijn:  `{admin | member | none | outcast | owner}` |
 
-Zie de [handleiding voor gebruikersassociatie-API-naslaggids](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:affiliation:add:method=post)voor meer informatie over het bijwerken van instellingen voor gebruikersbinding.
+Zie [Referentie gebruikersassociatie-API toevoegen](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:affiliation:add:method=post) voor meer informatie over het bijwerken van instellingen voor gebruikersbinding.
