@@ -7,6 +7,9 @@ title: Een vertaalset toepassen op een site
 uuid: 750f4ca2-0350-40c9-9176-ce56581bf8ab
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '58'
+ht-degree: 0%
 
 ---
 
