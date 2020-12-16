@@ -7,6 +7,9 @@ title: Inhoud onderdeel
 uuid: 0e347703-f119-4778-9609-2d6500844d6e
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '202'
+ht-degree: 0%
 
 ---
 
@@ -25,13 +28,13 @@ Door inhoud te voorzien, kunt u de aandacht vestigen op geselecteerde gebruikers
    * [Inhoud selecteren die u wilt gebruiken vanuit Studio](/help/using/c-features-livefyre/c-content-collection-tags/t-select-content-to-feature-from-studio.md#select_content_to_feature_from_studio)
    * [Inhoud op een andere manier selecteren](/help/using/c-features-livefyre/c-content-collection-tags/t-select-content-to-feature.md#t_select_content_to_feature)
 
-1. Gebruik CSS om de manier op te maken waarop de inhoud in de app wordt weergegeven. Zie [CSS gebruiken om aanbevolen inhoud](/help/implementation/c-app-customizations/c-use-css-to-style-featured-content.md)op te maken.
-1. Gebruik API-aanroepen om het proces te automatiseren. Zie API&#39;s [met functies](/help/implementation/c-app-customizations/c-feature-apis.md).
+1. Gebruik CSS om de manier op te maken waarop de inhoud in de app wordt weergegeven. Zie [CSS gebruiken om aanbevolen inhoud op te maken](/help/implementation/c-app-customizations/c-use-css-to-style-featured-content.md).
+1. Gebruik API-aanroepen om het proces te automatiseren. Zie [Functie-API&#39;s](/help/implementation/c-app-customizations/c-feature-apis.md).
 
    * [Functie](#c_feature_apis/section_jpw_nqw_xz)
    * [Ongedaan maken](#c_feature_apis/section_knh_mqw_xz)
 
-1. Aanbevolen inhoud samenvoegen. Zie [Samengevoegde aanbevolen inhoud met de aanbevolen API&#39;s](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md).
+1. Aanbevolen inhoud samenvoegen. Zie [Samengevoegde, aanbevolen inhoud met de aanbevolen API&#39;s](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md).
 
    * [Aanbevolen (netwerk)](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#section_cgm_1nw_xz)
    * [Topaanbieding (site)](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#section_lq5_ymw_xz)
