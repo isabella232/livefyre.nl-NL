@@ -7,6 +7,9 @@ title: Configuratieopties
 uuid: 4a7f03b3-6d97-46e9-8832-81e665f06d3a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '405'
+ht-degree: 0%
 
 ---
 
@@ -49,7 +52,7 @@ Kies Stijl, Vertoning, en de configuratieopties van de Betrokkenheid van de Gebr
 
 * **[!UICONTROL Byline type]**
 
-   Als **[!UICONTROL Byline]** deze keuzelijst is ingeschakeld, kunt u het type byline selecteren dat moet worden weergegeven: teambyline, of individuele bylines. Gebruik het onderstaande veld **[!UICONTROL Byline type]** om de tekst in te voeren die als byline moet worden weergegeven.
+   Als **[!UICONTROL Byline]** wordt toegelaten, staat deze keuzelijst u toe om het type van te tonen byline te selecteren: teambyline, of individuele bylines. Gebruik het onderstaande veld **[!UICONTROL Byline type]** om de tekst in te voeren die als byline moet worden weergegeven.
 
    >[!NOTE]
    >
