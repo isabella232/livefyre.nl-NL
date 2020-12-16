@@ -7,11 +7,14 @@ title: Trend
 uuid: 3031523d-b487-4eea-bba6-5d8f9971874f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '151'
+ht-degree: 1%
 
 ---
 
 
-# Trend{#trending}
+# Trending{#trending}
 
 Toon de actiefste Inzamelingen op uw Plaats of Netwerk.
 
@@ -21,7 +24,7 @@ Gebruik Trending om de verzamelingen weer te geven met de meest recente activite
 
 De snelste manier om te integreren met Trending is de ingebouwde versie te gebruiken die op CDN van Livefyre wordt ontvangen.
 
-Voeg eerst [Livefyre.js](https://github.com/Livefyre/Livefyre.js) aan de pagina toe.
+Voeg eerst [Livefyre.js](https://github.com/Livefyre/Livefyre.js) toe aan uw pagina.
 
 ```
 <script src="//cdn.livefyre.com/Livefyre.js"></script> 
