@@ -7,6 +7,9 @@ title: Verwijzing bijhouden
 uuid: 5206cc16-9671-4b3d-a013-be1a3e8c029d
 translation-type: tm+mt
 source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ Livefyre voegt een verwijzingsvariabele aan URL toe wanneer een commentaar wordt
 
 Met LiveCycle Apps kunt u gegevensstromen volgen die het gevolg zijn van verwijzingsverkeer, zodat u het verkeer van uw site kunt analyseren.
 
-## Verkeersverkeer voor LiveCycle bijhouden {#section_nsy_qp4_xz}
+## Verkeer van LiveCycle-verwijzing bijhouden {#section_nsy_qp4_xz}
 
 Het verwijzingsverkeer van het leven van sociale netwerken en e-mails kan worden gevolgd door de parameters van het vraagkoord in URLs van uw pagina&#39;s te inspecteren en code op uw pagina uit te voeren om dit door uw analyseleverancier te volgen. Livefyre voegt een verwijzingsverbinding aan URL toe wanneer een commentaar wordt gepost of aan een sociaal netwerk wordt gedeeld, en voor permalinks inbegrepen in de e-mails van Livefyre.
 
