@@ -7,6 +7,9 @@ title: Een voorvertoning van een artikel weergeven
 uuid: 3b5321c3-1fab-4439-86ab-efa2ffc24f41
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '224'
+ht-degree: 0%
 
 ---
 
@@ -29,6 +32,6 @@ De voorvertoningsmodus biedt de volgende opties:
 >
 >Als Voorbeeldgegevens is uitgeschakeld, worden in de voorvertoning alle publicaties weergegeven die u in de editor hebt gepubliceerd.
 
-1. Klik **[!UICONTROL Preview Mode]** om de indeling Mobiel, Tablet of Computer te selecteren en of voorbeeldgegevens moeten worden weergegeven.
-1. Klik **[!UICONTROL Preview Mode]** om de voorvertoning uit te vouwen om het Studio-venster te vullen.
-1. Klik **[!UICONTROL Exit Preview]** om terug te keren naar de ontwerpmodus.
+1. Klik **[!UICONTROL Preview Mode]** om mobiel, tablet, of Desktopformaat te selecteren, en al dan niet om de Gegevens van de Steekproef te tonen.
+1. Klik **[!UICONTROL Preview Mode]** om de voorproef uit te breiden om het venster van Studio te vullen.
+1. Klik op **[!UICONTROL Exit Preview]** om terug te keren naar de ontwerpmodus.
