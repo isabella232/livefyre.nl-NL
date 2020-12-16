@@ -7,6 +7,9 @@ title: Een carrousel aanpassen met Studio
 uuid: 24f080fc-37bf-40d4-8c1a-a502ee8ac978
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '515'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Wijzig de grootte, breedte en interactieopties van de Carousel-app.
 
-Alle toepassingen gebruiken **[!UICONTROL Style]** en **[!UICONTROL Config]** opties in de **[!UICONTROL App Designer]**. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle apps in de **[!UICONTROL App Designer]**.
+Alle toepassingen gebruiken **[!UICONTROL Style]** en **[!UICONTROL Config]** opties in **[!UICONTROL App Designer]**. Zie Apps aanpassen voor details over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle Apps in **[!UICONTROL App Designer]**.
 
 U kunt een carrousel aanpassen met behulp van de volgende aanvullende opties in App Designer:
 
@@ -34,7 +37,8 @@ U kunt een carrousel aanpassen met behulp van de volgende aanvullende opties in 
 * **[!UICONTROL Call-to-action button]** U kunt de vraag-aan-actie knoop met een productcatalogus gebruiken om gebruikers aan een product of aan uw plaats voor verdere actie te leiden.
 
    * **[!UICONTROL Call-to-action button]** Schakelaar de knevel aan op om de vraag-aan-actie knoop te tonen.
-   * **[!UICONTROL Require rights to display products]** Schakel de schakeloptie in om te vereisen dat de eigenaar van de inhoud rechten voor de inhoud heeft verleend voordat een knop Aanroepen verschijnt voor de inhoud.
+   * **[!UICONTROL Require rights to display products]** Schakel de schakeloptie in om te vereisen dat de eigenaar van de inhoud rechten voor de inhoud heeft verleend voordat een knop Aanroepen wordt weergegeven voor de inhoud.
+
    >[!NOTE]
    >
    >De inhoud wordt ook weergegeven als er geen rechten zijn verleend voor de inhoud, maar de knop call-to-action wordt alleen weergegeven met de inhoud als er rechten voor de inhoud zijn verleend.
@@ -43,7 +47,8 @@ U kunt een carrousel aanpassen met behulp van de volgende aanvullende opties in 
    * **[!UICONTROL Call-to-action indication text]** De tekst aan vertoning om de gebruiker ertoe aan te zetten om op de kaart te klikken om vraag-aan-actie modaal te openen.
    * **[!UICONTROL Call-to-action header text]** De woorden in de kopbal boven de vraag-aan-actie knoop in inhoud modaal te tonen. De standaardtekst is &quot;Deze producten kopen:&quot;.
    * **[!UICONTROL Call-to-action button text]** De woorden in de vraag-aan-actie knoop in de inhoud modaal te tonen. Standaardtekst is: &quot;Nu kopen:&quot;.
-   * **[!UICONTROL Product display options]** Kies of u de **[!UICONTROL Photo]** en **[!UICONTROL Product name]** met de vraag-aan-actie knoop wilt tonen.
+   * **[!UICONTROL Product display options]** Kies of u de vraag  **[!UICONTROL Photo]** en  **[!UICONTROL Product name]** met de vraag-aan-actie knoop wilt tonen.
+
    >[!NOTE]
    >
    >De knoppen Foto en Productnaam markeren blauw als ze zijn ingeschakeld.
