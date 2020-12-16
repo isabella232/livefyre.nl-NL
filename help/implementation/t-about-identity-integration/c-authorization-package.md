@@ -7,6 +7,9 @@ title: Verificatiepakket
 uuid: 4eec30cf-66b6-408d-985d-3e23b8b70d01
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '280'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ Installeer het verificatiepakket om gebruikersverificatie in te schakelen, zodat
 
 LiveCycle Apps gebruiken het algemene audiopakket om gebruikers aan App-acties te koppelen. Het autepakket is beschikbaar via `Livefyre.require`.
 
-Als u verificatie op uw pagina wilt inschakelen, voegt u eerst `Livefyre.js` het `<head>` element van uw webpagina of websitesjabloon toe.
+Als u verificatie op uw pagina wilt inschakelen, voegt u eerst `Livefyre.js` toe aan het `<head>`-element van uw webpagina of websitesjabloon.
 
 ```
 <script src="//cdn.livefyre.com/Livefyre.js"></script>
