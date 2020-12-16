@@ -7,6 +7,9 @@ title: Sociaal delen inschakelen
 uuid: f584a0ae-46c7-48c1-aea4-36da9f1e259b
 translation-type: tm+mt
 source-git-commit: d77b633b9892e3ea4aaec860317887f1fdf66830
+workflow-type: tm+mt
+source-wordcount: '623'
+ht-degree: 0%
 
 ---
 
@@ -29,36 +32,36 @@ Als u een aangepast identiteitssysteem voor gebruikers gebruikt, moet u uw socia
 >
 >Klanten die Janrain Engage gebruiken, hoeven alleen hun Engage Domain en Engage API Key te verstrekken.
 
-In het deelvenster Integratie-instellingen van de beheerconsole kunt u de volgende sociale gegevens invoeren of bijwerken.
+Gebruik het deelvenster Integratie-instellingen van de Admin Console om de volgende sociale gegevens in te voeren of bij te werken.
 
 ### Vereiste referenties:
 
-* **Facebook** Client ID Client Secret OAuth Proxy Redirect
-* **API-sleutelwoordgeheim voor LinkedIn** API
-* **Twitter** Access Token Access Token Secret API Key Secret - geheim
+* **** FacebookClient ID Client Secret OAuth Proxy Redirect
+* **API-beveiligingssleutel** LinkedInAPI
+* **TwitterAccess Token Access Token Secret API Key Secret Secret** API Secret
 
 ## Twitter {#section_qp5_1yl_b1b}
 
 Twitter-referenties zijn beschikbaar op het Twitter App Dashboard. U kunt als volgt deze referenties vinden:
 
-* Open de [Twitter-pagina](https://dev.twitter.com/apps) App Dev als eigenaar van de app, zoek de toepassing en klik op de titel.
+* Open [Twitter&#39;s App Dev Page](https://dev.twitter.com/apps) als eigenaar van de app, zoek de toepassing en klik op de titel.
 * De rol neer aan &quot;Uw toegangstoken&quot;en grijpt de waarden van &quot;het teken van de Toegang&quot;en &quot;het symbolische geheim van de Toegang.&quot;
 
 U moet:
 
 * Voer een waarde in voor het veld URL voor terugbellen in de Twitter-app. Hoewel dit veld een eenvoudige plaatsaanduiding kan zijn, mag het niet leeg blijven.
-* Plaats het Type van Toepassing om zowel **lees** als **schrijf** toegang te hebben.
+* Plaats het Type van Toepassing om zowel **read** als **write** toegang te hebben.
 * Controleer of de URL van de Twitter App-website zich op hetzelfde hostdomein bevindt als de Livefyre Core-app.
 
 >[!NOTE]
 >
->Alle toepassingen die Twitter-inhoud weergeven, zijn vereist om aan de vereisten voor weergave te voldoen. Zie de [Twitter-weergaverichtlijnen](https://dev.twitter.com/terms/display-requirements) voor meer informatie.
+>Alle toepassingen die Twitter-inhoud weergeven, zijn vereist om aan de vereisten voor weergave te voldoen. Zie [Twitter-weergaverichtlijnen](https://dev.twitter.com/terms/display-requirements) voor meer informatie.
 
 ## LinkedIn {#section_lfz_zxl_b1b}
 
 LinkedIn geloofsbrieven zijn beschikbaar bij de sectie van Sleutels OAuth van uw Sleutels van API LinkedIn van de Toepassing.
 
-* Meld u aan bij uw account op de pagina voor ontwikkelaars van LinkedIn [https://developer.linkedin.com/](https://developer.linkedin.com/).
+* Meld u aan bij uw account op de pagina [https://developer.linkedin.com/](https://developer.linkedin.com/) van LinkedIn&#39;s Developers.
 * Houd de muisaanwijzer boven uw naam in de rechterbovenhoek en selecteer API-toetsen in het vervolgkeuzemenu.
 * Klik op de titel Toepassing.
 * De waarden voor de API-sleutel en de geheime sleutel ophalen uit de sectie OAuth-toetsen
@@ -67,10 +70,10 @@ LinkedIn geloofsbrieven zijn beschikbaar bij de sectie van Sleutels OAuth van uw
 
 Facebook-referenties zijn beschikbaar op de pagina Developer Apps.
 
-* Open de pagina Developer Apps Page [van](https://developers.facebook.com/apps) Facebook als eigenaar van de app, zoek de toepassing en klik op de titel.
+* Open [De pagina Developer Apps Page](https://developers.facebook.com/apps) van Facebook als eigenaar van de app, zoek de toepassing en klik op de titel.
 * Pak de waarden voor de toepassings-id en het toepassingsgeheim vast. Voor App Secret, kunt u de knoop van de Show moeten klikken om het te tonen.
 
-Als u bestanden wilt delen op Facebook, moet u een omleidingspagina instellen om Facebook-verzoeken in te dienen en zich aan de domeinpraktijken te houden die door [Facebook](https://developers.facebook.com/docs/reference/dialogs/oauth/)worden vereist. De pagina moet op uw domein worden gehost, zodat Facebook kan controleren of de aanvraag afkomstig is van een legitieme bron.
+Als u bestanden wilt delen op Facebook, moet u een pagina voor omleiding instellen om Facebook-verzoeken in te dienen en zich aan de domeinpraktijken te houden die vereist zijn door [Facebook](https://developers.facebook.com/docs/reference/dialogs/oauth/). De pagina moet op uw domein worden gehost, zodat Facebook kan controleren of de aanvraag afkomstig is van een legitieme bron.
 
 ### Facebook Redirect
 
@@ -329,7 +332,7 @@ if (isset($_GET['lfoauth'])) {
 ?>
 ```
 
-## Leveranciers van &quot;Post to&quot; configureren {#section_rdk_dpl_b1b}
+## &quot;Post to&quot;-providers {#section_rdk_dpl_b1b} configureren
 
 Standaard worden de knoppen Facebook, LinkedIn en Twitter &quot;Post to&quot; weergegeven in de Livefyre Core-toepassingen. Gebruik de parameter postToButtons om te configureren welke providers worden weergegeven bij het insluiten van de Livefyre-app.
 
