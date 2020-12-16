@@ -7,6 +7,9 @@ title: Voorbeelden
 uuid: 94e38dab-6234-43a2-a840-13a87f0237f1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '31'
+ht-degree: 0%
 
 ---
 
@@ -103,7 +106,7 @@ public static void main(String...args) {
 }
 ```
 
-## Voorbeeld van NodeJS {#section_xkd_gds_rz}
+## NodeJS-voorbeeld {#section_xkd_gds_rz}
 
 ```
 var Livefyre = require('./lib/livefyre');
@@ -280,7 +283,7 @@ class LivefyreExample {
 }
 ```
 
-## Voorbeeld van Python {#section_dwg_gds_rz}
+## Python-voorbeeld {#section_dwg_gds_rz}
 
 ```
 from livefyre import Livefyre 
