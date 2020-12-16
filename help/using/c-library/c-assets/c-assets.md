@@ -7,15 +7,18 @@ title: Activa
 uuid: 21ab781a-3a05-4725-b77d-92decc2d2e1f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 0%
 
 ---
 
 
-# Activa{#assets}
+# Middelen{#assets}
 
 Geselecteerde inhoud verzamelen, ordenen en onderhouden voor gebruik in uw Live-apps.
 
-Elementen zijn inhoud die is opgeslagen in uw bibliotheek. Elementen kunnen doorzoekbaar en herbruikbaar zijn en kunnen aanvullende informatie bevatten, zoals tags en hergebruiksrechten.
+Elementen zijn inhoud die in uw bibliotheek is opgeslagen. Elementen kunnen doorzoekbaar en herbruikbaar zijn en kunnen aanvullende informatie bevatten, zoals tags en hergebruiksrechten.
 
 Met de bibliotheek kunt u geselecteerde inhoud ordenen en beheren als elementen voor gebruik in al uw LiveCycle-toepassingen.
 
