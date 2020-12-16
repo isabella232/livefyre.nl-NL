@@ -6,11 +6,14 @@ title: buildRatingsCollection-sitemethode
 uuid: 5eea2ba3-48e1-4cd2-aa73-ea81788af1df
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 0%
 
 ---
 
 
-# buildRatingsCollection-sitemethode{#buildratingscollection-site-method}
+# buildRatingsCollection Site Method{#buildratingscollection-site-method}
 
 Retourneert een object Collection dat is geïnstantieerd als een type waardering. Voer create_or_update() uit vanaf het object Collection om het constructieproces te voltooien.
 
@@ -26,7 +29,7 @@ Retourneert een object Collection dat is geïnstantieerd als een type waardering
 Collection collection = site.buildRatingsCollection(title, articleId, url); 
 ```
 
-## Voorbeeld van NodeJS {#section_xkd_gds_rz}
+## NodeJS-voorbeeld {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildRatingsCollection(title, articleId, url); 
@@ -38,7 +41,7 @@ var collection = site.buildRatingsCollection(title, articleId, url);
 $collection = site->buildRatingsCollection(title, articleId, url); 
 ```
 
-## Voorbeeld van Python {#section_dwg_gds_rz}
+## Python-voorbeeld {#section_dwg_gds_rz}
 
 ```
 collection = site.build_ratings_collection(title, articleId, url) 
