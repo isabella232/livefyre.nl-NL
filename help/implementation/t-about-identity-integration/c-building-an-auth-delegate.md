@@ -7,6 +7,9 @@ title: Object AuthDelegate
 uuid: a6acc4ef-d442-4782-9bfa-bbe494547c2e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '277'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Het voorwerp AuthDelegate voert uw gewenst gedrag voor uit hoe te om authentificatieacties en gebeurtenissen uit te voeren zodat kunt u integratie met het bestaande authentificatiesysteem van uw plaats aanpassen.
 
-## Een Auth Delegate opbouwen {#section_wmn_tv2_gz}
+## Een Auth-delegatie maken {#section_wmn_tv2_gz}
 
 Het autepakket moet van een auteafgevaardigde worden voorzien alvorens het een actie kan uitvoeren. Een auth afgevaardigde is om het even welk voorwerp JavaScript dat één van de methodes in dit onderwerp uitvoert.
 
@@ -47,7 +50,7 @@ authDelegate.login = function contrivedLogin(finishLogin) {
 };
 ```
 
-## .logout(finishVoltooien) {#section_uqz_2v2_gz}
+## .logout(finishLogout) {#section_uqz_2v2_gz}
 
 Log uit een gebruiker en roep de functie finishLogout met of een voorwerp van de Fout aan als er een fout was, of ongeldig om auth mee te delen dat de logout succesvol was.
 
