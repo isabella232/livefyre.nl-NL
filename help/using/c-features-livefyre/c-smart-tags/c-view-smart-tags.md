@@ -6,6 +6,9 @@ title: Slimme tags weergeven
 uuid: 787c7d86-2c68-4c4c-b687-cf2390bcf233
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 0%
 
 ---
 
@@ -22,8 +25,8 @@ Slimme tags weergeven op inhoud:
 1. Selecteer een of meer elementen.
 1. Voeg de elementen toe aan de bibliotheek.
 1. Klik op een van de elementen die u aan de bibliotheek hebt toegevoegd.
-1. Klik op **[!UICONTROL View Details]** het element.
-1. Klik op het **[!UICONTROL Tags]** tabblad in het deelvenster rechtsonder
+1. Klik op **[!UICONTROL View Details]** op het element.
+1. Klik op de tab **[!UICONTROL Tags]** in het deelvenster rechtsonder
 1. Zie de lijst met slimme tags, gerangschikt op categorie.
-1. Verwijder tags die u niet wilt gebruiken door op het **[!UICONTROL X]** naast een tag te klikken.
+1. Verwijder labels die u niet wilt verwijderen door te klikken op **[!UICONTROL X]** naast een tag.
 
