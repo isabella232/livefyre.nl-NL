@@ -1,10 +1,13 @@
 ---
 description: 'null'
 seo-description: 'null'
-seo-title: LiveCycle gebruiken met Adobe Analytics en Dynamic Tag Manager (DTM), lk xavvefyre met Adobe Analytics en Dynamic Tag Manager (DTM)
+seo-title: LiveCycle gebruiken met Adobe Analytics en Dynamic Tag Manager (DTM)-melk xavvn   vefyre met Adobe Analytics en Dynamic Tag Manager (DTM)
 uuid: 9a1c25c0-c474-46ff-82ac-e89357007c7f
 translation-type: tm+mt
 source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+workflow-type: tm+mt
+source-wordcount: '1025'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +18,9 @@ Stel Adobe Analytics en Dynamic Tag Manager (DTM) in om gegevens voor LiveCycle-
 
 ## Stap 1: Gebeurtenissen instellen in Adobe Analytics {#section_iks_kgd_4cb}
 
-Wijs Live-gebeurtenissen toe aan een of meer aangepaste succesgebeurtenissen in Adobe Analytics Report Suite Manager.
+Wijs livegebeurtenissen toe aan een of meer aangepaste succesgebeurtenissen in Adobe Analytics Report Suite Manager.
 
-Zie [Report Suite Manager](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)voor meer informatie over Report Suite Manager.
+Voor meer informatie over de Manager van de Reeks van het Rapport, zie [de Manager van de Reeks ](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html).
 
 1. Meld u aan bij Adobe Analytics als beheerder.
 1. Open Adobe Analytics Admin Report Suite Manager.
@@ -29,7 +32,7 @@ Zie [Report Suite Manager](https://docs.adobe.com/content/help/en/analytics/admi
 
 Wijs bibliotheekconversievariabelen (eVars) toe aan conversievariabelen in Adobe Analytics Admin Report Suite Manager. Conversievariabelen fungeren als een sorteerfunctie om te bepalen hoe u gegevens wilt identificeren die uit LiveCycle-gebeurtenissen zijn verzameld.
 
-1. Klik in Report Suite Manager **[!UICONTROL Edit Settings > Conversion > Conversion Variables]**.
+1. Klik in Report Suite Manager op **[!UICONTROL Edit Settings > Conversion > Conversion Variables]**.
 1. Kies de aangepaste conversievariabelen (eVars) die u wilt gebruiken en wijs deze toe aan de bibliotheekconversievariabelen. U kunt als volgt een conversievariabele Livefyre toewijzen aan een aangepaste conversievariabele:
 * De conversievariabele inschakelen
 * De conversievariabele een naam geven
@@ -38,21 +41,21 @@ Wijs bibliotheekconversievariabelen (eVars) toe aan conversievariabelen in Adobe
 
 ## Stap 3: DTM gebruiken om uw rapportsuite toe te voegen met LiveCycle Events {#section_t15_2hd_4cb}
 
-Voeg Adobe Analytics toe aan DTM om Analytics te laten werken. Hiertoe maakt u een nieuwe eigenschap en een nieuw gereedschap en voegt u de nieuwe rapportsuite met LiveCycle-gebeurtenissen toe aan de eigenschap. Zie [DTM voor meer informatie over DTM](https://docs.adobe.com/content/help/en/dtm/using/c-overview.html).
+Voeg Adobe Analytics toe aan DTM om Analytics te laten werken. Hiertoe maakt u een nieuwe eigenschap en een nieuw gereedschap en voegt u de nieuwe rapportsuite met LiveCycle-gebeurtenissen toe aan de eigenschap. Zie [DTM](https://docs.adobe.com/content/help/en/dtm/using/c-overview.html) voor meer informatie over DTM.
 
 U hoeft deze stap niet uit te voeren als u al een eigenschap of gereedschap hebt ingesteld voor de rapportsuite die u hebt ingesteld met LiveCycle-gebeurtenissen.
 
 1. Maak of bewerk een bestaande eigenschap in DTM.
-1. Maak of bewerk een bestaand hulpprogramma voor Adobe Analytics.
-1. Als er geen bestaande Adobe Analytics Tool bestaat, klikt u op de **[!UICONTROL Add a Tool]** knop.
+1. Maak of bewerk een bestaand Adobe Analytics-gereedschap.
+1. Als een bestaand Adobe Analytics-gereedschap niet bestaat, klikt u op de knop **[!UICONTROL Add a Tool]**.
 Stel de volgende parameters in voor het gereedschap:
 
-   * Instellen **[!UICONTROL Tool Type]** op **[!UICONTROL Adobe Analytics]**.
-   * Inschakelen **[!UICONTROL Automatic Configuration]**.
-   * Inschakelen **[!UICONTROL Authenticate via Marketing Cloud]**.
-1. Voeg de naam van de rapportsuite met Livefyre-gebeurtenissen toe aan of bevestig deze aan het **[!UICONTROL Report Suites]** veld.
+   * Stel **[!UICONTROL Tool Type]** in op **[!UICONTROL Adobe Analytics]**.
+   * **[!UICONTROL Automatic Configuration]** inschakelen.
+   * **[!UICONTROL Authenticate via Marketing Cloud]** inschakelen.
+1. Voeg of bevestig de naam van de rapportsuite met LiveCycle-gebeurtenissen toe aan het veld **[!UICONTROL Report Suites]**.
 
-## Stap 4: Een regel voor het laden van pagina&#39;s instellen voor de verwerking van analysemogelijkheden {#section_jfj_j3d_4cb}
+## Stap 4: Opstelling een Regel van de Lading van de Pagina aan de Behandeling van de Analyse van de Opstelling {#section_jfj_j3d_4cb}
 
 Stel een regel voor het laden van pagina in om alle gegevens op te halen. Met de regel Pagina laden kunt u aangepaste javascript in de regel plaatsen die de gebeurtenis vastlegt wanneer de pagina wordt geladen.
 
@@ -62,15 +65,15 @@ Stel een regel voor het laden van pagina in om alle gegevens op te halen. Met de
 
 1. Selecteer **[!UICONTROL Rules]** tab in DTM.
 1. Klik op **[!UICONTROL Page Load Rules]**.
-1. Klik op de **[!UICONTROL Create New Rule]** knop.
-1. Open de **[!UICONTROL Conditions]** sectie door op de **[!UICONTROL Plus]** knop te klikken.
-1. Trigger de regel. Kies **[!UICONTROL DOM Ready]** of **[!UICONTROL Onload]** triggertypen als u de regel asynchroon wilt vertragen of implementeren.
+1. Klik op de **[!UICONTROL Create New Rule]** knoop.
+1. Open de sectie **[!UICONTROL Conditions]** door op de **[!UICONTROL Plus]** knoop te klikken.
+1. Trigger de regel. Kies **[!UICONTROL DOM Ready]** of **[!UICONTROL Onload]** trekkertypes als u de regel asynchroon wilt vertragen of uitvoeren.
 1. (Optioneel) Voeg aanvullende parameters toe om de pagina&#39;s te beperken die Live Apps weergeven. Voor meer informatie over extra configuratieopties, zie [DTM](https://docs.adobe.com/content/help/en/dtm/using/c-overview.html).
-1. Klik onder **[!UICONTROL Javascript/ Third Party Tags]** op het **[!UICONTROL Non-sequential]** tabblad en klik vervolgens op **[!UICONTROL Add New Script]**.
+1. Klik onder **[!UICONTROL Javascript/ Third Party Tags]** op het tabblad **[!UICONTROL Non-sequential]** en klik vervolgens op **[!UICONTROL Add New Script]**.
 1. Selecteer **[!UICONTROL Sequential HTML]** als scripttype.
-1. Voeg het volgende script toe aan de code-editor en klik op **[!UICONTROL Save Code]**.
+1. Voeg het volgende manuscript in de coderedacteur toe en klik **[!UICONTROL Save Code]**.
 
-   Het volgende script roept de regel voor `livefyre_analytics` directe aanroepen aan nadat de LiveCycle JavaScript is geladen. In het volgende scriptvoorbeeld wordt om de 400 ms gecontroleerd of de pagina `livefyre.analytics` zich bevindt. Nadat de pagina is geladen, verzendt livefyre.analytics trackinggegevens.
+   Het volgende manuscript roept `livefyre_analytics` directe vraagregel nadat de Livefy JavaScript laadt. In het volgende scriptvoorbeeld wordt om de 400 ms gecontroleerd of `livefyre.analytics` op de pagina staat. Nadat de pagina is geladen, verzendt livefyre.analytics trackinggegevens.
 
    ```
    /** 
@@ -91,19 +94,19 @@ Stel een regel voor het laden van pagina in om alle gegevens op te halen. Met de
 1. Klik op **[!UICONTROL Save Code]**.
 1. Klik op **[!UICONTROL Save Rule]**.
 
-## Stap 5: Creeer een Directe Regel van de Vraag om de Configuratie van de Toewijzing van de Analyse van Adobe voor Levenslang samen te stellen {#section_gvp_b1g_pdb}
+## Stap 5: Creeer een Directe Regel van de Vraag om de Configuratie van de Toewijzing van Adobe Analytics voor Levensstijl {#section_gvp_b1g_pdb} te construeren
 
-Er zijn andere manieren om LiveCycle met DTM te implementeren door aangepaste gebeurtenissen, Adobe Analytics UI-velden binnen DTM en gegevenselementen te gebruiken. In dit document wordt aangepaste JavaScript gebruikt om hetzelfde effect te bereiken.
+Er zijn andere manieren om Livefyre met DTM uit te voeren door aangepaste gebeurtenissen, de gebieden van Adobe Analytics UI binnen DTM, en gegevenselementen te gebruiken. In dit document wordt aangepaste JavaScript gebruikt om hetzelfde effect te bereiken.
 
-1. In DTM selecteer het lusje van **Regels** en klik dan op de Regels **van de** Vraag Direct.
-1. Click on the **Create New Rule** button.
-1. Geef de nieuwe regel de naam **Livefyre Analytics**.
-1. Vouw het configuratiegebied van de **voorwaarden** uit.
-1. Typ in het veld **String** `livefyre_analytics`.
-1. Vouw het gedeelte Javascript-/derde tag uit en klik op de knop Nieuw script **** toevoegen.
-1. Voer **LiveCycle Analytics Config** in in het invoervak **Tagnaam** .
+1. In DTM selecteer **Rules** tabel en klik dan op **Directe Regels van de Vraag**.
+1. Klik op de **Create Nieuwe Regel** knoop.
+1. Noem de nieuwe regel **Livefyre Analytics**.
+1. Vouw het configuratiegebied **conditions** uit.
+1. Typ `livefyre_analytics` in het veld **String**.
+1. Vouw de sectie Javascript/3rd Party-tag uit en klik op de knop **Nieuw script toevoegen**.
+1. Typ **LiveCycle Analytics Config** in het invoervak **Tagnaam**.
 1. Selecteer **Niet-opeenvolgende JavaScript**.
-1. Voer de volgende LiveCycle-configuratiecode in de code-editor in en klik op de knop Code **** opslaan.
+1. Voer de volgende LiveCycle-configuratiecode in de code-editor in en klik op de knop **Code opslaan**.
 
    ```
    var s = _satellite.getToolsByType('sc')[0].getS(); 
@@ -188,7 +191,7 @@ Er zijn andere manieren om LiveCycle met DTM te implementeren door aangepaste ge
    addAnalyticsHandler();  
    ```
 
-1. Klik op Regel **** opslaan.
+1. Klik op **Regel opslaan**.
 
 ## Stap 6: Wijzigingen goedkeuren voor regel bij laden van pagina {#section_pxc_11t_ycb}
 
@@ -202,7 +205,7 @@ Er zijn andere manieren om LiveCycle met DTM te implementeren door aangepaste ge
 
 ## Script {#section_xkb_vft_mcb}
 
-In de volgende voorbeeldcode worden de specifieke eVars toegewezen aan beschikbare LiveCyre Vars. De naam van de omzettingsvariabele Livefy ( `eVar`) (bijvoorbeeld, `appId`) brengt aan de naam toe u opstelling in de Manager van de Reeks van het Rapport (bijvoorbeeld, `eVar81`). Wijzig de `eVar` namen in dit script in de aangepaste conversievariabelen.
+In de volgende voorbeeldcode worden de specifieke eVars toegewezen aan beschikbare LiveCyre Vars. De naam van de omzettingsvariabele Livefyre ( `eVar`) (bijvoorbeeld `appId`) brengt aan de naam toe u opstelling in de Manager van de Reeks van het Rapport (bijvoorbeeld, `eVar81`). Wijzig de `eVar`-namen in dit script in de aangepaste conversievariabelen.
 
 
 ```
@@ -213,7 +216,7 @@ var evarMap = {
 };
 ```
 
-In de volgende voorbeeldcode worden de specifieke gebeurtenissen die u instelt in Report Suite Manager toegewezen aan beschikbare LiveCycle-gebeurtenissen. In dit voorbeeld `event82` wordt ingesteld als een gebruikersinteractiegebeurtenis zonder onderscheid te maken tussen welk type gebruikersinteractiegebeurtenis (bijvoorbeeld het koppelen van inhoud). Dit is een efficiënte manier om alle informatie van de gebruikersinteractie in een blok te registreren. U kunt de gebeurtenissen in DTM Analytics UI met het Verwijzen van het Element van Gegevens ook in kaart brengen.
+In de volgende voorbeeldcode worden de specifieke gebeurtenissen die u instelt in Report Suite Manager toegewezen aan beschikbare LiveCycle-gebeurtenissen. In dit voorbeeld wordt `event82` ingesteld als een gebruikersinteractiegebeurtenis zonder onderscheid te maken tussen welk type gebruikersinteractiegebeurtenis (bijvoorbeeld het maken van een koppeling of het delen van inhoud). Dit is een efficiënte manier om alle informatie van de gebruikersinteractie in een blok te registreren. U kunt de gebeurtenissen in DTM Analytics UI met het Verwijzen van het Element van Gegevens ook in kaart brengen.
 
 ```
 var eventMap = { 
@@ -252,7 +255,7 @@ function trackLivefyreEvent(data) {
   }
 ```
 
-In de volgende code worden de gebeurtenistypen onderscheiden die worden `event82` vastgelegd. De conversievariabele, registreert het type van gebruikersinteractie, en het manuscript plaatst omhoog `eVar83` `eVar83` om de gegevens van de gebruikersinteractie door type te scheiden. Zo `eVar83` staat u toe om de geregistreerde gegevens in specifieke soorten gebruikersinteractie uit te breken.
+De volgende code maakt onderscheid tussen de gebeurtenistypen die `event82` registreert. De conversievariabele, `eVar83` registreert het type van gebruikersinteractie, en het manuscript plaatst omhoog `eVar83` om de gegevens van de gebruikersinteractie door type te scheiden. Zo `eVar83` staat u toe om de geregistreerde gegevens in specifieke soorten gebruikersinteractie uit te breken.
 
 ```
   var vars = ['events'];  
