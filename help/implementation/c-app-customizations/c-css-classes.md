@@ -7,6 +7,9 @@ title: CSS-klassen
 uuid: 8714e7e5-3858-458f-a464-de87fd2f0ff0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '715'
+ht-degree: 0%
 
 ---
 
@@ -57,7 +60,7 @@ fyre.conv.load(networkConfig, [{
 }]);
 ```
 
-## CSS sorteeropties {#section_btq_4rh_xz}
+## CSS {#section_btq_4rh_xz} sorteeropties
 
 | Klasse | Beschrijving |
 |---|---|
@@ -85,12 +88,12 @@ Verberg het scheiden van de sorteeropties met ‘|’.
 }
 ```
 
-## Opmerking-CSS {#section_mlv_nrh_xz}
+## Opmerking CSS {#section_mlv_nrh_xz}
 
 | Klasse | Beschrijving |
 |---|---|
-| .fyre-comment-schrijver-markering- *`custom tag name`* | Livefyre zal een CSS klasse in dit formaat voor elke gebruikersmarkering tot stand brengen die door de Studio van Livefyre, [de Synchronisatie](/help/implementation/t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md)van het Profiel wordt toegevoegd. Deze klasse kan worden gebruikt om de achtergrond op te maken voor alle inhoud die wordt geplaatst door gebruikersaccounts, inclusief de tag. |
-| .fyre-tag-content-icon- *`tag name`* | Livefyre zal een CSS klasse in dit formaat voor elke inhoudstag creëren die door Livefyre [Studio](/help/implementation/c-app-customizations/c-adding-users-to-groups.md)wordt toegevoegd. Deze klasse kan worden gebruikt om de inhoud op te maken waaraan u de tag hebt toegevoegd. |
+| .fyre-comment-schrijver-markering- *`custom tag name`* | Livefyre zal een CSS klasse in dit formaat voor elke gebruikersmarkering creëren die door de Studio van Livefyre wordt toegevoegd, [Profielsynchronisatie](/help/implementation/t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md). Deze klasse kan worden gebruikt om de achtergrond op te maken voor alle inhoud die wordt geplaatst door gebruikersaccounts, inclusief de tag. |
+| .fyre-tag-content-icon- *`tag name`* | Livefyre zal een CSS klasse in dit formaat voor elke inhoudstag creëren die door Livefyre [Studio](/help/implementation/c-app-customizations/c-adding-users-to-groups.md) wordt toegevoegd. Deze klasse kan worden gebruikt om de inhoud op te maken waaraan u de tag hebt toegevoegd. |
 | .fyre-comment-user | Het selectiekader dat de afbeelding van het gebruikersprofiel bevat. |
 | .fyre-comment-username | De gebruikersnaam. |
 | .fyre-moderator | Het omsluitende kader van de moderator. |
@@ -102,7 +105,7 @@ Verberg het scheiden van de sorteeropties met ‘|’.
 | .fyre-comment-als | Het selectiekader rond de koppeling ‘Soortgelijk’. |
 | .fyre-comment-response | Het selectiekader rond de koppeling Reageren. |
 
-## Aanbevolen opmerkingen, CSS {#section_m2v_mrh_xz}
+## CSS {#section_m2v_mrh_xz} met aanbevolen opmerkingen
 
 >[!NOTE]
 >
@@ -117,7 +120,7 @@ Verberg het scheiden van de sorteeropties met ‘|’.
 | .fyre-featured body | De container div voor aanbevolen inhoud in de lezer. |
 | .fyre-featured-quote | Het aanhalingspictogram dat met elk inhoudsitem begint. |
 
-## CSS voor gearchiveerde opmerkingen {#section_bs5_lrh_xz}
+## CSS {#section_bs5_lrh_xz} voor gearchiveerde opmerkingen
 
 >[!NOTE]
 >
@@ -128,7 +131,7 @@ Verberg het scheiden van de sorteeropties met ‘|’.
 | .fyre-archive-stream-title | De tekst &#39;Van het Archief&#39;. |
 | .fyre-archive-stream-title-icon | Het logo voor de koptekst &#39;Van het archief&#39;. |
 
-## CSS voor opmerkingenmelding {#section_dy4_krh_xz}
+## CSS {#section_dy4_krh_xz} voor opmerkingenmelding
 
 Met deze klassen kunt u de Livefy Comment Notifier aanpassen.
 
