@@ -6,13 +6,16 @@ title: userPrivacyOptOut
 uuid: a043c50e-0a02-4c83-bbce-54b9b51316a5
 translation-type: tm+mt
 source-git-commit: 9e01dd4515c01154e3566a39b367b8efa4ec082a
+workflow-type: tm+mt
+source-wordcount: '227'
+ht-degree: 0%
 
 ---
 
 
 # userPrivacyOptOut{#userprivacyoptout}
 
-Voeg de `userPrivacyOptOut` vlag aan de pagina toe zodat een bezoeker van de site zich kan afmelden voor deze tracering.
+Voeg de markering `userPrivacyOptOut` toe aan de pagina zodat een sitebezoeker deze tracering kan uitschakelen.
 
 LiveCycle biedt JavaScript-gebeurtenissen om de gebruikersactiviteit in uw LiveCycle-apps te volgen.
 
@@ -32,18 +35,18 @@ Integraties die LiveCycle Apps insluiten kunnen LiveCycle configureren wanneer e
 
 Instructies:
 
-1. Voeg de `userPrivacyOptOut` markering toe aan de pagina vóór het `Livefyre.js` JavaScript:
+1. Voeg de markering `userPrivacyOptOut` toe aan de pagina vóór het JavaScript `Livefyre.js`:
 
    ```
    window.Livefyre = {userPrivacyOptOut: true};
    ```
 
-1. Voeg ergens na `Livefyre.js` de pagina toe `userPrivacyOptOut`.
+1. Voeg `Livefyre.js` aan de pagina toe overal na `userPrivacyOptOut`.
 
    Livefyre Apps instantiëren met de verhoogde privacymontages.
 
    >[!NOTE]
    >
-   >Wijzig de waarde van `userPrivacyOptOut` zodra LiveCycle Apps is geladen niet.
+   >Wijzig de waarde van `userPrivacyOptOut` niet als LiveCycle Apps zijn geladen.
 
-Zorg ervoor dat in de toestemmingsworkflow de waarde true wordt ingesteld `userPrivacyOptOut` als een bezoeker van de site de optie Weigeren kiest.
+Zorg ervoor dat in uw toestemmingsworkflow de `userPrivacyOptOut` op true wordt ingesteld als een sitebezoeker ervoor kiest om te weigeren.
