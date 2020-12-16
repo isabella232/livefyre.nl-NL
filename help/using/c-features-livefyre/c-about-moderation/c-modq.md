@@ -40,7 +40,7 @@ Inhoud die niet wordt weergegeven in ModQ omvat:
 * Inhoud goedgekeurd door een moderator.
 * Inhoud geplaatst door een verboden gebruiker of door een verboden gebruiker toegepaste vlaggen.
 
-## NavigatiemodQ {#section_uv4_db2_yy}
+## Navigeren in ModQ {#section_uv4_db2_yy}
 
 ModQ wordt gesplitst in twee deelvensters met tabs:
 
@@ -50,12 +50,12 @@ ModQ wordt gesplitst in twee deelvensters met tabs:
 Beide lusjes bieden veel van de zelfde filters en moderatie hulpmiddelen aan.
 
 * **[!UICONTROL Item Count]** Het aantal resterende items in de wachtrij wordt linksboven in ModQ weergegeven.
-* **[!UICONTROL Filter]** Klik **[!UICONTROL Filter]** om parameters te definiëren waarmee de inhoud in het deelvenster wordt weergegeven.
-* **[!UICONTROL History]** Klik op de **[!UICONTROL History]** knop rechtsboven in het scherm om een lijst met onlangs gemodereerde inhoud te openen, zodat u uw werk kunt bekijken of een recente moderatieactie kunt wijzigen. Klik nogmaals op de knop om terug te gaan naar de inhoud in de wachtrij. Alleen de 100 meest recente acties worden weergegeven. **De geschiedenis** zal geen lijst van acties maken die door een andere moderator worden genomen.
+* **[!UICONTROL Filter]** Klik  **[!UICONTROL Filter]** om parameters te definiëren waarmee de inhoud in het deelvenster wordt weergegeven.
+* **[!UICONTROL History]** Klik op de  **[!UICONTROL History]** knop rechtsboven in het scherm om een lijst met onlangs gemodereerde inhoud te openen, zodat u uw werk kunt bekijken of een recente moderatieactie kunt wijzigen. Klik nogmaals op de knop om terug te gaan naar de inhoud in de wachtrij. Alleen de 100 meest recente acties worden weergegeven. **De** geschiedenis zal geen lijst van acties maken die door een andere moderator worden genomen.
 
 * **[!UICONTROL User Pane]** Klik op de knoppen voor uitvouwen of samenvouwen rechtsboven op de pagina om het deelvenster Gebruiker te openen of te sluiten.
 
-## Inhoud van ModQ begrijpen {#section_oxm_kgz_y1b}
+## ModQ-inhoud begrijpen {#section_oxm_kgz_y1b}
 
 Op elk weergegeven stuk inhoud worden voorvertoningsgegevens weergegeven, waaronder de site waarop de inhoud is geplaatst en de auteur ervan. Als u een item selecteert, wordt het gehele stuk inhoud, inclusief alle media, weergegeven.
 
@@ -83,19 +83,19 @@ De volgende informatie wordt weergegeven wanneer u een item selecteert:
 
 ## Filteropties in ModQ {#section_r2c_qc2_yy}
 
-Klik linksboven **[!UICONTROL Filter]** in het venster ModQ om een deelvenster met beschikbare filteropties voor weergegeven inhoud te openen. Als u opties selecteert, wordt ModQ automatisch bijgewerkt en wordt alleen de gefilterde inhoud weergegeven. Klik **[!UICONTROL Clear filters]** om alle geselecteerde opties te wissen en laad de volledige lijst met items opnieuw.
+Klik op **[!UICONTROL Filter]** linksboven in het ModQ-venster om een deelvenster met beschikbare filteropties voor weergegeven inhoud te openen. Als u opties selecteert, wordt ModQ automatisch bijgewerkt en wordt alleen de gefilterde inhoud weergegeven. Klik **[!UICONTROL Clear filters]** om alle geselecteerde opties te ontruimen, en de volledige lijst van punten opnieuw te laden.
 
-Er zijn verschillende filteropties beschikbaar voor de tabbladen **[!UICONTROL Items]** **[!UICONTROL Streams Premoderation]** en de tabbladen.
+Er zijn verschillende filteropties beschikbaar voor de tabbladen **[!UICONTROL Items]** en **[!UICONTROL Streams Premoderation]**.
 
 De volgende opties zijn beschikbaar voor ModQ onder zowel **[!UICONTROL Items]** als **[!UICONTROL Streams Premoderation]**:
 
 * **[!UICONTROL App]**. Gebruik het veld Zoektoepassingen om resultaten te filteren op App. U kunt meerdere apps selecteren.
 * **[!UICONTROL System Flags]**. De inhoud van de filter door regels zoals Spam, Winst, VEILIG, en de regels van de Prematiging.
 
-   * Als u deze optie selecteert, **[!UICONTROL Spam]** wordt alle inhoud weergegeven die door SAFE als spam is gecodeerd.
-   * Als u deze optie selecteert, **[!UICONTROL Profanity]** wordt alle inhoud weergegeven die is gelabeld door uw netwerk- of sitereferentielijst.
-   * Als u **[!UICONTROL SAFE]** selecteert, wordt alle inhoud die ModQ invoert, weergegeven als gevolg van uw VEILIGE regels.
-   * Als u deze optie selecteert, **[!UICONTROL Premoderation]** wordt alle inhoud weergegeven die is gelabeld voor Premoderatie door uw netwerk-, stream- of App-instellingen.
+   * Als u **[!UICONTROL Spam]** selecteert, wordt alle inhoud weergegeven die door SAFE als spam is gecodeerd.
+   * Als u **[!UICONTROL Profanity]** selecteert, wordt alle inhoud weergegeven met de code Winst van uw netwerk of site.
+   * Als u **[!UICONTROL SAFE]** selecteert, wordt alle inhoud die ModQ binnenkomt, weergegeven als resultaat van uw VEILIGE regels.
+   * Als u **[!UICONTROL Premoderation]** selecteert, wordt alle inhoud weergegeven die is gelabeld voor premoderatie door uw netwerk-, stream- of toepassingsinstellingen.
 
 * **[!UICONTROL User Flags]** Inhoud filteren op vlag van de gebruiker. De opties omvatten Aanstootgevend, Spam, Buiten-onderwerp, en Oneens.
 * **[!UICONTROL Rights Requests.]** Alleen inhoud weergeven waarvoor rechten zijn verleend door op het selectievakje te klikken.
@@ -109,9 +109,9 @@ De volgende optie is beschikbaar voor ModQ onder **[!UICONTROL Items]**:
 
 **[!UICONTROL Moderation Recommendations]**. De inhoud van de filter door de aanbeveling van de geautomatiseerde Aanbeveling van de Moderatie wordt gegeven.
 
-In de volgende afbeeldingen ziet u hoe de aanbevelingen voor moderatie er in ModQ uitzien:  ![](assets/mod_reco1.png)
+De volgende afbeeldingen laten zien hoe Moderation Recommendations er uitziet in ModQ:  ![](assets/mod_reco1.png)
 
-De aanbeveling inzake de matiging wordt gegeven voor de inhoud wanneer deze wordt opgesteld in **[!UICONTROL Network Settings > Moderation]** en **[!UICONTROL Network Settings > ModQ]**.
+De aanbeveling voor de moderatie wordt gegeven voor inhoud wanneer het in **[!UICONTROL Network Settings > Moderation]** en **[!UICONTROL Network Settings > ModQ]** wordt geplaatst.
 
 ## Handelingen die u kunt gebruiken in ModQ {#section_h4g_wrn_z1b}
 
@@ -119,8 +119,8 @@ U kunt bepalen wat u met elk stuk inhoud in ModQ wilt doen.
 
 Selecteer een van de volgende opties:
 
-* Het **[!UICONTROL Checkbox]** pictogram om de inhoud goed te keuren
-* Het **[!UICONTROL Trash can]** pictogram om de inhoud naar de prullenbak te verzenden
+* Het pictogram **[!UICONTROL Checkbox]** om de inhoud goed te keuren
+* Het pictogram **[!UICONTROL Trash can]** om de inhoud naar de prullenbak te verzenden
 * **[!UICONTROL Request Rights]** om de rechten op de inhoud bij de eigenaar van de inhoud aan te vragen.
 
    >[!NOTE]
@@ -133,7 +133,7 @@ Selecteer een van de volgende opties:
 
 >[!NOTE]
 >
->Wanneer u een stuk inhoud in de prullenmand plaatst, worden de inhoud en alle antwoorden op de inhoud permanent uit ModQ verwijderd. Zie Een verouderd item [toevoegen aan een app om een verouderd stuk inhoud in een app](/help/using/c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md#t_add_trashed_item_back_into_app)te plaatsen.
+>Wanneer u een stuk inhoud in de prullenmand plaatst, worden de inhoud en alle antwoorden op de inhoud permanent uit ModQ verwijderd. Om een verouderd stuk van inhoud in een App te zetten, zie [Voeg een Verlopen Punt terug in een App](/help/using/c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md#t_add_trashed_item_back_into_app) toe.
 
 Als de inhoud zich al in de gewenste staat bevindt, wordt de status bevestigd door de optie Prullenbak, Bozo of Goedkeuren te kiezen en het item uit de lijst te verwijderen. Het moderniseren van een stuk van inhoud zal onmiddellijk het uit uw rij verwijderen en zal het in de rijen van andere moderatoren deactiveren.
 
@@ -141,13 +141,13 @@ Als de inhoud zich al in de gewenste staat bevindt, wordt de status bevestigd do
 >
 >Stroominhoud mag niet Bozo&#39;d zijn. Als u de inhoud van Stream oversleept, wordt deze permanent uit de stream verwijderd en kan deze bewerking niet ongedaan worden gemaakt.
 
-Zodra de inhoud is gemodereerd, zal het uit ModQ van de moderator worden verwijderd, en zijn auteur kan het niet meer uit binnen de stroom uitgeven. Als een moderator een punt verwerpt, of als een gebruiker hun commentaar schrapt, zal het grijs in de rijen van andere moderatoren in real time verschijnen. Wanneer de inhoud uit grijs is geweest, toont de **[!UICONTROL Clear Moderated]** knoopvertoningen op de pagina, die moderatoren toestaat om het uit hun lijsten te verwijderen, en hun plaats op de pagina ongeacht andere moderatoractiviteit te handhaven.
+Zodra de inhoud is gemodereerd, zal het uit ModQ van de moderator worden verwijderd, en zijn auteur kan het niet meer uit binnen de stroom uitgeven. Als een moderator een punt verwerpt, of als een gebruiker hun commentaar schrapt, zal het grijs in de rijen van andere moderatoren in real time verschijnen. Wanneer de inhoud uit grijs is, de **[!UICONTROL Clear Moderated]** knoopvertoningen op de pagina, toestaand moderatoren om het uit hun lijsten te verwijderen, en hun plaats op de pagina ongeacht andere moderatoractiviteit te handhaven.
 
 ## De prullenbak gebruiken in ModQ {#section_tpx_qgz_y1b}
 
 In het gedeelte Instellingen kunt u opties selecteren die beschikbaar zijn wanneer inhoud wordt gemarkeerd als Verlopen.
 
-* ****[!UICONTROL Confirm Trash]**** Schakel deze optie in om te vereisen dat moderatoren hun actie bevestigen wanneer u inhoud instelt op Prullenmand. Als deze optie is ingeschakeld, wordt bij het selecteren **[!UICONTROL Trash]** voor inhoud een dialoogvenster weergegeven waarin wordt gevraagd om een **[!UICONTROL Reason for Moderation]** bewerking en wordt een veld aangeboden waarin een bewerking **[!UICONTROL Note]** kan worden uitgevoerd.
+* ****[!UICONTROL Confirm Trash]**** Schakel deze optie in om te vereisen dat moderatoren hun actie bevestigen wanneer u inhoud instelt op Prullenmand. Als u **[!UICONTROL Trash]** voor inhoud selecteert, wordt een dialoogvenster weergegeven waarin wordt gevraagd om een **[!UICONTROL Reason for Moderation]** en wordt een veld weergegeven waarin een **[!UICONTROL Note]** kan worden ingevoerd.
 
    (Deze instelling is beschikbaar **[!UICONTROL only]** op netwerkniveau en is van toepassing op alle sites onder uw netwerk.)
 
@@ -155,7 +155,7 @@ In het gedeelte Instellingen kunt u opties selecteren die beschikbaar zijn wanne
 
 ## Gebruikersstatus wijzigen in ModQ {#section_tmw_lg1_z1b}
 
-Klik op de **[!UICONTROL User actions]** knop in het deelvenster Gebruikersoverzicht om de gebruiker te dempen, te verbieden of toe te staan.
+Klik op de knop **[!UICONTROL User actions]** in het deelvenster Gebruikersoverzicht om de gebruiker te dempen, te verbieden of een lijst met gebruikers toe te staan.
 
 * **[!UICONTROL Mute:]** Hiermee kunt u markeringen dempen van de gebruiker die het vermelde stuk inhoud heeft gemarkeerd. Gebruik deze optie om de vlaggen van de gebruiker van uw premoderatiefilters uit te sluiten. De inhoud die zij markeren, zal ModQ niet als gevolg van de vlag ingaan, en hun vlaggen zullen niet in de Regels van de Vlag worden omvat.
 * **[!UICONTROL Ban:]** kunt u de vermelde gebruiker van uw site of netwerk verbieden. (Alleen Studio-beheerders of gebruikersbeheerders kunnen een gebruiker in een netwerk verbieden.)
