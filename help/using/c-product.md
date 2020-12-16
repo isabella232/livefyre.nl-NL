@@ -7,6 +7,9 @@ title: Info Livefyre
 uuid: b864afe0-9ccb-4607-b735-69ce42cd8199
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '217'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ Het toonaangevende platform voor sociale diepte met de hulpmiddelen u publiek me
 
 Het leven verstrekt krachtige eigenschappen die u toestaan om uw publiek in dienst te nemen en het gesprek, met inbegrip van de capaciteit te controleren om, sociale inhoud relevant voor uw overseinen te zoeken identificeren en te bewaren. Met LiveCycle kunt u ook het recht aanvragen om deze inhoud opnieuw te gebruiken en metagegevens toevoegen, waaronder tags die het eenvoudiger maken om deze inhoud te beheren en op te halen. LiveCycle bevat een verbeterde ervaring met het ontwerpen van apps, waarmee u snel interactieve apps kunt ontwikkelen, aanpassen en implementeren zonder ooit een coderegel te schrijven.
 
-## Studio gebruiken {#section_a2y_x3t_bbb}
+## Studio {#section_a2y_x3t_bbb} gebruiken
 
 Met Livefyre Studio kunt u:
 
