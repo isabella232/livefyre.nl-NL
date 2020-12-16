@@ -7,6 +7,9 @@ title: Vertaalsets
 uuid: 8ba66a61-5520-482a-bc0b-e4f6b57f1744
 translation-type: tm+mt
 source-git-commit: 366b7248c2f3b6994fa10419599e66fa1c8e5e48
+workflow-type: tm+mt
+source-wordcount: '1355'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +24,7 @@ c_translation_sets.dita
 
 Gebruik vertaalinstellingen om apps in verschillende talen te lokaliseren of om alternatieve tekst voor verschillende apps vanaf één locatie in Studio op te geven. U kunt er bijvoorbeeld voor zorgen dat alle sites in het Spaans de Spaanse taal gebruiken voor alle App-velden. U kunt de tekst ook wijzigen zodat alle velden overeenkomen met de stem en het gevoel van uw site of netwerk.
 
-U kunt vertaalinstellingen opgeven voor alle apps, behalve Storify 2. Zie Tekenreeksen [lokaliseren voor meer informatie over welke velden u kunt lokaliseren](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md).
+U kunt vertaalinstellingen opgeven voor alle apps, behalve Storify 2. Zie [Tekenreeksen lokaliseren](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md) voor meer informatie over welke velden u kunt lokaliseren.
 
 Opmerkingen, Live Blog en Chat delen dezelfde set tekenreeksen binnen een vertaalset.
 
@@ -33,7 +36,7 @@ De vertaalsets op verschillende niveaus overschrijven elkaar als volgt:
 * De vertaalreeks van de toepassing treedt netwerk-vlakke en plaats-vlakke vertaalreeksen met voeten.
 * Vertaalsets op siteniveau overschrijven de vertaalsets op netwerkniveau.
 
-## Tekstreeksen controleren {#c-review-text-strings}
+## Tekstreeksen {#c-review-text-strings} controleren
 
 De tekstreeksen aanpassen voor LiveRevisies.
 
@@ -78,11 +81,11 @@ Tekenreeksen beschikbaar voor de gebruikersinterface voor revisie en beoordeling
 |  | volgen | Ik ben geïnteresseerd |
 |  | shareText | Ik schreef net een revisie. Kijk eens! |
 | Knopinfo voor classificaties |  |  |
-|  | ratingValues | Een array. Default =[&quot;Poor&quot;, &quot;Poor&quot;, &quot;Fair&quot;, &quot;Fair&quot;, &quot;average&quot;, &quot;average&quot;, &quot;Good&quot;, &quot;Good&quot;, &quot;Good&quot;, &quot;Excellent&quot;]; |
+|  | ratingValues | Een array. Default = [&quot;Poor&quot;, &quot;Poor&quot;, &quot;Fair&quot;, &quot;Fair&quot;, &quot;average&quot;, &quot;average&quot;, &quot;Good&quot;, &quot;Good&quot;, &quot;Excellent&quot;, &quot;Excellent&quot;]; |
 |  |  | Opmerking: waarden in de array moeten worden gedupliceerd om aan de linker- en rechterhelft van elke ster dezelfde naam toe te wijzen. |
 | Onderdelen van classificaties |  |  |
-|  | ratingSubpartPlaceholders | Een array. Standaard =[] |
-|  | ratingSubpartTitles | Een array. Standaard =[] |
+|  | ratingSubpartPlaceholders | Een array. Standaard = [] |
+|  | ratingSubpartTitles | Een array. Standaard = [] |
 |  | reviewStreamTitle | Standaard leeg. Titel van de samenvatting van de evaluatie. |
 | Dic |  |  |
 |  | averageRating | Gemiddelde beoordeling door gebruiker |
@@ -118,7 +121,7 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom.
 |  | commentNotifier | Nieuwe revisie |
 |  | commentNotifierPlural | Nieuwe revisies |
 
-## Informatie auteur/inhoud {#section_osx_xj4_xz}
+## Info auteur/inhoud {#section_osx_xj4_xz}
 
 Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 
@@ -128,7 +131,7 @@ Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 |  | reviewsContentNotFoundMsg | [Deze revisie is niet meer zichtbaar](https://d.pr/i/svXs) |
 |  | backToComments | Terug naar Revisies |
 
-## Handelingen van gebruikers {#section_tlx_wj4_xz}
+## Gebruikershandelingen {#section_tlx_wj4_xz}
 
 Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, delen en markeren als handig.
 
@@ -139,7 +142,7 @@ Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, dele
 |  | wasReviewHelpfulMobile | Nuttig? |
 |  | ownIsReviewHelpful | [Gevonden nuttig.](https://d.pr/i/Q0mA) |
 |  | reviewIsHelpful | [Ja](https://d.pr/i/Q0mA) |
-|  | NuttigeScheider | [&amp;vert;](https://d.pr/i/Q0mA) |
+|  | NuttigeScheider | [&amp;Omkeren;](https://d.pr/i/Q0mA) |
 |  | reviewIsNotHelpful | [Nee](https://d.pr/i/Q0mA) |
 | *Stemmen over modaal* |  |  |
 |  | voiceTitle | Was deze herziening nuttig? |
@@ -157,7 +160,7 @@ Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, dele
 | *Delen, modaal* |  |  |
 |  | shareTitle | Revisie delen |
 
-## Functies {#section_yl1_wj4_xz}
+## Functies {#section_yl1_wj4_xz} plaatsen
 
 Tekenreeksen beschikbaar voor gebruikers die revisies plaatsen.
 
@@ -203,7 +206,7 @@ Tekenreeksen beschikbaar voor algemene foutberichten.
 |  | errorTitleMaxChars | Je titel is te lang. Bewerk het bestand en probeer het opnieuw. |
 |  | errorStemOwnComment | Je kunt niet op je eigen beoordeling stemmen |
 
-## Geeft tekstreeksen aan {#c_sidenotes_text_strings}
+## Geeft tekstreeksen {#c_sidenotes_text_strings} aan
 
 Teksttekenreeksen aanpassen voor LiveCycle Sidenotes
 
@@ -267,7 +270,7 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom.
 |  | menuInfoHelp | Help |
 |  | menuInfoLiveLink | Bezoek Livefyre.com |
 
-## Informatie auteur/inhoud {#section_dhb_gl4_xz}
+## Info auteur/inhoud {#section_dhb_gl4_xz}
 
 Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 
@@ -286,7 +289,7 @@ Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 |  | questionMockText | Wat &quot;bekend&quot; is, is niet bekend, alleen omdat het &quot;bekend&quot; is. |
 |  | questionTitle | Wat is een Sidenote? |
 
-## Handelingen van gebruikers {#section_qxd_fl4_xz}
+## Gebruikershandelingen {#section_qxd_fl4_xz}
 
 Tekenreeksen beschikbaar voor gebruikersacties: het markeren, delen, en het houden van bestaande inhoud.
 
@@ -310,10 +313,10 @@ Tekenreeksen beschikbaar voor gebruikersacties: het markeren, delen, en het houd
 |  | sliderCommentTally | van |
 |  | sliderInviteRead | Lezen |
 |  | sliderInviteWrite | Schrijven |
-|  | sliderLoading | Laden... |
+|  | sliderLoading | Bezig met laden... |
 |  | sliderWriteText | Wat denk je? Tik om te schrijven. |
 
-## Functies {#section_xzf_2l4_xz}
+## Functies {#section_xzf_2l4_xz} plaatsen
 
 Tekenreeksen beschikbaar voor gebruikers die inhoud posten.
 
