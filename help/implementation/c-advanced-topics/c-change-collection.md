@@ -7,11 +7,14 @@ title: Verzameling wijzigen
 uuid: 81c8a554-375f-4659-9e25-5b3618824633
 translation-type: tm+mt
 source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 0%
 
 ---
 
 
-# Verzameling wijzigen {#change-collection}
+# Verzameling {#change-collection} wijzigen
 
 Gebruikers mogen via één pagina-indeling en URL op Verzamelingen klikken.
 
@@ -19,7 +22,7 @@ Met de Change Collection Delegate kunt u de verzameling wijzigen die op een pagi
 
 Als u bijvoorbeeld op een video of foto in een galerie klikt, wordt een verzameling geladen die specifiek is voor die selectie, terwijl de URL van de pagina niet wordt gewijzigd.
 
-Een van de drie verzamelingen op één pagina [](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count)laden:
+Aan [laad één van drie Inzamelingen van één enkele pagina](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count):
 
 ```
 <html> 
