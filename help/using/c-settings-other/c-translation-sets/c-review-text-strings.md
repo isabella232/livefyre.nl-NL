@@ -7,6 +7,9 @@ title: Tekstreeksen controleren
 uuid: 86251e49-bc73-4eec-9f9b-b4b0a5b42099
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '710'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,13 @@ De tekstreeksen aanpassen voor LiveRevisies.
 
 Deze pagina bevat een overzicht en beschrijving van de tekenreeksen die beschikbaar zijn voor aanpassing in revisie-apps. De hier vermelde tekenreeksen komen bovenop en overschrijven voor de standaardtekenreeksen voor LiveCycle-kerntoepassingen, die worden vermeld in String Customizations. Waar duplicaten worden vermeld, zijn de tekenreeksen in deze tabellen de standaardinstelling voor revisieapps.
 
-ImplementationReview / Rating InterfaceStream InfoAuthor / Content InfoUser ActionsPost FunctionsErrors
+Implementatie
+Revisie-/beoordelingsinterface
+Stream-info
+Informatie auteur/inhoud
+Handelingen van gebruikers
+Functies
+Fouten
 
 ## Implementatie {#section-vsy-1k4-xz}
 
@@ -74,12 +83,12 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom.
 |  | newComments | Nieuwe revisies |
 | Aantal listeners | listenerCount | persoon die luistert |
 |  | listenerCountPlural | mensen luisteren |
-| Aantal opmerkingen | commentCountLabel | LiveReviews<strong> | </strong>%s |
-|  | commentCountLabelPlural | LiveReviews<strong> | </strong>%s |
+| Aantal opmerkingen | commentCountLabel | LiveRevisies<strong> | </strong>%s |
+|  | commentCountLabelPlural | LiveRevisies<strong> | </strong>%s |
 | Telling van opmerkingenkennisgever | commentNotifier | Nieuwe revisie |
 |  | commentNotifierPlural | Nieuwe revisies |
 
-## Informatie auteur/inhoud {#section_osx_xj4_xz}
+## Info auteur/inhoud {#section_osx_xj4_xz}
 
 Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 
@@ -88,7 +97,7 @@ Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 | Doorbraak van thread | reviewsContentNotFoundMsg | [Deze revisie is niet meer zichtbaar](https://d.pr/i/svXs) |
 |  | backToComments | Terug naar Revisies |
 
-## Handelingen van gebruikers {#section_tlx_wj4_xz}
+## Gebruikershandelingen {#section_tlx_wj4_xz}
 
 Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, delen en markeren als handig.
 
@@ -98,7 +107,7 @@ Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, dele
 |  | wasReviewHelpfulMobile | Nuttig? |
 |  | ownIsReviewHelpful | [Gevonden nuttig.](https://d.pr/i/Q0mA) |
 |  | reviewIsHelpful | [Ja](https://d.pr/i/Q0mA) |
-|  | NuttigeScheider | [&amp;vert;](https://d.pr/i/Q0mA) |
+|  | NuttigeScheider | [&amp;Omkeren;](https://d.pr/i/Q0mA) |
 |  | reviewIsNotHelpful | [Nee](https://d.pr/i/Q0mA) |
 | Stemmen over modaal | voiceTitle | Was deze herziening nuttig? |
 |  | stemmenDownloaden | Nee |
@@ -111,7 +120,7 @@ Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, dele
 | Meningmodaal | notifyDefaultText | Ik heb u in een Livefyre-revisie genoemd! |
 | Delen, modaal | shareTitle | Revisie delen |
 
-## Functies {#section_yl1_wj4_xz}
+## Functies {#section_yl1_wj4_xz} plaatsen
 
 Tekenreeksen beschikbaar voor gebruikers die revisies plaatsen.
 
