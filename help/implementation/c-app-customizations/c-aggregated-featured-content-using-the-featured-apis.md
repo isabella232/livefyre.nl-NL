@@ -7,11 +7,14 @@ title: Geaggregeerde aanbevolen inhoud met de aanbevolen API's
 uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 0%
 
 ---
 
 
-# Geaggregeerde aanbevolen inhoud met de aanbevolen API&#39;s{#aggregated-featured-content-using-the-featured-apis}
+# Samengevoegde aanbevolen inhoud met de aanbevolen API&#39;s{#aggregated-featured-content-using-the-featured-apis}
 
 LiveCycle biedt vier aanbevolen API&#39;s, waarmee u de 50 meest recente aanbevolen inhoudsonderdelen voor het invoernetwerk, de site of de verzameling kunt ophalen, of de twee inhoud die boven aan een invoerverzameling is aanbevolen.
 
@@ -151,7 +154,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/featured
 }
 ```
 
-## Topaanbieding (site) {#section_lq5_ymw_xz}
+## Aanbevolen (site) {#section_lq5_ymw_xz}
 
 Retourneert de 50 meest recente stukken aanbevolen inhoud (en de auteurs) voor de invoersite. (Gebruik paginering om alle inhoud te retourneren in plaats van alleen de meest recente 50.)
 
@@ -253,7 +256,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/featured
 }
 ```
 
-## Topaanbieding (verzameling) {#section_kgc_xmw_xz}
+## Aanbevolen (verzameling) {#section_kgc_xmw_xz}
 
 Retourneert de 50 meest recente stukken aanbevolen inhoud (en de auteurs) voor de invoerverzameling. (Gebruik paginering om alle inhoud te retourneren in plaats van alleen de meest recente 50.)
 
@@ -355,7 +358,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64arti
 }
 ```
 
-## Topaanbieding (kop) {#section_n4b_lmw_xz}
+## Aanbevolen (kop) {#section_n4b_lmw_xz}
 
 Retourneert de twee meest recente aanbevolen stukken inhoud voor de invoerverzameling.
 
