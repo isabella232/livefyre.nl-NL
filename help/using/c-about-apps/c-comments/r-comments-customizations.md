@@ -7,6 +7,9 @@ title: Opmerkingen aanpassen
 uuid: 7ec08aaf-553f-49a2-b237-d4bdcb5714ff
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '347'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +32,7 @@ Gebruik de beschikbare opties om uw gebruikers de mogelijkheid te bieden inhoud 
 
 * **[!UICONTROL Posts appear in cards]**
 
-   Als deze optie is ingeschakeld, worden de posten weergegeven in een omringend vak en wordt de achtergrondkleur weergegeven die door de **[!UICONTROL Theme]** selectie is bepaald.
+   Als deze optie is ingeschakeld, worden de posten weergegeven in een omringend vak en wordt de achtergrondkleur toegepast die is voorgeschreven door de selectie **[!UICONTROL Theme]**.
 
 * **[!UICONTROL Expand media]**
 
@@ -69,11 +72,11 @@ Gebruik de beschikbare opties om uw gebruikers de mogelijkheid te bieden inhoud 
 
 * **[!UICONTROL Most liked comment sort]**
 
-   Indien ingeschakeld, kunnen gebruikers sorteren op **[!UICONTROL Top Comments]** of **[!UICONTROL Hot Threads]** (naast de standaardopties **[!UICONTROL Newest]** en **[!UICONTROL Oldest]** sorteeropties).
+   Indien ingeschakeld, kunnen gebruikers sorteren op **[!UICONTROL Top Comments]** of **[!UICONTROL Hot Threads]** (naast de standaardopties **[!UICONTROL Newest]** en **[!UICONTROL Oldest]**).
 
 U kunt opmerkingen aanpassen met:
 
-* **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle toepassingen in de **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle apps in de **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor details over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle Apps in **[!UICONTROL App Designer]**.
 
 * **[!UICONTROL Integration tools]**. Zie Opmerkingen voor meer informatie over het aanpassen van opmerkingen met behulp van integratiegereedschappen.
 
