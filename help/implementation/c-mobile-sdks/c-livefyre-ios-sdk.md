@@ -7,6 +7,9 @@ title: Livefyre iOS SDK
 uuid: bfdef31a-49fc-4b25-b0c5-300f27067302
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '410'
+ht-degree: 0%
 
 ---
 
@@ -32,7 +35,7 @@ platform :ios, :deployment_target => '6.0'
 pod 'StreamHub-iOS-SDK', '~> 0.3.0'
 ```
 
-U moet ook een opslagplaats Specs toevoegen aan uw installatie CocoaPod (dit zal het aan `~/.cocoapods/repos` folder klonen):
+U moet ook een opslagplaats Specs aan uw installatie CocoaPod toevoegen (dit zal het aan `~/.cocoapods/repos` folder) klonen:
 
 ```
 pod repo add livefyre https://github.com/Livefyre/cocoapods.git
@@ -75,13 +78,13 @@ open CommentStream.xcworkspace
 
 >[!NOTE]
 >
->Als u tests wilt uitvoeren in Xcode 6, moet u $(PLATFORM_DIR)/Developer/Library/Frameworks toevoegen aan FRAMEWORK_SEARCH_PATHS in Pods-test-XCTest+OHHTTPStubSuiteCleanUp[podhttps://stackoverflow.com/a/24651704](https://stackoverflow.com/a/24651704).
+>Als u tests wilt uitvoeren in Xcode 6, moet u $(PLATFORM_DIR)/Developer/Library/Frameworks toevoegen aan FRAMEWORK_SEARCH_PATHS in de pods-test-XCTest+OHHTTPStubSuiteCleanUp-pod[https://stackoverflow.com/a/24651704](https://stackoverflow.com/a/24651704).
 
 U hebt het bestand LFSTestConfig.plist van Livefyre nodig, dat Livefyre op verzoek verschaft.
 
 ## Xcode-documentatie {#section_arl_b3v_zz}
 
-U kunt door de [documentatie](https://livefyre.github.com/StreamHub-iOS-SDK/) bladeren of u kunt het doel &quot;Documentatie&quot;in uw Xcode (vereist dat appledoc wordt geïnstalleerd) op uw systeem bouwen.
+U kunt bladeren [documentatie](https://livefyre.github.com/StreamHub-iOS-SDK/) of u kunt het doel van de &quot;Documentatie&quot;in uw Xcode (vereist toepassingsdoc om worden geïnstalleerd) op uw systeem bouwen.
 
 ## Vereisten {#section_m5l_13v_zz}
 
