@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Implementatiehandleiding voor Livefyre {#implementation}
+# Handleiding voor implementatie van Livefy {#implementation}
 
 + [Implementatiehandleiding voor Livefyre](home.md)
 + Aan de slag {#getting-started}
@@ -34,10 +34,10 @@ ht-degree: 0%
    + [Verificatiepakket](t-about-identity-integration/c-authorization-package.md)
    + [Object AuthDelegate](t-about-identity-integration/c-building-an-auth-delegate.md)
    + [Gebruikersmachtigingen naar externe systemen posten (optioneel)](t-about-identity-integration/c-posting-user-permissions-to-external-systems.md)
-   + SSO implementeren {#implementing-sso}
+   + SSO {#implementing-sso} implementeren
       + [Implementatie van SSO](t-about-identity-integration/c-implementing-sso/c-implementing-sso.md)
       + [Foutopsporing Auth Delegate](t-about-identity-integration/c-implementing-sso/c-debugging-auth.md)
-   + Synchroniseren met Livefyre {#sync-ping-for-pull}
+   + Synchroniseren met LiveCycle {#sync-ping-for-pull}
       + [Synchroniseren met Livefyre Ping for Pull gebruiken](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md)
       + [Het eindpunt van de trek opbouwen](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-build-the-pull-endpoint.md)
       + [Registreer het Eindpunt met Studio](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/c-register-the-endpoint-with-studio.md)
@@ -47,11 +47,11 @@ ht-degree: 0%
 + Livefyre-id {#livefyre-identity}
    + [Livefyre-id](c-livefyre-identity-comp/c-livefyre-identity-comp.md)
    + [LiveCycle-identiteit inschakelen](c-livefyre-identity-comp/t-enable-livefyre-identity.md)
-   + Sociale apps met levensidentiteit gebruiken {#use-social-apps-with-livefyre-identity}
+   + Sociale toepassingen gebruiken met levende identiteit {#use-social-apps-with-livefyre-identity}
       + [Uw sociale apps maken](c-livefyre-identity-comp/t-create-your-social-apps.md)
       + [Een Facebook-app maken voor gebruik met LiveCyre-id](c-livefyre-identity-comp/t-create-a-facebook-app-for-use-with-livefyre-identity.md)
       + [Een Twitter-app maken voor gebruik met LiveCyre-identiteit](c-livefyre-identity-comp/t-create-a-twitter-app-for-use-with-livefyre-identity.md)
-      + [Maak een Yahoo! Toepassen voor gebruik met livefyre-id](c-livefyre-identity-comp/t-create-a-yahoo-app-for-use-with-livefyre-identity.md)
+      + [Maak een Yahoo! App voor gebruik met LiveCyre-identiteit](c-livefyre-identity-comp/t-create-a-yahoo-app-for-use-with-livefyre-identity.md)
       + [Een Microsoft Live Identity-app maken voor gebruik met LiveCyre-identiteit](c-livefyre-identity-comp/t-create-a-microsoft-live-id-app-for-use-with-livefyre-identity.md)
       + [Een LinkedIn-toepassing maken voor gebruik met LiveCycle-identiteit](c-livefyre-identity-comp/t-create-a-linkedin-app-for-use-with-livefyre-identity.md)
       + [Een GitHub Identity-app maken voor gebruik met LiveCyre-identiteit](c-livefyre-identity-comp/c-create-a-github-identity.md)
@@ -128,7 +128,7 @@ ht-degree: 0%
    + [Pictogram @mention wijzigen](c-app-customizations/c-change-mention-icon.md)
    + [Inhoud markeren](c-app-customizations/c-highlight-content.md)
    + [De datum- en tijdstempel aanpassen](c-app-customizations/c-date-time-stamp.md)
-   + Inhoud onderdeel {#feature-content}
+   + Inhoud element {#feature-content}
       + [Inhoud onderdeel](c-app-customizations/t-feature-content.md)
       + [Functie-inhoud in Studio inschakelen](c-app-customizations/t-enable-featuring-content-in-studio.md)
       + [Selecteer inhoud die u wilt gebruiken in een app](c-app-customizations/t-select-content-to-feature.md)
@@ -158,7 +158,7 @@ ht-degree: 0%
    + [LiveCycle gebruiken met Adobe Analytics en Dynamic Tag Manager (DTM)](livefyre-analytics/c-use-livefyre-with-adobe-analytics.md)
    + [LiveCycle gebruiken met Ander Analyseprogramma](livefyre-analytics/c-livefyre-analytics.md)
    + [Gebeurtenissen van Livefyre Analytics](livefyre-analytics/c-livefyre-analytics-events.md)
-+ [Livefyre integreren met AEM](c-livefyre-aem-integration.md)
++ [LiveCycle integreren met AEM](c-livefyre-aem-integration.md)
 + Geavanceerde onderwerpen {#advanced-topics}
    + [Aantal opmerkingen weergeven](c-advanced-topics/t-display-comment-count.md)
    + [Sociaal delen inschakelen](c-advanced-topics/c-enabling-social-sharing.md)
