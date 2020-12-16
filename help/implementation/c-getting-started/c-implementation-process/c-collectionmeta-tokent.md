@@ -14,7 +14,7 @@ ht-degree: 0%
 ---
 
 
-# CollectionMeta-token{#collectionmeta-token}
+# CollectionMeta Token{#collectionmeta-token}
 
 Maak een uniek token op uw server dat elke verzameling identificeert die u maakt.
 
@@ -24,14 +24,14 @@ LiveCycle wijst een unieke id toe aan elke verzameling die u maakt. Livefyre wij
 
 | Parameter | Type | Beschrijving |
 |--- |--- |--- |
-| networkName | Tekenreeks (optioneel) | De naam van het Livefyre-netwerk (beschikbaar via [!UICONTROL Studio] > [!UICONTROL Settings] > [!UICONTROL Integration Settings] > [!UICONTROL Credentials] ). Dit is optioneel wanneer u de bibliotheek gebruikt om een token voor collectionMeta te maken. |
+| networkName | Tekenreeks (optioneel) | De naam van het Livefyre-netwerk (beschikbaar via [!UICONTROL Studio] > [!UICONTROL Settings] > [!UICONTROL Integration Settings] > [!UICONTROL Credentials]). Dit is optioneel wanneer u de bibliotheek gebruikt om een token voor collectionMeta te maken. |
 | networkKey | Tekenreeks (optioneel) | De geheime sleutel voor het specifieke netwerk (beschikbaar bij Studio > Instellingen > Integratie-instellingen > Referenties). Dit is optioneel wanneer u de bibliotheek gebruikt om een token voor collectionMeta te maken. |
-| siteId | Tekenreeks (optioneel) | De id voor de site (beschikbaar op [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). Optioneel wanneer u de bibliotheek gebruikt om een token voor collectionMeta te maken. |
-| siteKey | Tekenreeks (optioneel) | De geheime sleutel voor de site (beschikbaar op [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). |
+| siteId | Tekenreeks (optioneel) | De id voor de site (beschikbaar via [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). Optioneel wanneer u de bibliotheek gebruikt om een token voor collectionMeta te maken. |
+| siteKey | Tekenreeks (optioneel) | De geheime sleutel voor de site (beschikbaar via [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). |
 | artikelId | Tekenreeks (optioneel) | Een unieke id voor de verzameling. |
-| titel | Tekenreeks (optioneel) | De titel die u op de verzameling wilt toepassen. Gewoonlijk komt dit overeen met de titel van de pagina waarop de app wordt weergegeven. <br>Bijvoorbeeld: &quot;Integratie is zo leuk!&quot; <br>Opmerking:  De maximale tekenlengte voor de titel is 255 tekens. Het titelveld ondersteunt geen HTML-entiteiten. Codeer speciale tekens met UTF-8. |
-| url | Tekenreeks (optioneel) | De canonieke absolute URL die u aan deze verzameling wilt koppelen. Deze URL wordt gebruikt om koppelingen naar de app te genereren op basis van inhoud die wordt gedeeld op Facebook en Twitter, e-mailmeldingen en LiveCyre Studio. <br>Opmerking:  Gebruik een geldig basis-URL-domein voor lokale tests (bijvoorbeeld: geldig: `https://customer.com`; ongeldig: `https://localhost:5995`). |
-| tags | Tekenreeks (optioneel) | Een door komma&#39;s gescheiden lijst met enkele trefwoorden of woordgroepen. Verzamelingen zoeken op tags met gebruik van Studio.  </br>Opmerking:  Tags mogen geen spaties bevatten. Gebruik onderstrepingstekens als u een spatie wilt weergeven in de gebruikersinterface. |
+| titel | Tekenreeks (optioneel) | De titel die u op de verzameling wilt toepassen. Gewoonlijk komt dit overeen met de titel van de pagina waarop de app wordt weergegeven. <br>Bijvoorbeeld: &quot;Integratie is zo leuk!&quot; <br>Opmerking: De maximale tekenlengte voor de titel is 255 tekens. Het titelveld ondersteunt geen HTML-entiteiten. Codeer speciale tekens met UTF-8. |
+| url | Tekenreeks (optioneel) | De canonieke absolute URL die u aan deze verzameling wilt koppelen. Deze URL wordt gebruikt om koppelingen naar de app te genereren op basis van inhoud die wordt gedeeld op Facebook en Twitter, e-mailmeldingen en LiveCyre Studio. <br>Opmerking: Gebruik een geldig basis-URL-domein voor lokale tests (bijvoorbeeld: geldig:  `https://customer.com`; ongeldig:  `https://localhost:5995`). |
+| tags | Tekenreeks (optioneel) | Een door komma&#39;s gescheiden lijst met enkele trefwoorden of woordgroepen. Verzamelingen zoeken op tags met gebruik van Studio.  </br>Opmerking: Tags mogen geen spaties bevatten. Gebruik onderstrepingstekens als u een spatie wilt weergeven in de gebruikersinterface. |
 | extensions | JSON (optioneel) | Een set params met JSON-indeling die aan de verzameling worden doorgegeven. |
 
 ## Java {#section_orz_m4n_sz}
