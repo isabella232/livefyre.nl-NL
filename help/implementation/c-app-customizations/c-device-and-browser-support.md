@@ -1,18 +1,21 @@
 ---
-description: Een lijst met browsers en apparaten die worden ondersteund door de LiveCycle App-suite.
-seo-description: Een lijst met browsers en apparaten die worden ondersteund door de LiveCycle App-suite.
+description: Een lijst met browsers en apparaten die worden ondersteund door de Livefyre App-suite.
+seo-description: Een lijst met browsers en apparaten die worden ondersteund door de Livefyre App-suite.
 seo-title: Apparaat- en browserondersteuning
 title: Apparaat- en browserondersteuning
 uuid: 338f78b2-051d-4831-a0b9-e987f92660ce
 translation-type: tm+mt
 source-git-commit: 7d7af443eeffdbb09c2fa58006813c328785ad56
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 0%
 
 ---
 
 
-# Apparaat- en browserondersteuning{#device-and-browser-support}
+# Ondersteuning voor apparaten en browsers{#device-and-browser-support}
 
-Een lijst met browsers en apparaten die worden ondersteund door de LiveCycle App-suite.
+Een lijst met browsers en apparaten die worden ondersteund door de Livefyre App-suite.
 
 LiveCycle ondersteunt de volgende apparaten, besturingssystemen en browsers.
 
