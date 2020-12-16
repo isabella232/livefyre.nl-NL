@@ -7,11 +7,14 @@ title: Opmerkingen
 uuid: ec00fcc9-1b5e-4d0b-b1da-95f9f26b4cc1
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 1%
 
 ---
 
 
-# Opmerkingen{#comments-features}
+# Functies voor opmerkingen{#comments-features}
 
 Veel functies worden geleverd met de toepassing Comments om real-time gesprekken in te sluiten in uw site.
 
@@ -44,7 +47,7 @@ Veel functies worden geleverd met de toepassing Comments om real-time gesprekken
 * [Foto uploaden](/help/using/c-features-livefyre/c-content-behavior-features/c-photo-upload.md#c_photo_upload)
 * [VEILIG](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation)
 * [Sociaal delen](/help/using/c-features-livefyre/c-social-sharing/c-social-sharing.md#c_social_sharing)
-* [Streaming in realtime](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_emd_syl_d1b)
+* [Echte streamingtijd](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_emd_syl_d1b)
 * [Stijlfuncties](/help/using/c-features-livefyre/c-styling-features/c-styling-features.md#c_styling_features)
 * [Tekst uploaden](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_pwy_m2s_d1b)
 * [Opmerkingen dempen](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_d5c_2bm_d1b)
