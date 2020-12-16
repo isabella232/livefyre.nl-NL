@@ -7,6 +7,9 @@ title: Janrain Capture/Backplane
 uuid: 776e9626-db04-4c34-adfe-681a71b552c5
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '959'
+ht-degree: 0%
 
 ---
 
@@ -21,14 +24,14 @@ Als u wilt profiteren van deze ingebouwde integratie van Vastleggen/Backplane, m
 >
 >Sla deze sectie over als u Janrain Capture niet gebruikt.
 
-Raadpleeg de documentatie bij [het Backplane van](https://developers.janrain.com/how-to/integrations/self-serve-integrations-and-tools/backplane-1-2/)Janrain voor meer informatie.
+Zie [Backplane documentatie](https://developers.janrain.com/how-to/integrations/self-serve-integrations-and-tools/backplane-1-2/) van Janrain voor meer informatie.
 
 1. [Vastleggen instellen.](#c_janrain_capture_backplane/section_r2f_kxt_bbb)
-1. (Optioneel) [Voeg standaardinstellingen voor Livefyre toe aan de app](#c_janrain_capture_backplane/section_z2s_txt_bbb)Vastleggen.
+1. (Optioneel) [Standaardwaarden voor Livefyre toevoegen aan uw Capture App](#c_janrain_capture_backplane/section_z2s_txt_bbb).
 1. [Bouw het voorwerp AuthDelegate.](#c_janrain_capture_backplane/section_asv_vyt_bbb)
 1. [Synchroniseren met Livefyre met Ping for Pull.](#c_janrain_capture_backplane/section_ilv_bzt_bbb)
 
-## Stap 1: Vastleggen instellen {#section_r2f_kxt_bbb}
+## Stap 1: Vastleggen {#section_r2f_kxt_bbb} instellen
 
 Livefyre heeft bepaalde gegevens nodig van uw app Janrain Capture.
 
@@ -45,11 +48,11 @@ Livefyre heeft bepaalde gegevens nodig van uw app Janrain Capture.
 >
 >Livefyre ontvangt gegevens rechtstreeks van CNAME; Daarom kan deze id-URL geen CNAMEd-record (een URL-naamruimte van ijl) zijn die wordt omgezet in de werkelijke CNAME van Janrain Capture.
 
-## Stap 2: (Optioneel) Standaardwaarden voor Livefyre toevoegen aan de app Capture {#section_z2s_txt_bbb}
+## Stap 2: (Optioneel) Standaardwaarden voor Livefyre toevoegen aan uw opnameapp {#section_z2s_txt_bbb}
 
 U kunt standaardinstellingen voor Livefyre toevoegen aan gebruikers die zijn opgeslagen in de app Vastleggen, zodat u gebruikers e-mailmeldingen kunt sturen of gebruikers automatisch gesprekken kunnen volgen waarop gebruikers opmerkingen plaatsen.
 
-1. Volledige [stap 1: Vastleggen](#c_janrain_capture_backplane/section_r2f_kxt_bbb)instellen.
+1. Voltooi [Stap 1: Vastleggen](#c_janrain_capture_backplane/section_r2f_kxt_bbb) instellen.
 1. Voeg de volgende standaardvelden voor LiveCycle toe. Alle velden zijn optioneel.
 
 | Parameter | Type | Beschrijving |
@@ -59,7 +62,7 @@ U kunt standaardinstellingen voor Livefyre toevoegen aan gebruikers die zijn opg
 | **[!UICONTROL livefyre_replies]** | String | De gebruiker op de hoogte stellen wanneer iemand op een van zijn berichten reageert. Kan onmiddellijk, vaak of nooit zijn. |
 | **[!UICONTROL livefyre_moderator_comments]** | String | Waarschuw de moderator wanneer iemand op een gesprek opmerkt dat zij modereren.Kan onmiddellijk, vaak, of nooit zijn. |
 | **[!UICONTROL livefyre_moderator_flags]** | String | Waarschuw de moderator wanneer iemand een post op een gesprek markeert dat zij modereren.Kan onmiddellijk, vaak, of nooit zijn. |
-| **[!UICONTROL livefyre_autofollow_conversations]** | Boolean | Heb de gebruiker automatisch een gesprek volgen wanneer zij een post verlaten. Kan waar of onwaar zijn. |
+| **[!UICONTROL livefyre_autofollow_conversations]** | Boolean | Heb de gebruiker een gesprek automatisch volgen wanneer zij een post verlaten. Kan waar of onwaar zijn. |
 
 ## Stap 3: Maak het AuthDelegate-object voor Janrain Integration {#section_asv_vyt_bbb}
 
@@ -147,7 +150,7 @@ authDelegate.logout = function(finishLogout) {
 }; 
 ```
 
-### Profiel bewerken {#editprofile}
+### Profiel {#editprofile} bewerken
 
 Dit kan worden gekoppeld aan welk deel van de site u gebruikers wilt laten bezoeken om hun eigen profielpagina te bekijken. In dit voorbeeld wordt alleen het doorgegeven auteursobject afgedrukt.
 
@@ -161,7 +164,7 @@ authDelegate.editProfile = function(user) {
 }; 
 ```
 
-### Profiel weergeven {#viewprofile}
+### Profiel {#viewprofile} weergeven
 
 Net als Profiel bewerken, moet u deze koppeling maken naar de pagina van een gebruiker die afwijkt van de momenteel aangemelde gebruiker. Dit kan worden geïmplementeerd, maar u ziet het juist. In dit voorbeeld wordt de parameter van de auteur gewoon bij de console geregistreerd.
 
@@ -181,25 +184,25 @@ Bij het synchroniseren van de externe livefyre-profielen met het beheersysteem v
 
 1. Haal een toegangscode op uit Janrain.
 
-   Om de toegangscode te krijgen, levering de noodzakelijke geloofsbrieven, specificeer user_type als &quot;gebruiker&quot;, en uuid als huidige gebruiker te bijwerken uuid. Zie [https://developers.janrain.com/rest-api/methods/authentication/access-codes-and-tokens/getauthorizationcode/](https://developers.janrain.com/rest-api/methods/authentication/access-codes-and-tokens/getauthorizationcode/)voor meer informatie.
+   Om de toegangscode te krijgen, levering de noodzakelijke geloofsbrieven, specificeer user_type als &quot;gebruiker&quot;, en uuid als huidige gebruiker te bijwerken uuid. Zie [https://developers.janrain.com/rest-api/methods/authentication/access-codes-and-tokens/getauthorizationcode/](https://developers.janrain.com/rest-api/methods/authentication/access-codes-and-tokens/getauthorizationcode/) voor meer informatie.
 
 1. Handel de toegangscode voor een toegangstoken in. Verstrek de noodzakelijke geloofsbrieven, de toegangscode die van stap 1 wordt ontvangen, en specificeer het Grant_type als &quot;authentication_code&quot;.
 
-   Zie [https://developers.janrain.com/rest-api/methods/authentication/oauth/token/](https://developers.janrain.com/rest-api/methods/authentication/oauth/token/)voor meer informatie.
+   Zie [https://developers.janrain.com/rest-api/methods/authentication/oauth/token/](https://developers.janrain.com/rest-api/methods/authentication/oauth/token/) voor meer informatie.
 
 1. Druk op het eindpunt &quot;Ping to Pull Capture&quot; van Livefy.
 
-   URL eindpunt: [!DNL https://{networkName}/api/v1.1/private/capture/profile_updated/?jrtoken={token}] waarbij ***{networkName}*** de netwerknaam is die aan u door Livefyre wordt verstrekt, en jrtoken is het token dat in stap 2 van Janrain wordt ontvangen.
+   URL eindpunt: [!DNL https://{networkName}/api/v1.1/private/capture/profile_updated/?jrtoken={token}] waar ***{networkName}*** de netwerknaam is die aan u door Livefyre wordt verstrekt, en jrtoken is het token dat van Janrain in stap 2 wordt ontvangen.
 
    Zodra u dit eindpunt raakt, ontvangt u een reactie 202 en Livefyre begint een asynchroon proces.
 
-## Hoe het werkt {#concept_mty_f31_2cb}
+## Hoe werkt het allemaal {#concept_mty_f31_2cb}
 
 Als u wilt profiteren van deze ingebouwde integratie van Vastleggen/Backplane, moet u een aantal configuratiewijzigingen aanbrengen in zowel de app Capture als uw integratie met Livefyre.js.
 
 Janrain verzendt succesvolle login/logout berichten door de bus Backplane, waarop de Livefyre App, wanneer behoorlijk gevormd, luistert. Deze berichten bevatten alle informatie nodig om App-gebruikers te tonen dat ze zijn aangemeld of dat ze zich hebben afgemeld. De ontwikkelaars kunnen de busberichten bekijken Backplane door het lusje van het Netwerk in de ontwikkelaarsconsole van uw browser te inspecteren.
 
-## Voorbeeld van inlogcode {#section_ftt_tvp_mz}
+## Voorbeeld van aanmelding met code {#section_ftt_tvp_mz}
 
 Verzoek:
 
@@ -270,7 +273,7 @@ Lege reactie:
 Backplane.response([]);
 ```
 
-## Voorbeeld van een afmeldingscode {#section_t52_svp_mz}
+## Voorbeeld van uitlogcode {#section_t52_svp_mz}
 
 Verzoek:
 
