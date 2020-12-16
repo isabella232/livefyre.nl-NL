@@ -7,6 +7,9 @@ title: Javascript-gebeurtenissen voor mediamuur
 uuid: 8afc0529-4640-476a-b207-91b2c70101f0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '315'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ Gebruik JavaScript-gebeurtenissen om te luisteren naar gebeurtenissen die in een
 
 LiveCycle biedt JavaScript-gebeurtenissen om de gebruikersactiviteit in uw LiveCycle-apps te volgen. U kunt bijvoorbeeld de pagina bijwerken wanneer gebruikers inhoud willen of delen naar Twitter of Facebook, of wanneer nieuwe inhoud wordt geplaatst.
 
-Hier is een voorbeeld van hoe u de gebeurtenissen kunt ontvangen. Vervang `console.log` de gebeurtenis door uw code om de gebeurtenis toe te wijzen en naar uw analytische integratie te verzenden (Dynamic Tag Management, Adobe Analytics JS, Google Analytics, enz.):
+Hier is een voorbeeld van hoe u de gebeurtenissen kunt ontvangen. Vervang `console.log` door uw code om de gebeurtenis toe te wijzen en naar uw analytische integratie te verzenden (Dynamic Tag Management, Adobe Analytics JS, Google Analytics, enz.):
 
 ```
 document.body.addEventListener('insights', function (data) { 
