@@ -7,11 +7,14 @@ title: buildCommentsCollection-sitemethode
 uuid: 0e5c062e-960d-4ab0-ba32-0965731a1571
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '113'
+ht-degree: 0%
 
 ---
 
 
-# buildCommentsCollection-sitemethode{#buildcommentscollection-site-method}
+# buildCommentsCollection Site Method{#buildcommentscollection-site-method}
 
 Retourneert een object Collection dat is geïnstantieerd als een type Opmerkingen. Voer createOrUpdate() uit vanaf het object Collection om het constructieproces te voltooien.
 
@@ -27,7 +30,7 @@ Retourneert een object Collection dat is geïnstantieerd als een type Opmerkinge
 Collection collection = site.buildCommentsCollection(title, articleId, url);
 ```
 
-## Voorbeeld van NodeJS {#section_xkd_gds_rz}
+## NodeJS-voorbeeld {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildCommentsCollection(title, articleId, url); 
@@ -39,7 +42,7 @@ var collection = site.buildCommentsCollection(title, articleId, url);
 $collection = site->buildCommentsCollection(title, articleId, url); 
 ```
 
-## Voorbeeld van Python {#section_dwg_gds_rz}
+## Python-voorbeeld {#section_dwg_gds_rz}
 
 ```
 collection = site.build_comments_collection(title, articleId, url) 
