@@ -7,6 +7,9 @@ title: Implementatieproces
 uuid: 9a0f394e-3467-47d1-9816-45e2130db440
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '300'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 De duur van de implementatie van Livefyre is afhankelijk van uw implementatie en werkterrein.
 
-## Overzicht van de Livefyre-netwerkarchitectuur {#section_dgj_l32_rbb}
+## Overzicht van de Livefyre Netwerkarchitectuur {#section_dgj_l32_rbb}
 
 Het leven gebruikt de volgende termijnen in het bespreken van netwerkarchitectuur:
 
@@ -37,11 +40,11 @@ Er zijn drie belangrijke stappen om Livefyre te integreren:
 
 * Toepassingsintegratie
 
-   Wanneer u Livefyre implementeert, hangt de implementatiestijl af van uw gebruiksscenario. Voor [meer informatie over elk implementatietype](/help/implementation/c-getting-started/c-implementation-process/c-app-integration-types.md#c_app_integration_types).
+   Wanneer u Livefyre implementeert, hangt de implementatiestijl af van uw gebruiksscenario. Voor [meer op elk implementatietype](/help/implementation/c-getting-started/c-implementation-process/c-app-integration-types.md#c_app_integration_types).
 
 * Verificatieintegratie
 
-   U moet uw bestaande systeem van het gebruikersbeheer met Livefyre voor gesprekstoepassingen en om het even welke andere Toepassingen integreren die eindgebruikersauthentificatie op uw plaats vereisen. Als u momenteel geen hulpmiddel voor gebruikersbeheer gebruikt, kunt u Livefy Identity gebruiken. Voor [meer informatie over Livefy Identity, wat het is, en hoe te opstelling](/help/implementation/c-livefyre-identity-comp/c-livefyre-identity-comp.md#c_livefyre_identity).
+   U moet uw bestaande systeem van het gebruikersbeheer met Livefyre voor gesprekstoepassingen en om het even welke andere Toepassingen integreren die eindgebruikersauthentificatie op uw plaats vereisen. Als u momenteel geen hulpmiddel voor gebruikersbeheer gebruikt, kunt u de Identiteit van de Levensstijl gebruiken. Voor [meer informatie over Livefyre Identiteit, wat het is, en hoe te opstelling](/help/implementation/c-livefyre-identity-comp/c-livefyre-identity-comp.md#c_livefyre_identity).
 
 * Aanpassing
 
