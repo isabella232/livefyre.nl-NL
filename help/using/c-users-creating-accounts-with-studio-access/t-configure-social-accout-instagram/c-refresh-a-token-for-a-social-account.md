@@ -7,11 +7,14 @@ title: Een token vernieuwen voor een sociaal account
 uuid: 8a25305c-aaa3-460f-b782-404a55b491cd
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '232'
+ht-degree: 0%
 
 ---
 
 
-# Een token vernieuwen voor een sociaal account{#refresh-a-token-for-a-social-account}
+# Een token vernieuwen voor een sociale account{#refresh-a-token-for-a-social-account}
 
 Vernieuw een token voor een sociaal account wanneer dit verloopt.
 
@@ -28,8 +31,8 @@ Wanneer een token verloopt, wordt u op de volgende manieren op de hoogte gebrach
 * Wanneer u naar Instagram-inhoud zoekt, wordt linksonder in het venster een venster weergegeven met de mededeling dat de Instagram-token is verlopen. Als u andere Instagram-accounts instelt, zoekt LiveCyre automatisch naar Instagram met de volgende Instagram-account in uw lijst.
 * Wanneer u rechten aanvraagt met een specifiek, verlopen Instagram-account, wordt een fout weergegeven en moet u een ander Instagram-account selecteren of de token voor het verlopen account vernieuwen en nogmaals op aanvraagrechten klikken.
 * Streams die een verlopen Instagram-account gebruiken, werken niet.
-* Accounts with expired tokens in **[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]** display an error warning icon ( ![](assets/warningError.png)
+* Accounts met expired tokens in **[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]** geven een foutwaarschuwingspictogram weer ( ![](assets/warningError.png)
 
    ).
 
-U kunt uw token vernieuwen door op Token vernieuwen naast de account te klikken in **[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]** > **[!UICONTROL Instagram Accounts]**.
+U kunt uw token vernieuwen door te klikken op Token vernieuwen naast de account in **[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]** > **[!UICONTROL Instagram Accounts]**.
