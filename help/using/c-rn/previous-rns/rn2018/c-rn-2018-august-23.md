@@ -7,6 +7,9 @@ title: 23 augustus 2018
 uuid: 668058d8-cd31-416e-afc3-eaf158109e3e
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '284'
+ht-degree: 0%
 
 ---
 
@@ -34,8 +37,8 @@ De problemen in de volgende tabellen zijn opgelost in deze release.
 | Bug | Bibliotheek | Probleem verholpen waarbij een element niet naar een map kon worden opgeslagen. |
 | Bug | Bibliotheek/Zoeken | De mogelijkheid om URL&#39;s te zoeken vanaf Instagram in Sociaal zoeken is hersteld. |
 | Bug | ModQ | Probleem verholpen waarbij het menu Meer informatie in ModQ niet op de verwachte positie werd weergegeven. |
-| Bug | Rechtenbeheer | Probleem verholpen waarbij een kaart met rechten die handmatig zijn verleend, de status van de onjuiste aanvraag voor rechten heeft weergegeven. |
-| Bug | Rechtenbeheer | Probleem verholpen waarbij sorteren in ModQ zich op een vaste positie zou moeten bevinden wanneer de pagina wordt geschoven. |
+| Bug | Rights Management | Probleem verholpen waarbij een kaart met rechten die handmatig zijn verleend, de status van de onjuiste aanvraag voor rechten heeft weergegeven. |
+| Bug | Rights Management | Probleem verholpen waarbij sorteren in ModQ zich op een vaste positie zou moeten bevinden wanneer de pagina wordt geschoven. |
 | Bug | Storiseren 2 | Probleem verholpen waarbij een voorvertoningsminiatuur in een Storify 2-app onjuist werd weergegeven en alleen URL&#39;s werd weergegeven in plaats van een voorvertoningsminiatuur van het artikel. |
 | Bug | Storiseren 2 | Probleem verholpen waarbij in miniaturen strepen werden weergegeven in plaats van een voorvertoning wanneer Vimeo-video&#39;s werden toegevoegd aan een Storify 2-app. |
 | Bug | Streams | Probleem verholpen met het weergeven van streams in een testomgeving. |
