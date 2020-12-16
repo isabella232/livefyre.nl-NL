@@ -7,13 +7,16 @@ title: Navigatiegids vast maken
 uuid: baa74ecb-d6eb-4191-ac15-9a878f70bd96
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 
 
-# Navigatiegids vast maken{#make-the-navigation-guide-sticky}
+# Maak de Gids van de Navigatie Vast{#make-the-navigation-guide-sticky}
 
 Kies of u de Navigatiegids aan een specifiek schermgebied wilt koppelen.
 
-1. Schakel in de Designer Storify 2 App de **[!UICONTROL Navigation Guide]** schakeloptie in.
-1. Schakel de **[!UICONTROL Stickiness]** schakeloptie in.
+1. Schakel in de Designer Storify 2 App de schakeloptie **[!UICONTROL Navigation Guide]** in.
+1. Schakel de schakeloptie **[!UICONTROL Stickiness]** in.
