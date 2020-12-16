@@ -7,6 +7,9 @@ title: 15 februari 2018
 uuid: ee46f088-9fb7-49e2-a42c-e0d4b2f24a32
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '301'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +29,8 @@ Met slimme tags kunt u veel tijd besparen bij het zoeken naar en het modereren v
 
    * Opgeslagen afbeeldingen zoeken op nauwkeurige inhoud op basis van de afbeeldingsinhoud in plaats van alleen tekst
    * Inhoud in streams verzamelen op basis van exacte zoektermen die de afbeelding analyseren in plaats van alleen tekst
-   Zie [Slimme tags](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags)voor meer informatie over slimme tags.
+
+   Zie [Slimme tags](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags) voor meer informatie over slimme tags.
 
 * **Berichten in het product.** Nu wanneer u login aan Studio Livefyre, verschijnt een aankondigingsvenster om updates over nieuwe eigenschappen te tonen.
 * **UGC voor Carousel.** U kunt nu alle functies van UGC Commerce gebruiken in de Livefyre Carousel App. U kunt tot een Vraag-aan-Actie Knoop leiden en uw productcatalogus met de App verbinden om een shoppable ervaring van Carousel tot stand te brengen.
@@ -40,7 +44,7 @@ De problemen in de volgende tabellen zijn opgelost in deze release.
 | **Type probleem** | **Component** | **Opmerking vrijgeven** |
 |---|---|---|
 | Probleem | ModQ | Probleem verholpen waarbij instagramberichten die als goedgekeurd of geplakt zijn gemarkeerd, opnieuw in de wachtrij werden geplaatst. |
-| Verbetering | Rechtenbeheer | Verbetering toegevoegd om een waarschuwing weer te geven wanneer wordt geprobeerd verlopen Instagram-accounts te gebruiken terwijl er rechtenverzoeken worden gedaan. |
+| Verbetering | Rights Management | Verbetering toegevoegd om een waarschuwing weer te geven wanneer wordt geprobeerd verlopen Instagram-accounts te gebruiken terwijl er rechtenverzoeken worden gedaan. |
 | Probleem | Trends | Probleem verholpen waarbij de Trends App soms nog steeds HTTP toeliet in plaats van HTTPS. |
 
 ## UAT Release
