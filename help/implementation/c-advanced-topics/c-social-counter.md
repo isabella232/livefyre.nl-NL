@@ -7,13 +7,16 @@ title: Sociale teller
 uuid: fa9aa1a8-6a04-4bc1-9bfe-e42c1250fd48
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '242'
+ht-degree: 0%
 
 ---
 
 
 # Sociale teller{#social-counter}
 
-Telt het aantal gekrulde sociale items. Voor een volledige lijst met beschikbare eindpunten raadpleegt u de sectie LiveCyre [API-naslaggids](https://api.livefyre.com/docs) .
+Telt het aantal gekrulde sociale items. Zie de sectie Live [API Reference](https://api.livefyre.com/docs) voor een volledige lijst met beschikbare eindpunten.
 
 De sociale tegendeel API retourneert tellingen voor overeenkomende curatieregels in een bepaalde verzameling voor intervallen over een bepaalde periode.
 
@@ -27,14 +30,14 @@ API voor sociale telfunctie:
 * Regeltypen
 * Antwoord
 
-## Resource {#section_p2s_2hc_11b}
+## Bron {#section_p2s_2hc_11b}
 
 ```
 GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{query}.json
 ```
 
-* **networkName:** Uw door Livefyre opgegeven netwerknaam. Bijvoorbeeld: *labs* in `labs.fyre.co`.
-* **query:** De url-veilige base64 gecodeerde knoeiboel van alle plaats, artikel identiteitskaart, regel-type tuples waarvoor tellingsinformatie zou moeten worden gehaald (vooraf gecodeerd)
+* **networkName:** Uw Leven verstrekte netwerknaam. Bijvoorbeeld: *labs* in `labs.fyre.co`.
+* **query:** De URL-safe base64 gecodeerde hash van alle site, artikel-id, regeltype tuples waarvoor de telinformatie moet worden opgehaald (vooraf gecodeerd)
 
    ```
    {site ID}:{article ID};{rule-type},  {article ID};{rule-type}|{site ID}:{article ID};{rule-type}
@@ -43,8 +46,8 @@ GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{q
    >[!NOTE]
    >De vraag is beperkt tot 10 plaats, artikel identiteitskaart, regel-type leerprogramma&#39;s. (Het vorige voorbeeld zou 3 tuples bevatten.)
 
-* **van** `(optional)` de relatieve of absolute tijdsperiode tot de grafiek; van geeft het begin aan en de standaardinstellingen zijn 24 uur geleden, indien weggelaten.
-* **tot** `(optional)` de relatieve of absolute tijdsperiode voor de grafiek wordt aangegeven; totdat het begin wordt opgegeven en standaard wordt ingesteld op de huidige tijd (nu), indien weggelaten.
+* **geeft de relatieve of absolute tijdsperiode** `(optional)` aan de grafiek aan; van geeft het begin aan en de standaardinstellingen zijn 24 uur geleden, indien weggelaten.
+* **geeft** `(optional)` niet de relatieve of absolute tijdsperiode aan voor de grafiek; totdat het begin wordt opgegeven en standaard wordt ingesteld op de huidige tijd (nu), indien weggelaten.
 
 ### Relatieve tijd
 
@@ -90,7 +93,7 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 Voorbeeld:
 
-Om tellingen over de laatste minuut voor plaats `123456` en artikel identiteitskaart `some-article-id` en regel-type `2`, bijvoorbeeld te verkrijgen: `123456:some-article-id;2:`
+U kunt als volgt tellingen verkrijgen over de laatste minuut voor site `123456` en artikel-id `some-article-id` en regeltype `2`, bijvoorbeeld: `123456:some-article-id;2:`
 
 ```
 curl -XGET "https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2OnNvbWUtYXJ0aWNsZS1pZDsy.json&from=-1min" 
