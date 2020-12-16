@@ -7,6 +7,9 @@ title: Geeft tekstreeksen aan
 uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '501'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,14 @@ Teksttekenreeksen aanpassen voor LiveCycle Sidenotes
 
 Deze pagina bevat een overzicht en beschrijving van alle tekenreeksen die beschikbaar zijn voor aanpassing in Sidenotes-apps. Zie Tekenreeksaanpassingen voor informatie over tekenreeksen die beschikbaar zijn voor de kerntoepassingen van LiveCycle.
 
-ImplementationAuthStream InfoAuthor / Content InfoUser ActionsPost FunctionsModerator InterfaceErrors
+Implementatie
+Auth
+Stream-info
+Informatie auteur/inhoud
+Handelingen van gebruikers
+Functies
+Moderatorinterface
+Fouten
 
 ## Implementatie {#section_wp2_ql4_xz}
 
@@ -60,7 +70,7 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom.
 |  | menuInfoHelp | Help |
 |  | menuInfoLiveLink | Bezoek Livefyre.com |
 
-## Informatie auteur/inhoud {#section_dhb_gl4_xz}
+## Info auteur/inhoud {#section_dhb_gl4_xz}
 
 Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 
@@ -75,11 +85,11 @@ Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 |  | commentStemCountSing | stemmen |
 |  | datetimeMinutePrefix | m |
 |  | datetimeMonths | Een array. Standaard =`[‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’]` |
-|  | questionExplanation | U kunt nu opmerkingen rechtstreeks lezen en schrijven over zinnen, alinea&#39;s, afbeeldingen en aanhalingstekens.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markeer tekst</span> en klik op het <span class="&rdquo;fycon-write&rdquo;"></span> pictogram of klik op het <span class="&rdquo;fycon-action-view&rdquo;"></span> pictogram aan het einde van elke alinea. |
+|  | questionExplanation | U kunt nu opmerkingen rechtstreeks lezen en schrijven over zinnen, alinea&#39;s, afbeeldingen en aanhalingstekens.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markeer </span> tekst en klik op het  <span class="&rdquo;fycon-write&rdquo;"></span> pictogram of klik op het  <span class="&rdquo;fycon-action-view&rdquo;"></span> pictogram aan het einde van elke alinea. |
 |  | questionMockText | Wat &quot;bekend&quot; is, is niet bekend, alleen omdat het &quot;bekend&quot; is. |
 |  | questionTitle | Wat is een Sidenote? |
 
-## Handelingen van gebruikers {#section_qxd_fl4_xz}
+## Gebruikershandelingen {#section_qxd_fl4_xz}
 
 Tekenreeksen beschikbaar voor gebruikersacties: het markeren, delen, en het houden van bestaande inhoud.
 
@@ -99,10 +109,10 @@ Tekenreeksen beschikbaar voor gebruikersacties: het markeren, delen, en het houd
 | Opties voor mobiele gebruikers | sliderCommentTally | van |
 |  | sliderInviteRead | Lezen |
 |  | sliderInviteWrite | Schrijven |
-|  | sliderLoading | Laden... |
+|  | sliderLoading | Bezig met laden... |
 |  | sliderWriteText | Wat denk je? Tik om te schrijven. |
 
-## Functies {#section_xzf_2l4_xz}
+## Functies {#section_xzf_2l4_xz} plaatsen
 
 Tekenreeksen beschikbaar voor gebruikers die inhoud posten.
 
