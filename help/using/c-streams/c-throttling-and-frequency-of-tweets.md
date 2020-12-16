@@ -7,11 +7,14 @@ title: Throttling en frequentie van tweets
 uuid: b9edfb1e-e6cf-4a48-8756-05f5f18d8799
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '205'
+ht-degree: 0%
 
 ---
 
 
-# Throttling en frequentie van tweets{#throttling-and-frequency-of-tweets}
+# Throttling and Frequency of Tweets{#throttling-and-frequency-of-tweets}
 
 Niet elke tweet die met een regel overeenkomt, wordt in een stream weergegeven.
 
