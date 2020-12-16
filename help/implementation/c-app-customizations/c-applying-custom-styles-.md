@@ -7,6 +7,9 @@ title: Aangepaste stijlen toepassen
 uuid: 0556aa2f-4fcd-4bde-abb5-479ec682f573
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '286'
+ht-degree: 0%
 
 ---
 
@@ -68,7 +71,7 @@ Maak een CSS-regel om een badge voor de groep weer te geven of op te maken:
 }
 ```
 
-Gebruik de CSS-klasse fyre-schrijver-tag-***&lt;your_group>*** of fyre-tag-auteur-***&lt;your_group>*** om het lettertype en de achtergrond op te maken voor elk item dat is gepost via een account dat is gekoppeld aan de geselecteerde tag.
+Gebruik de CSS-klasse fyre-schrijver-tag-***&lt;your_group>*** of fyre-tag-auteur-***&lt;your_group>*** om het lettertype en de achtergrond op te maken voor elk item dat is gepost via een account die is gekoppeld aan de geselecteerde tag.
 
 ```
 .fyre-comment-author-tag-<your_group> .fyre-comment-author-tag { 
