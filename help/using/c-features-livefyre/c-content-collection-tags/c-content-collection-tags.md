@@ -7,17 +7,20 @@ title: Labels voor verzamelingen en inhoud
 uuid: 1f6900ac-40ff-41ec-ac26-25ff476cd820
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '192'
+ht-degree: 2%
 
 ---
 
 
-# Labels voor verzamelingen en inhoud{#collection-and-content-tags}
+# Codes voor verzamelingen en inhoud{#collection-and-content-tags}
 
 Voeg trefwoordtags toe aan verzamelingen en inhoud om inhoud te categoriseren en te ordenen, zodat u deze gemakkelijk kunt ophalen.
 
 Door tags toe te wijzen, kunt u zoekopdrachten filteren op een bepaalde tag en gegevens ophalen voor de API voor de warmteindex.
 
-De markeringen kunnen door de **[!UICONTROL Content]** en **[!UICONTROL Collections]** panelen in Studio, of direct aan de Meta-gegevens van de Inzameling worden toegevoegd (gebruikend het voorwerp collectionMeta) wanneer het initialiseren van of het bijwerken van de Inzameling met Levensstijl.
+De markeringen kunnen door **[!UICONTROL Content]** en **[!UICONTROL Collections]** panelen in Studio, of direct aan de Meta-gegevens van de Inzameling worden toegevoegd (gebruikend het voorwerp collectionMeta) wanneer het initialiseren van of het bijwerken van de Inzameling met Livefyre.
 
 Toepassingen die deze functie gebruiken:
 
@@ -35,7 +38,7 @@ Toepassingen die deze functie gebruiken:
 * [Trend](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 * [Knop Uploaden](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
 
-## Verzameltags gebruiken met de API voor warmteindex {#section_uhd_frk_wy}
+## Verzamelingstags gebruiken met de warmteindex-API {#section_uhd_frk_wy}
 
 De interface voor warmteindex accepteert een tagparameter, zodat u relatieve hotness voor elke verzameling met die tag kunt ophalen voor de hele site of het hele netwerk.
 
