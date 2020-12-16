@@ -14,13 +14,13 @@ ht-degree: 0%
 ---
 
 
-# Zoeken naar Instagram-inhoud{#search-for-instagram-content}
+# Zoeken naar inhoud van Instagram{#search-for-instagram-content}
 
 Met Sociale zoekfunctie kunt u zoeken naar inhoud van Instagram die u wilt opnemen in de Asset Library of naar Apps kunt publiceren.
 
 >[!NOTE]
 >
->Voordat u een sociale zoekopdracht naar Instagram kunt uitvoeren, moet u een Installagram-bedrijfsaccount toevoegen aan de **[!UICONTROL Social Accounts]** sectie in **[!UICONTROL Network Settings]** en Livefyre toestaan dat account te gebruiken. Voor informatie over hoe te opstelling een Van het Bedrijfs installatieschema rekening in de Studio van Adobe Livefyre, zie [](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+>Voordat u een sociale zoekopdracht naar Instagram kunt uitvoeren, moet u een Instagram-bedrijfsaccount toevoegen aan de sectie **[!UICONTROL Social Accounts]** in **[!UICONTROL Network Settings]** en Livefyre toestaan dat account te gebruiken. Zie [](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor informatie over het instellen van een Instagram-bedrijfsaccount in Adobe Livefyre Studio.
 
 U kunt zoekopdrachten opslaan en opnieuw gebruiken. Klik in de zoekbalk om een lijst weer te geven met uw recente en opgeslagen zoekopdrachten.
 
@@ -28,8 +28,8 @@ Wanneer u nieuwe elementen aan de bibliotheek toevoegt, worden elementen die al 
 
 1. Configureer een Installagram-bedrijfsaccount.
 1. Ga naar **[!UICONTROL Library]** > **[!UICONTROL Social Search]**.
-1. Selecteer deze optie **[!UICONTROL Instagram]** om te zoeken in Instagram-inhoud.
-1. Voer de zoekcriteria in en klik **[!UICONTROL Show Filter]** om de zoekopdracht te verfijnen.
+1. Selecteer **[!UICONTROL Instagram]** om te zoeken in Instagram-inhoud.
+1. Voer uw zoekcriteria in en klik op **[!UICONTROL Show Filter]** om uw zoekopdracht te verfijnen.
 
    * **[!UICONTROL Business User Search:]** Zoekt naar Instagram-berichten van de auteur van de invoer.
 
@@ -41,4 +41,4 @@ Wanneer u nieuwe elementen aan de bibliotheek toevoegt, worden elementen die al 
 
    * **[!UICONTROL Recent Tags Search]**: Zoek de meest recente posts met de hashtag.
 
-Er worden items weergegeven die overeenkomen met uw zoekopdracht. Plaats de muisaanwijzer op een item om het toe te voegen aan **[!UICONTROL View Details]** of toe te voegen aan de Asset Library of **[!UICONTROL Publish]** aan een app.
+Er worden items weergegeven die overeenkomen met uw zoekopdracht. Plaats de muisaanwijzer boven een item op **[!UICONTROL View Details]**, voeg het item toe aan de elementenbibliotheek of **[!UICONTROL Publish]** aan een app.
