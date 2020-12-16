@@ -7,13 +7,16 @@ title: SSL-handhaving
 uuid: e64af8c2-3ab6-4034-b385-0e552d828c6e
 translation-type: tm+mt
 source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
+workflow-type: tm+mt
+source-wordcount: '542'
+ht-degree: 0%
 
 ---
 
 
 # SSL-handhaving{#ssl-enforcement}
 
-Om ervoor te zorgen dat uw gegevens veilig blijven, wordt HTTP vervangen door HTTPS. Adobe Live zal alle HTTP- en onveilige SSL/TLS-ciphers volledig uitschakelen tegen eind augustus 2018. Dit is een standaard van Adobe die wordt ontworpen om de privacy van u en uw gebruikers te beschermen.
+Om ervoor te zorgen dat uw gegevens veilig blijven, wordt HTTP vervangen door HTTPS. Adobe Livefyre zal alle HTTP en onveilige SSL/TLS ciphers volledig onbruikbaar maken tegen eind Augustus 2018. Dit is een Adobe Standard die is ontworpen om de privacy van u en uw gebruikers te beschermen.
 
 ## Wie heeft er last van? {#section_jf2_4yz_kcb}
 
@@ -32,13 +35,13 @@ Dit kan gevolgen hebben voor Livefyre-klanten die:
    * Aangepaste toepassingen (Streamhub SDK of direct gecodeerd).
 
 1. Server naar server en mobiele HTTP-clients moeten TLS 1.2 ondersteunen
-1. Wijzig de hostnamen van `{*}.<network>.fyre.co` naar `<network>.{*}.fyre.co`. De hostnaam `example.network.fyre.co` verandert bijvoorbeeld in `network.`example.fyre.co&quot;. Bijvoorbeeld:
+1. Wijzig de hostnamen van `{*}.<network>.fyre.co` in `<network>.{*}.fyre.co`. De hostnaam `example.network.fyre.co` verandert bijvoorbeeld in `network.`example.fyre.co&quot;. Bijvoorbeeld:
 
-   * `bootstrap.<network_name>.fyre.co` tot `<network_name>.bootstrap.fyre.co`
+   * `bootstrap.<network_name>.fyre.co` tot  `<network_name>.bootstrap.fyre.co`
 
-   * `quill.<network_name>.fyre.co` tot `<network_name>.quill.fyre.co`
+   * `quill.<network_name>.fyre.co` tot  `<network_name>.quill.fyre.co`
 
-   * `admin.<network_name>.fyre.co` tot `<network_name>.admin.fyre.co`
+   * `admin.<network_name>.fyre.co` tot  `<network_name>.admin.fyre.co`
 
 ## Hoe weet ik of ik de wijzigingen heb aangebracht? {#section_sqk_5d5_kcb}
 
@@ -68,7 +71,7 @@ Gebruikers van Java 7 of eerder dienen openbare documentatie te raadplegen over 
 
 ## Waarom moet ik mijn gastheernamen veranderen? {#section_d5q_p25_kcb}
 
-Livefyre heeft geen SSL-certificaten op `{*}.<network>.fyre.co` domeinen. Als u alleen de URL wijzigt in HTTPS, wordt de toepassing verbroken.
+Livefyre heeft geen SSL-certificaten op `{*}.<network>.fyre.co`-domeinen. Als u alleen de URL wijzigt in HTTPS, wordt de toepassing verbroken.
 
 ## Moet ik een upgrade uitvoeren naar de nieuwste versie van de Livefyre SDK&#39;s? {#section_dw5_s25_kcb}
 
