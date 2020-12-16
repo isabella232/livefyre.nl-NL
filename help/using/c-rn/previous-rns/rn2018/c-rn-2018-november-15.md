@@ -22,7 +22,7 @@ Release-aantekeningen voor de release van 15 november 2018.
 
 De volgende nieuwe functies zijn vrijgegeven in de productieversie van deze release:
 
-* **Updates voor zoeken en streamen in Instagram.** U kunt een *zakelijke account* van Instagram gebruiken om:
+* **Updates voor zoeken en streamen in Instagram.** U kunt een  *zakelijke* account van Instagram gebruiken:
 
    * Een sociale zoekopdracht uitvoeren op gebruiker (de gebruiker moet ook een zakelijke account in Instagram zijn).
 
@@ -30,13 +30,13 @@ De volgende nieuwe functies zijn vrijgegeven in de productieversie van deze rele
 
    * Rechten voor elementen aanvragen vanaf Instagram met behulp van een gedeeltelijk geautomatiseerde workflow.
 
-   * Zie [Informatie over Instagram-accounts](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)voor informatie over welk type Instagram-accounts u moet instellen en rechten van Instagram wilt aanvragen.
+   * Zie [Informatie over Instagram-accounts](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md) voor informatie over welk type Instagram-accounts u moet instellen en rechten van Instagram aanvragen.
 
 * **Automatische controle van gebruiksrechten vraagt reacties voor zakelijke zoekopdrachten op basis van account.** Alleen voor zoekopdrachten op basis van zakelijke accounts: de mogelijkheid om reacties op verzoeken om rechten automatisch te controleren en de activiteitengeschiedenis in LiveCycle bij te werken, is beschikbaar.
 
-Voor meer informatie over hoe te om rechten voor de rekeningen van het Installagram te verzoeken, zie de Verzoek van de Rechten van het Installagram manueel [verzenden en een Gedeeltelijk-Geautomatiseerde Verzoek](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) van de Rechten van het Installagram [](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)verzenden.
+Voor meer informatie over hoe te om rechten voor de rekeningen van het Installagram te verzoeken, zie [Verzoek van de Rechten van het Installagram manueel verzenden](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) en [een Gedeeltelijk-Geautomatiseerd Verzoek van de Rechten van het Installagram verzenden](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md).
 
-* **Adobe Target-integratie.** Toegevoegde integratie met Adobe Target zodat u LiveCycle Apps rechtstreeks kunt delen met uw Adobe Target Offers Library. Raadpleeg de documentatie bij [Target voor meer informatie over het gebruik van Livefyre bij Adobe Target](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
+* **Adobe Target-integratie.** Toegevoegde integratie met Adobe Target zodat u LiveCycle Apps rechtstreeks kunt delen met uw Adobe Target Offers Library. Zie [Doeldocumentatie](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html) voor meer informatie over het gebruik van LiveCycle met Adobe Target.
 
 ## Problemen {#section_ehw_ndt_wcb}
 
@@ -46,7 +46,7 @@ De problemen in de volgende tabellen zijn opgelost in deze release.
 
 | Type probleem | Component | Opmerking vrijgeven |
 |--- |--- |--- |
-| Probleem | AppService: Livefyre-id | Probleem verholpen waarbij bij klikken op [!UICONTROL Reset to Default] het logo onder Aanmeldingsmodule in Studio > Integratie-instellingen > Livefyre-identiteit niet opnieuw werd ingesteld op de standaardafbeelding. |
+| Probleem | AppService: Livefyre-id | Probleem verholpen waarbij bij klikken op [!UICONTROL Reset to Default] het logo niet opnieuw werd ingesteld onder Aanmeldingsmodule in Studio > Integratie-instellingen > Livefyre Identity in de standaardafbeelding. |
 | Probleem | Bibliotheek | Probleem verholpen waarbij een video die naar de bibliotheek is geüpload en vervolgens in detail wordt weergegeven, niet correct werd weergegeven. |
 | Probleem | Streams | Probleem verholpen waardoor producten niet konden worden weergegeven in een stroomregel. |
 | Probleem | Streams | Probleem verholpen waarbij productcodes niet beschikbaar waren voor een stroomregel. |
