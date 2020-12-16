@@ -7,11 +7,14 @@ title: Aanpassingen voor knop Uploaden
 uuid: d820bbec-8c76-4864-9e70-55394010c35d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '398'
+ht-degree: 8%
 
 ---
 
 
-# Aanpassingen voor knop Uploaden{#upload-button-customizations}
+# Aanpassingen van knop uploaden{#upload-button-customizations}
 
 Wijzig de grootte, breedte en interactieopties van de knop Uploaden.
 
@@ -46,7 +49,7 @@ Schakel de knop Uploaden in met behulp van een insluitcode.
 
 U kunt de knop Uploaden aanpassen met:
 
-* **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle toepassingen in de **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle apps in het dialoogvenster **[!UICONTROL App Designer]**
+* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]**- en **[!UICONTROL Config]**-opties voor alle toepassingen in **[!UICONTROL App Designer]**
 
 * Integratiegereedschappen. Zie Toepassingsintegratie voor meer informatie over het aanpassen van toepassingen met behulp van integratieprogramma&#39;s.
 
