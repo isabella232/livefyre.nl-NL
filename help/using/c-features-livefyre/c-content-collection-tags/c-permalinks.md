@@ -7,6 +7,9 @@ title: Permalinks
 uuid: 40ef30ec-dc3e-47fe-87a9-f9073cd4c4ff
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '246'
+ht-degree: 0%
 
 ---
 
