@@ -6,11 +6,14 @@ title: buildCountingCollection-sitemethode
 uuid: e293d66a-0025-4230-997e-295ce4625713
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 0%
 
 ---
 
 
-# buildCountingCollection-sitemethode{#buildcountingcollection-site-method}
+# buildCountingCollection Site Method{#buildcountingcollection-site-method}
 
 Retourneert een object Collection dat is geïnstantieerd als een type Counting. Voer create_or_update() uit vanaf het object Collection om het constructieproces te voltooien.
 
@@ -26,7 +29,7 @@ Retourneert een object Collection dat is geïnstantieerd als een type Counting. 
 Collection collection = site.buildCountingCollection(title, articleId, url); 
 ```
 
-## Voorbeeld van NodeJS {#section_xkd_gds_rz}
+## NodeJS-voorbeeld {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildCountingCollection(title, articleId, url); 
@@ -38,7 +41,7 @@ var collection = site.buildCountingCollection(title, articleId, url);
 $collection = site->buildCountingCollection(title, articleId, url); 
 ```
 
-## Voorbeeld van Python {#section_dwg_gds_rz}
+## Python-voorbeeld {#section_dwg_gds_rz}
 
 ```
 collection = site.build_counting_collection(title, articleId, url) 
