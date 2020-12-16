@@ -7,6 +7,9 @@ title: Geschiedenis van rechtenactiviteit weergeven
 uuid: daa0587d-8d7f-431d-bae2-cd73c0de15f0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '233'
+ht-degree: 0%
 
 ---
 
@@ -30,8 +33,8 @@ Livefyre-tracks:
 1. Klik op **[!UICONTROL Library]** om de elementenbibliotheek te openen.
 1. (Optioneel) Voeg inhoud toe aan mappen met de functie Sociale zoekopdracht.
 1. Open een map en klik op inhoud die u hebt opgeslagen via Twitter of Instagram. U kunt zien waar de inhoud vandaan komt door naar het pictogram op het stuk inhoud te kijken. Op een stuk inhoud van Twitter staat bijvoorbeeld het Twitter-logo.
-1. Klik op het ellipspictogram dat wordt weergegeven wanneer u de muisaanwijzer op de inhoudskaart plaatst voor **[!UICONTROL More Options]**.
+1. Klik op het ellipspictogram dat wordt weergegeven wanneer u de muisaanwijzer op de inhoudskaart voor **[!UICONTROL More Options]** plaatst.
 1. Klik **[!UICONTROL Rights]** om het **[!UICONTROL Rights options]** venster te openen.
 
-1. Bekijk de geschiedenis onder **[!UICONTROL Activity History]**.
+1. De historie weergeven onder **[!UICONTROL Activity History]**.
 
