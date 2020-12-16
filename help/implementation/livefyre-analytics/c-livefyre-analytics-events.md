@@ -45,9 +45,9 @@ De volgende code definieert de velden in het gebeurtenisobject die door de handl
 }
 ```
 
-## Livefyre Analytics Events and eVars {#section_u3k_tft_mcb}
+## Gebeurtenissen en gebeurtenissen voor Livefyre-analyse {#section_u3k_tft_mcb}
 
-De volgende Livefy-gebeurtenissen moeten worden toegewezen aan aangepaste gebeurtenissen die moeten worden gebruikt in rapporten met de rapportsuite Manager. Zie [Report Suite Manager](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)voor meer informatie over rapportsuite in Adobe Analytics. Raadpleeg [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb)Report Suite Manager voor meer informatie over het gebruik van LiveCycle-gebeurtenissen.
+De volgende Livefy-gebeurtenissen moeten worden toegewezen aan aangepaste gebeurtenissen die moeten worden gebruikt in rapporten met de rapportsuite Manager. Voor meer informatie over de Reeksen van het Rapport in Adobe Analytics, zie [de Manager van de Reeks van het Rapport](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html). Raadpleeg [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb) voor meer informatie over het gebruik van LiveCycle-gebeurtenissen met Report Suite Manager.
 
 ## Gebeurtenissen van Livefyre Analytics
 
@@ -100,7 +100,7 @@ Hieronder volgt een lijst met conversievariabelen (eVars) die door Livefyre word
 
 Voor meer informatie over de onderwerpen die op deze pagina worden besproken, zie:
 
-* [Report Suite](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[ManagerDTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
+* [Report Suite ](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[ManagerDTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
 
 * [Regels](https://docs.adobe.com/content/help/en/dtm/using/resources/rules/create-rules.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
