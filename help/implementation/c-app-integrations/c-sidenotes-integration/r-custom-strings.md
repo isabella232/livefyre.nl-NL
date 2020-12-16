@@ -6,11 +6,14 @@ title: Aangepaste strings
 uuid: 73745273-d3fb-4569-8910-d149fb37a7b4
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+workflow-type: tm+mt
+source-wordcount: '341'
+ht-degree: 0%
 
 ---
 
 
-# Aangepaste strings{#sidenotes-custom-strings}
+# Aangepaste tekenreeksen zoeken{#sidenotes-custom-strings}
 
 Aangepaste tekenreeksen worden toegepast via een object dat wordt geïnjecteerd in de constructor Sidenotes en overschrijven de standaardtekenreeksen die door de toepassing worden gebruikt. Hiermee kunt u elk onderdeel van de taal aanpassen aan uw stijl- of taalspecificaties. Tekenreeksen worden automatisch samengevoegd met de standaardwaarden.
 
