@@ -7,6 +7,9 @@ title: Beheerfuncties
 uuid: 5841a183-62c0-40ae-9cef-884bffb7c39b
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '426'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +30,7 @@ Toepassingen die deze functie gebruiken:
 * [Opmerkingen](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Revisies](../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 
-## leuk {#section_q4j_ycm_d1b}
+## Als {#section_q4j_ycm_d1b}
 
 Voeg de mogelijkheid toe om een opmerking of antwoord &#39;leuk&#39; te vinden.
 
@@ -59,11 +62,11 @@ Toepassingen die deze functie gebruiken:
 * [Revisies](../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Storiseren 2](../c-about-apps/c-storify2/c-storify2.md#c_storify2)
 
-## Vriendelijke opmerkingen {#section_yw5_fdm_d1b}
+## Vriendschapsopmerkingen {#section_yw5_fdm_d1b}
 
 @specify een gebruiker, of iemand die al inhoud in de Inzameling heeft gepost.
 
-Om iemand te noemen die inhoud in de Inzameling heeft gepost, kunnen de gebruikers de **[!UICONTROL @]** vermeldingsknoop klikken, of @ in de redacteur typen om een lijst van mensen te tonen beschikbaar voor verwijzing. De lijst zal alle gebruikers omvatten die het gesprek volgen. (Typ een naam om de lijst te beperken tot overeenkomsten met de invoertekst.)
+Om iemand te noemen die inhoud in de Inzameling heeft gepost, kunnen de gebruikers **[!UICONTROL @]** noemen knoop, of type @ in de redacteur klikken om een lijst van mensen te tonen beschikbaar voor verwijzing. De lijst zal alle gebruikers omvatten die het gesprek volgen. (Typ een naam om de lijst te beperken tot overeenkomsten met de invoertekst.)
 
 >[!NOTE]
 >
@@ -77,19 +80,19 @@ Toepassingen die deze functie gebruiken:
 * [Opmerkingen](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Revisies](../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 
-## Knoppen Handeling {#section_uzm_ldm_d1b}
+## Handelingstoetsen {#section_uzm_ldm_d1b}
 
 Aangepaste actieknoppen maken voor inhoud in een app.
 
 Aangepaste actieknoppen en de bijbehorende actie kunnen worden toegevoegd aan elke gebruiker of inhoud in elke LiveCycle-app, naast de bestaande knoppen Vlag, Delen en Verwijderen. Voorbeelden kunnen zijn dat een gebruiker inhoud kan verbergen voor een andere gebruiker of een gebruiker kan volgen.
 
-## Gesprek volgen {#section_bw3_ndm_d1b}
+## Gesprek {#section_bw3_ndm_d1b} volgen
 
 Hiermee kunnen gebruikers e-mailmeldingen ontvangen wanneer de gesprekken die ze voeren, worden gewijzigd.
 
-Na een gesprek staat gebruikers toe om e-mailberichten te ontvangen, die op activiteit in het gesprek worden gebaseerd. Gebruikers klikken op de knop **[!UICONTROL Follow]** // **[!UICONTROL Unfollow]** om gespreksspecifieke voorkeuren in te stellen of hun **[!UICONTROL Profile Settings]** pagina gebruiken om een voorkeur voor de hele site in te stellen voor het volgen van gesprekken.
+Na een gesprek staat gebruikers toe om e-mailberichten te ontvangen, die op activiteit in het gesprek worden gebaseerd. Gebruikers klikken op de knop **[!UICONTROL Follow]** / **[!UICONTROL Unfollow]** om conversatiespecifieke voorkeuren in te stellen of gebruiken hun **[!UICONTROL Profile Settings]**-pagina om een voorkeur voor de hele site in te stellen om gesprekken te volgen.
 
-(De **[!UICONTROL Follow]** functie is niet beschikbaar op mobiele apparaten.)
+(De functie **[!UICONTROL Follow]** is niet beschikbaar op mobiele apparaten.)
 
 >[!NOTE]
 >
