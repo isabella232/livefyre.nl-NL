@@ -7,17 +7,20 @@ title: Opmerkingmelding
 uuid: 36907977-8233-4978-9413-232c7b2fae20
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '347'
+ht-degree: 0%
 
 ---
 
 
-# Opmerkingmelding{#comment-notifier}
+# Commentaarmelding{#comment-notifier}
 
 Hiermee kunt u een kleine pop-up op de pagina inschakelen om gebruikers op de hoogte te brengen wanneer een opmerking is toegevoegd.
 
 De opmerkingenkennisgever is een kleine pop-up rechtsonder op de pagina, die gebruikers op de pagina van nieuwe activiteit in de stroom door de eerste paar woorden van de commentaar met Avatar voor zijn auteur op de hoogte brengt te tonen. (Notifiers zijn niet beschikbaar voor Opmerkingen boven, Hete threads of Opmerkingen in de wachtrij.)
 
-## Functies voor opmerkingenmeldingen {#section_ut2_lvx_vy}
+## Functies {#section_ut2_lvx_vy} voor opmerkingenmeldingen
 
 De commentaarkennisgever verhoogt de betrokkenheid van de gebruiker door activiteiten op de pagina te surfen, ongeacht waar op de pagina de gebruiker momenteel betrokken is, hen aan te moedigen om op nieuwe commentaren te klikken, en te antwoorden.
 
@@ -27,9 +30,9 @@ Klik op de voorvertoning van een nieuwe opmerking om naar de locatie van die opm
 
 De kennisgever verdwijnt nadat alle nieuwe opmerkingen zijn bekeken en verschijnt opnieuw wanneer een nieuwe opmerking boven of onder de huidige weergave van de gebruiker van de stream verschijnt.
 
-## De opmerkingenmelding verbergen {#section_cmy_cvx_vy}
+## De notifier {#section_cmy_cvx_vy} verbergen
 
-Klik in de rechterhoek van de **[!UICONTROL x]** **[!UICONTROL New Comments]** balk om de notifier voor de pagina te sluiten. Vernieuw de pagina en de notifier verschijnt opnieuw.
+Klik op **[!UICONTROL x]** in de rechterhoek van de balk **[!UICONTROL New Comments]** om de notifier voor de pagina te sluiten. Vernieuw de pagina en de notifier verschijnt opnieuw.
 
 Verberg de notifier-widget in het gehele netwerk met gebruik van CSS-aanpassingen.
 
