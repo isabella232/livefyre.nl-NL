@@ -13,7 +13,7 @@ ht-degree: 0%
 ---
 
 
-# Checksum maken {#creating-a-checksum}
+# Checksum {#creating-a-checksum} maken
 
 Maak een controlesom met de Livefyre-bibliotheken.
 
