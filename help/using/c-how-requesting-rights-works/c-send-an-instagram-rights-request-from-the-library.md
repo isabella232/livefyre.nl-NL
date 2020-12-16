@@ -7,25 +7,28 @@ title: Een aanvraag voor gedeeltelijk geautomatiseerde installatierechten verzen
 uuid: 18cf88ab-af0d-4a40-93d2-adfbdbdd21d5
 translation-type: tm+mt
 source-git-commit: e60a58bf949e6e4f6f4f8d2fad1bd8985a593677
+workflow-type: tm+mt
+source-wordcount: '313'
+ht-degree: 0%
 
 ---
 
 
-# Een aanvraag voor gedeeltelijk geautomatiseerde installatierechten verzenden{#send-a-partially-automated-instagram-rights-request}
+# Verzend een gedeeltelijk-Geautomatiseerd Verzoek van de Rechten van het Installagram{#send-a-partially-automated-instagram-rights-request}
 
 U kunt het recht aanvragen om een Instagram-element dat u van een zoekopdracht of stroom hebt verkregen, opnieuw te gebruiken door de auteur (een zakelijke account) via een gedeeltelijk geautomatiseerde workflow.
 
 Voordat u een aanvraag voor gedeeltelijk geautomatiseerde rechten kunt verzenden, moet u:
 
-* Voeg een zakelijke account voor Installagram toe. Voor meer informatie over hoe te om een Van Bedrijfs Instagram rekening te vormen, zie [Ongeveer de Rekeningen](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)van het Installagram.
-* Rechtenbeheer instellen. Zie [Rechten](../c-how-requesting-rights-works/c-how-requesting-rights-works.md#c_how_requesting_rights_works)aanvragen voor meer informatie over het instellen van rechtenbeheer.
+* Voeg een zakelijke account voor Installagram toe. Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over het configureren van een Instagram-bedrijfsaccount.
+* Rights Management instellen. Zie [Rechten aanvragen](../c-how-requesting-rights-works/c-how-requesting-rights-works.md#c_how_requesting_rights_works) voor meer informatie over het instellen van rechtenbeheer.
 
 Om rechten van Instagram voor een onderzoek of stroom door de auteur van de bedrijfsrekening te verzoeken gebruikend een gedeeltelijk-geautomatiseerde werkschema:
 
-1. Open het **[!UICONTROL Rights options]** venster.
+1. Open het venster **[!UICONTROL Rights options]**.
 1. Selecteer de account die u wilt gebruiken om rechten aan te vragen. De account moet een Installagram-bedrijfsaccount zijn.
 1. (Optioneel) Bewerk het aanvraagbericht. Als het bericht een element mist of een vereist element verkeerd gespeld is, toont een foutenmelding die de onjuiste of ontbrekende informatie specificeert.
-1. Klik **[!UICONTROL Copy]** om de tekst in het vak naar het klembord te kopiëren.
+1. Klik **[!UICONTROL Copy]** om de tekst in het vakje aan uw klembord te kopiëren.
 
    ![](assets/rr_insta_workaround1.png)
 
