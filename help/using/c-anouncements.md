@@ -32,7 +32,7 @@ Deze wijziging heeft geen invloed op de inhoud van Instagram die in LiveCycle to
 
 We willen ook delen dat vanwege de beperkte vraag van klanten naar Twitter-inhoud, de toegang tot Twitter volgend jaar op 3 mei 2021 uit Livefyre wordt verwijderd. U blijft tot deze datum volledige toegang hebben tot nieuwe en opgeslagen Twitter-inhoud.
 
-Daarnaast blijven alle andere functies beschikbaar, zoals beoordelingen en revisies, opmerkingen, identiteitsbewijzen en live bloggen. Adobe blijft ook doorlopende ondersteuning bieden voor foutoplossingen en updates van het besturingssysteem en de beveiliging.
+Daarnaast blijven alle andere functies beschikbaar, zoals beoordelingen en revisies, opmerkingen, identiteitsbewijzen en live bloggen. Adobe zal ook doorlopende steun voor insectenmoeilijke situaties en OS en veiligheidsupdates blijven verlenen.
 
 ## 25 oktober 2019
 
@@ -81,7 +81,7 @@ Twee extra functies die vanaf begin mei de afgekeurde API voor Instagram verhelp
 
 * **Automatische controle van gebruiksrechten vraagt reacties voor zakelijke zoekopdrachten op basis van account**
 
-   Facebook wist ook de mogelijkheid voor partners als Adobe om rechtenaanvraagberichten van Instagram namens hun klanten te verzenden, waardoor Livefyre niet langer in staat was om volledig geautomatiseerd rechtenbeheer uit te voeren. In mei hebben we handmatige, knip- en plakfuncties geleverd om klanten de mogelijkheid te geven om goedkeuringen van gebruiksrechten te hervatten en records voor controle te onderhouden. Vanaf vandaag—alleen voor zakelijke accounts—is de mogelijkheid om reacties op verzoeken om rechten automatisch te controleren en de activiteitengeschiedenis in LiveCycle bij te werken beschikbaar.
+   Facebook wist ook de mogelijkheid voor partners als Adobe om rechtenaanvraagberichten van Instagram namens hun klanten te verzenden, waardoor het onmogelijk wordt om volledig geautomatiseerd rechtenbeheer van Livefyre uit te voeren. In mei hebben we handmatige, knip- en plakfuncties geleverd om klanten de mogelijkheid te geven om goedkeuringen van gebruiksrechten te hervatten en records voor controle te onderhouden. Vanaf vandaag—alleen voor zakelijke accounts—is de mogelijkheid om reacties op verzoeken om rechten automatisch te controleren en de activiteitengeschiedenis in LiveCycle bij te werken beschikbaar.
 
 ## 22 juni 2018 {#section_k1t_vmv_g2b}
 
@@ -89,7 +89,7 @@ We zijn blij om aan te kondigen dat de mogelijkheid om te zoeken naar video-inho
 
 ## 14 juni 2018 {#section_kk5_qpz_d2b}
 
-Lees de meest recente updates over de status van functionaliteit die gerelateerd is aan de API-afwaarderingen van Instagram:
+Lees de meest recente updates over de status van functionaliteit die gerelateerd is aan de API-afleidingen van Instagram:
 
 * **Inhoud van zakelijke accounts zoeken en streamen**
 
@@ -103,7 +103,7 @@ Lees de meest recente updates over de status van functionaliteit die gerelateerd
 
 Deel één van twee updates van de aanvraagworkflow voor gebruiksrechten voor Instagram-inhoud is nu beschikbaar. Vanuit App Content en de Library kunt u nu het aanvraagrechtenbericht van Livefyre Studio kopiëren en dit plakken naar de exacte Instagram-post die u wilt gebruiken. De mogelijkheid om dit te doen in ModQ wordt in een toekomstige release geleverd. Op 14 juni 2018 herstellen we de functionaliteit die automatisch de reactie op uw verzoek voor rechten controleert en de activiteitengeschiedenis bijwerkt.
 
-Lees de release notes [van 24](/help/using/c-rn/previous-rns/rn2018/c-rn-2018-may-24.md#c_rn) mei 2018 voor meer informatie en instructies over het gebruik van deze functie.
+Lees [24 mei 2018, release notes](/help/using/c-rn/previous-rns/rn2018/c-rn-2018-may-24.md#c_rn) voor meer informatie en instructies over het gebruik van deze functie.
 
 ## 17 mei 2018 {#section_hwb_1qz_wdb}
 
@@ -138,7 +138,7 @@ Na een volledige systeemanalyse zijn hier de mogelijkheden die worden beïnvloed
 
 * **De werkstroom voor zoeken en streams van gebruikers: 14 juni 2018**
 
-   Hoewel u nog steeds kunt zoeken op hashtag en trefwoord, is de mogelijkheid om te zoeken in persoonlijke Instagram-accounts uitgeschakeld. Als alternatief, zal Livefyre functionaliteit bouwen die u toelaat om inhoud van bedrijfsrekeningen te zoeken en te stromen. Als u Livefyre gebruikt om de inhoud van uw eigen organisatie van het Installagram te zoeken en te stromen, ben zeker om aan een bedrijfsrekening te [bevorderen](https://help.instagram.com/502981923235522?helpref=search&amp;sr=2&amp;query=change%20personal%20account%20to%20business%20account) om uit deze functionaliteit voordeel te halen.
+   Hoewel u nog steeds kunt zoeken op hashtag en trefwoord, is de mogelijkheid om te zoeken in persoonlijke Instagram-accounts uitgeschakeld. Als alternatief, zal Livefyre functionaliteit bouwen die u toelaat om inhoud van bedrijfsrekeningen te zoeken en te stromen. Als u Livefyre gebruikt om de inhoud van uw eigen organisatie van het Installagram te zoeken en te stromen, ben zeker om [upgrade](https://help.instagram.com/502981923235522?helpref=search&amp;sr=2&amp;query=change%20personal%20account%20to%20business%20account) aan een bedrijfsrekening om uit deze functionaliteit voordeel te halen.
 
 **We blijven oplossingen evalueren voor de volgende functies die we op korte termijn niet kunnen vervangen:**
 
@@ -151,4 +151,4 @@ Klik hier voor meer informatie over de wijzigingen in het platform van Facebook:
 
 Wij verontschuldigen ons oprecht voor elke verstoring die dit veroorzaakt en zullen u blijven informeren over onze vooruitgang bij het aanpakken van deze veranderingen.
 
-Het Adobe LiveCyre-team
+Het Adobe Livefyre-team
