@@ -7,17 +7,20 @@ title: Filmstripaanpassingen
 uuid: 99f8b697-4aa3-4813-bcac-d0e0bdee252d
 translation-type: tm+mt
 source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+workflow-type: tm+mt
+source-wordcount: '523'
+ht-degree: 0%
 
 ---
 
 
 # Filmstripaanpassingen{#filmstrip-customizations}
 
-Alle toepassingen gebruiken **[!UICONTROL Style]** en **[!UICONTROL Config]** opties in de **[!UICONTROL App Designer]**. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle apps in het dialoogvenster **[!UICONTROL App Designer.]**
+Alle toepassingen gebruiken **[!UICONTROL Style]** en **[!UICONTROL Config]** opties in **[!UICONTROL App Designer]**. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]**- en **[!UICONTROL Config]**-opties voor alle toepassingen in **[!UICONTROL App Designer.]**
 
 U kunt Filmstrip aanpassen met de volgende aanvullende opties in App Designer:
 
-* **[!UICONTROL Content fit]**. Kies **[!UICONTROL crop]** **[!UICONTROL Aspect Ratio]** om de inhoud uit te snijden om de kaart te vullen of om een volledige afbeelding in de kaart weer te geven, of de hele kaart nu wordt gevuld of niet.
+* **[!UICONTROL Content fit]**. Kies **[!UICONTROL crop]** om de inhoud uit te snijden om de kaart te vullen of **[!UICONTROL Aspect Ratio]** om een volledig beeld in de kaart te tonen, of het de volledige kaart of niet vult.
 * **[!UICONTROL Tile Size]**. Voer de grootte van de tegels in pixels in.
 * **[!UICONTROL Show Notifications]**. Geef op of u een melding voor nieuwe inhoud wilt weergeven terwijl deze in de Filmstrip-app wordt gestreamd.
 * **[!UICONTROL Require rights]**. Schakel deze optie in om alleen inhoud weer te geven met de status &quot;Granted&quot; (Verleend verzoek om rechten).
@@ -25,7 +28,7 @@ U kunt Filmstrip aanpassen met de volgende aanvullende opties in App Designer:
 * **[!UICONTROL Call-to-action button]** U kunt de vraag-aan-actie knoop met een productcatalogus gebruiken om gebruikers aan een product of aan uw plaats voor verdere actie te leiden.
 
    * **[!UICONTROL Call-to-action button]** Schakelaar de knevel aan op om de vraag-aan-actie knoop te tonen.
-   * **[!UICONTROL Require rights to display products]** Schakel de schakeloptie in om te vereisen dat de eigenaar van de inhoud rechten voor de inhoud heeft verleend voordat een knop Aanroepen verschijnt voor de inhoud.
+   * **[!UICONTROL Require rights to display products]** Schakel de schakeloptie in om te vereisen dat de eigenaar van de inhoud rechten voor de inhoud heeft verleend voordat een knop Aanroepen wordt weergegeven voor de inhoud.
 
       >[!NOTE]
       >
@@ -35,7 +38,7 @@ U kunt Filmstrip aanpassen met de volgende aanvullende opties in App Designer:
    * **[!UICONTROL Call-to-action indication text]** De tekst aan vertoning om de gebruiker ertoe aan te zetten om op de kaart te klikken om vraag-aan-actie modaal te openen.
    * **[!UICONTROL Call-to-action header text]** De woorden die in de kopbal boven de vraag-aan-actie knoop in de inhoudsmodaal moeten worden getoond. De standaardtekst is &quot;Deze producten kopen:&quot;.
    * **[!UICONTROL Call-to-action button text]** De woorden in vraag-aan-actie knoop in inhoud modaal te tonen. Standaardtekst is: &quot;Nu kopen:&quot;.
-   * **[!UICONTROL Product display options]** Kies of u de **[!UICONTROL Photo]** en **[!UICONTROL Product name]** met vraag-aan-actie knoop wilt tonen.
+   * **[!UICONTROL Product display options]** Kies of u de vraag  **[!UICONTROL Photo]** en  **[!UICONTROL Product name]** met de vraag-aan-actie knoop wilt tonen.
 
       >[!NOTE]
       >
