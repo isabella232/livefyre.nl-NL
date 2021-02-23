@@ -1,14 +1,14 @@
 ---
-description: Filmstrip is een visualisatie-app waarmee door de gebruiker gegenereerde inhoud wordt weergegeven in één dynamische, horizontale strook met foto's, vergelijkbaar met een filmstrip van een camera.
+description: 'Meer informatie over de Filmstrip-app vindt u in onze volledige handleiding. In de visualisatie-app worden uw afbeeldingen weergegeven in een strook met retrocamera-films. Master het met onze tips. '
 seo-description: Filmstrip is een visualisatie-app waarmee door de gebruiker gegenereerde inhoud wordt weergegeven in één dynamische, horizontale strook met foto's, vergelijkbaar met een filmstrip van een camera.
 seo-title: Filmstrip
 solution: Experience Manager
-title: Filmstrip
+title: Hulplijn voor Filmstrip-app
 uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 2584041dd080c08ee769bd897e55157ec05ce8b6
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '821'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Filmstrip is een visualisatie-app waarmee door de gebruiker gegenereerde inhoud wordt weergegeven in één dynamische, horizontale strook met foto&#39;s, vergelijkbaar met een filmstrip van een camera.
 
-## Info Filmstrip {#section_tng_slj_yy}
+## Meer informatie over het gebruik van filmstrip {#section_tng_slj_yy}
 
 U kunt Filmstrip met UGC in e-commercescenario&#39;s, zoals productpagina&#39;s of transactiewebsites gebruiken. Eindgebruikers kunnen door Filmstrip navigeren door op de zijpijlen te klikken om van links naar rechts door de beschikbare inhoud te bladeren. Nieuwe inhoud wordt aan de linkerkant weergegeven wanneer de inhoud in de app wordt geplaatst. U kunt kiezen of onlangs gestreamde UGC een etiket op het zal hebben dat, *Nieuw* zegt om plaatsbezoekers te helpen nieuwe inhoud snel identificeren.
 
