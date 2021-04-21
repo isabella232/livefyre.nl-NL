@@ -1,18 +1,14 @@
 ---
 description: Definieer de instellingen voor het aanvragen van rechten voor Instagram- en Twitter-berichten.
-seo-description: Definieer de instellingen voor het aanvragen van rechten voor Instagram- en Twitter-berichten.
-seo-title: Rights Management instellen
-solution: Experience Manager
 title: Rights Management instellen
-uuid: 3ffcbc95-484f-4eba-b817-658c1d658bf8
+exl-id: d3d3e837-0ed0-47a8-ac5c-7b9da431d149
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
-
 
 # Rights Management instellen{#set-up-rights-management}
 
@@ -35,22 +31,22 @@ Voordat u Instellingen voor rechtenaanvraag kunt definiëren, moet u een of meer
 
    >[!NOTE]
    >
-   >Voor Instagram-accounts hebt u een Instagram-bedrijfsaccount nodig om rechten met gedeeltelijke automatisering aan te vragen. Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over de verschillende soorten Instagram-accounts en hoe u deze kunt gebruiken.
+   >Voor Instagram-accounts hebt u een Instagram-zakelijke account nodig om rechten aan te vragen met gedeeltelijke automatisering. Zie [Informatie over Instagram Accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over de verschillende soorten Instagram-accounts en hoe u deze gebruikt.
 
 1. Vul de weergegeven velden in. Alle velden zijn verplicht.
 
-   * **[!UICONTROL Display name:]** Voer een weergavenaam in ter identificatie van het Twitter- of Instagram-account dat u voor uw Rights Request-account wilt gebruiken. Deze naam is alleen intern.
+   * **[!UICONTROL Display name:]** Voer een weergavenaam in ter identificatie van de Twitter- of Instagram-account die u voor uw Rights Request-account wilt gebruiken. Deze naam is alleen intern.
    * **[!UICONTROL Enabled:]**Standaard ingeschakeld. Hiermee schakelt u rechtenbeheer voor de account in.
    * **[!UICONTROL Approval hashtag:]** De hashtag die de eigenaar van de inhoud gebruikt om aan te geven dat hij of zij ermee instemt de inhoud te gebruiken.
    * **[!UICONTROL Terms and conditions:]** Een verbinding aan de Voorwaarden van uw netwerk voor het hergebruik van inhoud. Dit veld is hoofdlettergevoelig.
    * **[!UICONTROL Network and sites:]** Het netwerk of de site waarvoor deze account rechten voor hergebruik van inhoud kan aanvragen. Om deze rekening beschikbaar te maken over uw volledig netwerk, selecteer het eerste punt in de lijst, of grens tot specifieke plaatsen gebruikend de sleutel Command/CTRL.
    * **[!UICONTROL Default message:]** Een bericht dat met uw Verzoek van Rechten wordt getoond. U kunt dit bericht negeren wanneer u rechten aanvraagt.
 
-      * Het leven stelt één van de standaardberichten aan moderatoren voor wanneer een moderator een verzoek aan een inhoudauteur uitgeeft. De moderatoren kunnen een ander standaardbericht produceren of het bericht uitgeven alvorens te verzenden. Berichten moeten de handgreep Twitter of Instagram van de auteur ({handle}), de hashtag voor goedkeuring ({GrantTag}) en een koppeling naar uw Voorwaarden en Voorwaarden ({termsLink}) bevatten.
+      * Het leven stelt één van de standaardberichten aan moderatoren voor wanneer een moderator een verzoek aan een inhoudauteur uitgeeft. De moderatoren kunnen een ander standaardbericht produceren of het bericht uitgeven alvorens te verzenden. De berichten moeten de handvatten van Twitter of van Instagram van de auteur ({handle}), uw goedkeuringshashtag ({GrantTag}), en een verbinding aan uw Termen en Voorwaarden ({termsLink}) omvatten.
 
          **[!UICONTROL Note:]** {handle} , {GrantTag} en {termsLink} zijn allemaal hoofdlettergevoelig.
 
-         **[!UICONTROL Note:]** Om kwaadwillig gebruik te voorkomen, verpakt Twitter om het even welke inbegrepen URLs met  [t.](https://t.co/) coformatting. Als u wilt voorkomen dat uw standaardbericht langer is dan 140 tekens, wordt u aangeraden geen URL&#39;s op te nemen in uw standaardbericht.
+         **[!UICONTROL Note:]** Om kwaadwillig gebruik te voorkomen, verpakt Twitter inbegrepen URLs met  [t.](https://t.co/) coformatting. Als u wilt voorkomen dat uw standaardbericht langer is dan 140 tekens, wordt u aangeraden geen URL&#39;s op te nemen in uw standaardbericht.
 
       * Aanbevolen procedures voor het schrijven van rechtenaanvraagberichten:
 
