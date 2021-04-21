@@ -1,18 +1,14 @@
 ---
 description: Met Live Blog kunt u realtime updates en afbeeldingen van de eigen editors van uw site weergeven wanneer u een live gebeurtenis bedekt.
-seo-description: Met Live Blog kunt u realtime updates en afbeeldingen van de eigen editors van uw site weergeven wanneer u een live gebeurtenis bedekt.
-seo-title: Live blog
-solution: Experience Manager
 title: Live blog
-uuid: 5ca373f1-2008-45ab-9ec2-1e295af4e368
+exl-id: e8a16b56-53c9-488e-9807-1cf80b62462e
 translation-type: tm+mt
-source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1497'
+source-wordcount: '1475'
 ht-degree: 0%
 
 ---
-
 
 # Live blog{#live-blog}
 
@@ -152,7 +148,7 @@ Het object `CollectionMeta` is een JSON-object dat de metagegevens opgeeft die i
 |--- |--- |--- |
 | **artikelId** | ** vereiste tekenreeks | Een unieke id voor de verzameling. |
 | **titel** | ** vereiste tekenreeks | De titel die u op de verzameling wilt toepassen. Dit komt vaak overeen met de titel van de pagina waarop de app wordt weergegeven.  Bijvoorbeeld: &quot;Integratie is zo leuk!&quot;  Opmerking:  De maximale tekenlengte voor de titel is 255 tekens. Het titelveld ondersteunt geen HTML-entiteiten. Codeer speciale tekens met UTF-8. |
-| **url** | ** vereiste tekenreeks | De canonieke absolute URL die u aan deze verzameling wilt koppelen. Deze URL wordt gebruikt om koppelingen naar de app te genereren op basis van inhoud die wordt gedeeld op Facebook en Twitter, e-mailmeldingen en LiveCyre Studio.  Opmerking:  Livefyre vereist het gebruik van een volledig gekwalificeerde domeinnaam; het havenaantal of een callback om de lokale opstelling op te lossen wordt niet vereist. Als u lokaal test, moet u zeker weten dat u een geldig basis-URL-domein gebruikt. (Bijvoorbeeld: `https://customer.com` is geldig, terwijl `https://localhost:5995` niet. is) Zodra u opstelling uw lokale webserver hebt om volledig - gekwalificeerde domeinnaam goed te keuren, zijn geen callbacks of resoluties nodig, en de lokale ontwikkeling kan te werk gaan zoals verwacht. |
+| **url** | ** vereiste tekenreeks | De canonieke absolute URL die u aan deze verzameling wilt koppelen. Deze URL wordt gebruikt om koppelingen te genereren naar de app vanuit inhoud die wordt gedeeld op Facebook en Twitter, e-mailmeldingen en LiveCyre Studio.  Opmerking:  Livefyre vereist het gebruik van een volledig gekwalificeerde domeinnaam; het havenaantal of een callback om de lokale opstelling op te lossen wordt niet vereist. Als u lokaal test, moet u zeker weten dat u een geldig basis-URL-domein gebruikt. (Bijvoorbeeld: `https://customer.com` is geldig, terwijl `https://localhost:5995` niet. is) Zodra u opstelling uw lokale webserver hebt om volledig - gekwalificeerde domeinnaam goed te keuren, zijn geen callbacks of resoluties nodig, en de lokale ontwikkeling kan te werk gaan zoals verwacht. |
 | **type** | ** requiredString | Het type verzameling. Moet livechat zijn. |
 
 Het object `CollectionMeta` kan ook de volgende optionele parameter bevatten:
@@ -176,4 +172,3 @@ Livefyre.require(['fyre.conv#3'], function(Conv) {
    }); 
 });
 ```
-
