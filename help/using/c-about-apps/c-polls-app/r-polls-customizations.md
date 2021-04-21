@@ -1,18 +1,14 @@
 ---
 description: Wijzig de grootte, breedte en interactieopties van de toepassing Opiniepeilingen.
-seo-description: Wijzig de grootte, breedte en interactieopties van de toepassing Opiniepeilingen.
-seo-title: Opiniepeilingen aanpassen
-solution: Experience Manager
 title: Opiniepeilingen aanpassen
-uuid: 788a4fa7-aafb-4508-b9c0-cd54e4cd9b86
+exl-id: f82dce69-8ad0-48bd-a293-e5501374d5d6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
-
 
 # Opiniepeilingen aanpassen{#polls-customizations}
 
@@ -58,7 +54,6 @@ Wijzig de grootte, breedte en interactieopties van de toepassing Opiniepeilingen
 
 U kunt opiniepeilingen aanpassen met:
 
-* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor details over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle Apps in **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]**- en **[!UICONTROL Config]**-opties voor alle apps in **[!UICONTROL App Designer]**.
 
 * Integratiegereedschappen. Zie Opiniepeilingen voor meer informatie over het aanpassen van toepassingen met behulp van integratieprogramma&#39;s.
-
