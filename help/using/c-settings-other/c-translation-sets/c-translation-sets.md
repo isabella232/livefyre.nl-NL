@@ -1,18 +1,14 @@
 ---
 description: Met vertaalsets kunt u een alternatieve taal opgeven voor Apps.
-seo-description: Met vertaalsets kunt u een alternatieve taal opgeven voor Apps.
-seo-title: Vertaalsets
-solution: Experience Manager
 title: Vertaalsets
-uuid: 88b705e5-57c8-4065-8a41-a73546bd929a
+exl-id: 1de99602-b97e-42e9-8450-39abd4ba2f9b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1347'
+source-wordcount: '1335'
 ht-degree: 0%
 
 ---
-
 
 # Vertaalsets{#translation-sets}
 
@@ -332,4 +328,3 @@ Tekenreeksen beschikbaar voor algemene foutberichten.
 |  | errorDuplicate | We houden ook van uw notitie, maar u kunt deze niet twee keer plaatsen. |
 |  | errorGeneral | Er is een fout opgetreden. Probeer het opnieuw. |
 |  | errorServer | Er ging iets mis met onze server. Probeer dat opnieuw? |
-
