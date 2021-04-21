@@ -1,18 +1,14 @@
 ---
 description: Het deelvenster Gebruikersoverzicht bevat gebruikersgegevens voor ondersteuning van de moderatie.
-seo-description: Het deelvenster Gebruikersoverzicht bevat gebruikersgegevens voor ondersteuning van de moderatie.
-seo-title: Moderne gebruikers
-solution: Experience Manager
 title: Moderne gebruikers
-uuid: b801cdfe-05ea-4c29-bb9b-0f6a33cb11d1
+exl-id: 6165ae9e-b210-46b8-87e6-6e7af3430b82
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
-
 
 # Moderne gebruikers{#moderate-users}
 
