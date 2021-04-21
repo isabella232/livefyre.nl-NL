@@ -1,18 +1,14 @@
 ---
 description: Release-aantekeningen voor de release Livefyre 14 maart 2019.
-seo-description: Release-aantekeningen voor de release Livefyre 14 maart 2019.
-seo-title: Opmerkingen bij de release
-solution: Experience Manager
 title: Opmerkingen bij de release van Livefyre voor 14 maart 2019
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+exl-id: 16400d16-681f-47eb-9c6e-23ddf09752c6
 translation-type: tm+mt
-source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release - 14 maart 2019
 
@@ -22,14 +18,14 @@ ht-degree: 0%
 
 ## Verbeteringen
 
-* Geïmplementeerde steun voor Vraag aan Actie en Handel (Producten) met Inheems Instagram.
-* Voor het aanpakken van door Instagram aangebrachte afwaarderingen is het Content Detail voor toepassingen gewijzigd om native insluitingen van Instagram te renderen.
+* Geïmplementeerde steun voor Vraag aan Actie en Handel (Producten) met de inheemse inbedden van Instagram.
+* Voor het aanpakken van door Instagram aangebrachte afwaarderingen, is het Detail van inhoud voor toepassingen gewijzigd om eigen insluitingen voor Instagram te renderen.
 
 
 ## Opgeloste problemen
 
-* Correctie van een probleem waarbij accounts met Twitter-rechtenaanvragen konden worden geselecteerd in de modus Geavanceerd.
+* Probleem verholpen waarbij accounts met Twitter-rechtenaanvragen konden worden geselecteerd in het modaal Geavanceerd.
 * Probleem verholpen waarbij in bepaalde omstandigheden een niet-gedefinieerde HTML-tag in de mediamuur stond.
-* In sommige gevallen werd het bericht Video/Afbeelding niet onjuist weergegeven in het sociale zoekprogramma van Instagram. Dit probleem is nu opgelost.
+* Het probleem waarbij in sommige gevallen het bericht Video/Afbeelding niet onjuist werd weergegeven in de sociale zoekfunctie van Instagram, is opgelost.
 * Probleem verholpen waarbij in Instagram- en Facebook-albums in Media Walls en Mosaics dezelfde afbeelding meerdere keren werd weergegeven.
 Probleem verholpen waarbij niet-bestaande accounts worden weergegeven in de vervolgkeuzelijst Rechtenverzoek.
