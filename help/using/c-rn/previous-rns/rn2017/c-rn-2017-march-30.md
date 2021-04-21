@@ -1,17 +1,14 @@
 ---
 description: Opmerkingen bij de release van 30 maart 2017.
-seo-description: Opmerkingen bij de release van 30 maart 2017.
-seo-title: 30 maart 2017
 title: 30 maart 2017
-uuid: 2adf04a9-6c52-4fa1-a0c9-b2d3886305e9
+exl-id: 44c73ff9-8bc1-49c9-b720-aff425e5cd28
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
-
 
 # 30 maart 2017{#march}
 
@@ -23,9 +20,9 @@ Opmerkingen bij de release van 30 maart 2017.
 |---|---|---|
 | Bug | Sociale zoekfunctie | Het probleem waarbij publicatie van opgeslagen YouTube-elementen in sociale zoekopdracht werd voorkomen, is opgelost. |
 | Verbetering | Sociale synchronisatie | Vervangen Twitter Social Sync. |
-| Verbetering | Storiseren 2 | Er is een uitbreiding toegevoegd om het bericht &quot;Geen resultaten gevonden&quot; weer te geven bij het zoeken naar Facebook-onderwerpen als er geen resultaten worden gevonden. |
-| Verbetering | Streams | Samenvattingsregels voor VEILIGE regels zijn toegevoegd onder aan een pagina voor Twitter-stroom. |
-| Bug | Streams | Een uitbreiding toegevoegd om het selectievakje &quot;geverifieerde gebruiker&quot; op Twitter Stream Rules zichtbaar uit te schakelen wanneer uitgesloten auteurs worden aangeboden. |
+| Verbetering | Storiseren 2 | Er is een uitbreiding toegevoegd om het bericht &quot;Geen resultaten gevonden&quot; weer te geven bij het zoeken naar Facebook Topic wanneer er geen resultaten worden gevonden. |
+| Verbetering | Streams | Samenvattingsregels voor VEILIGE regels toegevoegd onder aan een Twitter Stream-pagina. |
+| Bug | Streams | Er is een uitbreiding toegevoegd om het selectievakje &quot;geverifieerde gebruiker&quot; op Twitter Stream Rules zichtbaar uit te schakelen wanneer uitgesloten auteurs worden aangeboden. |
 | Bug | Streams | Oplossing voor een bug waarbij het gebruik van ANDing-trefwoorden en een locatiefilter in een Twitter-regel waren toegestaan. |
 | Bug | Studio | Het probleem waarbij de functietag niet correct kon worden opgeslagen tijdens de toepassing, is opgelost. |
 
@@ -44,6 +41,5 @@ Opmerkingen bij de release van 30 maart 2017.
 | Verbetering | Sociale zoekfunctie | Als u zoekt naar Instagram-inhoud van Studio en de zoekopdracht is veroorzaakt door een verlopen Instagram API-token, wordt het foutbericht nu als zodanig weergegeven. |
 | Bug | Streams | Oplossing voor een probleem dat ertoe leidde dat een banner &quot;App accepteert geen nieuwe inhoud&quot; onjuist werd weergegeven boven op streamregelpagina&#39;s. |
 | Verbetering | Streams | Gewijzigd het gebrek van pas gecreëerde stroomregels om VEILIGE Regels toe te passen wanneer toepasselijk. |
-| Verbetering | Streams (voorheen Curate Rules) | De optie &#39;Wijntjes&#39; is alleen verwijderd uit de regels voor Twitter Stream/Curate, omdat wijnstokken nu worden weergegeven als Twitter-video&#39;s. |
+| Verbetering | Streams (voorheen Curate Rules) | De optie Alleen wijnstokken is verwijderd uit de Twitter Stream/Curate-regels, omdat wijnstokken nu worden weergegeven als Twitter-video&#39;s. |
 | Bug | Studio Shell | Probleem verholpen zodat Livefyre Studio wordt geladen als https:// expliciet aan de URL is toegevoegd. |
-
