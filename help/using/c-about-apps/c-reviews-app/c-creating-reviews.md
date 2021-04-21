@@ -1,24 +1,20 @@
 ---
 description: Revisies bieden een breed scala aan aanpassingen, zodat u een Revisie-app kunt maken die aan uw behoeften en branding voldoet.
-seo-description: Revisies bieden een breed scala aan aanpassingen, zodat u een Revisie-app kunt maken die aan uw behoeften en branding voldoet.
-seo-title: Een Revisietoepassing maken
-solution: Experience Manager
 title: Een Revisietoepassing maken
-uuid: 6caeafe7-c04e-484e-b02f-98dc6d9b3184
+exl-id: 14f074d2-922c-4997-8d7d-f2c92f069e07
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
-
 
 # Een Revisietoepassing maken{#creating-a-reviews-app}
 
 Revisies bieden een breed scala aan aanpassingen, zodat u een Revisie-app kunt maken die aan uw behoeften en branding voldoet.
 
-Gebruik de Reviews-app door deze als een JS-toepassing op uw site in te sluiten. U kunt geen Revisies-app maken in LiveCyre Studio. Zie [Integratie van revisies](/help/implementation/c-app-integrations/c-reviews-integration.md) voor informatie over het maken van een Revisies-app op uw site.
+Gebruik de Reviews-app door deze als een JS-toepassing op uw site in te sluiten. U kunt geen Revisies-app maken in LiveCyre Studio. Als u een Revisies-app op uw site wilt maken, raadpleegt u [Integratie van revisies](/help/implementation/c-app-integrations/c-reviews-integration.md).
 
 
 ## Waarderingen {#section_hs5_c4h_21b}
