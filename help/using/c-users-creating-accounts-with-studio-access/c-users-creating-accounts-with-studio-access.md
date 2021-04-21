@@ -1,18 +1,14 @@
 ---
 description: De Rekeningen van de Studio staan u toe om tot alle componenten van Studio toegang te hebben waarvoor u toestemmingen, met inbegrip van de verwezenlijking van de Toepassing, de moderatie van de Inhoud, en het beheer van de Gebruiker hebt.
-seo-description: De Rekeningen van de Studio staan u toe om tot alle componenten van Studio toegang te hebben waarvoor u toestemmingen, met inbegrip van de verwezenlijking van de Toepassing, de moderatie van de Inhoud, en het beheer van de Gebruiker hebt.
-seo-title: Gebruikers die gebruikersaccounts maken
-solution: Experience Manager
 title: Gebruikers die gebruikersaccounts maken
-uuid: f8eed23d-40d4-4aee-8ee0-f1790e119961
+exl-id: d45362f5-e0ba-4141-9d35-7999380d94cd
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # Gebruikers: Gebruikersaccounts maken{#users-creating-user-accounts}
 
