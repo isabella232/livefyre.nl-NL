@@ -1,22 +1,18 @@
 ---
-description: U kunt Livefyre Identity gebruiken met Twitter om gebruikers in staat te stellen hun Twitter-aanmeldingen te gebruiken voor het communiceren van apps op uw site.
-seo-description: U kunt Livefyre Identity gebruiken met Twitter om gebruikers in staat te stellen hun Twitter-aanmeldingen te gebruiken voor het communiceren van apps op uw site.
-seo-title: Een Twitter-app maken voor gebruik met LiveCyre-identiteit
-solution: Experience Manager
-title: Een Twitter-app maken voor gebruik met LiveCyre-identiteit
-uuid: 841cce7c-618d-4154-85a3-1de96d04bb69
+description: Met LiveCycle Identity met Twitter kunnen gebruikers hun Twitter-aanmeldgegevens gebruiken voor de interactie tussen apps op uw site.
+title: Een Twitter-app maken voor gebruik met LiveCyre-id
+exl-id: 4f2b919f-fe5d-49a3-8432-04ffb3d68ce4
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
+# Een Twitter-toepassing maken voor gebruik met LiveCyre-identiteit{#create-a-twitter-app-for-use-with-livefyre-identity}
 
-# Een Twitter-app maken voor gebruik met LiveCyre Identity{#create-a-twitter-app-for-use-with-livefyre-identity}
-
-U kunt Livefyre Identity gebruiken met Twitter om gebruikers in staat te stellen hun Twitter-aanmeldingen te gebruiken voor het communiceren van apps op uw site.
+Met LiveCycle Identity met Twitter kunnen gebruikers hun Twitter-aanmeldgegevens gebruiken voor de interactie tussen apps op uw site.
 
 Voor het inschakelen van Twitter-aanmelding vereist Livefyre de volgende Twitter-toepassingsgegevens:
 
