@@ -1,18 +1,14 @@
 ---
 description: Wijzig de grootte, breedte en interactieopties van de Media Wall-app.
-seo-description: Wijzig de grootte, breedte en interactieopties van de Media Wall-app.
-seo-title: Aanpassingen aan de mediamuur
-solution: Experience Manager
 title: Aanpassingen aan de mediamuur
-uuid: 79aecd92-3937-4bb4-a1a6-b090fb39afb0
+exl-id: bc34d8da-9e14-4226-b38d-128889bc31cc
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '718'
 ht-degree: 0%
 
 ---
-
 
 # Aanpassingen voor mediamandelen{#media-wall-customizations}
 
@@ -79,7 +75,6 @@ Als deze optie is ingeschakeld, kunnen gebruikers tekst, afbeeldingen of video r
 
 U kunt de Muur van Media aanpassen gebruikend:
 
-* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor details over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle Apps in **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]**- en **[!UICONTROL Config]**-opties voor alle apps in **[!UICONTROL App Designer]**.
 
 * Integratiegereedschappen. Zie [De Integratie van de Muur van Media](/help/implementation/c-app-integrations/c-media-wall-integration.md) voor meer op hoe te om een Muur van Media aan te passen gebruikend de Hulpmiddelen van de Integratie.
-
