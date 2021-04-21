@@ -1,18 +1,14 @@
 ---
 description: Opmerkingen bij de release van 15 februari 2018.
-seo-description: Opmerkingen bij de release van 15 februari 2018.
-seo-title: 15 februari 2018
-solution: Experience Manager
 title: 15 februari 2018
-uuid: ee46f088-9fb7-49e2-a42c-e0d4b2f24a32
+exl-id: 7276de37-c8cd-4e85-bc92-90c272e5bf94
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
-
 
 # 15 februari 2018{#february}
 
@@ -43,8 +39,8 @@ De problemen in de volgende tabellen zijn opgelost in deze release.
 
 | **Type probleem** | **Component** | **Opmerking vrijgeven** |
 |---|---|---|
-| Probleem | ModQ | Probleem verholpen waarbij instagramberichten die als goedgekeurd of geplakt zijn gemarkeerd, opnieuw in de wachtrij werden geplaatst. |
-| Verbetering | Rights Management | Verbetering toegevoegd om een waarschuwing weer te geven wanneer wordt geprobeerd verlopen Instagram-accounts te gebruiken terwijl er rechtenverzoeken worden gedaan. |
+| Probleem | ModQ | Probleem verholpen waarbij Instagram-berichten die als goedgekeurd of geplakt zijn gemarkeerd, opnieuw in de wachtrij werden ingevoerd. |
+| Verbetering | Rights Management | Er is een uitbreiding toegevoegd om een waarschuwing weer te geven wanneer wordt geprobeerd verlopen Instagram-accounts te gebruiken terwijl er rechtenverzoeken worden gedaan. |
 | Probleem | Trends | Probleem verholpen waarbij de Trends App soms nog steeds HTTP toeliet in plaats van HTTPS. |
 
 ## UAT Release
@@ -54,4 +50,3 @@ De problemen in de volgende tabellen zijn opgelost in deze release.
 | Verbetering | Apps | De mogelijkheid om apps te verwijderen uit LiveCycle toegevoegd. |
 | Probleem | Opiniepeilingen | Gewijzigde opiniepeilingen om uitsluitend HTTPS te gebruiken. Eerder mochten opiniepeilingen nog steeds worden gebruikt met HTTP. |
 | Probleem | UGC | Probleem verholpen waarbij UGC in een visualisatie-app niet op product-id filterde zoals verwacht. |
-
