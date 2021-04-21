@@ -1,18 +1,14 @@
 ---
 description: Kies hoe sitebezoekers communiceren met Apps en op welke manieren ze met de inhoud kunnen communiceren.
-seo-description: Kies hoe sitebezoekers communiceren met Apps en op welke manieren ze met de inhoud kunnen communiceren.
-seo-title: Functies voor on-site interventie
-solution: Experience Manager
 title: Functies voor on-site interventie
-uuid: 1f441490-28eb-4fc4-9fe8-0879c62c4b4a
+exl-id: 5f7d065b-cd9b-4939-8029-e593583a3b07
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '282'
 ht-degree: 1%
 
 ---
-
 
 # Functies voor on-site bijdrage{#on-site-contribution-features}
 
@@ -80,4 +76,3 @@ Bekijk het aantal keren dat een gebruiker elk antwoord in een opiniepeiling heef
 Toepassingen die deze functie gebruiken:
 
 * [Opiniepeilingen](../c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
-
