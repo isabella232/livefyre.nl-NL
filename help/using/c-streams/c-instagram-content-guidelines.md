@@ -1,31 +1,27 @@
 ---
-description: Wanneer u inhoud vanuit Instagram wilt curven, moet u de richtlijnen en aanbevolen procedures volgen.
-seo-description: Wanneer u inhoud vanuit Instagram wilt curven, moet u de richtlijnen en aanbevolen procedures volgen.
-seo-title: Richtlijnen voor inhoud van Instagram
-solution: Experience Manager
-title: Richtlijnen voor inhoud van Instagram
-uuid: 4c5ba96b-a242-407f-aa36-3a4e431832b8
+description: Wanneer u inhoud uit Instagram wilt curven, moet u de richtlijnen en aanbevolen procedures volgen.
+title: Richtlijnen voor instagram-inhoud
+exl-id: 74ef8556-8f65-4406-871c-5b9f1887ec9c
 translation-type: tm+mt
-source-git-commit: 6978f0f36b5698c9c599c1828edea67703423397
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
+# Instagram Content Guidelines{#instagram-content-guidelines}
 
-# Richtlijnen voor Instagram-inhoud{#instagram-content-guidelines}
+Wanneer u inhoud uit Instagram wilt curven, moet u de richtlijnen en aanbevolen procedures volgen.
 
-Wanneer u inhoud vanuit Instagram wilt curven, moet u de richtlijnen en aanbevolen procedures volgen.
+U moet een *Instagram bedrijfsaccount* configureren om Instagram-streams te maken van een andere specifieke Instagram-bedrijfsaccount met behulp van het veld **[!UICONTROL By Author]**. De gebruikersaccount die u in het veld **[!UICONTROL By Author]** hebt opgegeven, moet een zakelijke account zijn.
 
-U moet een *Zakelijke account voor installagram configureren* om Instagram-streams te maken van een andere specifieke zakelijke account voor Instagram met behulp van het veld **[!UICONTROL By Author]**. De gebruikersaccount die u in het veld **[!UICONTROL By Author]** hebt opgegeven, moet een zakelijke account zijn.
+Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over het instellen van een Instagram-zakelijke account in LiveCycle.
 
-Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over het instellen van een Instagram-bedrijfsaccount in LiveCycle.
-
-Instagram past de volgende regels toe voor het ophalen van inhoud van het platform:
+Instagram past de volgende regels toe voor het ophalen van inhoud van hun platform:
 
 * Inhoud behoort tot de gebruiker, die toestemming moet geven voor het gebruik van de inhoud
-* U kunt elke 7 dagen maximaal 30 unieke hashtags per zakelijke installatieschema zoeken.
+* Zoek elke 7 dagen maximaal 30 unieke hashtags per Instagram-zakelijke account.
 
 LiveCycle raadt u aan de volgende richtlijnen te volgen om uw zoekfunctionaliteit en doeltreffendheid te maximaliseren:
 
@@ -38,7 +34,7 @@ LiveCycle raadt u aan de volgende richtlijnen te volgen om uw zoekfunctionalitei
 
 Instagram heeft, net als andere merken, ook vereisten voor het gebruik van hun merkmiddelen. Foto&#39;s moeten bijvoorbeeld:
 
-* Geef toewijzing aan Instagram en de eigenaar van de inhoud.
+* Toekenning aan Instagram en de eigenaar van de inhoud opgeven.
 * Maak duidelijk onderscheid van andere sociale media-inhoud als deze samen met andere media-media wordt weergegeven.
 
-Zie het document van Instagram voor meer informatie: [Brand-elementen van Instagram gebruiken](https://help.instagram.com/304689166306603).
+Zie het document van Instagram voor meer informatie: [Instagram Merk Assets](https://help.instagram.com/304689166306603) gebruiken.
