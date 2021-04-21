@@ -1,18 +1,14 @@
 ---
 description: Wijzig de grootte, breedte en interactieopties van de app Map.
-seo-description: Wijzig de grootte, breedte en interactieopties van de app Map.
-seo-title: Aanpassing van functiekaarten
-solution: Experience Manager
 title: Aanpassing van functiekaarten
-uuid: dd43c076-027f-42c8-be2e-7d863d4e3976
+exl-id: b907885a-211d-4628-9955-5f1a5ec577cf
 translation-type: tm+mt
-source-git-commit: a014b5cd618672934843f1adf20d6b2cc504e2d8
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
-
 
 # Aanpassingen voor functiekaarten{#feature-card-customizations}
 
@@ -26,7 +22,7 @@ De Apps van de Kaart van de eigenschap omvatten slechts standaardaanpassingen:**
 
 U kunt de kaarten van de Eigenschappen aanpassen gebruikend:
 
-* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor details over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle Apps in **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]**- en **[!UICONTROL Config]**-opties voor alle apps in **[!UICONTROL App Designer]**.
 
 * Integratiegereedschappen. Zie Toepassingsintegratie voor meer informatie over het aanpassen van toepassingen met behulp van integratieprogramma&#39;s.
 * **[!UICONTROL Call-to-action button]** U kunt de vraag-aan-actie knoop met een productcatalogus gebruiken om gebruikers aan een product of aan uw plaats voor verdere actie te leiden.
@@ -49,4 +45,3 @@ U kunt de kaarten van de Eigenschappen aanpassen gebruikend:
    * **[!UICONTROL Filter UGC by Product ID]**. Selecteer deze optie om één app voor meerdere productpagina&#39;s te maken. Filter productspecifieke UGC voor elke productpagina naar de App. U kunt een of meer mappen selecteren om specifieke verzamelingen aan de app te koppelen.
    * **[!UICONTROL Select Product folders]**. Selecteer de productmappen op het hoogste niveau die u wilt gebruiken om UGC te filteren. Gebruik `CTRL/Command + click` om meer dan één map te selecteren. LiveCycle gebruikt de map om te bepalen welke producten in die map in de app op verschillende pagina&#39;s moeten worden weergegeven.
    * **[!UICONTROL Show related content]**. Schakel deze optie in om inhoud weer te geven die is gepubliceerd naar de app, maar die is gelabeld met een andere product-id. Nadat de productspecifieke inhoud voor de app wordt weergegeven, geeft LiveCyre inhoud weer voor andere producten en inhoud die niet aan een product is gekoppeld. Livefyre geeft eerst prioriteit aan de inhoud met dezelfde product-id en vervolgens aan inhoud die met andere product-id&#39;s naar de app is gepubliceerd, waarna inhoud die zonder product-id&#39;s naar de app is gepubliceerd.
-
