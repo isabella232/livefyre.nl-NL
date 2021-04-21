@@ -1,17 +1,14 @@
 ---
 description: Tags weergeven die automatisch door Sensei-software voor beeldherkenning aan afbeeldingen worden toegevoegd.
-seo-description: Tags weergeven die automatisch door Sensei-software voor beeldherkenning aan afbeeldingen worden toegevoegd.
-seo-title: Slimme tags weergeven
 title: Slimme tags weergeven
-uuid: 787c7d86-2c68-4c4c-b687-cf2390bcf233
+exl-id: 204394bb-ca61-4727-976d-2a549e307053
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # Slimme tags weergeven{#view-smart-tags}
 
@@ -29,4 +26,3 @@ Slimme tags weergeven op inhoud:
 1. Klik op de tab **[!UICONTROL Tags]** in het deelvenster rechtsonder
 1. Zie de lijst met slimme tags, gerangschikt op categorie.
 1. Verwijder labels die u niet wilt verwijderen door te klikken op **[!UICONTROL X]** naast een tag.
-
