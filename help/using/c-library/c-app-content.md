@@ -1,18 +1,14 @@
 ---
 description: Inhoud beheren in uw LiveCycle-netwerk.
-seo-description: Inhoud beheren in uw LiveCycle-netwerk.
-seo-title: Tabblad App-inhoud
-solution: Experience Manager
 title: Tabblad App-inhoud
-uuid: 65b23085-2b79-4a6f-96c9-44b421805312
+exl-id: 8b3e5281-59ba-4321-8fee-4160ab7a5d5e
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
-
 
 # Tabblad App Content{#app-content-tab}
 
@@ -150,4 +146,3 @@ De meeste gewone acties met betrekking tot inhoud kunnen worden uitgevoerd op aa
 
 * Aanbevolen inhoud kan niet worden gemarkeerd.
 * Gebruikers kunnen hun inhoud na Topaanbieding niet bewerken, maar ze kunnen de inhoud desgewenst nog wel verwijderen. Moderatoren kunnen aanbevolen inhoud bewerken.
-
