@@ -1,26 +1,21 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Inhoud van Twitter-gebruikers beperken
-solution: Experience Manager
 title: Inhoud van Twitter-gebruikers beperken
-uuid: 692dd9c0-487d-4ea8-b87e-58bea22522db
+description: Inhoud van Twitter-gebruikers beperken
+exl-id: 7ac981b9-6eb9-474e-b990-48a3ff339df5
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
+# Inhoud beperken tot Twitter-gebruikers{#restrict-content-from-twitter-users}
 
-# Inhoud van Twitter-gebruikers beperken{#restrict-content-from-twitter-users}
-
-U kunt Twitter-gebruikers verbieden in uw apps te worden opgenomen. Op het tabblad **[!UICONTROL Network Settings > Streams]** kunt u gebruikers uit uw Streams verbieden, hun Twitter-gebruikersnaam invoeren in het opgegeven veld en op **[!UICONTROL Add]** klikken.
+U kunt voorkomen dat Twitter-gebruikers naar uw apps worden gehaald. Op het tabblad **[!UICONTROL Network Settings > Streams]** kunt u gebruikers uit uw Streams verbieden, hun Twitter-gebruikersnaam invoeren in het opgegeven veld en op **[!UICONTROL Add]** klikken.
 
 Schakel desgewenst het selectievakje in om alle bestaande inhoud van de vermelde gebruiker naar de prullenmand te verplaatsen.
 
 >[!NOTE]
 >
 >Bestaande inhoud overslaan kan niet ongedaan worden gemaakt.
-
