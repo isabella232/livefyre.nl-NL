@@ -1,18 +1,14 @@
 ---
 description: U kunt nieuwe sites toevoegen aan uw netwerk voor domeinen en subdomeinen die dezelfde gebruikersprofielen delen.
-seo-description: U kunt nieuwe sites toevoegen aan uw netwerk voor domeinen en subdomeinen die dezelfde gebruikersprofielen delen.
-seo-title: Voeg een Plaats aan een Netwerk toe
-solution: Experience Manager
 title: Voeg een Plaats aan een Netwerk toe
-uuid: a4a3fdb2-94be-48d9-9523-c97617190e53
+exl-id: 3ba01518-12c5-4a8b-9d94-a2f499447136
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
-
 
 # Een site toevoegen aan een netwerk{#add-a-site-to-a-network}
 
