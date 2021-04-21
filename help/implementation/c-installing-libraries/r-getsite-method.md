@@ -1,18 +1,14 @@
 ---
 description: Retourneert een nieuw Site-object.
-seo-description: Retourneert een nieuw Site-object.
-seo-title: getSite-netwerkmethode
-solution: Experience Manager
 title: getSite-netwerkmethode
-uuid: 67de781e-5240-4be5-9e93-c614828e0bb5
+exl-id: 88782da9-88c6-4e60-9a23-e46d68675d59
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
-
 
 # getSite-netwerkmethode{#getsite-network-method}
 
@@ -51,4 +47,3 @@ site = network.get_site(siteId, siteKey)
 ```
 site = network.get_site(siteId, siteKey) 
 ```
-
