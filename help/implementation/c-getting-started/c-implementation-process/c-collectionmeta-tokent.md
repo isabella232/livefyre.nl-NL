@@ -1,18 +1,14 @@
 ---
 description: Maak een uniek token op uw server dat elke verzameling identificeert die u maakt.
-seo-description: Maak een uniek token op uw server dat elke verzameling identificeert die u maakt.
-seo-title: CollectionMeta-token
-solution: Experience Manager
 title: CollectionMeta-token
-uuid: d5db0b0f-2807-4392-874a-94ac3c1e7550
+exl-id: 52edfe75-5ce6-40c9-9afe-c34a3812f1e7
 translation-type: tm+mt
-source-git-commit: 6978f0f36b5698c9c599c1828edea67703423397
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
-
 
 # CollectionMeta Token{#collectionmeta-token}
 
@@ -30,7 +26,7 @@ LiveCycle wijst een unieke id toe aan elke verzameling die u maakt. Livefyre wij
 | siteKey | Tekenreeks (optioneel) | De geheime sleutel voor de site (beschikbaar via [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). |
 | artikelId | Tekenreeks (optioneel) | Een unieke id voor de verzameling. |
 | titel | Tekenreeks (optioneel) | De titel die u op de verzameling wilt toepassen. Gewoonlijk komt dit overeen met de titel van de pagina waarop de app wordt weergegeven. <br>Bijvoorbeeld: &quot;Integratie is zo leuk!&quot; <br>Opmerking: De maximale tekenlengte voor de titel is 255 tekens. Het titelveld ondersteunt geen HTML-entiteiten. Codeer speciale tekens met UTF-8. |
-| url | Tekenreeks (optioneel) | De canonieke absolute URL die u aan deze verzameling wilt koppelen. Deze URL wordt gebruikt om koppelingen naar de app te genereren op basis van inhoud die wordt gedeeld op Facebook en Twitter, e-mailmeldingen en LiveCyre Studio. <br>Opmerking: Gebruik een geldig basis-URL-domein voor lokale tests (bijvoorbeeld: geldig:  `https://customer.com`; ongeldig:  `https://localhost:5995`). |
+| url | Tekenreeks (optioneel) | De canonieke absolute URL die u aan deze verzameling wilt koppelen. Deze URL wordt gebruikt om koppelingen te genereren naar de app vanuit inhoud die wordt gedeeld op Facebook en Twitter, e-mailmeldingen en LiveCyre Studio. <br>Opmerking: Gebruik een geldig basis-URL-domein voor lokale tests (bijvoorbeeld: geldig:  `https://customer.com`; ongeldig:  `https://localhost:5995`). |
 | tags | Tekenreeks (optioneel) | Een door komma&#39;s gescheiden lijst met enkele trefwoorden of woordgroepen. Verzamelingen zoeken op tags met gebruik van Studio.  </br>Opmerking: Tags mogen geen spaties bevatten. Gebruik onderstrepingstekens als u een spatie wilt weergeven in de gebruikersinterface. |
 | extensions | JSON (optioneel) | Een set params met JSON-indeling die aan de verzameling worden doorgegeven. |
 
