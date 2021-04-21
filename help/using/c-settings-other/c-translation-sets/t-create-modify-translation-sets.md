@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Vertaalsets maken en wijzigen
-solution: Experience Manager
 title: Vertaalsets maken en wijzigen
-uuid: 4ed559a3-d2f2-4977-9172-c9e0448dec74
+description: Vertaalsets maken en wijzigen
+exl-id: 3445a3d1-1d34-47b3-8502-2476b2774836
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
-
 
 # Vertaalsets maken en wijzigen{#create-and-modify-translation-sets}
 
