@@ -1,17 +1,14 @@
 ---
 description: Koppel producten aan inhoud uit de bibliotheek om uw inhoud en productcatalogus synchroon te houden op één eenvoudig te beheren locatie.
-seo-description: Koppel producten aan inhoud uit de bibliotheek om uw inhoud en productcatalogus synchroon te houden op één eenvoudig te beheren locatie.
-seo-title: Producten aan inhoud koppelen met de bibliotheek
 title: Producten aan inhoud koppelen met de bibliotheek
-uuid: 63520f34-c5fe-4cbd-937a-33d707bbcc5f
+exl-id: 4d3e99cc-9188-4b5c-afdb-d177c66f19e6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # Producten aan inhoud koppelen met de bibliotheek{#associate-products-with-content-using-the-library}
 
