@@ -1,33 +1,30 @@
 ---
-description: U kunt stroomregels maken die inhoud ophalen uit Instagram.
-seo-description: U kunt stroomregels maken die inhoud ophalen uit Instagram.
-seo-title: Installatieregels
-title: Installatieregels
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
+description: U kunt stroomregels maken die inhoud uit Instagram ophalen.
+title: Instagram-regels
+exl-id: ac00a12c-94b1-4464-ad3f-991382759d71
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
 
+# Instagram Rules{#instagram-rules}
 
-# Installatieregels{#instagram-rules}
-
-U kunt stroomregels maken die inhoud ophalen uit Instagram.
+U kunt stroomregels maken die inhoud uit Instagram ophalen.
 
 >[!NOTE]
 >
->Voordat u een Instagram-stream maakt, moet u ten minste één Instagram-bedrijfsaccount toevoegen aan de sectie **[!UICONTROL Social Accounts]** in **[!UICONTROL Network Settings]**. Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over het configureren van een Instagram-account.
+>Voordat u een Instagram-stream maakt, moet u ten minste één Instagram-zakelijke account toevoegen aan de sectie **[!UICONTROL Social Accounts]** in **[!UICONTROL Network Settings]**. Zie [Informatie over Instagram Accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over het configureren van een Instagram-account.
 
-Instagramregels maken op basis van @mtifications of hashtag.
+Maak Instagram-regels op basis van @mtifications of hashtag.
 
 >[!NOTE]
 >
 >Voor alle Instagram-regels is minstens één hashtag vereist. Wanneer u trefwoorden en een gebruikersnaam voor de regel toevoegt, wordt inhoud met beide vermeldingen geretourneerd.
 
-Als u Instagram-regels wilt maken om inhoud van Instagram-feeds naar uw app of map te halen, filtert u op:
+Als u Instagram-regels wilt maken om inhoud van Instagram-feeds aan uw app of map te koppelen, filtert u op:
 
 * **[!UICONTROL Words]**
 
@@ -47,9 +44,9 @@ Als u Instagram-regels wilt maken om inhoud van Instagram-feeds naar uw app of m
 
    >[!NOTE]
    >
-   >Als u de zoekopdracht Auteur in een Instagram-stroomregel wilt gebruiken, moet er een zakelijke account in LiveCycle zijn ingesteld. Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over het instellen van Instagram-bedrijfsaccounts in LiveCycle.
+   >U moet een Instagram-bedrijfsaccount hebben ingesteld in LiveCyre om de zoekopdracht van de auteur in een Instagram Stream-regel te kunnen gebruiken. Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over het instellen van Instagram-zakelijke accounts in LiveCycle.
 
-   * Voer **[!UICONTROL @usernames]** in om in de stream te gaan. De account die is gekoppeld aan de **@gebruikersnaam** moet een zakelijke account in het installatieprogramma zijn.
+   * Voer **[!UICONTROL @usernames]** in om in de stream te gaan. De account die is gekoppeld aan de **@gebruikersnaam** moet een Instagram-zakelijke account zijn.
 
    * Voer **@usernames** in om uit te sluiten van de stream.
 
