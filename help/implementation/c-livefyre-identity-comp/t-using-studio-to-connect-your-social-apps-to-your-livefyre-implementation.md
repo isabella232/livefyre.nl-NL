@@ -1,17 +1,14 @@
 ---
 description: Als u aanmelden via een sociaal netwerk wilt inschakelen, gebruikt u Studio om de referenties van uw sociale apps toe te voegen aan uw LiveCycle-integratie en past u de aanmeldingsmodus aan.
-seo-description: Als u aanmelden via een sociaal netwerk wilt inschakelen, gebruikt u Studio om de referenties van uw sociale apps toe te voegen aan uw LiveCycle-integratie en past u de aanmeldingsmodus aan.
-seo-title: Studio gebruiken om uw sociale toepassingen te verbinden met uw LiveCycle-implementatie
 title: Studio gebruiken om uw sociale toepassingen te verbinden met uw LiveCycle-implementatie
-uuid: be14869c-e0df-48cd-a1f3-99eb953dd9ce
+exl-id: 2ccb9737-8c59-4c1d-93d3-61f913b3cdd6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '584'
 ht-degree: 0%
 
 ---
-
 
 # Studio gebruiken om uw sociale toepassingen te verbinden met uw LiveCycle-implementatie{#using-studio-to-connect-your-social-apps-to-your-livefyre-implementation}
 
@@ -57,7 +54,7 @@ Aanmelden met een Facebook-account inschakelen:
 
 ## Aanmelden met Google {#section_fq3_kb5_bbb} inschakelen
 
-Sluit uw Google+-account aan op Livefyre zodat gebruikers hun Google+-aanmeldgegevens kunnen gebruiken om te communiceren met Apps op uw site.
+Sluit uw Google+-account aan op Livefyre zodat gebruikers hun Google+-aanmeldingen kunnen gebruiken om te communiceren met Apps op uw site.
 
 Aanmelden met een Google+-account inschakelen:
 
@@ -67,7 +64,7 @@ Aanmelden met een Google+-account inschakelen:
 
    Deze waarden worden vermeld in uw projectinterface van het Platform van Google Cloud, beschikbaar bij [https://console.cloud.google.com/](https://console.cloud.google.com/apis/library). Om deze informatie terug te winnen, ga naar **[!UICONTROL API Manager > Credentials]**, en klik de projectnaam.
 
-## Aanmelding inschakelen met een Twitter-account {#section_iyz_wb5_bbb}
+## Aanmelden met een Twitter-account {#section_iyz_wb5_bbb} inschakelen
 
 Sluit uw Twitter-account aan op Livefyre zodat gebruikers hun Twitter-aanmeldingen kunnen gebruiken om te communiceren met Apps op uw site.
 
@@ -77,7 +74,7 @@ Aanmelden met een Twitter-account inschakelen:
 
 1. Voeg de **[!UICONTROL Consumer Key (API Key)]** en **[!UICONTROL Consumer Secret (API Secret)]** van uw Twitter-app toe.
 
-   Deze waarden staan op de pagina **[!UICONTROL Keys and Access Tokens]** van uw Twitter-app, die beschikbaar is op [https://apps.twitter.com/](https://apps.twitter.com/).
+   Deze waarden worden vermeld op de pagina **[!UICONTROL Keys and Access Tokens]** van uw Twitter-app, beschikbaar op [https://apps.twitter.com/](https://apps.twitter.com/).
 
 ## Aanmelding inschakelen met een Yahoo! Account {#section_s1q_3c5_bbb}
 
