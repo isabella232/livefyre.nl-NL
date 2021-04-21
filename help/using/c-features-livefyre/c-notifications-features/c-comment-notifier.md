@@ -1,18 +1,14 @@
 ---
 description: Hiermee kunt u een kleine pop-up op de pagina inschakelen om gebruikers op de hoogte te brengen wanneer een opmerking is toegevoegd.
-seo-description: Hiermee kunt u een kleine pop-up op de pagina inschakelen om gebruikers op de hoogte te brengen wanneer een opmerking is toegevoegd.
-seo-title: Opmerkingmelding
-solution: Experience Manager
 title: Opmerkingmelding
-uuid: 36907977-8233-4978-9413-232c7b2fae20
+exl-id: ebeb7ddb-a82b-40ab-907a-bfac24eb19e3
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
-
 
 # Commentaarmelding{#comment-notifier}
 
@@ -45,4 +41,3 @@ Verberg de notifier-widget in het gehele netwerk met gebruik van CSS-aanpassinge
 Toepassingen die deze functie gebruiken:
 
 * [Opmerkingen](/help/using/c-about-apps/c-comments/c-comments.md)
-
