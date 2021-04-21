@@ -1,17 +1,14 @@
 ---
 description: U kunt uw Livefyre Apps opmaken om zich op verschillende manieren te gedragen of hen veranderen om als de rest van uw merkcampagne te kijken en te voelen.
-seo-description: U kunt uw Livefyre Apps opmaken om zich op verschillende manieren te gedragen of hen veranderen om als de rest van uw merkcampagne te kijken en te voelen.
-seo-title: Stijlfuncties
 title: Stijlfuncties
-uuid: 72a3843d-692a-43ff-b72b-6bd840de87d6
+exl-id: d2ba6865-566a-4258-9c5f-3b4c6780907f
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '112'
 ht-degree: 1%
 
 ---
-
 
 # Stijlfuncties{#styling-features}
 
@@ -45,4 +42,3 @@ Toepassingen die deze functie gebruiken:
 
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Opmerkingen](/help/using/c-about-apps/c-comments/c-comments.md)
-
