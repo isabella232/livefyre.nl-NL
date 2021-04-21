@@ -1,17 +1,14 @@
 ---
 description: Opmerkingen bij de release van 27 april 2017.
-seo-description: Opmerkingen bij de release van 27 april 2017.
-seo-title: 27 april 2017
 title: 27 april 2017
-uuid: 30284115-92c0-4a85-acdb-adc70605ed5f
+exl-id: ebafb0ee-bb72-4187-ae35-316135434740
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
-
 
 # 27 april 2017{#april}
 
@@ -39,4 +36,3 @@ Opmerkingen bij de release van 27 april 2017.
 | Verbetering | API | Release a new API to retrieve App embed codes. Meer informatie vindt u op https://api.livefyre.com/docs/apis/by-category/apps. |
 | Bug | Assetbibliotheek | Het probleem waarbij de resultaten van de eerste pagina van de bibliotheek werden beperkt tot 10 elementen, is opgelost. |
 | Verbetering | Studio | Verbeterde het contrast op knevelcomponenten over Studio voor gemakkelijkere zichtbaarheid. |
-
