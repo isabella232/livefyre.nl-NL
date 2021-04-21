@@ -1,18 +1,14 @@
 ---
 description: Wijzig de grootte, breedte en interactieopties van de knop Uploaden.
-seo-description: Wijzig de grootte, breedte en interactieopties van de knop Uploaden.
-seo-title: Aanpassingen voor knop Uploaden
-solution: Experience Manager
 title: Aanpassingen voor knop Uploaden
-uuid: d820bbec-8c76-4864-9e70-55394010c35d
+exl-id: 7481911f-2fb5-4721-8345-cbdd5e4ea202
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 8%
+source-wordcount: '384'
+ht-degree: 5%
 
 ---
-
 
 # Aanpassingen van knop uploaden{#upload-button-customizations}
 
@@ -52,4 +48,3 @@ U kunt de knop Uploaden aanpassen met:
 * **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]**- en **[!UICONTROL Config]**-opties voor alle toepassingen in **[!UICONTROL App Designer]**
 
 * Integratiegereedschappen. Zie Toepassingsintegratie voor meer informatie over het aanpassen van toepassingen met behulp van integratieprogramma&#39;s.
-
