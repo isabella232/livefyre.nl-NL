@@ -1,18 +1,14 @@
 ---
 description: Om een gebruiker met Livefyre door een stroom voor authentiek te verklaren die niet door een Toepassing Livefyre wordt teweeggebracht, adviseert Livefyre dat u de forEachAuthentication methode op uw voorwerp AuthDelegate uitvoert.
-seo-description: Om een gebruiker met Livefyre door een stroom voor authentiek te verklaren die niet door een Toepassing Livefyre wordt teweeggebracht, adviseert Livefyre dat u de forEachAuthentication methode op uw voorwerp AuthDelegate uitvoert.
-seo-title: Implementatie van SSO
-solution: Experience Manager
 title: Implementatie van SSO
-uuid: c96d456c-b1ac-40e0-8d18-224652b9697f
+exl-id: 9af75b8a-9d2a-446e-8cce-2de8645038f2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # SSO{#implementing-sso} implementeren
 
@@ -33,4 +29,3 @@ LiveCycle is afhankelijk van gebruikerstokens om verificatie te coördineren. Di
 >[!NOTE]
 >
 >Na een geslaagde aanmelding maakt auth een sessie voor de gebruiker en probeert een gebruikerssessie te laden wanneer de pagina wordt vernieuwd en opnieuw wordt geladen. `auth.logout()` zal deze sessie wissen. Dit betekent dat het niet nodig is om de sessie van een gebruiker onafhankelijk van de autorisatie te beheren.
-
