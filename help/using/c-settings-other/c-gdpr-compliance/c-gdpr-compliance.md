@@ -1,18 +1,14 @@
 ---
 description: Leer meer over de algemene gegevensbeschermingsverordening (GDPR) en hoe u verzoeken om toegang en verwijdering die zijn toegestaan krachtens de GDPR, kunt voltooien voor gegevens die zijn verzameld bij uw gebruik van Livefyre, en andere gerelateerde privacycontroles.
-seo-description: Leer meer over de algemene gegevensbeschermingsverordening (GDPR) en hoe u verzoeken om toegang en verwijdering die zijn toegestaan krachtens de GDPR, kunt voltooien voor gegevens die zijn verzameld bij uw gebruik van Livefyre, en andere gerelateerde privacycontroles.
-seo-title: Privacyverzoeken (geschikt voor GDPR)
-solution: Experience Manager
 title: Privacyverzoeken (geschikt voor GDPR)
-uuid: 8c8b2001-f94d-4afc-8acd-ff4c096dc2f9
+exl-id: 46565fe8-d9f0-4374-bf67-1a0bca28588a
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # Privacyverzoeken (geschikt voor GDPR){#privacy-requests-gdpr-ready}
 
