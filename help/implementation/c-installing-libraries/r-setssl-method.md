@@ -1,18 +1,14 @@
 ---
 description: Plaatst SSL voor API vraag om of weg te zijn.
-seo-description: Plaatst SSL voor API vraag om of weg te zijn.
-seo-title: setSSL-netwerkmethode
-solution: Experience Manager
 title: setSSL-netwerkmethode
-uuid: 8d989e63-c859-456a-99ca-8d87933913ba
+exl-id: 5682b84a-0b4d-479b-af40-60d2c6c38155
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
-
 
 # setSSL-netwerkmethode{#setssl-network-method}
 
