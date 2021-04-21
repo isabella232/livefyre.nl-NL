@@ -1,18 +1,14 @@
 ---
 description: Retourneert een object Collection dat is geïnstantieerd als een chattype. Voer create_or_update() uit vanaf het object Collection om het constructieproces te voltooien.
-seo-description: Retourneert een object Collection dat is geïnstantieerd als een chattype. Voer create_or_update() uit vanaf het object Collection om het constructieproces te voltooien.
-seo-title: Site-methode buildChatCollection
-solution: Experience Manager
 title: Site-methode buildChatCollection
-uuid: 39ee32d0-29c9-47a8-a458-a3cf7a96db30
+exl-id: b10f95de-9e6c-4fc3-987b-599717d5a9e7
 translation-type: tm+mt
-source-git-commit: 2908c6988c706a49c391f0e607bb641bce3a7f0d
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # buildChatCollection Site Method{#buildchatcollection-site-method}
 
