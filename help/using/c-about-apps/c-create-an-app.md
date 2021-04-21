@@ -1,18 +1,14 @@
 ---
 description: Als u een app aan uw site wilt toevoegen, moet u eerst een app maken in LiveCycle Studio.
-seo-description: Als u een app aan uw site wilt toevoegen, moet u eerst een app maken in LiveCycle Studio.
-seo-title: Een app maken
-solution: Experience Manager
 title: Een app maken
-uuid: 8c2c07fb-a951-47d9-b498-4c487ee83a18
+exl-id: 1d87ae99-3529-497c-b533-13f212abeacd
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1283'
+source-wordcount: '1264'
 ht-degree: 0%
 
 ---
-
 
 # Een app {#create-an-app} maken
 
@@ -174,4 +170,3 @@ Een app verwijderen:
 1. Klik op **[!UICONTROL Apps]**.
 1. Klik op de ellips rechts van de naam van de app die u wilt verwijderen.
 1. Klik **[!UICONTROL Delete App]** om App te schrappen.
-
