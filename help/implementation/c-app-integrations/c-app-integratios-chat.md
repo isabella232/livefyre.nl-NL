@@ -1,18 +1,14 @@
 ---
 description: Live chat toevoegen aan uw pagina.
-seo-description: Live chat toevoegen aan uw pagina.
-seo-title: Chat
-solution: Experience Manager
 title: Chat
-uuid: d6761a69-efa5-4ad3-abaf-1ba8e6c17f94
+exl-id: f383bf19-0ff1-42ca-9b32-209a22679ad2
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1429'
 ht-degree: 0%
 
 ---
-
 
 # Chat{#chat}
 
@@ -150,7 +146,7 @@ Het object `CollectionMeta` is een JSON-object dat de metagegevens opgeeft die i
 |--- |--- |--- |
 | artikelId | ** vereiste tekenreeks | Een unieke id voor de verzameling. |
 | titel | ** vereiste tekenreeks | De titel die u op de verzameling wilt toepassen. Dit komt vaak overeen met de titel van de pagina waarop de app wordt weergegeven.  Bijvoorbeeld: &quot;Integratie is zo leuk!&quot;  Opmerking:  De maximale tekenlengte voor de titel is 255 tekens. Het titelveld ondersteunt geen HTML-entiteiten. Codeer speciale tekens met UTF-8. |
-| url | ** vereiste tekenreeks | De canonieke absolute URL die u aan deze verzameling wilt koppelen. Deze URL wordt gebruikt om koppelingen naar de app te genereren op basis van inhoud die wordt gedeeld op Facebook en Twitter, e-mailmeldingen en LiveCyre Studio.  Opmerking:  Livefyre vereist het gebruik van een volledig gekwalificeerde domeinnaam; het havenaantal of een callback om de lokale opstelling op te lossen wordt niet vereist. Als u lokaal test, moet u zeker weten dat u een geldig basis-URL-domein gebruikt. (Bijvoorbeeld: `https://customer.com` is geldig, terwijl `https://localhost:5995` niet. is) Zodra u opstelling uw lokale webserver hebt om volledig - gekwalificeerde domeinnaam goed te keuren, zijn geen callbacks of resoluties nodig, en de lokale ontwikkeling kan te werk gaan zoals verwacht. |
+| url | ** vereiste tekenreeks | De canonieke absolute URL die u aan deze verzameling wilt koppelen. Deze URL wordt gebruikt om koppelingen te genereren naar de app vanuit inhoud die wordt gedeeld op Facebook en Twitter, e-mailmeldingen en LiveCyre Studio.  Opmerking:  Livefyre vereist het gebruik van een volledig gekwalificeerde domeinnaam; het havenaantal of een callback om de lokale opstelling op te lossen wordt niet vereist. Als u lokaal test, moet u zeker weten dat u een geldig basis-URL-domein gebruikt. (Bijvoorbeeld: `https://customer.com` is geldig, terwijl `https://localhost:5995` niet. is) Zodra u opstelling uw lokale webserver hebt om volledig - gekwalificeerde domeinnaam goed te keuren, zijn geen callbacks of resoluties nodig, en de lokale ontwikkeling kan te werk gaan zoals verwacht. |
 | type | ** vereiste tekenreeks | Het type verzameling. Moet livechat zijn. |
 
 Het object `CollectionMeta` kan ook de volgende optionele parameter bevatten:
