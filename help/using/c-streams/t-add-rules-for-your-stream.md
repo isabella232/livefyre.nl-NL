@@ -1,18 +1,14 @@
 ---
 description: Voeg regels toe in Streams om inhoud toe te staan om een app of map automatisch te vullen op basis van deze regels.
-seo-description: Voeg regels toe in Streams om inhoud toe te staan om een app of map automatisch te vullen op basis van deze regels.
-seo-title: Regels toevoegen voor uw stream
-solution: Experience Manager
 title: Regels toevoegen voor uw stream
-uuid: 7a3fb400-95e4-49f9-ae39-90654df14665
+exl-id: e3fe5785-ddb3-4a6c-ac58-0ec988dda8bf
 translation-type: tm+mt
-source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Regels toevoegen voor uw stream{#add-rules-for-your-stream}
 
