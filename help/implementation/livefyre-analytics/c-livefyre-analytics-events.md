@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Gebeurtenissen van Livefyre Analytics
-solution: Experience Manager
 title: Gebeurtenissen van Livefyre Analytics
-uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
+description: Gebeurtenissen van Livefyre Analytics
+exl-id: ec32414c-0580-44dc-ae5b-6df0b42c0ec3
 translation-type: tm+mt
-source-git-commit: 5dc11c42a9f8bf3fa088f3245e21b6942d4865fe
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '540'
 ht-degree: 0%
 
 ---
-
 
 # Gebeurtenissen van Livefyre Analytics
 
@@ -58,14 +54,14 @@ De volgende Livefy-gebeurtenissen moeten worden toegewezen aan aangepaste gebeur
 | Weergave | Wanneer een app de viewport voor de eerste keer heeft ingevoerd. |
 | Post | Elke keer dat een gebruiker een opmerking of inhoud, zoals bijvoorbeeld: berichttekst op hoofdniveau, antwoorden, revisies, uploaden naar mediamuur |
 | Gepost | Toen een bericht succesvol was. |
-| Twitter_Reageren | Telkens wanneer een gebruiker op Twitter heeft gereageerd |
+| Twitter_Reageren | Elke keer dat een gebruiker op Twitter heeft gereageerd |
 | Twitter_like | Waar inhoud is gedeeld naar: Retweet |
 | Livefre_like | Elke keer dat de levensechte functie wordt gebruikt in een app |
 | Livefyre_Unlike | Elke keer dat een gebruiker een levensstijl niet leuk vindt |
 | ShareOnPost | Telkens wanneer een gebruiker inhoud plaatst en de functie Delen op post gebruikt |
 | ShareButtonClick | Wanneer een gebruiker op de deelknop klikt voor een opmerking |
-| ShareTwitter | Wanneer op Delen op Twitter wordt geklikt |
-| ShareFacebook | Wanneer op Delen op Facebook wordt geklikt |
+| ShareTwitter | Wanneer op Delen naar Twitter wordt geklikt |
+| ShareFacebook | Wanneer op Delen naar Facebook wordt geklikt |
 | ShareURL | Wanneer Delen naar URL-tekstgebied is geselecteerd/gekopieerd. |
 | ExpandReplies | Wanneer een gebruiker op + of breid verbinding uit om alle reacties op een hoogste post te bekijken |
 | CollapseReplies | Wanneer een gebruiker op de koppeling - of Samenvouwen klikt om alle reacties op een bovenste bericht weer te geven |
