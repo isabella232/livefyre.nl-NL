@@ -1,18 +1,14 @@
 ---
 description: Opmerkingen bij de release van Livefyre 7 februari 2019.
-seo-description: Opmerkingen bij de release van Livefyre 7 februari 2019.
-seo-title: Opmerkingen bij de release
-solution: Experience Manager
 title: Opmerkingen bij de release
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+exl-id: b04ded96-ebeb-4385-8fcf-a870044fbd85
 translation-type: tm+mt
-source-git-commit: 46f00bccc617b5d5ddc2e205c912d52d3602a8a0
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release - 7 februari 2019 {#rn020719}
 
@@ -20,7 +16,7 @@ ht-degree: 0%
 
 ## Verbetering
 
-* Verwijder de optie voor de Facebook-streamregel uit de gebruikersinterface.
+* Verwijder de optie Facebook-streamregel uit de gebruikersinterface.
 
 ## Opgeloste problemen
 
