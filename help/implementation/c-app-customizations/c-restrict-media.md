@@ -1,18 +1,14 @@
 ---
 description: Beperk het type media dat in de App-stream terechtkomt.
-seo-description: Beperk het type media dat in de App-stream terechtkomt.
-seo-title: Media beperken
-solution: Experience Manager
 title: Media beperken
-uuid: c470c985-d221-4f39-8bd4-4e44ec14db95
+exl-id: ae09a058-41de-4b63-8654-cc82f5abad14
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # Media beperken{#restrict-media}
 
@@ -44,4 +40,3 @@ Bij het laden van het gesprek:
 networkConfig["attachmentDelegate"] = attachmentDelegate; 
 fyre.conv.load(networkConfig, [convConfig]);
 ```
-
