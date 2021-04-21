@@ -1,17 +1,14 @@
 ---
 description: In het deelvenster Sociaal delen kunt u uw toepassingsgegevens voor een sociale-medianetwerk toevoegen.
-seo-description: In het deelvenster Sociaal delen kunt u uw toepassingsgegevens voor een sociale-medianetwerk toevoegen.
-seo-title: Sociaal delen instellen
 title: Sociaal delen instellen
-uuid: e1940e30-9fbb-41e8-b5bb-497a5b06643f
+exl-id: aa940263-4cec-4ca3-aa74-84749e4cf2d0
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
-
 
 # Sociaal delen instellen{#setting-up-social-sharing}
 
@@ -19,11 +16,11 @@ In het deelvenster Sociaal delen kunt u uw toepassingsgegevens voor een sociale-
 
 Livefyre gebruikt deze informatie om verbinding te maken met de vermelde sociale netwerken namens uw sociale app en om gedeelde inhoud voor uw gebruikers namens hen te posten. Voer deze waarden in om sociale integratie mogelijk te maken. Ze kunnen te allen tijde worden bewerkt.
 
-De instellingen die beschikbaar zijn op deze pagina worden bijgewerkt met uw systeem voor sociaal delen, zoals gedefinieerd tijdens het integratieproces van Livefy. Degenen die hun eigen aangepaste identiteitssystemen voor gebruikers integreren, moeten hun aanmeldingsgegevens voor het sociale netwerk opgeven voor Facebook, LinkedIn en Twitter als ze hun eindgebruikers willen toestaan om naar deze platforms te delen. Janrain Engage-klanten hoeven alleen hun Janrain-gegevens te verstrekken, en niet Facebook, Twitter of LinkedIn.
+De instellingen die beschikbaar zijn op deze pagina worden bijgewerkt met uw systeem voor sociaal delen, zoals gedefinieerd tijdens het integratieproces van Livefy. Degenen die hun eigen identiteitssystemen voor aangepaste gebruikers integreren, moeten hun sociale netwerkreferenties opgeven voor Facebook, LinkedIn en Twitter als ze willen dat hun eindgebruikers deze platforms kunnen delen. Janrain Engage-klanten hoeven alleen hun Janrain-gegevens te leveren, en niet Facebook, Twitter of LinkedIn.
 
 >[!NOTE]
 >
->U kunt slechts één app per sociale-mediasite inschakelen voor uw netwerk. U kunt deze apps op meerdere sites opnemen, maar uw netwerk kan slechts één Facebook-, Twitter-, LinkedIn- en Bitly-integratie hebben.
+>U kunt slechts één app per sociale-mediasite inschakelen voor uw netwerk. U kunt deze apps op meerdere sites opnemen, maar uw netwerk kan slechts één integratie met Facebook, één Twitter, één LinkedIn en één integratie met bitmaps hebben.
 
 ## Janrain Engage {#section_dzq_1p1_21b}
 
@@ -34,27 +31,27 @@ Voer de volgende gegevens in om de integratie van Janrain Engage in te schakelen
 
 ## Facebook {#section_tch_gp1_21b}
 
-Als u wilt delen naar Facebook, voert u de volgende Facebook-toepassingsgegevens in:
+Als u wilt delen naar Facebook, voert u de volgende Facebook-toepassingsreferenties in:
 
 * **[!UICONTROL Client ID:]** De client-id die bij uw Facebook-app wordt geleverd.
 * **[!UICONTROL Client Secret:]** Het clientgeheim dat bij uw Facebook-app wordt geleverd.
-* **[!UICONTROL OAuth Proxy Redirect:]** Uw omleidingspagina voor het ontvangen van Facebook-aanvragen.
+* **[!UICONTROL OAuth Proxy Redirect:]** Je omleidingspagina voor het ontvangen van Facebook-aanvragen.
 
 ## Twitter {#section_xkd_kp1_21b}
 
 Als u wilt delen naar Twitter, voert u de volgende Twitter App-referenties in:
 
-* **[!UICONTROL Access Token:]** Uw Twitter-token voor het maken van API-aanvragen.
+* **[!UICONTROL Access Token:]** Uw door Twitter verschafte token voor het maken van API-aanvragen.
 * **[!UICONTROL Access Token Secret:]** Uw door Twitter opgegeven geheim voor het maken van API-aanvragen.
-* **[!UICONTROL API Key:]** Uw door Twitter geleverde API-sleutel.
-* **[!UICONTROL API Secret:]** Uw door Twitter verschafte API-geheim.
+* **[!UICONTROL API Key:]** Uw door Twitter verschafte API-sleutel.
+* **[!UICONTROL API Secret:]** Uw door Twitter opgegeven API-geheim.
 
-## LinkedIn {#section_tqh_mp1_21b}
+## linkedIn {#section_tqh_mp1_21b}
 
-Om aan LinkedIn te delen, ga de volgende geloofsbrieven voor uw LinkedIn API verzoeken in:
+Als u wilt delen naar LinkedIn, voert u de volgende gegevens in voor uw LinkedIn API-aanvragen:
 
-* **[!UICONTROL API Key:]** Uw LinkedIn-Geleverde API sleutel.
-* **[!UICONTROL API Secret:]** Uw geheim van LinkedIn-Geleide API.
+* **[!UICONTROL API Key:]** Uw door LinkedIn verschafte API-sleutel.
+* **[!UICONTROL API Secret:]** Uw door LinkedIn opgegeven API-geheim.
 
 ## Bitsgewijs {#section_ur2_np1_21b}
 
@@ -78,4 +75,3 @@ Toepassingen die deze functie gebruiken:
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storiseren 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Trend](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
-
