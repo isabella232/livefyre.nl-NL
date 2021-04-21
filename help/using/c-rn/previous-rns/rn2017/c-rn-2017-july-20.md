@@ -1,17 +1,14 @@
 ---
 description: Opmerkingen bij de release van 20 juli 2017.
-seo-description: Opmerkingen bij de release van 20 juli 2017.
-seo-title: 20 juli 2017
 title: 20 juli 2017
-uuid: 550815a9-a6e2-4e98-b5d6-7f4897373716
+exl-id: 1bf17703-0913-41f0-a897-ba8323992f71
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
-
 
 # 20 juli 2017{#july}
 
@@ -43,8 +40,7 @@ In de volgende tabellen worden de opmerkingen bij de release Productie en UAT we
 
 | **Type probleem** | **Component** | **Opmerking vrijgeven** |
 |---|---|---|
-| Bug | Carousel | Het probleem dat ervoor zorgde dat Instagram Carousel-berichten zonder ondertitels naar Studio werden gehaald, is opgelost. |
-| Verbetering | Storiseren 2 | De zoekoptie Facebook Comments by ID in Storify Search is verwijderd omdat Facebook de functie heeft vervangen. |
-| Bug | Storiseren 2 | Verbeterde stabiliteit bij het ophalen van Facebook-reacties via URL resulteert in Storify 2. |
+| Bug | Carousel | Het probleem dat ervoor zorgde dat Instagram Carousel-berichten zonder ondertitels in Studio werden gehaald, is opgelost. |
+| Verbetering | Storiseren 2 | De zoekoptie Facebook Comments by ID in Storify Search is verwijderd omdat de functie door Facebook is vervangen. |
+| Bug | Storiseren 2 | Verbeterde stabiliteit bij het ophalen van Facebook Comments via URL resulteert in Storify 2. |
 | Bug | Streams | Oplossing voor een probleem dat ervoor zorgde dat tekstvullingen in de tekstvakken Configuratie stroomregel bij klikken werden verwijderd. |
-
