@@ -1,18 +1,14 @@
 ---
 description: De beschikbare gebeurtenissen waaraan u JavaScript voor visualisatieapps kunt binden (bijvoorbeeld Media Wall).
-seo-description: De beschikbare gebeurtenissen waaraan u JavaScript voor visualisatieapps kunt binden (bijvoorbeeld Media Wall).
-seo-title: Javascript-gebeurtenissen voor visualisatie-apps
-solution: Experience Manager
 title: Javascript-gebeurtenissen voor visualisatie-apps
-uuid: 0797c384-7e8e-44fc-9738-a10a48d490cc
+exl-id: 93406d36-881d-4f35-a9a6-b42805f47c85
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 8%
+source-wordcount: '533'
+ht-degree: 6%
 
 ---
-
 
 # Javascript-gebeurtenissen voor visualisatie-apps{#javascript-events-for-visualization-apps}
 
@@ -29,8 +25,8 @@ In de volgende tabel worden de App-gebeurtenissen voor visualisatie-apps weergeg
 | Weergave |  |  |  |  |  |  |  |
 | Post |  | N.v.t. | N.v.t. | N.v.t. | N.v.t. |  | N.v.t. |
 | Gepost |  | N.v.t. | N.v.t. | N.v.t. | N.v.t. |  | N.v.t. |
-| Twitter-reactie | X | X |  | X | X | N.v.t. | X |
-| Twitter-achtig | X | X |  | X | X | N.v.t. | X |
+| Twitter Reageren | X | X |  | X | X | N.v.t. | X |
+| Twitter like | X | X |  | X | X | N.v.t. | X |
 | LF-achtig | X |  | N.v.t. | N.v.t. | N.v.t. | N.v.t. | N.v.t. |
 | LF in tegenstelling | X |  | N.v.t. | N.v.t. | N.v.t. | N.v.t. | N.v.t. |
 | Delen op bericht | N.v.t. |  | N.v.t. | N.v.t. | N.v.t. | N.v.t. | N.v.t. |
