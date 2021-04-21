@@ -1,18 +1,14 @@
 ---
 description: Release-aantekeningen voor de release van 1 november 2018.
-seo-description: Release-aantekeningen voor de release van 1 november 2018.
-seo-title: 1 november 2018
-solution: Experience Manager
 title: 1 november 2018
-uuid: ed1a3bf1-b3f1-4746-8462-07283723ba62
+exl-id: b12b6a56-f14f-4447-9fde-25cb3acf6665
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
-
 
 # 1 november 2018{#november}
 
@@ -35,9 +31,9 @@ De volgende nieuwe functies zijn vrijgegeven in de productieversie van deze rele
 
    Zie [Slimme tags](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags) voor meer informatie
 
-* Snelheidsbeperking installatieschema
+* Limiet voor instagram-snelheden
 
-   Instagram heeft het aantal verzoeken veranderd dat om het even welk bedrijf dat de Instagram API, met inbegrip van Livefyre gebruikt, van 5.000 verzoeken per uur per teken aan 200 verzoeken een uur per teken kan maken. Dit wordt *snelheidsbegrenzing* genoemd. Voor meer informatie, zie [Beperking van het Snelheidscijfer ](/help/using/c-streams/c-instagram-rate-limiting.md).
+   Instagram heeft het aantal aanvragen gewijzigd dat bedrijven die de Instagram API gebruiken, waaronder Livefyre, kunnen indienen van 5.000 aanvragen per uur per token tot 200 aanvragen per uur. Dit wordt *snelheidsbegrenzing* genoemd. Zie [Instagram Rate Limiting](/help/using/c-streams/c-instagram-rate-limiting.md) voor meer informatie.
 
 * Audiobestanden in de bibliotheek
 
@@ -61,6 +57,5 @@ De kwesties in de volgende lijsten werden opgelost in de versie van UAT van deze
 |---|---|---|
 | Verbetering | GDPR | Alle gegevens die aan voormalige klanten binnen Analytics worden toegeschreven, worden verwijderd. |
 | Bug | Bibliotheek | Probleem verholpen waarbij een video die naar de bibliotheek is geüpload en vervolgens in detail wordt weergegeven, niet correct werd weergegeven. |
-| Bug | Mozaïek | Probleem verholpen waarbij het laatste stuk inhoud van een Instagram-carrousel door een mozaïek als miniatuur werd weergegeven in plaats van als een kaart. |
-| Bug | Sociale zoekfunctie | Probleem verholpen waarbij sociaal zoeken op Instagram niet werkte zoals u had verwacht. |
-
+| Bug | Mozaïek | Probleem verholpen waarbij het laatste stuk inhoud van een Instagram-carrousel als miniatuur in plaats van als kaart werd weergegeven in een mozaïek. |
+| Bug | Sociale zoekfunctie | Probleem opgelost waarbij sociaal zoeken in Instagram niet naar behoren functioneerde. |
