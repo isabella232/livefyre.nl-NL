@@ -1,18 +1,14 @@
 ---
 description: Installeer het verificatiepakket om gebruikersverificatie in te schakelen, zodat gebruikers kunnen communiceren met uw apps.
-seo-description: Installeer het verificatiepakket om gebruikersverificatie in te schakelen, zodat gebruikers kunnen communiceren met uw apps.
-seo-title: Verificatiepakket
-solution: Experience Manager
 title: Verificatiepakket
-uuid: 4eec30cf-66b6-408d-985d-3e23b8b70d01
+exl-id: 639032ee-ed7d-4cb0-83ba-f11d3dc607b6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
-
 
 # Verificatiepakket{#authentication-package}
 
@@ -44,4 +40,3 @@ Zodra inbegrepen zoals hierboven gebruikend `Livefyre.require`, stelt de module 
 | `.logout(callback)` | Waarschuwen dat de eindgebruiker zich op een externe manier heeft afgemeld en dat alle vertrouwde Apps hun verificatiestatus moeten wissen tot de volgende aanmelding. Hierdoor wordt de interne sessie van Auth gewist. |
 | `.authenticate(credentials)` | Waarschuwen Auth dat een gebruiker door één of andere externe middelen voor authentiek is verklaard, en een Token van de Authentificatie van de Bibliotheek is verworven voor de eindgebruiker. Gebruik dit als u een cookie instelt met het token LiveCycle of een token hebt voor de gebruiker en u de gebruiker expliciet wilt aanmelden. Bijvoorbeeld: <br>`auth.authenticate({&nbsp;livefyre:&nbsp;`<br>`'<insert&nbsp;lftoken&nbsp;string&nbsp;for&nbsp;newly&nbsp;logged-in&nbsp;user>'&nbsp;});` |
 | `.delegate(authDelegate)` | Wijs de implementatiedetails van authentificatie (bijvoorbeeld, uw stroom van de douaneauthentificatie) aan een voorwerp toe dat u bepaalt. Deze moet door de hostpagina worden aangeroepen om interactieve functies van LiveCycle Apps in te schakelen. |
-
