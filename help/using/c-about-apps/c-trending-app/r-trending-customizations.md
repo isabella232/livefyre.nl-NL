@@ -1,18 +1,14 @@
 ---
 description: Wijzig de grootte, breedte en interactieopties van de app Map.
-seo-description: Wijzig de grootte, breedte en interactieopties van de app Map.
-seo-title: Aanpassingen voor trends
-solution: Experience Manager
 title: Aanpassingen voor trends
-uuid: 4dc58d90-8924-4c89-8f2a-650ac6e0538a
+exl-id: 224fc481-0c71-4d56-b73b-adf53451e968
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
-
 
 # Trending Customizations{#trending-customizations}
 
@@ -29,7 +25,6 @@ Met Trending Apps kunt u de meest actieve apps op een bepaalde site weergeven do
 
 U kunt opmerkingen aanpassen met:
 
-* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor details over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle Apps in **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]**- en **[!UICONTROL Config]**-opties voor alle apps in **[!UICONTROL App Designer]**.
 
 * Integratiegereedschappen. Zie Trending voor meer over hoe te om Apps aan te passen gebruikend de Hulpmiddelen van de Integratie.
-
