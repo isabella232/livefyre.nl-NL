@@ -1,18 +1,14 @@
 ---
 description: Opmerkingen bij de release van 23 augustus 2018.
-seo-description: Opmerkingen bij de release van 23 augustus 2018.
-seo-title: 23 augustus 2018
-solution: Experience Manager
 title: 23 augustus 2018
-uuid: 668058d8-cd31-416e-afc3-eaf158109e3e
+exl-id: 13117917-6137-49f1-a138-4d4d2e76f17f
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
-
 
 # 23 augustus 2018{#august}
 
@@ -32,10 +28,10 @@ De problemen in de volgende tabellen zijn opgelost in deze release.
 | **Type probleem** | **Component** | **Opmerking vrijgeven** |
 |---|---|---|
 | Bug | Opmerkingen | De optie shortlink teruggezet naar het dialoogvenster Share voor opmerkingen en andere conversatie-apps. |
-| Bug | GDPR | Probleem verholpen waarbij niet-berichten voor bepaalde Instagram-video&#39;s werden weergegeven. |
+| Bug | GDPR | Probleem verholpen waarbij bepaalde Instagram-video&#39;s niet werden weergegeven met de optie om te weigeren. |
 | Bug | Bibliotheek | Probleem verholpen waarbij gebruikers geen native LiveCycle-video&#39;s konden publiceren vanuit de map Bibliotheek naar een app. |
 | Bug | Bibliotheek | Probleem verholpen waarbij een element niet naar een map kon worden opgeslagen. |
-| Bug | Bibliotheek/Zoeken | De mogelijkheid om URL&#39;s te zoeken vanaf Instagram in Sociaal zoeken is hersteld. |
+| Bug | Bibliotheek/Zoeken | De mogelijkheid om URL&#39;s te zoeken vanuit Instagram in Sociale zoekopdrachten is hersteld. |
 | Bug | ModQ | Probleem verholpen waarbij het menu Meer informatie in ModQ niet op de verwachte positie werd weergegeven. |
 | Bug | Rights Management | Probleem verholpen waarbij een kaart met rechten die handmatig zijn verleend, de status van de onjuiste aanvraag voor rechten heeft weergegeven. |
 | Bug | Rights Management | Probleem verholpen waarbij sorteren in ModQ zich op een vaste positie zou moeten bevinden wanneer de pagina wordt geschoven. |
