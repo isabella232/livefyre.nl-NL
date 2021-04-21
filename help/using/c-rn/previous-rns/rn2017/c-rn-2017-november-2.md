@@ -1,17 +1,14 @@
 ---
 description: Release-aantekeningen voor de release van 2 november 2017.
-seo-description: Release-aantekeningen voor de release van 2 november 2017.
-seo-title: 2 november 2017
 title: 2 november 2017
-uuid: 496fdc55-3386-48f2-a491-26dc2bc8aa72
+exl-id: bfc8fd65-550b-477e-be96-aa310bc64ea0
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
-
 
 # 2 november 2017{#november}
 
@@ -24,7 +21,7 @@ Release-aantekeningen voor de release van 2 november 2017.
 | Verbetering | API | Klanten kunnen nu audiobestanden uploaden via de API voor uploaden die via App-inhoud kan worden weergegeven en gedownload. |
 | Verbetering | App-inhoud | Klanten kunnen geüploade audiobestanden afspelen via &quot;App Content&quot;. |
 | Verbetering | App-inhoud | Dit werkitem is gerelateerd aan het andere artikel over uploads van audio. Dit is vooral gericht op het toevoegen van de mogelijkheid om het bestand te downloaden van App Content. |
-| Bug | Rights Management | Het probleem waarbij geen juist foutbericht werd weergegeven wanneer een gebruiker inhoud probeert op te slaan in sociale zoekopdracht nadat deze van Twitter of Instagram was verwijderd, is opgelost. |
+| Bug | Rights Management | Het probleem waarbij geen juist foutbericht werd weergegeven wanneer een gebruiker inhoud probeert op te slaan in Sociaal zoeken nadat deze uit Twitter of Instagram was verwijderd, is opgelost. |
 | Verbetering | VEILIG | Studio Admins kan nu een nieuwe VEILIGE regel in montages toevoegen genoemd Slimme Mod Weigeren, die de Slimme eigenschap van de Mod toelaat. |
 
 ## UAT Release
@@ -38,4 +35,3 @@ Release-aantekeningen voor de release van 2 november 2017.
 | Verbetering | Rights Management | Voor open-rechtenaanvragen met Instagram-inhoud die wordt gemarkeerd als verwijderd of als een account die privé is gemaakt, wordt in de rechtenstatus &quot;Verlopen&quot; weergegeven en wordt in de activiteitengeschiedenis aangegeven dat de inhoud nu privé is of is verwijderd. |
 | Verbetering | Instellingen | Klanten kunnen nu ons privacybeleid en onze Adobe in Settings bezoeken. |
 | Bug | Studio | LiveCycle kan nu Twitter-elementen van 280 tekens volledig renderen in Studio en Apps. |
-
