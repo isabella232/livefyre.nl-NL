@@ -1,32 +1,28 @@
 ---
-description: U kunt het recht aanvragen om een Instagram-element dat u van een zoekopdracht of stroom hebt verkregen, opnieuw te gebruiken door de auteur (een zakelijke account) via een gedeeltelijk geautomatiseerde workflow.
-seo-description: U kunt het recht aanvragen om een Instagram-element dat u van een zoekopdracht of stroom hebt verkregen, opnieuw te gebruiken door de auteur (een zakelijke account) via een gedeeltelijk geautomatiseerde workflow.
-seo-title: Een aanvraag voor gedeeltelijk geautomatiseerde installatierechten verzenden
-solution: Experience Manager
-title: Een aanvraag voor gedeeltelijk geautomatiseerde installatierechten verzenden
-uuid: 18cf88ab-af0d-4a40-93d2-adfbdbdd21d5
+description: U kunt het recht aanvragen om een Instagram-element dat u van een zoekopdracht of stream door de auteur (zakelijke account) hebt verkregen, opnieuw te gebruiken met behulp van een gedeeltelijk geautomatiseerde workflow.
+title: Een gedeeltelijk geautomatiseerde Instagram Rights Request verzenden
+exl-id: 2747784e-689a-4683-867d-0883b281d47b
 translation-type: tm+mt
-source-git-commit: e60a58bf949e6e4f6f4f8d2fad1bd8985a593677
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
+# Verzend een gedeeltelijk-Geautomatiseerd Verzoek van de Rechten van Instagram{#send-a-partially-automated-instagram-rights-request}
 
-# Verzend een gedeeltelijk-Geautomatiseerd Verzoek van de Rechten van het Installagram{#send-a-partially-automated-instagram-rights-request}
-
-U kunt het recht aanvragen om een Instagram-element dat u van een zoekopdracht of stroom hebt verkregen, opnieuw te gebruiken door de auteur (een zakelijke account) via een gedeeltelijk geautomatiseerde workflow.
+U kunt het recht aanvragen om een Instagram-element dat u van een zoekopdracht of stream door de auteur (zakelijke account) hebt verkregen, opnieuw te gebruiken met behulp van een gedeeltelijk geautomatiseerde workflow.
 
 Voordat u een aanvraag voor gedeeltelijk geautomatiseerde rechten kunt verzenden, moet u:
 
-* Voeg een zakelijke account voor Installagram toe. Zie [Informatie over Instagram-accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over het configureren van een Instagram-bedrijfsaccount.
+* Voeg een Instagram-zakelijke account toe. Zie [Informatie over Instagram Accounts](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor meer informatie over het configureren van een Instagram-bedrijfsaccount.
 * Rights Management instellen. Zie [Rechten aanvragen](../c-how-requesting-rights-works/c-how-requesting-rights-works.md#c_how_requesting_rights_works) voor meer informatie over het instellen van rechtenbeheer.
 
 Om rechten van Instagram voor een onderzoek of stroom door de auteur van de bedrijfsrekening te verzoeken gebruikend een gedeeltelijk-geautomatiseerde werkschema:
 
 1. Open het venster **[!UICONTROL Rights options]**.
-1. Selecteer de account die u wilt gebruiken om rechten aan te vragen. De account moet een Installagram-bedrijfsaccount zijn.
+1. Selecteer de account die u wilt gebruiken om rechten aan te vragen. De account moet een Instagram-zakelijke account zijn.
 1. (Optioneel) Bewerk het aanvraagbericht. Als het bericht een element mist of een vereist element verkeerd gespeld is, toont een foutenmelding die de onjuiste of ontbrekende informatie specificeert.
 1. Klik **[!UICONTROL Copy]** om de tekst in het vakje aan uw klembord te kopiëren.
 
@@ -38,9 +34,9 @@ Om rechten van Instagram voor een onderzoek of stroom door de auteur van de bedr
 
    ![](assets/rr_insta_workaround2.png)
 
-   Livefyre opent de post in Instagram.
+   Livefyre opent het bericht in Instagram.
 
-1. Plak de tekst van de gekopieerde rechtenaanvraag in de Instagram-post op Instagram.
+1. Plak de aanvraagtekst voor gekopieerde rechten in het Instagram-bericht op Instagram.
 1. Wanneer de gebruiker reageert, verleent Livefyre automatisch rechten op de inhoud in Livefyre.
 
 Livefyre volgt wanneer u het rechtenverzoek verzendt, wanneer een gebruiker antwoordt, en wanneer de activarechten worden verleend.
