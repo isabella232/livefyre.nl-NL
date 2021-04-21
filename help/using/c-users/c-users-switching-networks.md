@@ -1,18 +1,14 @@
 ---
 description: U kunt veelvoudige netwerken van één enkele rekening van Studio beheren.
-seo-description: U kunt veelvoudige netwerken van één enkele rekening van Studio beheren.
-seo-title: Gebruikers die netwerken schakelen
-solution: Experience Manager
 title: Gebruikers die netwerken schakelen
-uuid: 1f1f172b-6444-4161-9396-8f6b6d738593
+exl-id: 5f48a4a5-a951-40db-bf73-609041b469fb
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Gebruikers die netwerken{#users-switching-networks} schakelen
 
@@ -29,4 +25,3 @@ Het **[!UICONTROL Account]** keuzemenu maakt een lijst van alle gebruikersnamen 
 >Terwijl de meeste gebruikers toestemmingen voor slechts één enkel netwerk zullen hebben, kunnen sommige gebruikers van Studio of veelvoudige plaatsen bezitten gematigd. De rekening van de Studio staat hen toe om met één enkele gebruikersbenaming en wachtwoord, dan schakelaar tussen de veelvoudige niveaus van de plaatstoegang binnen te loggen.
 
 ![](assets/UsersChangeAccount-285x300.png)
-
