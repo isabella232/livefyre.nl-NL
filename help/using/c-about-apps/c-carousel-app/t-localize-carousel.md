@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Een carrousel lokaliseren
-solution: Experience Manager
 title: Een carrousel lokaliseren
-uuid: 168b061d-dc60-4a4a-b6f7-154a3f81dc00
+description: Een carrousel lokaliseren
+exl-id: 9ebe390c-be72-4381-b7b9-8c8fb5afe1c9
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
-
 
 # Een carrousel lokaliseren{#localize-a-carousel}
 
@@ -21,4 +17,3 @@ ht-degree: 0%
    * [Een vertaalset voor een carrousel maken en wijzigen](/help/using/c-settings-other/c-translation-sets/t-create-modify-translation-sets.md)
    * [Een vertaalset toepassen op een site](/help/using/c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-site.md)
    * [Pas een Vertaalreeks op een Netwerk toe](/help/using/c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-network.md)
-
