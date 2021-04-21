@@ -1,18 +1,14 @@
 ---
 description: Opmerkingen bij de release van 12 april 2018.
-seo-description: Opmerkingen bij de release van 12 april 2018.
-seo-title: 12 april 2018
-solution: Experience Manager
 title: 12 april 2018
-uuid: f6c3f1f1-d716-4da3-9ba9-3f3623d8d9f5
+exl-id: caa7a8e9-0648-4d5b-8623-390c904cf750
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '534'
 ht-degree: 0%
 
 ---
-
 
 # 12 april 2018{#april}
 
@@ -42,7 +38,7 @@ De problemen in de volgende tabellen zijn opgelost in deze release.
 | Verbetering | Filmstrip | Oplossing voor een aantal problemen om de filmstrip toegankelijker te maken. |
 | Verbetering | Bibliotheek, toepassingen | Probleem verholpen waarbij video&#39;s van Instagram die ouder waren dan drie maanden niet correct werden weergegeven in de bibliotheek en toepassingen. |
 | Verbetering | Mediumwand | Verbeterde toegankelijkheid van de mediamuur op de volgende manieren: <br>Bij het openen en sluiten van modaliteiten via toetsenbordopdrachten wordt de focus niet meer teruggeplaatst<br>boven aan de pagina. In plaats daarvan blijft de focus op het element dat het laatst is gefocust vóór de modale pop-up.  <br>U kunt met de Enter-toets op het toetsenbord de knop Meer laden als tabbladen gebruiken en activeren. |
-| Verbetering | Mediumwand | Probleem verholpen waarbij u door te klikken op een Twitter-, Instagram- of Facebook-pictogram naar de homepage gaat, maar in schermlezers ten onrechte aangeeft dat het pictogram naar de afzonderlijke advertentie gaat. Dit is gecorrigeerd om aan te geven dat het pictogram je naar de homepage brengt, niet naar de post. |
+| Verbetering | Mediumwand | Probleem verholpen waarbij u door te klikken op een Twitter-, Instagram- of Facebook-pictogram naar de startpagina gaat, maar in schermlezers onjuist aangeeft dat het pictogram naar de afzonderlijke advertentie gaat. Dit is gecorrigeerd om aan te geven dat het pictogram je naar de homepage brengt, niet naar de post. |
 | Bug | Mozaïek | Probleem verholpen waarbij in een mozaïektoepassing de juiste kleur niet werd weergegeven in de App Designer. |
 | Bug | Rights Management | Correctie van een probleem waarbij rechtenaanvragen niet werkten voor middelen nadat ze waren gevonden in een sociale zoekopdracht. |
 | Verbetering | Sidenotes | Probleem verholpen met toegankelijkheid in Sidenotes App waarbij de rol van de knop niet duidelijk werd weergegeven voor schermleessoftware. |
@@ -59,4 +55,3 @@ De problemen in de volgende tabellen zijn opgelost in deze release.
 |---|---|---|
 | Verbetering | UGC | Probleem verholpen waarbij de markering voor UGC-handel standaard was ingesteld op &#39;uit&#39; in plaats van &#39;aan&#39;. |
 | Verbetering | Streams |  |
-
