@@ -1,18 +1,14 @@
 ---
 description: Zoek naar elementen door verschillende opties en filters om de juiste inhoud voor een app te vinden.
-seo-description: Zoek naar elementen door verschillende opties en filters om de juiste inhoud voor een app te vinden.
-seo-title: Opgeslagen elementen zoeken in de bibliotheek
-solution: Experience Manager
 title: Opgeslagen elementen zoeken in de bibliotheek
-uuid: 2fee5ba4-fe69-487e-8d9c-0fd2af97179c
+exl-id: c33583e1-05c4-413b-b5ae-473817c07815
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # Opgeslagen elementen zoeken in de bibliotheek{#search-saved-assets-in-the-library}
 
