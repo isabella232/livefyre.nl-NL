@@ -1,18 +1,14 @@
 ---
 description: Analyseer de gebruikers-, inhoud- en moderatoractiviteiten voor uw site.
-seo-description: Analyseer de gebruikers-, inhoud- en moderatoractiviteiten voor uw site.
-seo-title: Analyse
-solution: Experience Manager
 title: Analyse
-uuid: b022aa77-59b9-422a-8d9f-fb9d8a1b0478
+exl-id: dc0545ec-2294-44ab-87c4-67eb30c3f787
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '720'
 ht-degree: 0%
 
 ---
-
 
 # Analyse{#analytics}
 
@@ -22,7 +18,7 @@ Analyseer de gebruikers-, inhoud- en moderatoractiviteiten voor uw site.
 
 Analyseer de gebruikers-, inhoud- en moderatoractiviteiten voor uw site.
 
-Live Analytics biedt toegang tot uw netwerkgegevens in eenvoudig te lezen dashboards voor conversies, moderatie en gebruikersgegevens. Gebruik deze dashboards om de activiteit te controleren en snelle analyses op uw plaats(en) uit te voeren.
+De Analytics van de levensparantie verleent toegang tot uw netwerkgegevens in gemakkelijk te lezen dashboards voor Conversations, Moderation en gegevens van de Gebruiker. Gebruik deze dashboards om de activiteit te controleren en snelle analyses op uw plaats(en) uit te voeren.
 
 De dashboards kunnen door plaats, datum, en activiteit worden gefiltreerd. Gebruik de keuzelijst Netwerk linksboven in het venster om de site te selecteren die u wilt weergeven. Klik op een kolomkop om de grafiek te sorteren, of klik met de muis boven de grafiek voor meer specifieke informatie over een willekeurig gegevenspunt.
 
@@ -114,4 +110,3 @@ Het dashboard van de Moderatie maakt een lijst van gebeurtenissen door moderator
 Het dashboard Gebruikers geeft de siteactiviteit per gebruiker weer, zodat u kunt analyseren hoe individuele gebruikers met uw site werken. Gebruik dit dashboard om uw meest actieve gebruikers over uw plaats te vinden, en de populairste plaatsactiviteiten te evalueren.
 
 ![](assets/analytics-users.png)
-
