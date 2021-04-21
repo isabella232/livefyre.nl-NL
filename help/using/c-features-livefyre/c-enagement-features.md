@@ -1,18 +1,14 @@
 ---
 description: Stel bezoekers van uw site in met functies die ervoor zorgen dat ze terugkeren naar uw site wanneer ze uw inhoud ontdekken.
-seo-description: Stel bezoekers van uw site in met functies die ervoor zorgen dat ze terugkeren naar uw site wanneer ze uw inhoud ontdekken.
-seo-title: Beheerfuncties
-solution: Experience Manager
 title: Beheerfuncties
-uuid: 5841a183-62c0-40ae-9cef-884bffb7c39b
+exl-id: 2e5554ad-42f8-445f-90f7-e12d320416d0
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
-
 
 # Beheerfuncties{#enagement-features}
 
@@ -97,4 +93,3 @@ Na een gesprek staat gebruikers toe om e-mailberichten te ontvangen, die op acti
 >[!NOTE]
 >
 >E-mails worden alleen verzonden voor handmatig geposte inhoud, niet voor inhoud die via SocialSync of Curate in de stream wordt geladen.
-
