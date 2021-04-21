@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Filter Winst gebruiken
-solution: Experience Manager
 title: Filter Winst gebruiken
-uuid: b0b1fbae-c88c-403c-9b91-df6620675f39
+description: Filter Winst gebruiken
+exl-id: 6ea7d913-f562-42a5-a6ea-241aa4e1089a
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
-
 
 # Het gebruiken van de Filter van de Winst{#using-the-profanity-filter}
 
@@ -72,7 +68,7 @@ Gebruik de Lijst van de Winstgevendheid helpen uw inhoudsonderzoeken filtreren e
 
 Als u wilt zoeken naar inhoud met diepte, gaat u naar **[!UICONTROL Library > App Content]**, **[!UICONTROL Filter by Flags]** en schakelt u het selectievakje **[!UICONTROL Profanity]** in. Alle inhoud die is afgevangen door het filter Winstgevendheid voor de geselecteerde site of het geselecteerde netwerk, wordt weergegeven. Deze lijst bevat inhoud die met sociale synchronisatie en streams in de app is geplaatst.
 
-Om de regels van de Premoderatie tot stand te brengen, van Studio uitgezocht **[!UICONTROL Settings > Network Settings > Moderation]**. Nadat het filter Schildbaarheid is ingeschakeld, wordt een nieuwe regel weergegeven, waarmee u inhoud met een vlag of een beperking met een diepte kunt markeren. Standaard schakelt deze regel automatisch **[!UICONTROL Premoderate]** in voor profaaninhoud, die kan worden gewijzigd in **[!UICONTROL Trash it]** of **[!UICONTROL Bozo it]**.
+Om de regels van de Premoderatie tot stand te brengen, van Studio uitgezocht **[!UICONTROL Settings > Network Settings > Moderation]**. Nadat het filter Schildbaarheid is ingeschakeld, wordt een nieuwe regel weergegeven, waarmee u inhoud met een vlag of een beperking met diepte kunt markeren. Standaard schakelt deze regel automatisch **[!UICONTROL Premoderate]** in voor profaaninhoud, die kan worden gewijzigd in **[!UICONTROL Trash it]** of **[!UICONTROL Bozo it]**.
 
 >[!NOTE]
 >
@@ -90,4 +86,3 @@ Om de regels van de Premoderatie tot stand te brengen, van Studio uitgezocht **[
 >[!NOTE]
 >
 >Slechts kunnen de Beheerders van Studio en de Moderatoren van de Studio Rentelijsten uitgeven.
-
