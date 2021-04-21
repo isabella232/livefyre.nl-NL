@@ -1,18 +1,14 @@
 ---
 description: Gebruik beschikbare CSS-klassen om aanbevolen inhoud anders op te maken dan andere inhoud in de app.
-seo-description: Gebruik beschikbare CSS-klassen om aanbevolen inhoud anders op te maken dan andere inhoud in de app.
-seo-title: CSS gebruiken om aanbevolen inhoud op te maken
-solution: Experience Manager
 title: CSS gebruiken om aanbevolen inhoud op te maken
-uuid: c4ab648c-d81f-41b9-9773-ef919649cc46
+exl-id: 6829c1b3-407c-45c1-9bed-c78ab8f5b985
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # CSS gebruiken om aanbevolen inhoud op te maken{#use-css-to-style-featured-content}
 
@@ -30,4 +26,3 @@ De volgende klassen kunnen worden gebruikt voor aanbevolen inhoud.
 | .fyre-featured-title | De koptekst. |
 | .fyre-featured body | De container div voor aanbevolen inhoud in de lezer. |
 | .fyre-featured-quote | Het aanhalingspictogram dat met elk inhoudsitem begint. |
-
