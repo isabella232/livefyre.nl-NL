@@ -1,21 +1,18 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Aangepaste strings
 title: Aangepaste strings
-uuid: 73745273-d3fb-4569-8910-d149fb37a7b4
+description: Aangepaste strings
+exl-id: b5e2c18b-5b98-45ff-aa89-dd92a02949a9
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste tekenreeksen zoeken{#sidenotes-custom-strings}
 
-Aangepaste tekenreeksen worden toegepast via een object dat wordt geïnjecteerd in de constructor Sidenotes en overschrijven de standaardtekenreeksen die door de toepassing worden gebruikt. Hiermee kunt u elk onderdeel van de taal aanpassen aan uw stijl- of taalspecificaties. Tekenreeksen worden automatisch samengevoegd met de standaardwaarden.
+Aangepaste tekenreeksen worden toegepast via een object dat wordt geïnjecteerd in de constructor Sidenotes en overschrijven de standaardtekenreeksen die door de toepassing worden gebruikt. U kunt hiermee elk onderdeel van de taal aanpassen aan uw stijl- of taalspecificaties. Tekenreeksen worden automatisch samengevoegd met de standaardwaarden.
 
 ```
 var customStrings = { 
