@@ -1,18 +1,14 @@
 ---
 description: U kunt inhoud selecteren om van Studio in plaats van een App te voorzien.
-seo-description: U kunt inhoud selecteren om van Studio in plaats van een App te voorzien.
-seo-title: Inhoud uit Studio selecteren voor functionaliteit
-solution: Experience Manager
 title: Inhoud uit Studio selecteren voor functionaliteit
-uuid: d2983d44-e388-4324-a9a4-be0b30f7ceea
+exl-id: 79181820-4022-4acd-a4e3-e73475d75e46
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Inhoud selecteren voor functionaliteit uit Studio{#select-content-to-feature-from-studio}
 
