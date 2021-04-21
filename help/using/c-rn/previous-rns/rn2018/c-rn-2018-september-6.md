@@ -1,18 +1,14 @@
 ---
 description: Opmerkingen bij de release van 6 september 2018.
-seo-description: Opmerkingen bij de release van 6 september 2018.
-seo-title: 6 september 2018
-solution: Experience Manager
 title: 6 september 2018
-uuid: 8dbe8be0-cc3c-4d96-af56-1808d8555af3
+exl-id: 61a4b43e-d40f-41bf-b9cc-0303b0232c6b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
-
 
 # 6 september 2018{#september}
 
@@ -50,7 +46,7 @@ De problemen in de volgende tabellen zijn opgelost in de productieversie van dez
 |---|---|---|
 | Bug | Opmerkingen | Probleem verholpen waarbij audiobestanden niet correct werden afgespeeld in de opmerkingenapp. |
 | Bug | Bibliotheek | Probleem verholpen waarbij bij het zoeken naar Instagram met de URL-zoekopdracht van de bibliotheek een afspeelknop boven de miniatuur werd weergegeven wanneer de kaart een afbeelding weergaf, niet een video. |
-| Bug | Bibliotheek | Probleem verholpen waarbij bij het publiceren van inhoud naar een app die is opgehaald na het uitvoeren van een URL-zoekopdracht in het installatieprogramma, geen miniatuur werd weergegeven. |
+| Bug | Bibliotheek | Probleem verholpen waarbij bij het publiceren van inhoud naar een app die is opgehaald na het uitvoeren van een Instagram URL-zoekopdracht geen miniatuur werd weergegeven. |
 | Bug | Bibliotheek | Probleem verholpen waarbij na het toevoegen van een product aan een element, het openen van de details voor dat element en vervolgens klikken op het tabblad Conversie, de producten voor dat element niet werden weergegeven. |
 
 ## UAT-release {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
@@ -60,4 +56,3 @@ De kwesties in de volgende lijsten werden opgelost in de versie van UAT van deze
 | **Type probleem** | **Component** | **Opmerking vrijgeven** |
 |---|---|---|
 | Bug | Sociale component: Media uploaden | Probleem verholpen waarbij gebruikers media niet naar de filmstrip konden uploaden. |
-
