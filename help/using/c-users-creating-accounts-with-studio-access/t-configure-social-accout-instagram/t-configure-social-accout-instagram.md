@@ -1,28 +1,24 @@
 ---
 description: Configureer een sociale account om rechten aan te vragen of naar UGC te zoeken in streams of sociale zoekopdrachten.
-seo-description: Configureer een sociale account om rechten aan te vragen of naar UGC te zoeken in streams of sociale zoekopdrachten.
-seo-title: Een sociale account toevoegen
-solution: Experience Manager
 title: Een sociale account toevoegen
-uuid: c53cbc77-7394-499c-80ee-7fe22cbafec9
+exl-id: 1f410ee5-2bd1-492c-ae5d-6c2dc8a1e97e
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 0%
+source-wordcount: '191'
+ht-degree: 1%
 
 ---
-
 
 # Een sociale account toevoegen{#add-a-social-account}
 
 Configureer een sociale account om rechten aan te vragen of naar UGC te zoeken in streams of sociale zoekopdrachten.
 
-Livefyre gebruikt Twitter- en Instagram-sociale accounts om een sociale zoekopdracht uit te voeren (in de bibliotheek) of om Streams te gebruiken.
+LiveCycle gebruikt sociale accounts van Twitter en Instagram om een sociale zoekopdracht uit te voeren (in de bibliotheek) of om Streams te gebruiken.
 
-U moet een account configureren in Twitter om de sociale zoekopdracht op Twitter in de bibliotheek te kunnen gebruiken.
+U moet een account in Twitter configureren om de sociale zoekfunctie van Twitter in de bibliotheek te gebruiken.
 
-Instagram heeft verschillende regels voor sociale accounts, afhankelijk van hoe u Adobe Livefyre gebruikt. Zie [Informatie over Instagram-accounts](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor informatie over welk type sociale accounts u met LiveCycle kunt gebruiken.
+Instagram kent verschillende regels voor sociale accounts, afhankelijk van hoe u Adobe Livefyre gebruikt. Zie [Informatie over Instagram-accounts](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts) voor informatie over welk type sociale accounts u met LiveCycle kunt gebruiken.
 
 Een sociale account configureren:
 
@@ -34,7 +30,7 @@ Een sociale account configureren:
 
    >[!NOTE]
    >
-   >Wanneer u een zakelijke account voor Instagram configureert, wordt u doorgestuurd naar een Facebook-aanmeldingsscherm. U kunt zich gewoon blijven aanmelden.  ![](assets/i_insta_biz_facebook_dialog.png)   >
+   >Wanneer u een zakelijke Instagram-account configureert, wordt u doorgestuurd naar een Facebook-aanmeldingsscherm. U kunt zich gewoon blijven aanmelden.  ![](assets/i_insta_biz_facebook_dialog.png)   >
 
 1. Klik op **[!UICONTROL Authorize App]** om door te gaan.
 1. Voeg een **[!UICONTROL Display Name]** voor de account toe en klik vervolgens op **[!UICONTROL Save Settings.]**. Klik op **[!UICONTROL Social Account]** in de koptekst van het vak met accountgegevens om de account samen te vouwen.
