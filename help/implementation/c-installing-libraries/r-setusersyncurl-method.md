@@ -1,18 +1,14 @@
 ---
 description: Hiermee wordt Livefyre gevraagd de URL voor de gebruikerssynchronisatie van het netwerk bij te werken naar de URL die wordt opgegeven. Retourneert een Booleaanse waarde.
-seo-description: Hiermee wordt Livefyre gevraagd de URL voor de gebruikerssynchronisatie van het netwerk bij te werken naar de URL die wordt opgegeven. Retourneert een Booleaanse waarde.
-seo-title: setUserSyncUrl Netwerkmethode
-solution: Experience Manager
 title: setUserSyncUrl Netwerkmethode
-uuid: cd067e90-a2da-4e3d-8e60-7eabfd86fc7f
+exl-id: 8124ac0f-013f-4943-a33c-6cf8fe696f95
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # setUserSyncUrl Netwerkmethode{#setusersyncurl-network-method}
 
