@@ -1,18 +1,14 @@
 ---
 description: Maak vanaf het begin livefyre-apps om aangepaste ervaringen en gegevensvisualisaties te maken.
-seo-description: Maak vanaf het begin livefyre-apps om aangepaste ervaringen en gegevensvisualisaties te maken.
-seo-title: Levensstijl integreren met integratie van derden
-solution: Experience Manager
 title: LiveCycle integreren in een CMS
-uuid: 5a3e18e8-8568-45bb-9070-d0fa43dd819b
+exl-id: 05d85792-de97-47b1-90cc-ad7e841754b5
 translation-type: tm+mt
-source-git-commit: 2436c389cbe14c7d64dd8c0392a3e0f031468836
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # Livefyre implementeren met integratie van derden
 
@@ -57,7 +53,7 @@ b. Integreer LiveCyre-apps met gebruik van de ingesloten codestructuur van Livef
    * Voor informatie over hoe te om Trending te integreren, zie [Trending](/help/using/c-about-apps/c-trending-app/c-trending-app.md).
 
 1. Voer authentificatieintegratie uit.
-a. Creeer de tokens van de Auteur van de Gebruiker om gebruikersgegevens over te gaan en op te slaan in Levefyre.
+a. Creeer de tokens van de Auteur van de Gebruiker om gebruikersgegevens over te gaan en op te slaan in Levfyre.
 b. Gebruikers- en verificatieplatforms van derden integreren. Voor een lijst van gesteunde platforms, zie [Identiteitsintegratie](/help/implementation/t-about-identity-integration/t-about-identity-integration.md).
 
 >[!NOTE]
