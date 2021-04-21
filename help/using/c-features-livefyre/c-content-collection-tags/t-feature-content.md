@@ -1,18 +1,14 @@
 ---
 description: Gebruik aangepaste opmaak om aanbevolen inhoud te markeren.
-seo-description: Gebruik aangepaste opmaak om aanbevolen inhoud te markeren.
-seo-title: Inhoud onderdeel
-solution: Experience Manager
 title: Inhoud onderdeel
-uuid: 0e347703-f119-4778-9609-2d6500844d6e
+exl-id: e11d7d1c-b249-4bb0-84c3-04f9f19f120e
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
-
 
 # Inhoud onderdeel{#feature-content}
 
@@ -40,4 +36,3 @@ Door inhoud te voorzien, kunt u de aandacht vestigen op geselecteerde gebruikers
    * [Topaanbieding (site)](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#section_lq5_ymw_xz)
    * [Topaanbieding (verzameling)](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#section_kgc_xmw_xz)
    * [Topaanbieding (kop)](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#section_n4b_lmw_xz)
-
