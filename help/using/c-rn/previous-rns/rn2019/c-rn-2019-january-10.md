@@ -1,14 +1,10 @@
 ---
 description: Opmerkingen bij de release van Livefyre 10 januari 2019.
-seo-description: Opmerkingen bij de release van Livefyre 10 januari 2019.
-seo-title: Opmerkingen bij de release
-solution: Experience Manager
 title: Opmerkingen bij de release
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '33'
 ht-degree: 0%
 
 ---
