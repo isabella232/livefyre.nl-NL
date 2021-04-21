@@ -1,18 +1,14 @@
 ---
 description: Veel functies worden geleverd met de toepassing Comments om real-time gesprekken in te sluiten in uw site.
-seo-description: Veel functies worden geleverd met de toepassing Comments om real-time gesprekken in te sluiten in uw site.
-seo-title: Opmerkingen
-solution: Experience Manager
 title: Opmerkingen
-uuid: ec00fcc9-1b5e-4d0b-b1da-95f9f26b4cc1
+exl-id: aca45cfc-07cb-4f58-8ad4-f7d07fe250ca
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '106'
 ht-degree: 1%
 
 ---
-
 
 # Functies voor opmerkingen{#comments-features}
 
@@ -53,7 +49,6 @@ Veel functies worden geleverd met de toepassing Comments om real-time gesprekken
 * [Opmerkingen dempen](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_d5c_2bm_d1b)
 * [Opmerkingen bovenaan](/help/using/c-features-livefyre/c-sort-features-composite/c-top-comments.md#c_top_comments)
 * [Vertaalsets](/help/using/c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets)
-* [Knoppen Twitter-actie](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
+* [Twitter-actieknoppen](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
 * [Gebruikersbadges](/help/using/c-features-livefyre/c-styling-features/c-user-badges.md#c_user_badges)
 * [Gebruikersberichten](/help/using/c-features-livefyre/c-content-behavior-features/c-user-posts.md#c_user_posts)
-
