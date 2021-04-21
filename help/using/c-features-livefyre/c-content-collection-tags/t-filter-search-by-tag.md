@@ -1,18 +1,14 @@
 ---
 description: Filterinhoudzoekopdrachten in Studio op tag Verzameling.
-seo-description: Filterinhoudzoekopdrachten in Studio op tag Verzameling.
-seo-title: De tag Zoeken op verzameling of Inhoud filteren
-solution: Experience Manager
 title: De tag Zoeken op verzameling of Inhoud filteren
-uuid: e690a6fd-f584-490d-89d3-f22550766698
+exl-id: 2ebbd16a-3e24-463e-bad1-2097dc8b586c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
-
 
 # Zoekopdracht filteren op verzameling of op inhoud{#filter-search-by-collection-or-content-tag}
 
