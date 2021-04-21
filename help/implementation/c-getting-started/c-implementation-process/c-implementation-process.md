@@ -1,18 +1,14 @@
 ---
 description: Wat te verwachten in het uitvoeren van Livefyre Studio.
-seo-description: Wat te verwachten in het uitvoeren van Livefyre Studio.
-seo-title: Implementatieproces
-solution: Experience Manager
 title: Implementatieproces
-uuid: 9a0f394e-3467-47d1-9816-45e2130db440
+exl-id: 82bf8c09-946a-4be8-97bf-5b9868a4e031
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # Implementatieproces{#implementation-process}
 
@@ -49,4 +45,3 @@ Er zijn drie belangrijke stappen om Livefyre te integreren:
 * Aanpassing
 
    Aanpassing is optioneel, maar de meeste klanten passen Apps aan hun merk aan.
-
