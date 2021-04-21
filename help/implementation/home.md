@@ -1,16 +1,14 @@
 ---
-seo-title: Help bij Livefyre
-solution: Experience Manager
 title: Help bij Livefyre-implementatie
-uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
+description: Help bij Livefyre-implementatie
+exl-id: 510826ea-3313-4388-ad82-63fe07d018bf
 translation-type: tm+mt
-source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # Handleiding voor implementatie van Livefy {#livefyre-help}
 
