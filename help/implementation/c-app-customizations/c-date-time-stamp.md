@@ -1,18 +1,14 @@
 ---
 description: Pas datum- en tijdstempels aan met Livefyre.js.
-seo-description: Pas datum- en tijdstempels aan met Livefyre.js.
-seo-title: De datum- en tijdstempel aanpassen
-solution: Experience Manager
 title: De datum- en tijdstempel aanpassen
-uuid: 632ea405-56b7-4664-8d2b-0dd0a7611bd8
+exl-id: 77130793-00ba-4a5c-8318-4221d971da6c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
-
 
 # De datum- en tijdstempel aanpassen{#customize-the-date-and-time-stamp}
 
