@@ -1,17 +1,14 @@
 ---
 description: Opmerkingen bij de release van 12 januari 2017.
-seo-description: Opmerkingen bij de release van 12 januari 2017.
-seo-title: 12 januari 2017
 title: 12 januari 2017
-uuid: fb92ea52-7184-4f08-814c-15e45d684371
+exl-id: a1578c9d-5ec0-4694-96b0-4952a02d8c58
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
-
 
 # 12 januari 2017{#january}
 
@@ -28,7 +25,7 @@ Opmerkingen bij de release van 12 januari 2017.
 | Verbetering | Livefyre-id | Verbeterde Livefy Identity om te voldoen aan toegankelijkheidsstandaarden door schermlezers beter te ondersteunen en ervoor te zorgen dat alle interactieve items kunnen worden bereikt met toetsenbordnavigatie. |
 | Bug | Opiniepeilingen | Verbeterde opiniepeilingen om de afbeeldingskwaliteit te verscherpen en te verbeteren wanneer deze worden geüpload in Designer. |
 | Bug | Revisies | Oplossing voor een probleem waarbij ratingbewerkingen niet op de juiste wijze werden weergegeven. |
-| Verbetering | Verzoeken om rechten | Er is een verbetering toegevoegd om het gebruik van bit.ly-koppelingen in Instellingen van account voor Instagram-rechten te weigeren om te voorkomen dat aanvragen worden gemarkeerd als spam. |
+| Verbetering | Verzoeken om rechten | Er is een uitbreiding toegevoegd waarmee bit.ly-koppelingen niet meer mogen worden gebruikt in Instagram Rights Account Settings om te voorkomen dat aanvragen worden gemarkeerd als spam. |
 | Bug | Verzoeken om rechten | Oplossing voor een probleem dat ervoor zorgde dat de rechten modaal niet konden worden gesloten nadat een aanvraag voor een element in de bibliotheek was verzonden. |
 | Bug | VEILIG | Oplossing voor een probleem dat ervoor zorgde dat lijsten met aangepaste winstgevendheid niet betrouwbaar konden worden bijgewerkt. |
 | Bug | Instellingen | Oplossing voor een probleem dat ervoor zorgde dat URL&#39;s met profielTrek niet konden worden opgeslagen in Studio-instellingen. |
@@ -46,6 +43,5 @@ Opmerkingen bij de release van 12 januari 2017.
 |--- |--- |--- |
 | Verbetering | Opmerkingen, opmerkingen | De standaardpictogrammen en -knoppen voor opmerkingen en opmerkingen hebben nu een hoger kleurcontrast om aan toegankelijkheidsnormen te voldoen. |
 | Verbetering | Livefyre-id | Verbeterde Livefyre Identity om toetsenbordnavigatie te steunen om aan toegankelijkheidsnormen te voldoen. |
-| Bug | Streams | Verbeterde Facebook-paginaregels voor het opnemen van hoogwaardige Facebook-afbeeldingen waarbij alleen de miniaturen werden ingevoegd voordat we deze innamen. |
+| Bug | Streams | Uitgebreide Facebook-paginaregels voor het opnemen van Facebook-afbeeldingen van hoge kwaliteit waarbij vóór het invoegen alleen de miniaturen werden weergegeven. |
 | Bug | Studio | Verbeterde zoekfunctie voor bibliotheekelementen voor ondersteuning van Japanse tekens. |
-
