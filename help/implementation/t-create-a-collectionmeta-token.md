@@ -1,18 +1,14 @@
 ---
 description: Maak een nieuwe verzameling door een token collectionMeta te maken dat wordt doorgegeven aan LiveCycle.
-seo-description: Maak een nieuwe verzameling door een token collectionMeta te maken dat wordt doorgegeven aan LiveCycle.
-seo-title: Creeer een Inzameling gebruikend de Token CollectionMeta
-solution: Experience Manager
 title: Creeer een Inzameling gebruikend de Token CollectionMeta
-uuid: 5a3e18e8-8568-45bb-9070-d0fa43dd819b
+exl-id: d2dafc90-de21-4998-8e85-83f970524329
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Creeer een Inzameling gebruikend de Token CollectionMeta{#create-a-collection-using-the-collectionmeta-token}
 
