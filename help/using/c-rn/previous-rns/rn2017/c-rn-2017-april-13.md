@@ -1,17 +1,14 @@
 ---
 description: Opmerkingen bij de release van 13 april 2017.
-seo-description: Opmerkingen bij de release van 13 april 2017.
-seo-title: 13 april 2017
 title: 13 april 2017
-uuid: abc591bd-3385-40f5-99a5-3f4c8ee4dc6b
+exl-id: 56da541d-9097-4f45-8e14-b6c4ccf32040
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
-
 
 # 13 april 2017{#april}
 
@@ -25,7 +22,7 @@ Opmerkingen bij de release van 13 april 2017.
 | Bug | API&#39;s | Het probleem dat ervoor zorgde dat MP4-video&#39;s niet konden worden geüpload wanneer de API voor media uploaden werd gebruikt, is opgelost. |
 | Bug | Bibliotheek | Het probleem waarbij bibliotheekzoekopdrachten met hashtags soms mislukten, is opgelost. |
 | Bug | Kaarten | Oplossing voor een probleem in Maps ter ondersteuning van een groot aantal inhoud in clusters op iOS-apparaten. |
-| Verbetering | ModQ | Oplossing voor een fout waardoor nieuwe Instagram-taken effectief konden worden gestreamd in ModQ. |
+| Verbetering | ModQ | Oplossing voor een bug waardoor nieuwe Instagram-taken effectief konden worden gestreamd in ModQ. |
 | Bug | Mozaïek | Probleem verholpen waarbij gebruikers mozaïektoepassingen konden wijzigen in Designer. |
 | Verbetering | Verzoek om rechten | Er is een nieuwe aanvraagstatus voor rechten met de naam &quot;Verzoek mislukt&quot; toegevoegd om te markeren wanneer de aanvraagberichten voor rechten niet worden verzonden. |
 | Bug | S1-instellingen | Het probleem waarbij het uitnodigen van nieuwe eigenaars en moderatoren zonder een bestaande commentaaraccount werd uitgeschakeld, is opgelost. |
@@ -34,7 +31,7 @@ Opmerkingen bij de release van 13 april 2017.
 | Bug | Storiseren 2 | Er is een bruikbaarheidsverbetering toegevoegd, zodat vastgezette Storify 2-posities geen overlappende punt- en sluitpictogrammen renderen wanneer de optie &quot;Permalinks weergeven in module&quot; wordt gebruikt. |
 | Bug | Streams | Oplossing voor een probleem dat ertoe leidde dat een banner &quot;App accepteert geen nieuwe inhoud&quot; onjuist werd weergegeven boven op streamregelpagina&#39;s. |
 | Verbetering | Streams | Gewijzigd het gebrek van pas gecreëerde stroomregels om VEILIGE Regels toe te passen wanneer toepasselijk. |
-| Verbetering | Streams (voorheen Curate Rules) | De optie &#39;Wijntjes&#39; is alleen verwijderd uit de regels voor Twitter Stream/Curate, omdat wijnstokken nu worden weergegeven als Twitter-video&#39;s. |
+| Verbetering | Streams (voorheen Curate Rules) | De optie Alleen wijnstokken is verwijderd uit de Twitter Stream/Curate-regels, omdat wijnstokken nu worden weergegeven als Twitter-video&#39;s. |
 
 ## UAT Release
 
@@ -48,4 +45,3 @@ Opmerkingen bij de release van 13 april 2017.
 | Bug | Revisies | Oplossing voor enkele bruikbaarheidsproblemen bij het inschakelen van de parameter alwaysShowEditor in de app Reviews. |
 | Bug | Storiseren 2 | Oplossing voor een probleem dat ervoor zorgde dat Storify 2-insluiting niet kon worden gerenderd bij gebruik van de requireJS-bibliotheek op de pagina. |
 | Bug | Streams | Het probleem waarbij regels niet naar een nieuwe stream konden worden gekopieerd tijdens het klonen van een bestaande stream, is opgelost. |
-
