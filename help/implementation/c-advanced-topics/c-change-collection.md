@@ -1,18 +1,14 @@
 ---
 description: Gebruikers mogen via één pagina-indeling en URL op Verzamelingen klikken.
-seo-description: Gebruikers mogen via één pagina-indeling en URL op Verzamelingen klikken.
-seo-title: Verzameling wijzigen
-solution: Experience Manager
 title: Verzameling wijzigen
-uuid: 81c8a554-375f-4659-9e25-5b3618824633
+exl-id: 5ddae18f-0279-457d-ae02-85e24fe81150
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Verzameling {#change-collection} wijzigen
 
