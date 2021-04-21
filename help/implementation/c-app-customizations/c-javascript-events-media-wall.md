@@ -1,18 +1,14 @@
 ---
 description: Gebruik JavaScript-gebeurtenissen om te luisteren naar gebeurtenissen die in een mediamuur optreden en deze naar het hulpprogramma Analytics van uw keuze te verzenden.
-seo-description: Gebruik JavaScript-gebeurtenissen om te luisteren naar gebeurtenissen die in een mediamuur optreden en deze naar het hulpprogramma Analytics van uw keuze te verzenden.
-seo-title: Javascript-gebeurtenissen voor mediamuur
-solution: Experience Manager
 title: Javascript-gebeurtenissen voor mediamuur
-uuid: 8afc0529-4640-476a-b207-91b2c70101f0
+exl-id: 3fe76467-65e2-4f8b-bd75-5a2ffc3e7e15
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
-
 
 # Javascript-gebeurtenissen voor mediamuur{#javascript-events-for-media-wall}
 
@@ -38,12 +34,12 @@ Lijst met ondersteunde Media Wall-gebeurtenissen:
 | `Load` | Wanneer de mediamuur ongeacht de positie op een pagina is geladen. |
 | `PostButtonClick` | Wanneer een gebruiker op een Upload Knoop op een Muur van Media klikt. |
 | `RequestMore` | Wanneer de gebruiker meer inhoud in een Muur van Media laadt. |
-| `TwitterReplyClick` | Wanneer een gebruiker op de knop Reageren op Twitter klikt vanuit de mediamuur. |
+| `TwitterReplyClick` | Wanneer een gebruiker op de knop Twitter Reageren klikt vanuit de mediamuur. |
 | `TwitterRetweetClick` | Wanneer een gebruiker op de knop Twitter Retweet klikt vanuit de mediamuur. |
 | `TwitterLikeClick` | Wanneer een gebruiker op de knop Twitter like/Favorite klikt vanuit de mediamuur. |
 | `ModalView` | Wanneer de gebruiker klikt om de inhoud van de Muur van Media in een groter modaal venster te bekijken. |
 | `Like` | Wanneer een gebruiker de als knoop van de Muur van Media klikt. |
 | `ShareButtonClick` | Wanneer een gebruiker op de aandeelknoop op een kaart van de Muur van Media klikt. |
 | `ShareURL` | Wanneer Delen naar URL-tekstgebied is geselecteerd/gekopieerd vanuit de mediamuur. |
-| `ShareFacebook` | Wanneer u op Delen op Facebook klikt via de mediamuur. |
-| `ShareTwitter` | Wanneer u op Delen op Twitter klikt via de mediamuur. |
+| `ShareFacebook` | Wanneer u op Delen naar Facebook klikt via de mediamuur. |
+| `ShareTwitter` | Wanneer u op Delen naar Twitter klikt via de mediamuur. |
