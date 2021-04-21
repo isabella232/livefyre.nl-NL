@@ -1,26 +1,22 @@
 ---
 description: U kunt stroomregels maken die inhoud ophalen uit YouTube-regels.
-seo-description: U kunt stroomregels maken die inhoud ophalen uit YouTube-regels.
-seo-title: YouTube-regels
-solution: Experience Manager
 title: YouTube-regels
-uuid: ec6a3780-7119-45c3-8ab2-fb0f9803d161
+exl-id: 720a6fc6-d5de-4c78-a14e-51bced6e8dda
 translation-type: tm+mt
-source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
-
 
 # YouTube-regels {#youtube-rules}
 
 U kunt stroomregels maken die inhoud ophalen uit YouTube-regels.
 
-Maak YouTube-regels op basis van gebruiker, kanaal of afspeellijst.
+Maak YouTube-regels op basis van gebruikers, kanalen of afspeellijsten.
 
-Als u YouTube-regels wilt maken om inhoud van YouTube in uw app of map te plaatsen, kunt u filteren op:
+Als u YouTube Rules wilt maken om inhoud van YouTube naar uw app of map te halen, kunt u filteren op:
 
 * **[!UICONTROL User]**
    * Voer de ijdeligheidstekenreeks in voor een **[!UICONTROL User]** om video&#39;s van de gebruiker op te nemen in de stream.
