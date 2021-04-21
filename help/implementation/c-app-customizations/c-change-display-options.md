@@ -1,18 +1,14 @@
 ---
 description: Pas de weergaveopties van de app aan zodat deze overeenkomen met uw branding en stijl.
-seo-description: Pas de weergaveopties van de app aan zodat deze overeenkomen met uw branding en stijl.
-seo-title: Weergaveopties wijzigen
-solution: Experience Manager
 title: Weergaveopties wijzigen
-uuid: 121bb921-d9a7-4925-ab46-8e3d7dd0cbfe
+exl-id: 30da2022-9ec8-4f71-be94-facaa5971938
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
-
 
 # Weergaveopties wijzigen{#change-display-options}
 
@@ -31,4 +27,3 @@ In deze sectie worden de volgende beschikbare opties voor het aanpassen van de w
 * Beperk media om te voorkomen dat gebruikers opgegeven insluitingstypen uploaden.
 * Verberg App Elements om uw gebruikerservaring te vereenvoudigen.
 * Wijzig het pictogram LiveCycle `@mention` om een aangepast pictogram te selecteren dat u wilt weergeven in keuzemenu&#39;s met @vermeld voor leden van uw Livefyre-publiek.
-
