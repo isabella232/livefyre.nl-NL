@@ -1,18 +1,14 @@
 ---
 description: De mozaïekapp biedt deze functies voor uw site.
-seo-description: De mozaïekapp biedt deze functies voor uw site.
-seo-title: Mozaïekeigenschappen
-solution: Experience Manager
 title: Mozaïekeigenschappen
-uuid: 95129d56-a4c4-42d5-8c68-c5fc159017e6
+exl-id: 75417bcc-5a30-4928-b922-0dfa625d4525
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
-
 
 # Mozaïekkenmerken{#mosaic-features}
 
@@ -34,7 +30,6 @@ De mozaïekapp heeft de volgende functies:
 * [Echte streamingtijd](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_emd_syl_d1b)
 * [Stijlfuncties](/help/using/c-features-livefyre/c-styling-features/c-styling-features.md#c_styling_features)
 * [Vertaalsets](/help/using/c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets)
-* [Knoppen Twitter-actie](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
+* [Twitter-actieknoppen](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
 * [UGC-handel](/help/using/c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce)
 * [Functies voor on-site interventie](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_vzs_t2s_d1b)
-
