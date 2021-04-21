@@ -1,18 +1,14 @@
 ---
 description: Wanneer een gebruiker wordt uitgenodigd om tot Leven toegang te hebben, gebruikt de gebruiker de verbinding in e-mail om hun login en rekening tot stand te brengen.
-seo-description: Wanneer een gebruiker wordt uitgenodigd om tot Leven toegang te hebben, gebruikt de gebruiker de verbinding in e-mail om hun login en rekening tot stand te brengen.
-seo-title: Accepteer een uitnodiging om een Studio-account te maken
-solution: Experience Manager
 title: Accepteer een uitnodiging om een Studio-account te maken
-uuid: 7c3d11a3-9799-43ae-a63c-9ce2cb15782c
+exl-id: 7cea7f1e-ad4a-4a90-bcda-d6cb8a1e9016
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
-
 
 # Accepteer een Uitnodiging om een Rekening van de Studio te creëren{#accept-an-invitation-to-create-a-studio-account}
 
