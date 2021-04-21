@@ -1,18 +1,14 @@
 ---
 description: Om inhoud te voorzien, moet u eerst toelaten Aanbevolen Commentaren die in Studio plaatsen.
-seo-description: Om inhoud te voorzien, moet u eerst toelaten Aanbevolen Commentaren die in Studio plaatsen.
-seo-title: Functie-inhoud in Studio inschakelen
-solution: Experience Manager
 title: Functie-inhoud in Studio inschakelen
-uuid: d903a2fd-4173-4dd1-8afb-2f9b2c4468d1
+exl-id: 09f946c1-1cf9-4f64-a5cb-f6f602a3c05e
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
-
 
 # Functie-inhoud inschakelen in Studio{#enable-featuring-content-in-studio}
 
