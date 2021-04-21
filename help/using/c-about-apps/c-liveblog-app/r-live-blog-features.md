@@ -1,18 +1,14 @@
 ---
 description: De app Live Blog biedt de volgende functies voor uw site.
-seo-description: De app Live Blog biedt de volgende functies voor uw site.
-seo-title: Live-blogfuncties
-solution: Experience Manager
 title: Live-blogfuncties
-uuid: 5a9fede3-e150-4655-b5e1-3ddaee9a6ba1
+exl-id: f61ff31d-baf1-4862-b7ad-f2a8eb912000
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # Live-blogfuncties{#live-blog-features}
 
@@ -25,4 +21,3 @@ De app Live Blog biedt de volgende functies voor uw site.
 * Werk uw liveblog bij vanaf uw mobiele apparaat.
 * Laat antwoorden op elke blogupdate toe, om verhoogde dialoog en betrokkenheid rond elke Levende update van Blog aan te moedigen.
 * Foto&#39;s uploaden en aangepaste HTML toevoegen aan publicaties op hoofdniveau
-
