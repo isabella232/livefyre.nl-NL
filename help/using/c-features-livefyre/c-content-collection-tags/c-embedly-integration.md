@@ -1,24 +1,20 @@
 ---
 description: Gebruik embed.ly om meerdere mediaformaten direct in de app te tonen.
-seo-description: Gebruik embed.ly om meerdere mediaformaten direct in de app te tonen.
-seo-title: Embedly-integratie
-solution: Experience Manager
 title: Embedly-integratie
-uuid: 1f27e32c-c2c3-4f7c-93de-c9c7bf783d6a
+exl-id: 859fe306-367e-4207-b9f7-c730ba0cd24d
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 8%
+source-wordcount: '325'
+ht-degree: 5%
 
 ---
-
 
 # Embedly-integratie {#embedly-integration}
 
 Gebruik `embed.ly` om veelvoudige media formaten, direct in App te tonen.
 
-Om ingesloten media-inhoud van verschillende bronnen beter in te schakelen, zoals Google Maps, YouTube, Flickr, Facebook, Instagram, Spotify en Tumblr, gebruiken LiveCyre Apps Embedly als externe provider voor URL-uitbreiding. Als een gebruiker of moderator een gesteunde verbinding in een post omvat, zullen de media inbegrepen in de verbinding wanneer gepost aan de Inzameling uitbreiden.
+Voor een betere toegang tot ingesloten media-inhoud uit verschillende bronnen, zoals Google Maps, YouTube, Flickr, Facebook, Instagram, Spotify en Tumblr, gebruiken LiveCyre Apps Embedly als een externe provider voor URL-uitbreiding. Als een gebruiker of moderator een gesteunde verbinding in een post omvat, zullen de media inbegrepen in de verbinding wanneer gepost aan de Inzameling uitbreiden.
 
 Dit biedt Live Apps toegang tot de meer dan 250 verschillende ingesloten media-opties die insluiten ondersteunen.
 
@@ -67,4 +63,3 @@ Toepassingen die deze functie gebruiken:
 * [Storiseren 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Trend](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 * [Knop Uploaden](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
