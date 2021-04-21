@@ -1,18 +1,14 @@
 ---
 description: Zet elk stuk van elke pagina op uw plaats in een samenwerkings en interactief canvas.
-seo-description: Zet elk stuk van elke pagina op uw plaats in een samenwerkings en interactief canvas.
-seo-title: Aanbevolen werkwijzen voor identiteitsbewijzen
-solution: Experience Manager
 title: Aanbevolen werkwijzen voor identiteitsbewijzen
-uuid: 0f511fff-275a-436f-a81f-dbdf0bd39900
+exl-id: 2aa42a8b-89c2-4fd1-b21e-96eeb427bc47
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
-
 
 # Beste praktijken voor Sidenotes{#best-practices-for-sidenotes}
 
@@ -30,7 +26,7 @@ Omdat Sidenotes een nieuwe manier van commentaar presenteert, hebben de product-
 
 ## Bereik {#section_w1c_rc4_sy} uitbreiden
 
-Sidenotes biedt niet alleen een nieuw perspectief op het plaatsen van opmerkingen, maar ook op het sociaal delen van inhoud. Wanneer uw lezers een stuk tekst markeren, wordt met Sidenotes een knop weergegeven waarmee ze uw inhoud rechtstreeks naar Twitter of Facebook kunnen delen met twee klikken. Deze lage wrijvingservaring verhoogt uw viraal bereik en geeft uw gebruikers een nieuwe manier om gemakkelijk met uw inhoud in contact te komen.
+Sidenotes biedt niet alleen een nieuw perspectief op het plaatsen van opmerkingen, maar ook op het sociaal delen van inhoud. Wanneer uw lezers een stuk tekst benadrukken, duikt Sidenotes op een knoop zodat zij uw inhoud direct aan Twitter of Facebook met twee klikken delen. Deze lage wrijvingservaring verhoogt uw viraal bereik en geeft uw gebruikers een nieuwe manier om gemakkelijk met uw inhoud in contact te komen.
 
 ## Plaats uw community {#section_ipc_xc4_sy}
 
@@ -46,6 +42,6 @@ Sommige klanten vragen ons of zij tussen Sidenotes en Commentaren moeten kiezen,
 
 ## Creatief {#section_jxz_bd4_sy} ophalen
 
-Sidenotes heeft veel interessante gebruiksgevallen buiten een traditionele artikelpagina. Lijsten, transcripties, teksten, recepten en presentaties zijn allemaal geweldige mogelijkheden om de presentaties op te nemen. Ook, als u inhoud zoals playoff teams of prijzengenomineerden publiceert, staat Sidenotes uw gebruikers toe om microgesprekken op elke lijn te hebben.
+Sidenotes heeft veel interessante gebruiksgevallen buiten een traditionele artikelpagina. Lijsten, transcripties, teksten, recepten en presentaties zijn allemaal geweldige mogelijkheden om Sidenotes op te nemen. Ook, als u inhoud zoals playoff teams of prijzengenomineerden publiceert, staat Sidenotes uw gebruikers toe om microgesprekken op elke lijn te hebben.
 
 Universal Music Group-artiest Darius Rucker gebruikt Sidenotes om gebruikers in staat te stellen opmerkingen op zijn tekst achter te laten, zodat fans een specifiek gesprek kunnen voeren over elke regel van het nummer.
