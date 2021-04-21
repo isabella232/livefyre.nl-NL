@@ -1,14 +1,10 @@
 ---
 description: Opmerkingen bij de release van <DATE>.
-seo-description: Opmerkingen bij de release van <DATE>.
-seo-title: Opmerkingen bij de release
-solution: Experience Manager
 title: Opmerkingen bij de release
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: a314ad0bbc845c2f9e1a37d89137110e766529b4
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
