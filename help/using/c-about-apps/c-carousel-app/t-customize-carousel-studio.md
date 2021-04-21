@@ -1,24 +1,20 @@
 ---
 description: Wijzig de grootte, breedte en interactieopties van de Carousel-app.
-seo-description: Wijzig de grootte, breedte en interactieopties van de Carousel-app.
-seo-title: Een carrousel aanpassen met Studio
-solution: Experience Manager
 title: Een carrousel aanpassen met Studio
-uuid: 24f080fc-37bf-40d4-8c1a-a502ee8ac978
+exl-id: f6f681ac-c601-40b9-9e99-bf5495f505f8
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
-
 
 # Een carrousel aanpassen met Studio{#customize-a-carousel-using-studio}
 
 Wijzig de grootte, breedte en interactieopties van de Carousel-app.
 
-Alle toepassingen gebruiken **[!UICONTROL Style]** en **[!UICONTROL Config]** opties in **[!UICONTROL App Designer]**. Zie Apps aanpassen voor details over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle Apps in **[!UICONTROL App Designer]**.
+Alle toepassingen gebruiken **[!UICONTROL Style]** en **[!UICONTROL Config]** opties in **[!UICONTROL App Designer]**. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]**- en **[!UICONTROL Config]**-opties voor alle apps in **[!UICONTROL App Designer]**.
 
 U kunt een carrousel aanpassen met behulp van de volgende aanvullende opties in App Designer:
 
@@ -37,7 +33,7 @@ U kunt een carrousel aanpassen met behulp van de volgende aanvullende opties in 
 * **[!UICONTROL Call-to-action button]** U kunt de vraag-aan-actie knoop met een productcatalogus gebruiken om gebruikers aan een product of aan uw plaats voor verdere actie te leiden.
 
    * **[!UICONTROL Call-to-action button]** Schakelaar de knevel aan op om de vraag-aan-actie knoop te tonen.
-   * **[!UICONTROL Require rights to display products]** Schakel de schakeloptie in om te vereisen dat de eigenaar van de inhoud rechten voor de inhoud heeft verleend voordat een knop Aanroepen wordt weergegeven voor de inhoud.
+   * **[!UICONTROL Require rights to display products]** Schakel de schakeloptie in om te vereisen dat de eigenaar van de inhoud rechten voor de inhoud heeft verleend voordat een knop Aanroepen verschijnt voor de inhoud.
 
    >[!NOTE]
    >
