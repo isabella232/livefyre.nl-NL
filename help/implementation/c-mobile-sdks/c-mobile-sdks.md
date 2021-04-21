@@ -1,18 +1,14 @@
 ---
 description: Voeg LiveCycle toe aan uw systeemeigen mobiele apps.
-seo-description: Voeg LiveCycle toe aan uw systeemeigen mobiele apps.
-seo-title: Mobiele SDK's
-solution: Experience Manager
 title: Mobiele SDK's
-uuid: 84c7ca1c-3401-492a-bfa5-62b996947a44
+exl-id: e05001a4-6199-4d98-a661-123e031b657b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
-
 
 # Mobiele SDK&#39;s{#mobile-sdks}
 
@@ -66,4 +62,3 @@ De HTTP APIs is de groep eindpunten die u toestaat om gesprekken en inhoud op he
 >[!IMPORTANT]
 >
 >**Creëer** geen verificatietokens voor gebruikers binnen de mobiele client, omdat u hiervoor de sleutel voor het geheim netwerk van LiveCycle in een onbeveiligde app beschikbaar moet maken. Voor een robuustere en veiligere oplossing, zie de Tokens van de Authentificatie van de Gebruiker sectie.
-
