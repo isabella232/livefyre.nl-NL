@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Filmstripaanpassingen
-solution: Experience Manager
 title: Filmstripaanpassingen
-uuid: 99f8b697-4aa3-4813-bcac-d0e0bdee252d
+description: Filmstripaanpassingen
+exl-id: 2765699f-7adc-4b17-acfb-ef594ff65e89
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # Filmstripaanpassingen{#filmstrip-customizations}
 
@@ -28,7 +24,7 @@ U kunt Filmstrip aanpassen met de volgende aanvullende opties in App Designer:
 * **[!UICONTROL Call-to-action button]** U kunt de vraag-aan-actie knoop met een productcatalogus gebruiken om gebruikers aan een product of aan uw plaats voor verdere actie te leiden.
 
    * **[!UICONTROL Call-to-action button]** Schakelaar de knevel aan op om de vraag-aan-actie knoop te tonen.
-   * **[!UICONTROL Require rights to display products]** Schakel de schakeloptie in om te vereisen dat de eigenaar van de inhoud rechten voor de inhoud heeft verleend voordat een knop Aanroepen wordt weergegeven voor de inhoud.
+   * **[!UICONTROL Require rights to display products]** Schakel de schakeloptie in om te vereisen dat de eigenaar van de inhoud rechten voor de inhoud heeft verleend voordat een knop Aanroepen verschijnt voor de inhoud.
 
       >[!NOTE]
       >
@@ -54,4 +50,3 @@ U kunt Filmstrip aanpassen met de volgende aanvullende opties in App Designer:
    * **[!UICONTROL Show related content]**. Schakel deze optie in om inhoud weer te geven die is gepubliceerd naar de app, maar die is gelabeld met een andere product-id. Nadat de productspecifieke inhoud voor de app wordt weergegeven, geeft LiveCyre inhoud weer voor andere producten en inhoud die niet aan een product is gekoppeld. Livefyre geeft eerst prioriteit aan de inhoud met dezelfde product-id en vervolgens aan inhoud die met andere product-id&#39;s naar de app is gepubliceerd, waarna inhoud die zonder product-id&#39;s naar de app is gepubliceerd.
 
 Zie [Filmstripopties](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md) voor meer informatie over het aanpassen van een filmstrip met Livefyre.js.
-
