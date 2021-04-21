@@ -1,18 +1,14 @@
 ---
 description: Leer hoe te om van één gespreksApp type aan een andere te veranderen.
-seo-description: Leer hoe te om van één gespreksApp type aan een andere te veranderen.
-seo-title: Switch Core App-typen
-solution: Experience Manager
 title: Switch Core App-typen
-uuid: 442a517c-3809-46c5-bb5f-8668a29dc3e8
+exl-id: f18c97e8-8f39-4831-b907-afd438097e9e
 translation-type: tm+mt
-source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # De Types van Kern van de schakelaarApp{#switch-core-app-types}
 
