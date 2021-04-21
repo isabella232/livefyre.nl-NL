@@ -1,18 +1,14 @@
 ---
 description: Werken met het beheersysteem voor sociale gebruikers van Livefyre.
-seo-description: Werken met het beheersysteem voor sociale gebruikers van Livefyre.
-seo-title: Livefyre-id
-solution: Experience Manager
 title: Livefyre-id
-uuid: 5e9219b4-fbd7-40c6-9d57-129bb0649714
+exl-id: 1e6149b6-dcdb-4e2a-a19d-06b24fe1288a
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # LiveCyre-identiteit gebruiken{#livefyre-identity}
 
@@ -32,4 +28,3 @@ Sociale aanmelding toevoegen aan uw LiveCyre-integratie:
 >[!NOTE]
 >
 >Dit document bevat een overzicht van de specifieke aspecten van Livefy voor het maken van apps voor sociale providers. Livefyre is niet verantwoordelijk voor wijzigingen in hun interface en kan ook geen hulp bieden bij het maken van deze apps of het goedkeuringsproces ervan. Gebruik de beschikbare Twitter-, Facebook-, Yahoo!- en Google-ontwikkelaarsgegevens om deze apps te maken en navigeer naar het goedkeuringsproces (indien nodig).
-
