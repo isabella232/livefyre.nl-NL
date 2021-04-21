@@ -1,24 +1,20 @@
 ---
-description: U kunt Livefyre Identity gebruiken met Facebook om gebruikers in staat te stellen hun Facebook-aanmeldingen te gebruiken om te communiceren met Apps op uw site.
-seo-description: U kunt Livefyre Identity gebruiken met Facebook om gebruikers in staat te stellen hun Facebook-aanmeldingen te gebruiken om te communiceren met Apps op uw site.
-seo-title: Een Facebook-app maken voor gebruik met LiveCyre-id
-solution: Experience Manager
+description: Met LiveCycle Identity met Facebook kunt u gebruikers toestaan hun Facebook-aanmeldingen te gebruiken om te communiceren met Apps op uw site.
 title: Een Facebook-app maken voor gebruik met LiveCyre-id
-uuid: a7f7be4e-8986-4e79-831a-0bb0ae555599
+exl-id: ec320865-6ea3-4f6f-a5f6-31f3d5cbdc93
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
+# Een Facebook-toepassing maken voor gebruik met LiveCyre-identiteit{#create-a-facebook-app-for-use-with-livefyre-identity}
 
-# Een Facebook-app maken voor gebruik met LiveCyre Identity{#create-a-facebook-app-for-use-with-livefyre-identity}
+Met LiveCycle Identity met Facebook kunt u gebruikers toestaan hun Facebook-aanmeldingen te gebruiken om te communiceren met Apps op uw site.
 
-U kunt Livefyre Identity gebruiken met Facebook om gebruikers in staat te stellen hun Facebook-aanmeldingen te gebruiken om te communiceren met Apps op uw site.
-
-Om uw gebruikers in staat te stellen zich aan te melden met hun Facebook-gegevens, vereist Livefyre de volgende Facebook-toepassingsgegevens:
+Om uw gebruikers in staat te stellen zich aan te melden met hun Facebook-gebruikersgegevens, vereist LiveCyre de volgende Facebook-toepassingsgegevens:
 
 * Toepassings-id
 * App Secret
@@ -44,4 +40,4 @@ Een Facebook-app maken voor gebruik met LiveCycle Identity:
    * Maak de app openbaar.
    * Zorg ervoor dat **[!UICONTROL Approved Items]** voor **[!UICONTROL Login Permissions]** `email`, `public_profile`, en `user_friends` omvat.
 
-Wanneer deze bewerking is voltooid, wordt op de pagina Dashboard van de Facebook-ontwikkelaar de toepassings-id en het toepassingsgeheim vermeld voor gebruik in de Integratie-instellingen van Studio.
+Als de bewerking is voltooid, worden de toepassings-id en het toepassingsgeheim vermeld op de pagina van het dashboard van de Facebook-ontwikkelaar voor gebruik in de integratie-instellingen van Studio.
