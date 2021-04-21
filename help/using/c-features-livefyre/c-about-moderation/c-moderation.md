@@ -1,17 +1,14 @@
 ---
 description: De Livefyre Spam en de Misbruik het Filtreren Motor (SAFE), is een achtergrondproces dat alle inkomende inhoud analyseert, en voor alle klanten van Livefyre toegelaten.
-seo-description: De Livefyre Spam en de Misbruik het Filtreren Motor (SAFE), is een achtergrondproces dat alle inkomende inhoud analyseert, en voor alle klanten van Livefyre toegelaten.
-seo-title: VEILIGE REGELS
 title: VEILIGE REGELS
-uuid: 2f91d0d4-dffe-4651-88af-79bbb96c1b5c
+exl-id: 13cd8df0-c4b7-436e-ba07-64ec67321d6b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
-
 
 # VEILIGE regels{#safe-rules}
 
@@ -33,7 +30,7 @@ De vlaggen die door SAFE worden toegepast kunnen met de volgende componenten van
 
    U kunt VEILIGE regels bepalen om inhoud automatisch te markeren en te bepalen hoe de gemarkeerde inhoud in **[!UICONTROL Network Settings]** zou moeten worden behandeld.
 
-   Een site kan bijvoorbeeld een zeer lage tolerantie voor winstgevendheid instellen en VEILIGE regels definiëren die alle inhoud die als Winst wordt gemarkeerd, instellen op Bozo&#39;d. Andere plaatsen kunnen Regels bepalen die de inhoud van het Winst om voorgematigd te plaatsen alvorens de stroom in te gaan.
+   Een site kan bijvoorbeeld een zeer lage tolerantie voor winstgevendheid instellen en SAFE-regels definiëren waarmee alle inhoud die als Winst wordt gemarkeerd, wordt ingesteld op Bozo&#39;d. Andere plaatsen kunnen Regels bepalen die de inhoud van het Winst om voorgematigd te plaatsen alvorens de stroom in te gaan.
 
 * ModQ
 
@@ -107,4 +104,3 @@ Toepassingen die deze functie gebruiken:
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storiseren 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Knop Uploaden](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
