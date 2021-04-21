@@ -1,17 +1,14 @@
 ---
 description: Aangepaste stijlen worden toegepast via een object dat in de constructor Sidenotes wordt geïnjecteerd.
-seo-description: Aangepaste stijlen worden toegepast via een object dat in de constructor Sidenotes wordt geïnjecteerd.
-seo-title: Aangepaste stijlen voor markeringen
 title: Aangepaste stijlen voor markeringen
-uuid: 0f6d7ad6-1f6a-4ed2-b86a-0d03782e591e
+exl-id: 846605b7-a21e-4600-bf17-18841d2ed96d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
-
 
 # Aangepaste stijlen zoeken{#sidenotes-custom-styles}
 
@@ -57,4 +54,3 @@ new Livefyre.Sidenotes({
 | `streamPoweredBy` | &quot;backgroundColor&quot;, &quot;borderColor&quot;, &quot;lineHeight&quot; | Voettekst met de optie Aangedreven door. |
 | `streamQueueButton` | &quot;backgroundColor&quot;, &quot;borderColor&quot;, &quot;borderWidth&quot;, &quot;fontColor&quot;, &quot;fontFamily&quot;, &quot;fontSize&quot;, &quot;fontWeight&quot;, &quot;lineHeight&quot; | Knop om aan te geven wanneer nieuwe notities in een open pop-up worden gestreamd. |
 | `userAvatar` | &quot;height&quot;, &quot;width&quot; | De voor authentiek verklaarde afbeelding van de gebruiker avatar, links van de redacteur van het tekstgebied. |
-
