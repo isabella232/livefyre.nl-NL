@@ -1,18 +1,14 @@
 ---
 description: Pas de weergaveopties van de app aan zodat deze overeenkomen met uw branding en stijl en voeg aangepaste functionaliteit toe.
-seo-description: Pas de weergaveopties van de app aan zodat deze overeenkomen met uw branding en stijl en voeg aangepaste functionaliteit toe.
-seo-title: Toepassingsaanpassingen
-solution: Experience Manager
 title: Toepassingsaanpassingen
-uuid: 6f27654d-c2b4-45b5-aae7-6fbf312fb829
+exl-id: 897579fb-11b5-4a00-b2bf-86f505b79003
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Toepassingsaanpassingen{#app-customizations}
 
@@ -24,7 +20,7 @@ LiveCycle biedt verschillende manieren om de interactie en weergaveopties van uw
 
 >[!NOTE]
 >
->Deze aanpassingen zijn alleen beschikbaar voor apps die afhankelijk zijn van gebruikersposts en die zijn geconfigureerd met een ConvConfig-object: Chat, Opmerkingen, Live blog, Revisies en Sidenotes.
+>Deze aanpassingen zijn alleen beschikbaar voor apps die afhankelijk zijn van gebruikersposts en die zijn geconfigureerd met een ConvConfig-object: Chatten, Opmerkingen, Live blog, Revisies en Sidenotes.
 
 * **Weergaveopties wijzigen**
 
@@ -41,4 +37,3 @@ LiveCycle biedt verschillende manieren om de interactie en weergaveopties van uw
 * **Luisteren naar toepassingsgebeurtenissen**
 
    Gebruik beschikbare JavaScript-gebeurtenissen om uw gebruikerservaring verder aan te passen en bij te houden.
-
