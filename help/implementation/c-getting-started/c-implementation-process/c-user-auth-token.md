@@ -1,18 +1,14 @@
 ---
 description: In deze sectie wordt beschreven hoe u het JSON-object UserAuth genereert dat het token User Authentication (Gebruikersverificatie) maakt dat nodig is om gebruikers aan te melden bij uw apps.
-seo-description: In deze sectie wordt beschreven hoe u het JSON-object UserAuth genereert dat het token User Authentication (Gebruikersverificatie) maakt dat nodig is om gebruikers aan te melden bij uw apps.
-seo-title: Token van auteur
-solution: Experience Manager
 title: Token van auteur
-uuid: 6483debd-453c-4780-b19c-1d8041693617
+exl-id: 564144dd-6db4-447b-80ac-b743ecac833d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
-
 
 # Token van auteur{#user-auth-token}
 
@@ -64,4 +60,3 @@ network.build_user_auth_token(userId, displayName, expires)
 >[!NOTE]
 >
 >De sleutels van het netwerk worden niet gedeeld voor Livefyre demosite rekeningen. U ontvangt een netwerksleutel zodra LiveCycle een omgeving voor u heeft ingericht. Deze sleutel moet privé blijven.
-
