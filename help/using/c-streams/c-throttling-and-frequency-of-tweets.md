@@ -1,24 +1,20 @@
 ---
 description: Niet elke tweet die met een regel overeenkomt, wordt in een stream weergegeven.
-seo-description: Niet elke tweet die met een regel overeenkomt, wordt in een stream weergegeven.
-seo-title: Throttling en frequentie van tweets
-solution: Experience Manager
 title: Throttling en frequentie van tweets
-uuid: b9edfb1e-e6cf-4a48-8756-05f5f18d8799
+exl-id: 6b963f8a-1b61-4252-866b-567d7f556aca
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Throttling and Frequency of Tweets{#throttling-and-frequency-of-tweets}
 
 Niet elke tweet die met een regel overeenkomt, wordt in een stream weergegeven.
 
-Twitter-regelvertraging en onderbrekingen in de Twitter-feed kunnen het aantal tweets dat zichtbaar is in de stream beperken.
+Twitter-regelvertraging en onderbrekingen in de Twitter-feed kunnen het aantal tweets beperken dat zichtbaar is in de stream.
 
 >[!NOTE]
 >
@@ -30,5 +26,4 @@ Twitter-regelvertraging en onderbrekingen in de Twitter-feed kunnen het aantal t
    >
    >Om ervoor te zorgen dat de inhoud van de auteurs van uw hoge waarde in uw Apps, zelfs in hoge snelheidsstromen verschijnt, worden de Regels voor specifieke auteurs nooit vertraagd.
 
-* Twitter-voederonderbreking kan om verschillende redenen optreden. In sommige gevallen duikt Twitter geen tweets uit en daarom ontvangt Livefyre geen melding van de nieuwe inhoud en kan het niet worden weergegeven. Onderbreking van de service-API&#39;s van Twitter of van het verkeer op hashtags/trefwoorden met een hoog volume kan ook resulteren in gemiste tweets.
-
+* Om verschillende redenen kunnen er voederonderbrekingen in twitter optreden. In sommige gevallen wordt door Twitter geen tweets uitgezet, zodat Livefyre geen melding van de nieuwe inhoud ontvangt en deze niet kan worden weergegeven. Onderbreking van de dienst van APIs van Twitter, of verkeer op hoge volumetechags/sleutelwoorden, kunnen in gemiste Tweets ook resulteren.
