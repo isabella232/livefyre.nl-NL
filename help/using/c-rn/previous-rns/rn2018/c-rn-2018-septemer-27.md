@@ -1,18 +1,14 @@
 ---
 description: Opmerkingen bij de release van 27 september 2018.
-seo-description: Opmerkingen bij de release van 27 september 2018.
-seo-title: 27 september 2018
-solution: Experience Manager
 title: 27 september 2018
-uuid: 8d3b01fe-6d1f-4123-aaaf-3009e7c6599f
+exl-id: ea63c18e-7535-4e57-a569-efbbee376632
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
-
 
 # 27 september 2018{#september}
 
@@ -48,4 +44,3 @@ De kwesties in de volgende lijsten werden opgelost in de versie van UAT van deze
 |---|---|---|
 | Bug | AEM | Het probleem waarbij tweets die via Livefyre naar AEM Assets werden geïmporteerd, verbroken koppelingen hadden. |
 | Verbetering | Bibliotheek | De mogelijkheid om video&#39;s in de bibliotheek te filteren toegevoegd aan videolabels. |
-
