@@ -1,18 +1,14 @@
 ---
 description: U kunt deze tekstreeksen voor de knop Uploaden wijzigen.
-seo-description: U kunt deze tekstreeksen voor de knop Uploaden wijzigen.
-seo-title: Tekstreeksen knop uploaden
-solution: Experience Manager
 title: Tekstreeksen knop uploaden
-uuid: f4d24af3-c7cb-468d-96b9-b5360047b5dc
+exl-id: 10467ae3-294a-4c8f-99a4-201019b81ff1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
-
 
 # Tekstreeksen knop uploaden{#upload-button-text-strings}
 
@@ -39,4 +35,3 @@ U kunt deze tekstreeksen voor de knop Uploaden wijzigen.
 |  | Koptekst inschakelen | Schakel een koptekst in om context te bieden aan sitebezoekers. U kunt ervoor kiezen om de koptekst boven of rechts van de knop toe te voegen. |
 |  | Titel hoofdbijschrift | De tekst die voor de titel van de koptekst moet worden gebruikt. |
 |  | Hoofd Bijschrift | De tekst die in de koptekst moet worden gebruikt. |
-
