@@ -1,18 +1,14 @@
 ---
 description: LiveCycle biedt functies in apps waarmee u kunt kiezen hoe bezoekers van de site App-inhoud weergeven.
-seo-description: LiveCycle biedt functies in apps waarmee u kunt kiezen hoe bezoekers van de site App-inhoud weergeven.
-seo-title: Functies van gedrag bij inhoud
-solution: Experience Manager
 title: Functies van gedrag bij inhoud
-uuid: 4a1c6d6e-8785-49e8-aaf5-6fa4576d7232
+exl-id: ef477ca0-516f-45bf-9753-e050fe4cc6a1
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
-
 
 # Functies van inhoudsgedrag{#content-behavior-features}
 
@@ -91,4 +87,3 @@ Toepassingen die deze functie gebruiken:
 
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Opmerkingen](/help/using/c-about-apps/c-comments/c-comments.md)
-
