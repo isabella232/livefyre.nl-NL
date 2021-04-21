@@ -1,32 +1,28 @@
 ---
-description: U kunt stroomregels maken waarmee inhoud van Twitter wordt opgehaald.
-seo-description: U kunt stroomregels maken waarmee inhoud van Twitter wordt opgehaald.
-seo-title: Twitter-regels
-solution: Experience Manager
+description: U kunt stroomregels maken die inhoud uit Twitter ophalen.
 title: Twitter-regels
-uuid: a7fd2398-fd6b-4c24-92b2-7471176d7648
+exl-id: 3a5081eb-048d-4dcf-80a2-366af2cb2c86
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
 
+# Twitter Rules{#twitter-rules}
 
-# Twitter-regels{#twitter-rules}
+U kunt stroomregels maken die inhoud uit Twitter ophalen.
 
-U kunt stroomregels maken waarmee inhoud van Twitter wordt opgehaald.
-
-Maak Twitter-regels op basis van hashtags, trefwoorden, @mtifications of auteur.
+Maak Twitter-regels op basis van hashtags, trefwoorden, @mnotifications of auteur.
 
 Als u **[!UICONTROL Words]** en **[!UICONTROL Username]** voor uw regel toevoegt, wordt inhoud geretourneerd die beide items bevat.
 
 >[!NOTE]
 >
->Livefyre houdt zich aan de Twitter-weergaverichtlijnen en klanten zijn ook verantwoordelijk voor het naleven van deze richtlijnen. Raadpleeg de documentatie bij Twitter op de [Weergavevereisten](https://dev.twitter.com/terms/display-requirements) voor meer informatie.
+>Livefyre volgt de Twitter-weergaverichtlijnen en klanten zijn ook verantwoordelijk voor het naleven van deze richtlijnen. Raadpleeg de documentatie bij Twitter op de [Weergavevereisten](https://dev.twitter.com/terms/display-requirements) voor meer informatie.
 
-Als u Twitter-regels wilt maken om inhoud van Twitter-feeds naar uw app of map te halen, kunt u filteren op:
+Als u Twitter Rules wilt maken om inhoud van Twitter-feeds naar uw app of map te halen, kunt u filteren op:
 
 * **[!UICONTROL Keywords]**
    * Voer **[!UICONTROL Keywords]** in om te worden opgenomen in of uitgesloten van uw Twitter-stream. Als u waarden opgeeft voor zowel de velden **[!UICONTROL Contains any of these words]** als **[!UICONTROL Does not contain any of these words]**, worden tweets geretourneerd die de eerste bevatten en die de tweede niet bevatten. Er kunnen meerdere waarden voor één veld worden ingevoerd en dit levert resultaten op die een van de waarden bevatten. Als u de Booleaanse operator AND wilt gebruiken om te zoeken naar tweets met twee of meer woorden in de tweets, gebruikt u twee ampersanden (*&amp;&amp;*) om de twee woorden van elkaar te scheiden.
@@ -56,7 +52,7 @@ Als u wilt zoeken naar tweets die zowel de woorden *Giants* als *Posey* bevatten
 
 
 * **[!UICONTROL Additional Filters]**
-   * Gebruik extra filters om uw Twitter-regel verder te verfijnen. Bepaal of u:
+   * Gebruik extra filters om de Twitter-regel verder te verfijnen. Bepaal of u:
       * Neem **[!UICONTROL Replies]** op bij de beoogde tweets (als de stream hoge snelheid krijgt, wordt deze functie automatisch uitgeschakeld.)
       * Tweets opnemen van **[!UICONTROL Verified Twitter accounts only.]**
       * Inclusief **[!UICONTROL All Content]**, **[!UICONTROL Vines Only]** of **[!UICONTROL Images Only.]**
