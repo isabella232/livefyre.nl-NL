@@ -1,33 +1,29 @@
 ---
 description: Een overzicht van de weergavevereisten van Twitter.
-seo-description: Een overzicht van de weergavevereisten van Twitter.
-seo-title: Vereisten voor Twitter-weergave
-solution: Experience Manager
-title: Vereisten voor Twitter-weergave
-uuid: 705c25b8-4a25-4640-9843-074f50ebae4f
+title: Twitter-weergavevereisten
+exl-id: f985a47e-4bab-4e60-8b8b-d8c6e5321be7
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-
-# Vereisten voor Twitter-weergave{#twitter-display-requirements}
+# Twitter Display Requirements{#twitter-display-requirements}
 
 Sociale media netwerken vereisen vaak dat hun inhoud wordt getoond om aan hun merknormen te voldoen. Wanneer u het Livefyre-platform gebruikt om Twitter-inhoud opnieuw te presenteren, bent u altijd verantwoordelijk voor de naleving van de gebruiksvoorwaarden, inclusief de weergavevereisten. Zorg ervoor dat u de algemene voorwaarden en bepalingen van de toepassingen begrijpt voordat u de inhoud ervan weergeeft in uw Live Apps.
 
-Zie [Twitter&#39;s Display Requirements](https://about.twitter.com/company/display-requirements) documentatie voor meer informatie.
+Zie [Weergavevereisten van Twitter](https://about.twitter.com/company/display-requirements) documentatie voor meer informatie.
 
-Twitter stelt de volgende presentatievereisten voor:
+Twitter schrijft de volgende presentatievereisten voor:
 
 * Het online (web en mobiel) scherm moet alle volgende elementen bevatten:
 
    * Twitter-logo
    * Gebruikersnaam, @handle, avatar
    * Ongewijzigde tekst Tweet
-   * Twitter-acties (Reageren, Retweet, zoals)
+   * Twitter-handelingen (Reageren, Retweet, zoals)
    * Tijdstempel
 
 * Het passieve beeldscherm (uitzending, in-plaats, digitaal uit hulp) moet ten minste het volgende omvatten:
@@ -37,4 +33,4 @@ Twitter stelt de volgende presentatievereisten voor:
    * Gebruikersnaam en handgreep
 
 * Tweets mogen niet in de buurt van reclame of op een wijze die goedkeuring impliceert, worden gebruikt.
-* Tweets of Twitter-inhoud kunnen niet in een advertentie worden gebruikt, tenzij u hiervoor uitdrukkelijke toestemming van de gebruiker hebt.
+* Tweets of Twitter-inhoud kan niet in een advertentie worden gebruikt, tenzij u hiervoor uitdrukkelijke toestemming van de gebruiker hebt.
