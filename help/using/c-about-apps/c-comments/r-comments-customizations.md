@@ -1,18 +1,14 @@
 ---
 description: Pas opmerkingen aan om real-time gesprekken op uw site in te sluiten.
-seo-description: Pas opmerkingen aan om real-time gesprekken op uw site in te sluiten.
-seo-title: Opmerkingen aanpassen
-solution: Experience Manager
 title: Opmerkingen aanpassen
-uuid: 7ec08aaf-553f-49a2-b237-d4bdcb5714ff
+exl-id: 6a1de42c-4a0f-41c6-ba0d-8cdf0ebfbcea
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen aanpassen{#comments-customizations}
 
@@ -20,7 +16,7 @@ Pas opmerkingen aan om real-time gesprekken op uw site in te sluiten.
 
 
 
-Gebruik de beschikbare opties om uw gebruikers de mogelijkheid te bieden inhoud te delen via Twitter, Facebook en LinkedIn en om hun vrienden in de stream te plaatsen.
+Gebruik de beschikbare opties om uw gebruikers de mogelijkheid te bieden inhoud te delen in Twitter, Facebook en LinkedIn en om hun vrienden in de stream te plaatsen.
 
 * **[!UICONTROL Number of comments to load]**
 
@@ -60,7 +56,7 @@ Gebruik de beschikbare opties om uw gebruikers de mogelijkheid te bieden inhoud 
 
 * **[!UICONTROL Users may share posts]**
 
-   Als dit is ingeschakeld, kunnen gebruikers berichten delen. Als deze optie is ingeschakeld, kunnen gebruikers geposte inhoud delen naar Twitter, Facebook of LinkedIn. Zie Instellingen > Integratie-instellingen > Sociaal delen voor meer informatie over het inschakelen van delen.
+   Als dit is ingeschakeld, kunnen gebruikers berichten delen. Als deze optie is ingeschakeld, kunnen gebruikers geposte inhoud delen met Twitter, Facebook of LinkedIn. Zie Instellingen > Integratie-instellingen > Sociaal delen voor meer informatie over het inschakelen van delen.
 
 * **[!UICONTROL Featured content at top of stream]**
 
@@ -76,7 +72,6 @@ Gebruik de beschikbare opties om uw gebruikers de mogelijkheid te bieden inhoud 
 
 U kunt opmerkingen aanpassen met:
 
-* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor details over de standaard **[!UICONTROL Style]** en **[!UICONTROL Config]** opties voor alle Apps in **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** en  **[!UICONTROL Config]** opties voor alle toepassingen in de  **[!UICONTROL App Designer]** toepassing. Zie Apps aanpassen voor meer informatie over de standaard **[!UICONTROL Style]**- en **[!UICONTROL Config]**-opties voor alle apps in **[!UICONTROL App Designer]**.
 
 * **[!UICONTROL Integration tools]**. Zie Opmerkingen voor meer informatie over het aanpassen van opmerkingen met behulp van integratiegereedschappen.
-
