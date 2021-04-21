@@ -1,18 +1,14 @@
 ---
 description: De tekstreeksen aanpassen voor LiveRevisies.
-seo-description: De tekstreeksen aanpassen voor LiveRevisies.
-seo-title: Tekstreeksen controleren
-solution: Experience Manager
 title: Tekstreeksen controleren
-uuid: 86251e49-bc73-4eec-9f9b-b4b0a5b42099
+exl-id: 82ced091-d573-4514-9b91-3451a94ed5d3
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '700'
 ht-degree: 0%
 
 ---
-
 
 # Tekstreeksen controleren{#review-text-strings}
 
@@ -163,4 +159,3 @@ Tekenreeksen beschikbaar voor algemene foutberichten.
 |  | errorShowMore | Er is een fout opgetreden bij het laden van meer revisies. |
 |  | errorTitleMaxChars | Je titel is te lang. Bewerk het bestand en probeer het opnieuw. |
 |  | errorStemOwnComment | Je kunt niet op je eigen beoordeling stemmen |
-
