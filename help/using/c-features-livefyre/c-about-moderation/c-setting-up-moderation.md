@@ -1,18 +1,14 @@
 ---
 description: Gebruik het lusje van de Moderatie om premoderatieregels voor inkomende inhoud, met inbegrip van woekerlijsten, vlagregels, en verboden IP adressen te plaatsen.
-seo-description: Gebruik het lusje van de Moderatie om premoderatieregels voor inkomende inhoud, met inbegrip van woekerlijsten, vlagregels, en verboden IP adressen te plaatsen.
-seo-title: Moderatie instellen
-solution: Experience Manager
 title: Moderatie instellen
-uuid: 0ec53fdb-08c2-4058-88cb-2f6f4b56a95b
+exl-id: 09fc44c4-7ee1-47fd-ae68-885532a6f03f
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1299'
+source-wordcount: '1276'
 ht-degree: 0%
 
 ---
-
 
 # Moderatie instellen{#setting-up-moderation}
 
@@ -79,7 +75,7 @@ Voordat de inhoud van een stream naar een app wordt gepubliceerd, voert LiveCyre
 Voordat de inhoud van een App-bericht naar een app wordt gepubliceerd, voert LiveCyre de volgende controles uit om te bepalen wat er met de inhoud moet gebeuren:
 
 1. Als het filter VEILIG de inhoud als neerzetten markeert, laat Livefyre de inhoud vallen.
-1. Als SAFE de inhoud niet als daling markeert, controleert Livefyre of is premoderatie. Als de premoderatie is ingeschakeld, markeert Livefyre de inhoud als in behandeling. Als u ModQ-regels instelt, verzendt LiveCyre de inhoud naar ModQ als in behandeling. Als dat niet het geval is, blijft de inhoud in de bibliotheek in afwachting van de status in de App Content.
+1. Als SAFE de inhoud niet als daling markeert, controleert Livefyre of is premoderatie. Als de premoderatie is ingeschakeld, markeert Livefyre de inhoud als in behandeling. Als u ModQ-regels instelt, verzendt LiveCyre de inhoud naar ModQ als in behandeling. Als dat niet het geval is, blijft de inhoud in de bibliotheek in behandeling.
 1. Als premoderatie niet is ingeschakeld, controleert LiveCyre of de inhoud is gemarkeerd met SAFE. Als dat niet het geval is, keurt Livefyre de inhoud goed en publiceert het de inhoud naar de app.
 1. Als de VEILIGE vlaggen de inhoud en u opstelling de regels van de VEILIGHEID markeert, gebruikt Livefyre de VEILIGE regel om te bepalen hoe te om de inhoud te behandelen (verzend naar ModQ, afval, enz.). Als SAFE de inhoud markeert en u geen VEILIGE regels opstelde, dan keurt Livefyre de inhoud goed en publiceert de inhoud naar App.
 
@@ -94,7 +90,7 @@ Gebruik de sectie van Regels om pre-moderatieregels tot stand te brengen, die op
 * **[!UICONTROL Flag Rules:]** Geef een actie op die moet worden uitgevoerd op een opmerking die door gebruikers een bepaald aantal keren is gemarkeerd.
 * **[!UICONTROL SAFE Rules:]**combineer VEILIGE vlaggen met acties om de gemarkeerde inhoud over te nemen.
 
-Als u Vlagregels wilt maken, selecteert u de markering (Aanstootgevend, Van onderwerp, Niet akkoord of Spam), geeft u het aantal keren op dat deze op een stuk inhoud moet worden toegepast en selecteert u de actie die u wilt uitvoeren. U kunt één vlagregel instellen voor elke vlagoptie (Aanstootgevend, Uit Onderwerp, Niet akkoord of Spamma).
+Als u Vlagregels wilt maken, selecteert u de markering (Aanstootgevend, Niet-onderwerp, Niet-akkoord of Spam), geeft u het aantal keren op dat deze op een stuk inhoud moet worden toegepast en selecteert u de actie die u wilt uitvoeren. U kunt één vlagregel instellen voor elke vlagoptie (Aanstootgevend, Uit Onderwerp, Niet akkoord of Spamma).
 
 U kunt regels op de niveaus van het Netwerk, van de Plaats, en van de Stroom tot stand brengen. Regels op het niveau van de plaats erven netwerkregels, tenzij u de regels van de Plaats verschillend vormt. De regels van de stroom erven de regels van de Plaats tenzij u hen verschillend vormt.
 
