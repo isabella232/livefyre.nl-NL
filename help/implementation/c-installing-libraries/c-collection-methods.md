@@ -1,18 +1,14 @@
 ---
 description: Als u de gegevens in de verzameling wilt bijwerken, wijzigt u de inhoud van de methoden van de klasse Collection.
-seo-description: Als u de gegevens in de verzameling wilt bijwerken, wijzigt u de inhoud van de methoden van de klasse Collection.
-seo-title: Methoden van de klasse Collection
-solution: Experience Manager
 title: Methoden van de klasse Collection
-uuid: fd3163c6-981f-44b3-a7ba-6b4e85b0830d
+exl-id: e54fe99d-381a-433e-b42f-8be609864ca8
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
-
 
 # Methoden van de klasse Collection{#collection-class-methods}
 
@@ -33,4 +29,3 @@ Elk van deze methoden is beschikbaar voor de volgende codetypen:
 * PHP
 * Python
 * Ruby
-
