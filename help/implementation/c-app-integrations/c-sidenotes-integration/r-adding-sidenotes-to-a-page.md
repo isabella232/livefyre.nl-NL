@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Symbolen toevoegen aan een pagina
-solution: Experience Manager
 title: Symbolen toevoegen aan een pagina
-uuid: 6499c45a-3773-4adb-a6c7-22a628309afd
+description: Symbolen toevoegen aan een pagina
+exl-id: 3ec089d0-3d51-4918-b510-d30ef645c9c2
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '633'
 ht-degree: 0%
 
 ---
-
 
 # Sidennotaties toevoegen aan een pagina {#adding-sidenotes-to-a-page}
 
@@ -53,7 +49,7 @@ Beschikbare typen zijn:
 * **Media:** 3
 * **RTF:** 4
 
-Zie [updateAnchors methode](/help/implementation/c-app-integrations/c-sidenotes-integration/update-anchors-method.md) voor meer informatie over hoe te om de `updateAnchors` methode te gebruiken om inhoud Sidenote dynamisch aan de pagina toe te voegen.
+Zie [updateAnchors methode](/help/implementation/c-app-integrations/c-sidenotes-integration/update-anchors-method.md) voor meer over hoe te om de `updateAnchors` methode te gebruiken om inhoud Sidenote dynamisch aan de pagina toe te voegen.
 
 ## Aangepaste-thread-container {#section_jdh_btv_sy}
 
