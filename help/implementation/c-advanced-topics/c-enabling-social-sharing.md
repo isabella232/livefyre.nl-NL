@@ -1,18 +1,14 @@
 ---
 description: Stel referenties in waarmee uw gebruikers inhoud kunnen delen met verschillende sociale netwerken.
-seo-description: Stel referenties in waarmee uw gebruikers inhoud kunnen delen met verschillende sociale netwerken.
-seo-title: Sociaal delen inschakelen
-solution: Experience Manager
 title: Sociaal delen inschakelen
-uuid: f584a0ae-46c7-48c1-aea4-36da9f1e259b
+exl-id: 08ac9766-52ea-432f-8b4f-bf68cb8b62bc
 translation-type: tm+mt
-source-git-commit: d77b633b9892e3ea4aaec860317887f1fdf66830
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
-
 
 # Sociaal delen inschakelen {#enabling-social-sharing}
 
@@ -42,7 +38,7 @@ Gebruik het deelvenster Integratie-instellingen van de Admin Console om de volge
 
 ## Twitter {#section_qp5_1yl_b1b}
 
-Twitter-referenties zijn beschikbaar op het Twitter App Dashboard. U kunt als volgt deze referenties vinden:
+Twitter-referenties zijn beschikbaar via het Twitter App Dashboard. U kunt als volgt deze referenties vinden:
 
 * Open [Twitter&#39;s App Dev Page](https://dev.twitter.com/apps) als eigenaar van de app, zoek de toepassing en klik op de titel.
 * De rol neer aan &quot;Uw toegangstoken&quot;en grijpt de waarden van &quot;het teken van de Toegang&quot;en &quot;het symbolische geheim van de Toegang.&quot;
@@ -55,13 +51,13 @@ U moet:
 
 >[!NOTE]
 >
->Alle toepassingen die Twitter-inhoud weergeven, zijn vereist om aan de vereisten voor weergave te voldoen. Zie [Twitter-weergaverichtlijnen](https://dev.twitter.com/terms/display-requirements) voor meer informatie.
+>Alle toepassingen die Twitter-inhoud weergeven, zijn vereist om aan hun weergavevereisten te voldoen. Zie [Twitter Display Guidelines](https://dev.twitter.com/terms/display-requirements) voor meer informatie.
 
-## LinkedIn {#section_lfz_zxl_b1b}
+## linkedIn {#section_lfz_zxl_b1b}
 
-LinkedIn geloofsbrieven zijn beschikbaar bij de sectie van Sleutels OAuth van uw Sleutels van API LinkedIn van de Toepassing.
+linkedIn-referenties zijn beschikbaar via de sectie OAuth-toetsen van de API-sleutels van uw LinkedIn-toepassing.
 
-* Meld u aan bij uw account op de pagina [https://developer.linkedin.com/](https://developer.linkedin.com/) van LinkedIn&#39;s Developers.
+* Meld u aan bij uw account op de pagina [https://developer.linkedin.com/](https://developer.linkedin.com/) van LinkedIn voor ontwikkelaars.
 * Houd de muisaanwijzer boven uw naam in de rechterbovenhoek en selecteer API-toetsen in het vervolgkeuzemenu.
 * Klik op de titel Toepassing.
 * De waarden voor de API-sleutel en de geheime sleutel ophalen uit de sectie OAuth-toetsen
@@ -70,18 +66,18 @@ LinkedIn geloofsbrieven zijn beschikbaar bij de sectie van Sleutels OAuth van uw
 
 Facebook-referenties zijn beschikbaar op de pagina Developer Apps.
 
-* Open [De pagina Developer Apps Page](https://developers.facebook.com/apps) van Facebook als eigenaar van de app, zoek de toepassing en klik op de titel.
+* Open [Facebook&#39;s Developer Apps Page](https://developers.facebook.com/apps) als eigenaar van de app, zoek de toepassing en klik op de titel.
 * Pak de waarden voor de toepassings-id en het toepassingsgeheim vast. Voor App Secret, kunt u de knoop van de Show moeten klikken om het te tonen.
 
-Als u bestanden wilt delen op Facebook, moet u een pagina voor omleiding instellen om Facebook-verzoeken in te dienen en zich aan de domeinpraktijken te houden die vereist zijn door [Facebook](https://developers.facebook.com/docs/reference/dialogs/oauth/). De pagina moet op uw domein worden gehost, zodat Facebook kan controleren of de aanvraag afkomstig is van een legitieme bron.
+Als u bestanden wilt delen met Facebook, moet u een omleidingspagina instellen om Facebook-verzoeken in te dienen en zich aan de domeinpraktijken te houden die worden vereist door [Facebook](https://developers.facebook.com/docs/reference/dialogs/oauth/). De pagina moet op uw domein worden gehost, zodat Facebook kan controleren of het verzoek afkomstig is van een geldige bron.
 
-### Facebook Redirect
+### Facebook omleiden
 
 De gehoste pagina moet de volgende code bevatten:
 
 ### Ruby
 
-Dit is een voorbeeld van het gebruik van Ruby en Rails om de Facebook OAuth omleiding te doen.
+Dit is een voorbeeld van het gebruik van Ruby en Rails om de Facebook OAuth om te leiden.
 
 ```ruby
 require "base64" 
@@ -118,7 +114,7 @@ end
 
 ### Python
 
-Dit is een voorbeeld van het gebruik van Python en Django om de OAuth-omleiding op Facebook uit te voeren.
+Dit is een voorbeeld van het gebruik van Python en Django voor het omleiden van Facebook OAuth.
 
 ```python
 import base64, re 
@@ -160,7 +156,7 @@ def handle_lfoauth(request):
 
 ### NodeJS
 
-Dit is een voorbeeld van het gebruik van NodeJS en Sail/Express voor het omleiden van Facebook OAuth.
+Dit is een voorbeeld waarbij NodeJS en Sail/Express worden gebruikt om de Facebook OAuth-omleiding uit te voeren.
 
 ```nodejs
 /* 
@@ -205,7 +201,7 @@ module.exports = {
 
 ### Java
 
-Dit is een voorbeeld van het gebruik van Java- en lentecontrollers om de Facebook OAuth-omleiding uit te voeren.
+Dit is een voorbeeld van het gebruik van Java- en lentecontrollers voor het omleiden van Facebook OAuth.
 
 ```java
 /* 
@@ -334,7 +330,7 @@ if (isset($_GET['lfoauth'])) {
 
 ## &quot;Post to&quot;-providers {#section_rdk_dpl_b1b} configureren
 
-Standaard worden de knoppen Facebook, LinkedIn en Twitter &quot;Post to&quot; weergegeven in de Livefyre Core-toepassingen. Gebruik de parameter postToButtons om te configureren welke providers worden weergegeven bij het insluiten van de Livefyre-app.
+Standaard worden de knoppen &quot;Post to&quot; van Facebook, LinkedIn en Twitter weergegeven in LiveCycle Core-toepassingen. Gebruik de parameter postToButtons om te configureren welke providers worden weergegeven bij het insluiten van de Livefyre-app.
 
 ```
 var convConfig = {}; // Ignoring other options for this example 
@@ -346,4 +342,4 @@ fyre.conv.load(networkConfig, [convConfig], function() {});
 
 * tw: Twitter
 * fb: Facebook
-* li: LinkedIn
+* li: linkedIn
