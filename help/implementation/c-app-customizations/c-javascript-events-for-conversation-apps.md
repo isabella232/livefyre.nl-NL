@@ -1,18 +1,14 @@
 ---
 description: De beschikbare gebeurtenissen waaraan u JavaScript voor conversatieapps kunt binden (bijvoorbeeld Comments, Chat, Live Blog, Reviews en Sidenotes).
-seo-description: De beschikbare gebeurtenissen waaraan u JavaScript voor conversatieapps kunt binden (bijvoorbeeld Comments, Chat, Live Blog, Reviews en Sidenotes).
-seo-title: Javascript-gebeurtenissen voor conversie-apps
-solution: Experience Manager
 title: Javascript-gebeurtenissen voor conversie-apps
-uuid: cce112b5-7c3a-4721-9854-fc8471f3d5d0
+exl-id: 2497346e-b2cc-44b2-bcd9-906dd443fe38
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 11%
+source-wordcount: '516'
+ht-degree: 8%
 
 ---
-
 
 # Javascript-gebeurtenissen voor conversie-apps{#javascript-events-for-conversation-apps}
 
@@ -31,8 +27,8 @@ Hieronder volgt een matrix van de gebeurtenissen die beschikbaar zijn voor conve
 | Weergave | X | X | X | X |  |  |  |
 | Post | X | X | X | X |  | N.v.t. | N.v.t. |
 | Gepost | X | X | X | X | X | N.v.t. | N.v.t. |
-| Twitter-reactie | X | X | X | N.v.t. | N.v.t. | N.v.t. | N.v.t. |
-| Twitter-achtig | X | X | X | N.v.t. | N.v.t. | N.v.t. | N.v.t. |
+| Twitter Reageren | X | X | X | N.v.t. | N.v.t. | N.v.t. | N.v.t. |
+| Twitter like | X | X | X | N.v.t. | N.v.t. | N.v.t. | N.v.t. |
 | LF-achtig | X | X | X | X | N.v.t. | N.v.t. | N.v.t. |
 | LF in tegenstelling | X | X | X | X | N.v.t. | N.v.t. | N.v.t. |
 | Delen op bericht | X | X |  | X | N.v.t. | N.v.t. | N.v.t. |
@@ -66,4 +62,3 @@ Hieronder volgt een matrix van de gebeurtenissen die beschikbaar zijn voor conve
 | Inhoudstype | X | X | X | X |  |  |  |
 | Gepubliceerde datum voor app |  |  |  |  |  |  |  |
 | Aangemeld bij de eindgebruikertoepassing |  |  |  |  |  |  |  |
-
