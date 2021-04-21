@@ -1,18 +1,14 @@
 ---
 description: Gebruik het veld Zoeken boven aan de pagina om sitebezoekers te zoeken op Weergavenaam, Gebruikersnaam, E-mailadres of de datum waarop ze zich bij uw LiveCycle-netwerk hebben gevoegd.
-seo-description: Gebruik het veld Zoeken boven aan de pagina om sitebezoekers te zoeken op Weergavenaam, Gebruikersnaam, E-mailadres of de datum waarop ze zich bij uw LiveCycle-netwerk hebben gevoegd.
-seo-title: Zoeken naar gebruikers
-solution: Experience Manager
 title: Zoeken naar gebruikers
-uuid: 613ea931-760a-4db6-ac00-a4199708b95c
+exl-id: 7e85fe5a-1bcc-400c-9e0c-bf00c455b860
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # Zoeken naar gebruikers{#search-for-users}
 
@@ -28,4 +24,3 @@ Gebruik het veld Zoeken boven aan de pagina om sitebezoekers te zoeken op Weerga
 1. Alleen **[!UICONTROL Banned]** of **[!UICONTROL Whitelisted]** gebruikers weergeven.
 1. Alleen **[!UICONTROL Studio]** gebruikers weergeven.
 1. Alleen die accounts weergeven waaraan de invoer **[!UICONTROL User Tags]** is gekoppeld. ![](assets/UsersFilter-1024x568.png)
-
