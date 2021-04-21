@@ -1,17 +1,14 @@
 ---
 description: Leer hoe u Experience Manager Livefyre met Hootsuite gebruikt, zodat u door de gebruiker gegenereerde inhoud rechtstreeks vanuit het dashboard van de Hootsuite kunt beheren en delen.
-seo-description: Leer hoe u Experience Manager Livefyre met Hootsuite gebruikt, zodat u door de gebruiker gegenereerde inhoud rechtstreeks vanuit het dashboard van de Hootsuite kunt beheren en delen.
-seo-title: Adobe Experience Manager Livefyre gebruiken met Hootsuite
 title: Adobe Experience Manager Livefyre gebruiken met Hootsuite
-uuid: ebf2ba17-1622-4bbe-a374-fb325357ef9f
+exl-id: 1ca84c72-95ec-485d-9c8e-ace4487225d6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Experience Manager Livefyre gebruiken met Hootsuite{#use-adobe-experience-manager-livefyre-with-hootsuite}
 
@@ -96,7 +93,7 @@ toont koppelingen voor dit document, de ondersteuning en de website van Synaptiv
 
 ## Insteekmodule {#task_33C8CEF4F5E44830B970BB3A7AAA2AA6} voor Livefyre-toepassing Experience Managers
 
-U kunt uw elementenbibliotheken niet alleen weergeven in een Hootsuite-stream, maar ook items opslaan van Instagram-, Twitter-, Facebook- en YouTube-streams naar uw Experience Manager LiveCyre-bibliotheken.
+U kunt uw elementenbibliotheken niet alleen weergeven in een Hootsuite-stream, maar u kunt ook items uit Instagram-, Twitter-, Facebook- en YouTube-streams opslaan in uw Experience Manager Livefyre-bibliotheken.
 
 1. Klik op het menupictogram onder aan elk item.
 
@@ -109,11 +106,11 @@ U kunt uw elementenbibliotheken niet alleen weergeven in een Hootsuite-stream, m
 
 1. Klik **Opslaan in bibliotheek** en het item wordt opgeslagen in de bibliotheken die u hebt geselecteerd.
 
-## Experience Manager Livefyre Media Library Component {#task_9CA2D5D49F8E463F9EF475BC09C8ACC9}
+## Experience Manager Livefyre Media Library-component {#task_9CA2D5D49F8E463F9EF475BC09C8ACC9}
 
 U hebt toegang tot uw middelen via Media Components (Media-componenten van Hootsuite Composer).
 
-1. Klik in de Composer op de koppeling **Mediabibliotheek openen** in de sectie **Media**.
+1. Klik in de Composer op de koppeling **Media Library openen** in de sectie **Media**.
 
    ![](assets/hootsuite-open-media-library.png)
 
