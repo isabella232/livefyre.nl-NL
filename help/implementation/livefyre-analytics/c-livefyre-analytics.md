@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: LiveCycle gebruiken met Ander Analyseprogramma
-solution: Experience Manager
 title: LiveCycle gebruiken met Ander Analyseprogramma
-uuid: 26c835f6-aced-41f7-aabe-418afce8a829
+description: LiveCycle gebruiken met Ander Analyseprogramma
+exl-id: da29e281-5095-4e99-a248-19390f2059a2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
-
 
 # LiveCycle gebruiken met Ander Analytics Tool{#use-livefyre-with-other-analytics-tool}
 
@@ -61,4 +57,3 @@ Zodra de functionaliteit Livefyre.analytics op de pagina beschikbaar is, voer de
 1. De handler analytics ontvangt een array met gebeurtenissen die moeten worden doorlopen en afzonderlijk of als batch moeten worden verzonden, als uw provider dit ondersteunt.
 1. Wijs de gebeurtenisgegevens toe die door de manager aan een formaat worden ontvangen dat uw analyseleverancier vereist.
 1. Verzend de gegevens naar het analysebureau.
-
