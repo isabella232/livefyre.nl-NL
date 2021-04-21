@@ -1,22 +1,18 @@
 ---
-description: Deze opties zijn van toepassing op stroomregels van alle sociale netwerken of postingsmethoden.
-seo-description: Deze opties zijn van toepassing op stroomregels van alle sociale netwerken of postingsmethoden.
-seo-title: Opties voor stroomregel voor alle stroomregels
-solution: Experience Manager
+description: Deze opties zijn van toepassing op streamregels van alle sociale netwerken of postingsmethoden.
 title: Opties voor stroomregel voor alle stroomregels
-uuid: 4072ee83-31e7-4de6-918c-134b8b8032e1
+exl-id: eff1a3cb-395f-4eb1-be93-f0f09bba95e2
 translation-type: tm+mt
-source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
 
-
 # De Opties van de Regel van de stroom voor Alle Regels van de Stroom{#stream-rule-options-for-all-stream-rules}
 
-Deze opties zijn van toepassing op stroomregels van alle sociale netwerken of postingsmethoden.
+Deze opties zijn van toepassing op streamregels van alle sociale netwerken of postingsmethoden.
 
 Functies zoeken voor tekst en trefwoordvelden:
 
