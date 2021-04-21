@@ -1,17 +1,14 @@
 ---
 description: Maak een privacyaanvraag in LiveCyre.
-seo-description: Maak een privacyaanvraag in LiveCyre.
-seo-title: Een privacyaanvraag maken
 title: Een privacyaanvraag maken
-uuid: 9fdbd564-0cea-4e4f-bdea-d5b8744fe63a
+exl-id: 117e1edb-becd-45f2-bfe5-12fb19ad01e0
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '609'
 ht-degree: 0%
 
 ---
-
 
 # Een privacyverzoek maken{#create-a-privacy-request}
 
@@ -52,19 +49,19 @@ U kunt als volgt een gebruiker zoeken en zoeken en een rapport over de inhoud er
          * Toegestane waarden: Alfanumerieke tekenreeks van maximaal 255 tekens. Een e-mailadres is geen geldige invoer
       * **[!UICONTROL Facebook User]**
 
-         * Hiermee wordt een account aangeduid met een numerieke id die door Facebook is opgegeven. De aanvrager moet dit opgeven. U vindt instructies over het zoeken naar de numerieke Facebook-id [hier](https://www.facebook.com/help/1397933243846983?helpref=faq_content)
+         * Identificeert een account met een numerieke id die door Facebook is opgegeven. De aanvrager moet dit opgeven. U vindt instructies voor het zoeken naar de numerieke Facebook-id [hier](https://www.facebook.com/help/1397933243846983?helpref=faq_content)
          * Toegestane waarden: 6-16 numerieke tekens
       * **[!UICONTROL Instagram User]**
 
-         * Identificeert de account met een numerieke id die door Instagram wordt opgegeven. De aanvrager moet dit opgeven. U vindt instructies voor het zoeken van de numerieke Instagram-id op een Instagram-account
+         * Identificeert de rekening door een numerieke identiteitskaart die door Instagram wordt verstrekt. De aanvrager moet dit opgeven. U vindt instructies voor het zoeken naar de numerieke Instagram-id op een Instagram-account. Dit doet u door online te zoeken
          * Toegestane waarden: 5-16 numerieke tekens
       * **[!UICONTROL Twitter User]**
 
-         * Hiermee wordt een account aangeduid met een numerieke id die door Twitter is opgegeven. De persoon die de privacywijziging aanvraagt, moet dit opgeven. U vindt instructies voor het zoeken naar de numerieke Twitter-id van een Twitter-account
+         * Identificeert een account met een numerieke id die door Twitter is opgegeven. De persoon die de privacywijziging aanvraagt, moet dit opgeven. U vindt instructies voor het zoeken naar de numerieke Twitter-id van een Twitter-account. Dit doet u door online te zoeken
          * Toegestane waarden: 5-16 numerieke tekens
       * **[!UICONTROL YouTube User]**
 
-         * Hiermee wordt een account aangeduid met een numerieke id die door YouTube is opgegeven. De persoon die de privacywijziging aanvraagt, moet dit opgeven. U vindt instructies over het zoeken naar de numerieke YouTube-id op een YouTube-account [hier](https://support.google.com/youtube/answer/3250431?hl=en)
+         * Identificeert een account met een numerieke id die door YouTube is opgegeven. De persoon die de privacywijziging aanvraagt, moet dit opgeven. U vindt instructies voor het zoeken naar de numerieke YouTube-id op een YouTube-account [hier](https://support.google.com/youtube/answer/3250431?hl=en)
          * Toegestane waarden: 5-16 numerieke tekens
       * **[!UICONTROL Generic Author]**
 
@@ -90,4 +87,3 @@ U kunt als volgt een gebruiker zoeken en zoeken en een rapport over de inhoud er
    >[!IMPORTANT]
    >
    >Als u gegevens voor een account verwijdert, worden de aan de account gekoppelde gegevens permanent verwijderd of vernietigd. U kunt deze handeling niet ongedaan maken en u kunt de gegevens ook niet herstellen nadat u deze hebt verwijderd.
-
