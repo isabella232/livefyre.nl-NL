@@ -1,18 +1,14 @@
 ---
 description: Gebruikers toestaan inhoud in uw verzamelingen te plaatsen, te bewerken, te markeren, te verwijderen, erop te reageren en op te houden, met een volledig scala aan opties voor tekstopmaak.
-seo-description: Gebruikers toestaan inhoud in uw verzamelingen te plaatsen, te bewerken, te markeren, te verwijderen, erop te reageren en op te houden, met een volledig scala aan opties voor tekstopmaak.
-seo-title: Gebruikersberichten
-solution: Experience Manager
 title: Gebruikersberichten
-uuid: 41242f4d-614c-4737-a1f6-6f0a914f5f7f
+exl-id: 8a9e2bef-d53c-4693-bc54-6186d08ac7d0
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
-
 
 # Gebruikersberichten{#user-posts}
 
@@ -40,7 +36,7 @@ Gebruikers kunnen opmerkingen opmaken met RTF-opmaak, zoals vet, cursief, onders
 
 Gebruikers kunnen reageren op opmerkingen in een thread door op de koppeling Reageren voor die opmerking te klikken.
 
-Voor Chat en Levende Blog, kunnen de antwoorden worden toegelaten of worden onbruikbaar gemaakt gebruikend de montages van de Inzameling binnen Studio.
+Voor Chat en Levende Blog, kunnen de antwoorden worden toegelaten of onbruikbaar gemaakt gebruikend de montages van de Inzameling binnen Studio.
 
 ## Als {#section_its_kw2_wy}
 
@@ -102,4 +98,3 @@ Toepassingen die gebruikmaken van gebruikersberichten:
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storiseren 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Knop Uploaden](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
