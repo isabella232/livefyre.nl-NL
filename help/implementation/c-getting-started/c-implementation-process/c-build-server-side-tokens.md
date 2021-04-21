@@ -1,18 +1,14 @@
 ---
 description: Een gids voor het bouwen van collectionMeta en auth tokens.
-seo-description: Een gids voor het bouwen van collectionMeta en auth tokens.
-seo-title: Server-zijtokens maken
-solution: Experience Manager
 title: Server-zijtokens maken
-uuid: 8313f26e-5ceb-414e-a61a-480bb7a8ba66
+exl-id: f709b79e-9236-443e-b862-c7d281815d91
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
-
 
 # Server-zijtokens maken{#build-server-side-tokens}
 
@@ -41,4 +37,3 @@ Als u het token wilt maken, gebruikt u de voorkeurstaalbibliotheek om de volgend
 | userId | Tekenreeks *required* | De id van de gebruiker die zich aanmeldt als opgeslagen in uw gebruikersbeheersysteem (alleen alfanumerieke tekens, streepjes, onderstrepingstekens en punttekens zijn toegestaan: `[a-zA-Z0-9_-.]`). **Opmerking:** de gebruikersnaam moet uniek zijn. |
 | verloopt | Geheel *vereist* | Wanneer het token vanaf nu (in seconden) moet verlopen. **Opmerking:** deze waarde kan ook als een zwevende waarde worden doorgegeven. Deze waarde wordt opgeslagen in de JSON-webtoken die wordt gemaakt in de tijdperk UNIX. |
 | displayName | Tekenreeks *required* | Tekst om deze gebruiker te identificeren in de gebruikersinterface en in opmerkingen. (Maximum aantal tekens: 50.) |
-
