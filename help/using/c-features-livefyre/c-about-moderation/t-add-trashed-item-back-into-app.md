@@ -1,17 +1,14 @@
 ---
 description: Als u een item in ModQ als afval opslaat, kunt u het item weer toevoegen aan de app met een sociale zoekopdracht.
-seo-description: Als u een item in ModQ als afval opslaat, kunt u het item weer toevoegen aan de app met een sociale zoekopdracht.
-seo-title: Een neergezet item weer toevoegen aan een app
 title: Een neergezet item weer toevoegen aan een app
-uuid: 96c5db19-999f-476f-a96c-ad101028d484
+exl-id: 6d00e065-c165-4189-914b-a1682b182e7c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # Voeg een Verlopen Punt terug in een app{#add-a-trashed-item-back-into-an-app} toe
 
@@ -23,6 +20,6 @@ Als u een item in ModQ als afval opslaat, kunt u het item weer toevoegen aan de 
 1. Voer een Hashtag in.
 1. Selecteer inhoud.
 1. Selecteer de drie stippen in de rechterbenedenhoek van de inhoud.
-1. Klik **[!UICONTROL Publish]** om de inhoud naar correcte App te publiceren.
+1. Klik **[!UICONTROL Publish]** om de inhoud aan correcte App te publiceren.
 
    WAARSCHUWING: Selecteer **[!UICONTROL Bulk Clear]** niet in ModQ. Als u **[!UICONTROL Bulk Clear]** selecteert, wordt alle inhoud verwijderd uit ModQ. Als u de inhoud weer wilt toevoegen aan ModQ, moet u een sociale zoekopdracht uitvoeren voor revisie en goedkeuring.
