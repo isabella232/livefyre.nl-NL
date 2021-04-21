@@ -1,18 +1,14 @@
 ---
 description: De gids van de Navigatie voorziet uw publiek van een manier om zeer belangrijke informatie in te identificeren en snel van de plaats te bepalen Storify.
-seo-description: De gids van de Navigatie voorziet uw publiek van een manier om zeer belangrijke informatie in te identificeren en snel van de plaats te bepalen Storify.
-seo-title: Navigatiehandleiding
-solution: Experience Manager
 title: Navigatiehandleiding
-uuid: dc32df5b-ad6f-4b3b-8496-38873c383691
+exl-id: 469fd5f9-2e16-4e28-ae5d-41b51a74aeed
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
-
 
 # Navigatiegids{#navigation-guide}
 
