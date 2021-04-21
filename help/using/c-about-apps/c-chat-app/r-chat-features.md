@@ -1,18 +1,14 @@
 ---
 description: Chat biedt verschillende functies om een snelle en boeiende dialoog aan te moedigen.
-seo-description: Chat biedt verschillende functies om een snelle en boeiende dialoog aan te moedigen.
-seo-title: Chatfuncties
-solution: Experience Manager
 title: Chatfuncties
-uuid: 8773a8f9-96cd-41db-80dd-261af749e4b1
+exl-id: 38812de7-ee3f-411f-afac-7a1d5b672292
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Chatfuncties{#chat-features}
 
@@ -30,4 +26,3 @@ Om een snelle en boeiende dialoog aan te moedigen, verschilt Chat op de volgende
 * De knop Als wordt alleen weergegeven wanneer u de muisaanwijzer op een opmerking plaatst.
 * De Likes op een commentaar verschijnen zonder avatars, slechts het aantal Likes.
 * De breedte van de stream kan worden verminderd tot 250 pixels.
-
