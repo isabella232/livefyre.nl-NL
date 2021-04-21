@@ -1,18 +1,16 @@
 ---
-seo-title: Gebruikershandleiding voor Livefyre
-solution: Experience Manager
 title: Gebruikershandleiding voor Livefyre
-uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
+description: Gebruikershandleiding voor Livefyre
+exl-id: 1b106519-9165-4cce-bddf-c0980424f54d
 translation-type: tm+mt
-source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-
-# Handboek Livefy {#livefyre-help}
+# Handboek Livefyre {#livefyre-help}
 
 Gebruik Live Studio om apps te maken, door de gebruiker gegenereerde inhoud te verzamelen en inhoud te matigen.
 
@@ -38,4 +36,3 @@ Raadpleeg de [*Adobe Experience Manager Live Implementation Guide*](/help/implem
 * [Livefyre gebruiken met Livefyre-extensie Adobe starten](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension)
 
 * [Opmerkingen bij de release](c-rn/c-rn.md#c_rn)
-
