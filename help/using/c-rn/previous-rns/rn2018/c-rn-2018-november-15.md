@@ -1,18 +1,14 @@
 ---
 description: Release-aantekeningen voor de release van 15 november 2018.
-seo-description: Release-aantekeningen voor de release van 15 november 2018.
-seo-title: Opmerkingen bij de release
-solution: Experience Manager
 title: Opmerkingen bij de release
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+exl-id: 3f904022-b770-4f35-a3b0-790e15748763
 translation-type: tm+mt
-source-git-commit: efb031b58f01ec69c8297a808998d25a0015f102
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release{#release-notes}
 
@@ -22,19 +18,19 @@ Release-aantekeningen voor de release van 15 november 2018.
 
 De volgende nieuwe functies zijn vrijgegeven in de productieversie van deze release:
 
-* **Updates voor zoeken en streamen in Instagram.** U kunt een  *zakelijke* account van Instagram gebruiken:
+* **Updates voor zoeken en streamen in Instagram.** U kunt een  *Instagram-* bedrijfsaccount gebruiken voor:
 
-   * Een sociale zoekopdracht uitvoeren op gebruiker (de gebruiker moet ook een zakelijke account in Instagram zijn).
+   * Een sociale zoekopdracht op Instagram uitvoeren door gebruiker (gebruiker moet ook een Instagram-zakelijke account zijn).
 
-   * Instagramstreams maken van een specifieke Instagram-gebruikersaccount (de account moet ook een zakelijke account zijn), inclusief uw eigen account.
+   * Maak Instagram-streams van een specifieke Instagram-gebruikersaccount (de account moet ook een zakelijke account zijn), inclusief uw eigen account.
 
-   * Rechten voor elementen aanvragen vanaf Instagram met behulp van een gedeeltelijk geautomatiseerde workflow.
+   * Rechten aanvragen voor middelen van Instagram via een gedeeltelijk geautomatiseerde workflow.
 
-   * Zie [Informatie over Instagram-accounts](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md) voor informatie over welk type Instagram-accounts u moet instellen en rechten van Instagram aanvragen.
+   * Zie [Informatie over Instagram Accounts](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md) voor informatie over welk type Instagram-accounts u moet instellen en rechten van Instagram aanvragen.
 
 * **Automatische controle van gebruiksrechten vraagt reacties voor zakelijke zoekopdrachten op basis van account.** Alleen voor zoekopdrachten op basis van zakelijke accounts: de mogelijkheid om reacties op verzoeken om rechten automatisch te controleren en de activiteitengeschiedenis in LiveCycle bij te werken, is beschikbaar.
 
-Voor meer informatie over hoe te om rechten voor de rekeningen van het Installagram te verzoeken, zie [Verzoek van de Rechten van het Installagram manueel verzenden](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) en [een Gedeeltelijk-Geautomatiseerd Verzoek van de Rechten van het Installagram verzenden](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md).
+Zie [Instagram Rights Request Manually](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) en [Send a Partially Automated Instagram Rights Request](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md) voor meer informatie over het aanvragen van rechten voor Instagram-accounts.
 
 * **Adobe Target-integratie.** Toegevoegde integratie met Adobe Target zodat u LiveCycle Apps rechtstreeks kunt delen met uw Adobe Target Offers Library. Zie [Doeldocumentatie](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html) voor meer informatie over het gebruik van LiveCycle met Adobe Target.
 
