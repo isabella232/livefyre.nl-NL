@@ -1,18 +1,14 @@
 ---
 description: Beschikbare velden voor e-mailmeldingen aanpassen.
-seo-description: Beschikbare velden voor e-mailmeldingen aanpassen.
-seo-title: Netwerk-e-mail instellen
-solution: Experience Manager
 title: Netwerk-e-mail instellen
-uuid: c368d236-e25a-4118-8abc-5230618c97ee
+exl-id: 5305f3d2-d89d-4da2-9baa-64fabe41c74a
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Netwerk-e-mail instellen{#set-up-network-email}
 
@@ -30,4 +26,3 @@ Stel uw e-mailmeldingen in.
    >Als dit veld leeg is, worden geen e-mailmeldingen verzonden.
 
 * **Naam e-mailweergave:** voer de naam in die in plaats van uw e-mailadres wordt weergegeven in e-mailberichten met opmerkingen.
-
