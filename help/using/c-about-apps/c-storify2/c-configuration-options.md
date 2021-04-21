@@ -1,18 +1,14 @@
 ---
 description: Kies Stijl, Vertoning, en de configuratieopties van de Betrokkenheid van de Gebruiker voor Storify 2 van de Studio van Livefyre.
-seo-description: Kies Stijl, Vertoning, en de configuratieopties van de Betrokkenheid van de Gebruiker voor Storify 2 van de Studio van Livefyre.
-seo-title: Configuratieopties
-solution: Experience Manager
 title: Configuratieopties
-uuid: 4a7f03b3-6d97-46e9-8832-81e665f06d3a
+exl-id: bdb5210e-860c-477f-95cd-37a1233469f1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
-
 
 # Configuratieopties{#configuration-options}
 
@@ -79,4 +75,3 @@ Kies Stijl, Vertoning, en de configuratieopties van de Betrokkenheid van de Gebr
 * **[!UICONTROL Number of views]**
 
    Als deze optie is ingeschakeld, wordt het aantal keren dat het artikel is weergegeven, weergegeven.
-
