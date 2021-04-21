@@ -1,18 +1,14 @@
 ---
 description: Bouw Ping voor Pull reactie om bijgewerkte gebruikersinformatie naar Livefyre over te brengen.
-seo-description: Bouw Ping voor Pull reactie om bijgewerkte gebruikersinformatie naar Livefyre over te brengen.
-seo-title: De pingelen voor volledige reactie samenstellen
-solution: Experience Manager
 title: De pingelen voor volledige reactie samenstellen
-uuid: f90871d5-601f-40dc-b3d2-ab78635e4a88
+exl-id: 81c398fd-2acb-4e39-a2b3-c96921b1192b
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
-
 
 # Bouw Ping voor Pull Response{#build-the-ping-for-pull-response}
 
