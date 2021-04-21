@@ -1,25 +1,21 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Rechten beheren
-solution: Experience Manager
 title: Rechten beheren
-uuid: e8f7f73e-da8a-43dc-b5d2-63485872cdca
+description: Rechten beheren
+exl-id: 895bb7a9-3180-46ca-812b-098ed63ee176
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
-
 
 # Rechten aanvragen beheren{#managing-rights-requests}
 
 U kunt verzoeken om rechten op de volgende manieren beheren:
 
-* Rechten aanvragen van de bibliotheek, inhoud van de app of ModQ voor Twitter-inhoud. Zie [Een aanvraag voor Twitter-rechten verzenden](../c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md#t_send_a_rights_request_to_own_a_digital_asset) voor meer informatie over het verzenden van een aanvraag voor rechten voor Twitter-inhoud.
-* Rechten aanvragen bij de bibliotheek of App-inhoud voor Instagram-inhoud. Voor meer informatie over hoe te om een rechtenverzoek voor inhoud te verzenden Instagram, zie [Verzoeken van de Rechten van het Installagram manueel verzenden](../c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md#c_send_instagram_manual_rights_request) en [Een gedeeltelijk-Geautomatiseerd Verzoek van de Rechten van het Installagram verzenden](../c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md#c_send_an_instagram_rights_request_from_the_library).
+* Rechten aanvragen uit de bibliotheek, de inhoud van de app of ModQ voor Twitter-inhoud. Zie [Een Twitter Rights Request](../c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md#t_send_a_rights_request_to_own_a_digital_asset) verzenden voor meer informatie over het verzenden van een verzoek om rechten voor Twitter-inhoud.
+* Rechten aanvragen uit de bibliotheek of app-inhoud voor Instagram-inhoud. Zie [Instagram Rights Requests handmatig verzenden](../c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md#c_send_instagram_manual_rights_request) en [Een gedeeltelijk-geautomatiseerde Instagram Rights Request](../c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md#c_send_an_instagram_rights_request_from_the_library) verzenden voor meer informatie over het verzenden van een aanvraag voor rechten voor Instagram-inhoud.
 
 * Rechten aanvragen bij AEM Assets. Voor meer informatie over hoe te om rechten van AEM Handel te verzoeken. Zie [Live View gebruiken met AEM Assets](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html#UseLivefyrewithAEMAssets) voor meer informatie over het aanvragen van rechten voor inhoud van AEM Assets.
 * Bekijk de de verzoekgeschiedenis van de rechten voor een stuk van inhoud. Voor meer informatie over hoe te om de geschiedenis van rechtenverzoeken voor een stuk van inhoud te bekijken, zie [de Geschiedenis van de Activiteit van de Rechten van de Mening](../c-how-requesting-rights-works/c-view-rights-activity-history.md#c_view_rights_activity_history).
@@ -29,4 +25,3 @@ U kunt verzoeken om rechten op de volgende manieren beheren:
    >[!NOTE]
    >
    >Als u een verzoek om rechten overschrijft, wordt aangegeven dat u eigenaar bent van de inhoud. Overschrijf een verzoek om rechten niet zonder te controleren of u eigenaar bent van de inhoud.
-
