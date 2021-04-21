@@ -1,18 +1,14 @@
 ---
 description: Teksttekenreeksen aanpassen voor LiveCycle Sidenotes
-seo-description: Teksttekenreeksen aanpassen voor LiveCycle Sidenotes
-seo-title: Geeft tekstreeksen aan
-solution: Experience Manager
 title: Geeft tekstreeksen aan
-uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
+exl-id: 132a7c8d-10e1-419c-9d79-a40553e70785
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
-
 
 # Geeft tekstreeksen aan{#sidenotes-text-strings}
 
@@ -164,4 +160,3 @@ Tekenreeksen beschikbaar voor algemene foutberichten.
 |  | errorDuplicate | We houden ook van uw notitie, maar u kunt deze niet twee keer plaatsen. |
 |  | errorGeneral | Er is een fout opgetreden. Probeer het opnieuw. |
 |  | errorServer | Er ging iets mis met onze server. Probeer dat opnieuw? |
-
