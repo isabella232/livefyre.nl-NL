@@ -1,18 +1,14 @@
 ---
 description: CSS-klassen beschikbaar voor uw Storify-apps.
-seo-description: CSS-klassen beschikbaar voor uw Storify-apps.
-seo-title: CSS-klassen stabiliseren
-solution: Experience Manager
 title: CSS-klassen stabiliseren
-uuid: 168a0db0-a209-417a-ba91-a33b4d411c8d
+exl-id: b0e61aaf-0da9-45fa-9ce3-3c633940480d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
-
 
 # CSS-klassen stabiliseren{#storify-css-classes}
 
@@ -77,7 +73,7 @@ Hiermee kunt u de opmaak aanpassen voor de artikelelementen van het bericht.
 | .s-element-text blockquote:after | Het pictogram voor het einde van een blockquote |
 | .s-element-image | Inline-afbeeldingselementcontainer |
 | .s-img | `<img>` element |
-| .s-image-caption | Bijschrift voor afbeeldingen en video&#39;s op sociale media (bijv.: Installagramafbeelding) |
+| .s-image-caption | Bijschrift voor afbeeldingen en video&#39;s op sociale media (bijv.: Instagram-afbeelding) |
 | .s-upload-image-caption | Bijschrift voor afbeeldingen en video&#39;s die zijn geüpload via de artikeleditor |
 | .s-element-video | Video-element |
 | .s-element-quote | Offerteelement (bijv. Tweet met alleen tekst) |
