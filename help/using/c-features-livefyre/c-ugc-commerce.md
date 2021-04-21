@@ -1,14 +1,10 @@
 ---
 description: Lever product-specifieke UGC op specifieke punten van de klantenreis om aankoopintentie en omzetting te verhogen gebruikend de eigenschap van de Handel UGC.
-seo-description: Lever product-specifieke UGC op specifieke punten van de klantenreis om aankoopintentie en omzetting te verhogen gebruikend de eigenschap van de Handel UGC.
-seo-title: UGC-handel
-solution: Experience Manager
 title: UGC-handel
-uuid: 71e64901-a2b6-4957-ba88-058e4eaca537
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
