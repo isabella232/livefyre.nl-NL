@@ -1,18 +1,14 @@
 ---
 description: Schakel het Livefy Identity-pakket in zodat uw gebruikers zich via e-mail, Twitter, Facebook, Yahoo! of Google kunnen aanmelden bij uw LiveCycle-apps.
-seo-description: Schakel het Livefy Identity-pakket in zodat uw gebruikers zich via e-mail, Twitter, Facebook, Yahoo! of Google kunnen aanmelden bij uw LiveCycle-apps.
-seo-title: LiveCycle-identiteit inschakelen
-solution: Experience Manager
 title: LiveCycle-identiteit inschakelen
-uuid: 9bb5e168-4596-42a7-9105-e09c65c5e3ae
+exl-id: 5eda2be7-26fd-4730-a1ad-95421c773cbe
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # LiveCycle-identiteit inschakelen{#enable-livefyre-identity}
 
