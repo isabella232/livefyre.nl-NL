@@ -1,17 +1,14 @@
 ---
 description: Moderne inhoud die afkomstig is van een stream met behulp van de bibliotheek.
-seo-description: Moderne inhoud die afkomstig is van een stream met behulp van de bibliotheek.
-seo-title: Moderne inhoud van een stream
 title: Moderne inhoud van een stream
-uuid: 38faf651-c547-49b3-b3d1-1a1d65c0f81c
+exl-id: 60111467-be63-4236-a06a-eb59b4c29bbe
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
-
 
 # Moderne inhoud van een stroom{#moderate-content-from-a-stream}
 
@@ -34,7 +31,7 @@ Plaats de muis boven de ruimte met opmerkingen en de volgende opties voor de mod
 * **[!UICONTROL Bozo:]** Bozos the content&#39;s auteur. Voor Sidenotes, kunnen de gebruikers Bozo&#39;d slechts van binnen Studio, en niet van binnen de stroom zijn.
 * **[!UICONTROL Delete:]** Hiermee verwijdert u de inhoud uit de thread.
 * **[!UICONTROL Flag:]** Opent een modaal Vlag, die u toestaat om een vlag voor de inhoud (Spam, Aanstootgevend, Niet akkoord, of Off-Topic) te selecteren, een e-mailadres in te gaan om met de Vlag te associëren, indien gewenst, en een nota toe te voegen.
-* **[!UICONTROL Share:]** Hiermee opent u een modus voor delen, waarmee u bestanden kunt delen naar Facebook of Twitter, de tekst kunt bewerken en een permalink naar de inhoud kunt opnemen.
+* **[!UICONTROL Share:]** Hiermee opent u een modus voor delen, waarmee u bestanden kunt delen naar Facebook of Twitter, de tekst kunt bewerken en een permalink naar de inhoud zelf kunt opnemen.
 * **[!UICONTROL Feature:]** Bevat de inhoud.
 
 
@@ -46,4 +43,3 @@ Toepassingen die deze functie gebruiken:
 * [Revisies](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storiseren 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-
