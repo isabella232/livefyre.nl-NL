@@ -1,17 +1,14 @@
 ---
 description: Moderne inhoud van één enkele, intelligente interface.
-seo-description: Moderne inhoud van één enkele, intelligente interface.
-seo-title: Moderne inhoud met ModQ
 title: Moderne inhoud met ModQ
-uuid: c630fb85-7bd0-4da0-ac7e-080e970fb4f9
+exl-id: 694b1f45-2b24-4e80-99a1-788e2cecc8a4
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
-
 
 # Moderne inhoud met ModQ{#moderate-content-using-modq}
 
@@ -171,4 +168,3 @@ Toepassingen die ModQ gebruiken:
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storiseren 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Knop Uploaden](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
