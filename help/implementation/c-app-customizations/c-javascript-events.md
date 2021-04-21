@@ -1,18 +1,14 @@
 ---
 description: De beschikbare gebeurtenissen waaraan u JavaScript voor conversatieapps kunt binden (bijvoorbeeld Comments, Chat, Live Blog, Reviews en Sidenotes).
-seo-description: De beschikbare gebeurtenissen waaraan u JavaScript voor conversatieapps kunt binden (bijvoorbeeld Comments, Chat, Live Blog, Reviews en Sidenotes).
-seo-title: Definities en voorbeelden van JavaScript-gebeurtenissen
-solution: Experience Manager
 title: Definities en voorbeelden van JavaScript-gebeurtenissen
-uuid: 61da2e2e-8fcd-482d-93df-c946f0475277
+exl-id: 5b865974-69aa-4d51-ac26-60f1d8a114fc
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 15%
+source-wordcount: '375'
+ht-degree: 11%
 
 ---
-
 
 # Definities en voorbeelden van JavaScript-gebeurtenissen{#javascript-events-definitions-and-examples}
 
@@ -182,4 +178,3 @@ data = {
    optOut: true 
 }
 ```
-
