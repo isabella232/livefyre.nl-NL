@@ -1,18 +1,14 @@
 ---
 description: Hiermee plaatst u geselecteerde inhoud in uw LiveCyre-apps of Studio-bibliotheek.
-seo-description: Hiermee plaatst u geselecteerde inhoud in uw LiveCyre-apps of Studio-bibliotheek.
-seo-title: Streams
-solution: Experience Manager
 title: Streams
-uuid: 01ea5d33-5ec1-46f4-b724-8431cda443a1
+exl-id: 5abc2e7c-ee5f-4f73-8eb4-8d8a1c8c73a3
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
-
 
 # Streams{#streams}
 
@@ -33,4 +29,3 @@ Gebruik de interface Streams om regels te definiëren waarmee Studio geselecteer
 >[!NOTE]
 >
 >Inhoud die is gemaakt terwijl uw stream actief is, wordt weergegeven in uw apps. Inhoud die is gemaakt voordat regels zijn gedefinieerd en de stream actief is of nadat een stream is uitgeschakeld, wordt niet weergegeven in uw apps.
-
