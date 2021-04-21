@@ -1,18 +1,14 @@
 ---
 description: 'Meer informatie over de Filmstrip-app vindt u in onze volledige handleiding. In de visualisatie-app worden uw afbeeldingen weergegeven in een strook met retrocamera-films. Master het met onze tips. '
-seo-description: Filmstrip is een visualisatie-app waarmee door de gebruiker gegenereerde inhoud wordt weergegeven in één dynamische, horizontale strook met foto's, vergelijkbaar met een filmstrip van een camera.
-seo-title: Filmstrip
-solution: Experience Manager
 title: Hulplijn voor Filmstrip-app
-uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
+exl-id: a96e5de0-bebb-42ee-ae10-813ad8b9e960
 translation-type: tm+mt
-source-git-commit: 2584041dd080c08ee769bd897e55157ec05ce8b6
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
-
 
 # Filmstrip{#filmstrip}
 
