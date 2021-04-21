@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Pas een Vertaalreeks op een Netwerk toe
-solution: Experience Manager
 title: Pas een Vertaalreeks op een Netwerk toe
-uuid: 3d9a2616-3721-4ac5-a039-aefbf57cf269
+description: Pas een Vertaalreeks op een Netwerk toe
+exl-id: 99f1f007-79a7-49da-a466-472346e9503a
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
-
 
 # Pas een Vertaalreeks op een Netwerk{#apply-a-translation-set-to-a-network} toe
 
@@ -21,4 +17,3 @@ ht-degree: 0%
 1. Selecteer App-instellingen.
 1. Navigeer naar Standaardinstellingen > Vertaalset.
 1. Selecteer een vertaalset in het keuzemenu.
-
