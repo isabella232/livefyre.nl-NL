@@ -1,10 +1,10 @@
 ---
 description: Stel Adobe Analytics en Dynamic Tag Manager (DTM) in om gegevens voor LiveCycle-apps te verzamelen.
+title: LiveCycle gebruiken met Adobe Analytics en Dynamic Tag Manager (DTM)
 exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
-translation-type: tm+mt
-source-git-commit: 24d016fbb2771487f8105b2ca0bb0d03dd60cfc1
+source-git-commit: cbe23e8c253f1531418f18424e180d1adc16e426
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1027'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Stel de volgende parameters in voor het gereedschap:
    * **[!UICONTROL Authenticate via Marketing Cloud]** inschakelen.
 1. Voeg of bevestig de naam van de rapportsuite met LiveCycle-gebeurtenissen toe aan het veld **[!UICONTROL Report Suites]**.
 
-## Stap 4: Opstelling een Regel van de Lading van de Pagina aan de Behandeling van de Analyse van de Opstelling {#section_jfj_j3d_4cb}
+## Stap 4: Een regel voor het laden van pagina&#39;s instellen voor de verwerking van analysemogelijkheden {#section_jfj_j3d_4cb}
 
 Stel een regel voor het laden van pagina in om alle gegevens op te halen. Met de regel Pagina laden kunt u aangepaste javascript in de regel plaatsen die de gebeurtenis vastlegt wanneer de pagina wordt geladen.
 
@@ -91,7 +91,7 @@ Stel een regel voor het laden van pagina in om alle gegevens op te halen. Met de
 1. Klik op **[!UICONTROL Save Code]**.
 1. Klik op **[!UICONTROL Save Rule]**.
 
-## Stap 5: Creeer een Directe Regel van de Vraag om de Configuratie van de Toewijzing van Adobe Analytics voor Levensstijl {#section_gvp_b1g_pdb} te construeren
+## Stap 5: Creeer een Directe Regel van de Vraag om de Configuratie van de Toewijzing van Adobe Analytics voor Livefyre te construeren {#section_gvp_b1g_pdb}
 
 Er zijn andere manieren om Livefyre met DTM uit te voeren door aangepaste gebeurtenissen, de gebieden van Adobe Analytics UI binnen DTM, en gegevenselementen te gebruiken. In dit document wordt aangepaste JavaScript gebruikt om hetzelfde effect te bereiken.
 
