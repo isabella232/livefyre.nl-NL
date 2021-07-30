@@ -2,15 +2,14 @@
 description: Als u een app aan uw site wilt toevoegen, moet u eerst een app maken in LiveCycle Studio.
 title: Een app maken
 exl-id: 1d87ae99-3529-497c-b533-13f212abeacd
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 64596886ff960b34cee08b2a91cba5390a593089
 workflow-type: tm+mt
 source-wordcount: '1264'
 ht-degree: 0%
 
 ---
 
-# Een app {#create-an-app} maken
+# Een app maken {#create-an-app}
 
 Als u een app aan uw site wilt toevoegen, moet u eerst een app maken in LiveCycle Studio.
 
@@ -54,13 +53,13 @@ Stijl apps voor de branding van uw site. Gebruik de opties **[!UICONTROL Style]*
 * **[!UICONTROL Font family]**. Selecteer een lettertype voor door de gebruiker gegenereerde inhoud in uw app. Als u Georgia of Times New Roman selecteert, wordt dat lettertype aan de inhoud toegewezen en wordt Helvetica Neue aan gebruikersnamen en weergavenamen toegewezen. Als u Helvetica, Verdana of Trebuchet selecteert, worden deze lettertypen toegewezen aan inhoud, gebruikersnamen en weergavenamen.
 * **[!UICONTROL Font size]**. Selecteer een standaardtekengrootte. Deze instelling is van invloed op alle door de gebruiker gegenereerde inhoud en titels die in de app worden weergegeven.
 
-## Apps {#section_iwb_4bz_vcb} bijwerken
+## Apps bijwerken {#section_iwb_4bz_vcb}
 
 Als er een nieuwere versie van de app bestaat, wordt de knop **[!UICONTROL Update]** weergegeven.
 
 Klik op de knop om bij te werken naar de nieuwste releaseversie. Vernieuw de app om alle beschikbare functieverbeteringen en foutoplossingen te gebruiken. Nadat de update is bijgewerkt, worden eventuele wijzigingen in de voorvertoning in uw app geaccepteerd of geweigerd.
 
-## Voeg een Vraag-aan-actie Knoop aan een App {#section_cpf_cmt_bbb} toe
+## Voeg een Vraag-aan-actie Knoop aan een App toe {#section_cpf_cmt_bbb}
 
 Voeg een vraag-aan-actie knoop toe om omzetting van UGC te drijven.
 
@@ -75,7 +74,7 @@ Om een vraag-aan-actie knoop aan een App toe te voegen:
 
 1. Vorm de vraag-aan-Actie knoopopties.
 
-## Voorvertoningen van toepassingen {#section_eyy_4mt_bbb}
+## App-voorvertoningen {#section_eyy_4mt_bbb}
 
 Met App Designer kunt u een voorvertoning van de app weergeven in meerdere leveringsindelingen en met uw eigen gegevens of voorbeeldgegevens.
 
@@ -85,11 +84,9 @@ De voorvertoningsmodus biedt de volgende opties:
 
 * **[!UICONTROL Preview Options]**: Gebruik het keuzemenu om een voorvertoningsindeling (mobiel, tablet of bureaublad) te selecteren en of de streamgegevens van de app moeten worden weergegeven  **[!UICONTROL Sample Data]** of niet.
 
-* 
-
->[!NOTE]
->
->Als u **[!UICONTROL Sample Data]** deselecteert en er geen Stream is ingeschakeld voor de app, wordt geen inhoud weergegeven in de modus Voorvertoning.
+   >[!NOTE]
+   >
+   >Als u **[!UICONTROL Sample Data]** deselecteert en er geen Stream is ingeschakeld voor de app, wordt geen inhoud weergegeven in de modus Voorvertoning.
 
 * **[!UICONTROL Share]**: Hiermee opent u de app in een nieuw browsertabblad en genereert u een URL waarmee vrienden, collega&#39;s of niet-Studio-gebruikers uw app kunnen reviseren en deze in verschillende browsers en apparaten kunnen testen.
 
@@ -103,7 +100,7 @@ De voorvertoningsmodus biedt de volgende opties:
 >
 >De voorvertoningsmodus is volledig interactief, zodat u de gebruikerservaring voor uw app kunt testen. Als u **[!UICONTROL Allow user posts]** inschakelt, kunnen gebruikers met de voorbeeldkoppeling op de knop **[!UICONTROL What’s on your mind]** klikken en inhoud naar uw testversie posten. De Studio maakt een lijst van inhoud zoals gepost.
 
-## App Publishing {#section_df1_smt_bbb}
+## App publiceren {#section_df1_smt_bbb}
 
 App Designer slaat automatisch uw app op nadat u een wijziging hebt aangebracht. Met **[!UICONTROL Publish]** kunt u een insluitcode genereren of eerder gepubliceerde versies van deze app bijwerken met de huidige versie.
 
@@ -111,7 +108,7 @@ App Designer slaat automatisch uw app op nadat u een wijziging hebt aangebracht.
 >
 >Wanneer u op **[!UICONTROL Publish]** klikt, wordt een insluitcode voor de app gegenereerd en worden alle bestaande instanties van de app bijgewerkt als deze eerder zijn gepubliceerd.
 
-## Toepassingsgeschiedenis {#section_jsk_vmt_bbb} controleren
+## Toepassingsgeschiedenis controleren {#section_jsk_vmt_bbb}
 
 App Designer slaat automatisch de app op nadat u een wijziging hebt aangebracht en genereert een nieuwe versie voor elke wijziging. Met **[!UICONTROL History]** kunt u een deelvenster openen met alle versies van uw app. In de weergegeven versies worden de editor en de leeftijd van elke versie weergegeven.
 
@@ -129,7 +126,7 @@ De toepassingsgeschiedenis controleren:
 
 Als een andere editor wijzigingen aanbrengt terwijl het browservenster geopend is, geeft LiveCyre een waarschuwingsbericht weer wanneer u de app probeert te bewerken en wordt u gevraagd of u wilt terugkeren naar uw (oudere) conceptversie. (Hiermee voorkomt u dat meerdere gelijktijdige editors per ongeluk elkaars wijzigingen negeren.) Klik **[!UICONTROL Update to Latest]** beginnen werkend van de recentste versie. Klik **[!UICONTROL Overwrite]** om naar uw (oudere) werkstaat terug te keren, het versieaantal van het meest recente te verhogen, en blijven werkend.
 
-## Tabblad Samenvatting toepassing {#section_rxx_xmt_bbb}
+## Tabblad App-overzicht {#section_rxx_xmt_bbb}
 
 Gebruik het tabblad App Summary om informatie voor afzonderlijke apps te beheren.
 
@@ -146,7 +143,7 @@ Op het tabblad App Summary kunt u het volgende doen:
 * **[!UICONTROL Moderate]**: Opent ModQ en geeft alle inhoud weer die op moderatie wacht voor de app.
 * **[!UICONTROL Developer Info]**: Verstrekt identiteitskaart van de Inzameling van de app, Artikel identiteitskaart, en identiteitskaart van de Plaats.
 
-## Een app insluiten op uw site met Studio {#section_w3h_1nt_bbb}
+## Een app op uw site insluiten met Studio {#section_w3h_1nt_bbb}
 
 Genereer de insluitcode.
 
@@ -157,7 +154,7 @@ Wanneer een app wordt gepubliceerd, genereert Livefyre een insluitcode die kan w
 
    Voor toepassingen waarvoor gebruikersverificatie is vereist, moet uw integratie voor gebruikersverificatie voltooid zijn en zich op de pagina bevinden voordat de insluitcode wordt toegevoegd.
 
-## Een app {#section_zyx_zyx_xcb} verwijderen
+## Een app verwijderen {#section_zyx_zyx_xcb}
 
 U kunt een app verwijderen uit de lijst Apps in LiveCycle Studio. Wanneer u App van Studio schrapt, is App verborgen van mening, schrapt het of houdt niet op:
 
