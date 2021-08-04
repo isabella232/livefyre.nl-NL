@@ -2,10 +2,9 @@
 description: Release-aantekeningen voor de release van 15 november 2018.
 title: Opmerkingen bij de release
 exl-id: 3f904022-b770-4f35-a3b0-790e15748763
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: beb224fdccf68c98fc3eff62b0867f22fa52902b
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -32,7 +31,7 @@ De volgende nieuwe functies zijn vrijgegeven in de productieversie van deze rele
 
 Zie [Instagram Rights Request Manually](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) en [Send a Partially Automated Instagram Rights Request](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md) voor meer informatie over het aanvragen van rechten voor Instagram-accounts.
 
-* **Adobe Target-integratie.** Toegevoegde integratie met Adobe Target zodat u LiveCycle Apps rechtstreeks kunt delen met uw Adobe Target Offers Library. Zie [Doeldocumentatie](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html) voor meer informatie over het gebruik van LiveCycle met Adobe Target.
+* **Adobe Target-integratie.** Toegevoegde integratie met Adobe Target zodat u LiveCycle Apps rechtstreeks kunt delen met uw Adobe Target Offers Library. Zie [Doeldocumentatie](https://experienceleague.adobe.com/docs/livefyre/using/library/livefyre-target.html) voor meer informatie over het gebruik van LiveCycle met Adobe Target.
 
 ## Problemen {#section_ehw_ndt_wcb}
 
