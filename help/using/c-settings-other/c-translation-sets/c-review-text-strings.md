@@ -2,10 +2,9 @@
 description: De tekstreeksen aanpassen voor LiveRevisies.
 title: Tekstreeksen controleren
 exl-id: 82ced091-d573-4514-9b91-3451a94ed5d3
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 1d9088eecf797e1af881cb6be55b3c96284f75e5
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,13 +30,13 @@ Als u deze functie wilt implementeren, geeft u een 1-1-objecttoewijzing van de t
 Voorbeeld:
 
 ```
-var customStrings = { 
-   postAsButton: "New Post As Text", 
-   postEditButton: "New Post Edit Text" }; 
-networkConfig["strings"] = customStrings; fyre.conv.load( 
-   networkConfig, 
-   [convConfig], 
-   function(){} 
+var customStrings = {
+   postAsButton: "New Post As Text",
+   postEditButton: "New Post Edit Text" };
+networkConfig["strings"] = customStrings; fyre.conv.load(
+   networkConfig,
+   [convConfig],
+   function(){}
 );
 ```
 
@@ -48,17 +47,17 @@ Tekenreeksen beschikbaar voor de gebruikersinterface voor revisie en beoordeling
 | Element | Sleutel | Standaardtekst |
 |--- |--- |--- |
 | Knoppen | editReviewBtn | Revisie bewerken |
-|  | reviewBtn | [Revisie schrijven](https://d.pr/i/QscA) |
-|  | beoordelingenGesloten | [Revisies gesloten](https://d.pr/i/zr7M) |
-|  | showReviewBtn | [Revisie tonen](https://d.pr/i/onxU) |
+|  | reviewBtn | Revisie schrijven |
+|  | beoordelingenGesloten | Revisies gesloten |
+|  | showReviewBtn | Revisie tonen |
 |  | volgen | Ik ben geïnteresseerd |
 |  | shareText | Ik schreef net een revisie. Kijk eens! |
 | Knopinfo voor classificaties | ratingValues | Een array. Standaard = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Opmerking: Waarden in de array moeten worden gedupliceerd om aan de linker- en rechterhelft van elke ster dezelfde naam toe te wijzen. |
 | Onderdelen van classificaties | ratingSubpartPlaceholders | Een array. Standaard = `[]` |
 |  | ratingSubpartTitles | Een array. Standaard = `[]` |
 |  | reviewStreamTitle | Standaard leeg. Titel van de samenvatting van de evaluatie. |
-| Dic | averageRating | [Gemiddelde beoordeling door gebruiker](https://d.pr/i/QscA) |
-|  | breakHeader | [Classificatie-indeling](https://d.pr/i/QscA) |
+| Dic | averageRating | Gemiddelde beoordeling door gebruiker |
+|  | breakHeader | Classificatie-indeling |
 |  | nuttig | %s van %s is nuttig gevonden |
 |  | NuttigePlural | %s van %s is nuttig gevonden |
 |  | outOf | / |
@@ -71,9 +70,9 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom.
 | Element | Sleutel | Standaardtekst |
 |---|---|---|
 | Sorteren | sortBy | Standaard leeg. |
-|  | sortHighestRated | [Hoogste beoordeling](https://d.pr/i/huTd) |
-|  | sortLowestRated | [Laagste classificatie](https://d.pr/i/huTd) |
-|  | sortMostHelpful | [Meeste handigheid](https://d.pr/i/huTd) |
+|  | sortHighestRated | Hoogste beoordeling |
+|  | sortLowestRated | Laagste classificatie |
+|  | sortMostHelpful | Meeste handigheid |
 | Stream misc. | showMore | Meer weergeven |
 | Hoge snelheid streamen | newComment | Nieuwe revisie |
 |  | newComments | Nieuwe revisies |
@@ -84,27 +83,27 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom.
 | Telling van opmerkingenkennisgever | commentNotifier | Nieuwe revisie |
 |  | commentNotifierPlural | Nieuwe revisies |
 
-## Info auteur/inhoud {#section_osx_xj4_xz}
+## Informatie auteur/inhoud {#section_osx_xj4_xz}
 
 Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 
 | Element | Sleutel | Standaardtekst |
 |---|---|---|
-| Doorbraak van thread | reviewsContentNotFoundMsg | [Deze revisie is niet meer zichtbaar](https://d.pr/i/svXs) |
+| Doorbraak van thread | reviewsContentNotFoundMsg | Deze revisie is niet meer zichtbaar |
 |  | backToComments | Terug naar Revisies |
 
-## Gebruikershandelingen {#section_tlx_wj4_xz}
+## Handelingen van gebruikers {#section_tlx_wj4_xz}
 
 Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, delen en markeren als handig.
 
 | Element | Sleutel | Standaardtekst |
 |---|---|---|
-| Voettekst voor opmerkingen | wasReviewHelpful | [Nuttig?](https://d.pr/i/Q0mA) |
+| Voettekst voor opmerkingen | wasReviewHelpful | Nuttig? |
 |  | wasReviewHelpfulMobile | Nuttig? |
-|  | ownIsReviewHelpful | [Gevonden nuttig.](https://d.pr/i/Q0mA) |
-|  | reviewIsHelpful | [Ja](https://d.pr/i/Q0mA) |
-|  | NuttigeScheider | [&amp;Omkeren;](https://d.pr/i/Q0mA) |
-|  | reviewIsNotHelpful | [Nee](https://d.pr/i/Q0mA) |
+|  | ownIsReviewHelpful | Gevonden nuttig. |
+|  | reviewIsHelpful | Ja |
+|  | NuttigeScheider | &amp;vert; |
+|  | reviewIsNotHelpful | Nee |
 | Stemmen over modaal | voiceTitle | Was deze herziening nuttig? |
 |  | stemmenDownloaden | Nee |
 |  | voiceReplyTitle | Was dit antwoord nuttig? |
@@ -116,7 +115,7 @@ Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, dele
 | Meningmodaal | notifyDefaultText | Ik heb u in een Livefyre-revisie genoemd! |
 | Delen, modaal | shareTitle | Revisie delen |
 
-## Functies {#section_yl1_wj4_xz} plaatsen
+## Functies {#section_yl1_wj4_xz}
 
 Tekenreeksen beschikbaar voor gebruikers die revisies plaatsen.
 

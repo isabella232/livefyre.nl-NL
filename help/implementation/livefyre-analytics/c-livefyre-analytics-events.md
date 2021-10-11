@@ -2,10 +2,9 @@
 title: Gebeurtenissen van Livefyre Analytics
 description: Gebeurtenissen van Livefyre Analytics
 exl-id: ec32414c-0580-44dc-ae5b-6df0b42c0ec3
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 53aead87db517e6f68266a66115889509287a287
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -41,9 +40,9 @@ De volgende code definieert de velden in het gebeurtenisobject die door de handl
 }
 ```
 
-## Gebeurtenissen en gebeurtenissen voor Livefyre-analyse {#section_u3k_tft_mcb}
+## Livefyre Analytics Events and eVars {#section_u3k_tft_mcb}
 
-De volgende Livefy-gebeurtenissen moeten worden toegewezen aan aangepaste gebeurtenissen die moeten worden gebruikt in rapporten met de rapportsuite Manager. Voor meer informatie over de Reeksen van het Rapport in Adobe Analytics, zie [de Manager van de Reeks van het Rapport](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html). Raadpleeg [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb) voor meer informatie over het gebruik van LiveCycle-gebeurtenissen met Report Suite Manager.
+De volgende Livefy-gebeurtenissen moeten worden toegewezen aan aangepaste gebeurtenissen die moeten worden gebruikt in rapporten met de rapportsuite Manager. Voor meer informatie over de Reeksen van het Rapport in Adobe Analytics, zie [de Manager van de Reeks van het Rapport](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en). Raadpleeg [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb) voor meer informatie over het gebruik van LiveCycle-gebeurtenissen met Report Suite Manager.
 
 ## Gebeurtenissen van Livefyre Analytics
 
@@ -53,7 +52,7 @@ De volgende Livefy-gebeurtenissen moeten worden toegewezen aan aangepaste gebeur
 | Laden | Elke keer dat een app op een pagina is geladen, ongeacht de weergave van de gebruiker |
 | Weergave | Wanneer een app de viewport voor de eerste keer heeft ingevoerd. |
 | Post | Elke keer dat een gebruiker een opmerking of inhoud, zoals bijvoorbeeld: berichttekst op hoofdniveau, antwoorden, revisies, uploaden naar mediamuur |
-| Gepost | Toen een bericht succesvol was. |
+| Gepost | Wanneer een bericht succesvol was. |
 | Twitter_Reageren | Elke keer dat een gebruiker op Twitter heeft gereageerd |
 | Twitter_like | Waar inhoud is gedeeld naar: Retweet |
 | Livefre_like | Elke keer dat de levensechte functie wordt gebruikt in een app |
@@ -96,7 +95,7 @@ Hieronder volgt een lijst met conversievariabelen (eVars) die door Livefyre word
 
 Voor meer informatie over de onderwerpen die op deze pagina worden besproken, zie:
 
-* [Report Suite ](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[ManagerDTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
+* [Report Suite ](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en)[ManagerDTM](https://experienceleague.adobe.com/docs/livefyre/using/apps/filmstrip/c-filmstrip-app.html?lang=en)
 
-* [Regels](https://docs.adobe.com/content/help/en/dtm/using/resources/rules/create-rules.html)
+* [Regels](https://experienceleague.adobe.com/docs/dtm/using/resources/rules/create-rules.html?lang=en)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
