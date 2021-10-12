@@ -2,15 +2,14 @@
 title: Gebruikershandleiding voor Livefyre
 description: Gebruikershandleiding voor Livefyre
 exl-id: 1b106519-9165-4cce-bddf-c0980424f54d
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Handboek Livefyre {#livefyre-help}
+# Gebruikershandleiding voor Livefyre {#livefyre-help}
 
 Gebruik Live Studio om apps te maken, door de gebruiker gegenereerde inhoud te verzamelen en inhoud te matigen.
 
@@ -32,7 +31,5 @@ Raadpleeg de [*Adobe Experience Manager Live Implementation Guide*](/help/implem
 
 
 * [Livefyre gebruiken met Adobe Target](/help/using/c-library/livefyre-target.md)
-
-* [Livefyre gebruiken met Livefyre-extensie Adobe starten](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension)
-
+* [Livefyre gebruiken met Livefyre-extensie Adobe starten](/help/using/c-library/launch-extension.md)
 * [Opmerkingen bij de release](c-rn/c-rn.md#c_rn)

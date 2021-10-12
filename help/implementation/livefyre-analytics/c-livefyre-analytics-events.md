@@ -2,7 +2,7 @@
 title: Gebeurtenissen van Livefyre Analytics
 description: Gebeurtenissen van Livefyre Analytics
 exl-id: ec32414c-0580-44dc-ae5b-6df0b42c0ec3
-source-git-commit: 53aead87db517e6f68266a66115889509287a287
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -95,7 +95,6 @@ Hieronder volgt een lijst met conversievariabelen (eVars) die door Livefyre word
 
 Voor meer informatie over de onderwerpen die op deze pagina worden besproken, zie:
 
-* [Report Suite ](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en)[ManagerDTM](https://experienceleague.adobe.com/docs/livefyre/using/apps/filmstrip/c-filmstrip-app.html?lang=en)
-
-* [Regels](https://experienceleague.adobe.com/docs/dtm/using/resources/rules/create-rules.html?lang=en)
+* [Report Suite Manager](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en)
+* [Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)

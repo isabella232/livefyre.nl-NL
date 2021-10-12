@@ -2,7 +2,7 @@
 description: Stel Adobe Analytics en Dynamic Tag Manager (DTM) in om gegevens voor LiveCycle-apps te verzamelen.
 title: LiveCycle gebruiken met Adobe Analytics en Dynamic Tag Manager (DTM)
 exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
-source-git-commit: 53aead87db517e6f68266a66115889509287a287
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -31,14 +31,16 @@ Wijs bibliotheekconversievariabelen (eVars) toe aan conversievariabelen in Adobe
 
 1. Klik in Report Suite Manager op **[!UICONTROL Edit Settings > Conversion > Conversion Variables]**.
 1. Kies de aangepaste conversievariabelen (eVars) die u wilt gebruiken en wijs deze toe aan de bibliotheekconversievariabelen. U kunt als volgt een conversievariabele Livefyre toewijzen aan een aangepaste conversievariabele:
-* De conversievariabele inschakelen
-* De conversievariabele een naam geven
-* De conversievariabele een type geven
+
+   * De conversievariabele inschakelen
+   * De conversievariabele een naam geven
+   * De conversievariabele een type geven
+
 1. Sla de aangepaste conversievariabelen op.
 
 ## Stap 3: DTM gebruiken om uw rapportsuite toe te voegen met LiveCycle Events {#section_t15_2hd_4cb}
 
-Voeg Adobe Analytics toe aan DTM om Analytics te laten werken. Hiertoe maakt u een nieuwe eigenschap en een nieuw gereedschap en voegt u de nieuwe rapportsuite met LiveCycle-gebeurtenissen toe aan de eigenschap. Zie [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en) voor meer informatie over DTM.
+Met labels kunt u analyses integreren met LiveCycle-gebeurtenissen. Hiertoe maakt u een nieuwe eigenschap en een nieuw gereedschap en voegt u de nieuwe rapportsuite met LiveCycle-gebeurtenissen toe aan de eigenschap. Zie [Overzicht van tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) voor meer informatie.
 
 U hoeft deze stap niet uit te voeren als u al een eigenschap of gereedschap hebt ingesteld voor de rapportsuite die u hebt ingesteld met LiveCycle-gebeurtenissen.
 
@@ -65,7 +67,7 @@ Stel een regel voor het laden van pagina in om alle gegevens op te halen. Met de
 1. Klik op de **[!UICONTROL Create New Rule]** knoop.
 1. Open de sectie **[!UICONTROL Conditions]** door op de **[!UICONTROL Plus]** knoop te klikken.
 1. Trigger de regel. Kies **[!UICONTROL DOM Ready]** of **[!UICONTROL Onload]** trekkertypes als u de regel asynchroon wilt vertragen of uitvoeren.
-1. (Optioneel) Voeg aanvullende parameters toe om de pagina&#39;s te beperken die Live Apps weergeven. Voor meer informatie over extra configuratieopties, zie [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en).
+1. (Optioneel) Voeg aanvullende parameters toe om de pagina&#39;s te beperken die Live Apps weergeven. Voor meer informatie over extra configuratieopties, zie [Overzicht van Markeringen](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html).
 1. Klik onder **[!UICONTROL Javascript/ Third Party Tags]** op het tabblad **[!UICONTROL Non-sequential]** en klik vervolgens op **[!UICONTROL Add New Script]**.
 1. Selecteer **[!UICONTROL Sequential HTML]** als scripttype.
 1. Voeg het volgende manuscript in de coderedacteur toe en klik **[!UICONTROL Save Code]**.
@@ -306,6 +308,5 @@ function addAnalyticsHandler() {
 Voor meer informatie over de onderwerpen die op deze pagina worden besproken, zie:
 
 * [Report Suite Manager](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en)
-* [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en)
-* [Regels](https://experienceleague.adobe.com/docs/dtm/using/resources/rules/create-rules.html?lang=en)
+* [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)

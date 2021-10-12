@@ -2,10 +2,9 @@
 description: Met vertaalsets kunt u een alternatieve taal opgeven voor Apps.
 title: Vertaalsets
 exl-id: 688138bf-f8e9-4fe5-99e2-2451deefd217
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,10 +12,6 @@ ht-degree: 0%
 # Vertaalsets {#translation-sets}
 
 Met vertaalsets kunt u een alternatieve taal opgeven voor Apps.
-
-<!-- 
-c_translation_sets.dita
--->
 
 Gebruik vertaalinstellingen om apps in verschillende talen te lokaliseren of om alternatieve tekst voor verschillende apps vanaf één locatie in Studio op te geven. U kunt er bijvoorbeeld voor zorgen dat alle sites in het Spaans de Spaanse taal gebruiken voor alle App-velden. U kunt de tekst ook wijzigen zodat alle velden overeenkomen met de stem en het gevoel van uw site of netwerk.
 
@@ -32,7 +27,7 @@ De vertaalsets op verschillende niveaus overschrijven elkaar als volgt:
 * De vertaalreeks van de toepassing treedt netwerk-vlakke en plaats-vlakke vertaalreeksen met voeten.
 * Vertaalsets op siteniveau overschrijven de vertaalsets op netwerkniveau.
 
-## Tekstreeksen {#c-review-text-strings} controleren
+## Tekstreeksen controleren {#c-review-text-strings}
 
 De tekstreeksen aanpassen voor LiveRevisies.
 
@@ -99,9 +94,9 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom.
 |---|---|---|
 | *Sorteren* |  |  |
 |  | sortBy | *Standaard leeg.* |
-|  | sortHighestRated | [Hoogste beoordeling](https://d.pr/i/huTd) |
-|  | sortLowestRated | [Laagste classificatie](https://d.pr/i/huTd) |
-|  | sortMostHelpful | [Meeste handigheid](https://d.pr/i/huTd) |
+|  | sortHighestRated | Hoogste beoordeling |
+|  | sortLowestRated | Laagste classificatie |
+|  | sortMostHelpful | Meeste handigheid |
 | *Stream misc.* |  |  |
 |  | showMore | Meer weergeven |
 | *Hoge snelheid streamen* |  |  |
@@ -117,29 +112,29 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom.
 |  | commentNotifier | Nieuwe revisie |
 |  | commentNotifierPlural | Nieuwe revisies |
 
-## Info auteur/inhoud {#section_osx_xj4_xz}
+## Informatie auteur/inhoud {#section_osx_xj4_xz}
 
 Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 
 | Element | Sleutel | Standaardtekst |
 |---|---|---|
 | *Doorbraak van thread* |  |  |
-|  | reviewsContentNotFoundMsg | [Deze revisie is niet meer zichtbaar](https://d.pr/i/svXs) |
+|  | reviewsContentNotFoundMsg | Deze revisie is niet meer zichtbaar |
 |  | backToComments | Terug naar Revisies |
 
-## Gebruikershandelingen {#section_tlx_wj4_xz}
+## Handelingen van gebruikers {#section_tlx_wj4_xz}
 
 Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, delen en markeren als handig.
 
 | Element | Sleutel | Standaardtekst |
 |---|---|---|
 | *Voettekst voor opmerkingen* |  |  |
-|  | wasReviewHelpful | [Nuttig?](https://d.pr/i/Q0mA) |
+|  | wasReviewHelpful | Nuttig? |
 |  | wasReviewHelpfulMobile | Nuttig? |
-|  | ownIsReviewHelpful | [Gevonden nuttig.](https://d.pr/i/Q0mA) |
-|  | reviewIsHelpful | [Ja](https://d.pr/i/Q0mA) |
-|  | NuttigeScheider | [&amp;Omkeren;](https://d.pr/i/Q0mA) |
-|  | reviewIsNotHelpful | [Nee](https://d.pr/i/Q0mA) |
+|  | ownIsReviewHelpful | Gevonden nuttig. |
+|  | reviewIsHelpful | Ja |
+|  | NuttigeScheider | &amp;vert; |
+|  | reviewIsNotHelpful | Nee |
 | *Stemmen over modaal* |  |  |
 |  | voiceTitle | Was deze herziening nuttig? |
 |  | stemmenDownloaden | Nee |
@@ -156,7 +151,7 @@ Tekenreeksen beschikbaar voor gebruikersacties: bestaande inhoud toewijzen, dele
 | *Delen, modaal* |  |  |
 |  | shareTitle | Revisie delen |
 
-## Functies {#section_yl1_wj4_xz} plaatsen
+## Functies {#section_yl1_wj4_xz}
 
 Tekenreeksen beschikbaar voor gebruikers die revisies plaatsen.
 
@@ -202,7 +197,7 @@ Tekenreeksen beschikbaar voor algemene foutberichten.
 |  | errorTitleMaxChars | Je titel is te lang. Bewerk het bestand en probeer het opnieuw. |
 |  | errorStemOwnComment | Je kunt niet op je eigen beoordeling stemmen |
 
-## Geeft tekstreeksen {#c_sidenotes_text_strings} aan
+## Geeft tekstreeksen aan {#c_sidenotes_text_strings}
 
 Teksttekenreeksen aanpassen voor LiveCycle Sidenotes
 
@@ -266,7 +261,7 @@ Tekenreeksen beschikbaar voor informatie en weergave van de inhoudsstroom.
 |  | menuInfoHelp | Help |
 |  | menuInfoLiveLink | Bezoek Livefyre.com |
 
-## Info auteur/inhoud {#section_dhb_gl4_xz}
+## Informatie auteur/inhoud {#section_dhb_gl4_xz}
 
 Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 
@@ -285,7 +280,7 @@ Stings beschikbaar voor auteur en individuele inhoudsinformatie.
 |  | questionMockText | Wat &quot;bekend&quot; is, is niet bekend, alleen omdat het &quot;bekend&quot; is. |
 |  | questionTitle | Wat is een Sidenote? |
 
-## Gebruikershandelingen {#section_qxd_fl4_xz}
+## Handelingen van gebruikers {#section_qxd_fl4_xz}
 
 Tekenreeksen beschikbaar voor gebruikersacties: het markeren, delen, en het houden van bestaande inhoud.
 
@@ -312,7 +307,7 @@ Tekenreeksen beschikbaar voor gebruikersacties: het markeren, delen, en het houd
 |  | sliderLoading | Bezig met laden... |
 |  | sliderWriteText | Wat denk je? Tik om te schrijven. |
 
-## Functies {#section_xzf_2l4_xz} plaatsen
+## Functies {#section_xzf_2l4_xz}
 
 Tekenreeksen beschikbaar voor gebruikers die inhoud posten.
 

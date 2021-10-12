@@ -2,17 +2,16 @@
 description: Gebruik Bootstrap- en Stream-API met LiveCycle Apps.
 title: Accountdetails weergeven
 exl-id: b8458954-3727-4c4d-93dd-d21a4328e069
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Bootstrap- en stream-API gebruiken met LiveCycle Apps {#bootstrap-stream-api}
+# Bootstrap- en Stream-API gebruiken met LiveCycle-apps {#bootstrap-stream-api}
 
-## Bootstrap-API {#bootstrap-api}
+## Bootstrap API {#bootstrap-api}
 
 ### Hoe kan ik inhoud ouder dan de nieuwste 50 stukken terugwinnen? {#howcontentolder}
 
@@ -30,11 +29,9 @@ Een voorbeeldtoepassing heeft bijvoorbeeld 120 stukken inhoud. Inhoud &quot;1&qu
 
 * `Init` Hiermee worden ~120-70 stukken inhoud in aflopende volgorde geladen:  [https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init](https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init)
 
-* `O.json` Hiermee laadt u ~ 1-50 stukken inhoud in oplopende volgorde:  [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json)
-
-* `1.json` Hiermee laadt u ~ 51-100 stukken inhoud in oplopende volgorde:  [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json)
-
-* `2.json` hiermee worden ~101-120 stukken inhoud in oplopende volgorde geladen:[https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json)
+* `O.json` Hiermee laadt u ~ 1-50 stukken inhoud in oplopende volgorde:  `https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json`
+* `1.json` Hiermee laadt u ~ 51-100 stukken inhoud in oplopende volgorde:  `https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json`
+* `2.json` Hiermee worden ~101-120 stukken inhoud in oplopende volgorde geladen:`https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json`
 
 [Klik hier om het Bootstrap opiniepeilingdiagram te zien.](https://marketing-resource-help.s3.amazonaws.com/resources/help/en_US/livefyre/bootstrap-poll-flowchart.pdf)
 
@@ -47,7 +44,7 @@ Dit lange opiniepeilend eindpunt stroomt nieuwe inhoud (bijvoorbeeld een gebruik
 
 De aanvraag voor stream-API moet ~30 seconden (lang polling) zijn met een verwachte time-out na 30 seconden wanneer er geen nieuwe inhoud wordt gestreamd.
 
-API-referentie: [https://api.livefyre.com/docs/apis/by-category/collections#operation=urn:livefyre:apis:stream1:operations:v3.1:collection:updates:method=get](https://api.livefyre.com/docs/apis/by-category/collections#operation=urn:livefyre:apis:stream1:operations:v3.1:collection:updates:method=get)
+API-referentie: [https://api.livefyre.com/docs/apis/by-category/collections#operation=urn:livefyre:apis:stream1:bewerkingen:v3.1:collection:updates:method=get](https://api.livefyre.com/docs/apis/by-category/collections#operation=urn:livefyre:apis:stream1:operations:v3.1:collection:updates:method=get)
 
 Voorbeeld van aanvraag:
 
