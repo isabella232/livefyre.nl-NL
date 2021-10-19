@@ -3,19 +3,18 @@ product: livefyre
 audience: end-user
 user-guide-title: Livefyre Guide
 user-guide-description: Gebruik LiveCycle Studio om apps te maken, door de gebruiker gegenereerde inhoud te verzamelen en inhoud te matigen.
-translation-type: tm+mt
-source-git-commit: 9b568a6bbe638fae816c6992e33180f9349157f1
+source-git-commit: fac5ebba6a8d67efe59e4daabc8c11955ed04480
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
 
 
-# Livefyeregids {#using}
+# Livefyre Guide {#using}
 
++ [Herinnering voor einde service van Livefyre](c-anouncements.md)
 + [Help bij Livefyre](home.md)
-+ [Aankondigingen](c-anouncements.md)
 + [Toegang tot trainingsvideo&#39;s](c-access-training-videos.md)
 + [Info Livefyre](c-product.md)
 + Apps {#apps}
@@ -71,7 +70,7 @@ ht-degree: 0%
       + [Sidenotes-functies](c-about-apps/c-sidenotes-app/r-sidenotes-features.md)
       + [Aanpassingen voor Sidenotes](c-about-apps/c-sidenotes-app/r-sidenotes-customizations.md)
       + [Aanbevolen werkwijzen voor identiteitsbewijzen](c-about-apps/c-sidenotes-app/c-best-practices-for-sidenotes.md)
-   + 2 {#storify2} specificeren
+   + Storiseren 2 {#storify2}
       + [Storiseren 2](c-about-apps/c-storify2/c-storify2.md)
       + [Configuratieopties](c-about-apps/c-storify2/c-configuration-options.md)
       + [Instellingen voor sterkeren](c-about-apps/c-storify2/c-storify-settings.md)
@@ -85,7 +84,7 @@ ht-degree: 0%
       + [Werken met meerdere editors op hetzelfde artikel](c-about-apps/c-storify2/t-working-with-multiple-editors-on-same-story.md)
       + [Streams gebruiken om sociale inhoud toe te voegen aan uw artikel](c-about-apps/c-storify2/t-use-streams-to-add-social-content.md)
       + [Een bericht vastzetten om 2 te bepalen](c-about-apps/c-storify2/t-pin-posts-to-storify2.md)
-      + Navigatiegids {#navigation-guide}
+      + Navigatiehandleiding {#navigation-guide}
          + [Navigatiehandleiding](c-about-apps/c-storify2/c-navigation-guide.md)
          + [Voeg een Gids van de Navigatie aan Storify 2 toe](c-about-apps/c-storify2/t-add-navigation-guide-to-storify2.md)
          + [Een titel toevoegen aan de navigatiehandleiding](c-about-apps/c-storify2/t-add-a-title-to-the-navigation-guide.md)
@@ -101,20 +100,20 @@ ht-degree: 0%
       + [Knop Uploaden](c-about-apps/c-upload-button-app/c-upload-button-app.md)
       + [Aanpassingen voor knop Uploaden](c-about-apps/c-upload-button-app/r-upload-button-customizations.md)
       + [Tekstreeksen knop uploaden](c-about-apps/c-upload-button-app/c-upload-button-text-strings.md)
-+ Toepassingsfuncties {#app-features}
++ App-functies {#app-features}
    + [Toegankelijkheidsfuncties](c-features-livefyre/c-accessibility-features.md)
    + [Verificatiefuncties](c-features-livefyre/c-authentication.md)
    + [Aangepaste oproep tot actie-knop](c-features-livefyre/c-call-to-action-button.md)
-   + Functies voor gedrag van inhoud {#content-behavior-features}
+   + Functies van gedrag bij inhoud {#content-behavior-features}
       + [Functies van gedrag bij inhoud](c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md)
       + [Foto uploaden](c-features-livefyre/c-content-behavior-features/c-photo-upload.md)
       + [Gebruikersberichten](c-features-livefyre/c-content-behavior-features/c-user-posts.md)
-   + Codes voor verzameling en inhoud {#collection-content-tags}
+   + Labels voor verzamelingen en inhoud {#collection-content-tags}
       + [Labels voor verzamelingen en inhoud](c-features-livefyre/c-content-collection-tags/c-content-collection-tags.md)
       + [Verzameling wijzigen](c-features-livefyre/c-content-collection-tags/c-change-collection.md)
       + [De tag Zoeken op verzameling of Inhoud filteren](c-features-livefyre/c-content-collection-tags/t-filter-search-by-tag.md)
       + [Zoeken op basis van inhoudscode filteren](c-features-livefyre/c-content-collection-tags/t-filter-search-by-content-tag.md)
-      + [Embedly-integratie ](c-features-livefyre/c-content-collection-tags/c-embedly-integration.md)
+      + [Embedly-integratie](c-features-livefyre/c-content-collection-tags/c-embedly-integration.md)
       + [Aanbevolen inhoud](c-features-livefyre/c-content-collection-tags/c-featured-content.md)
       + [Inhoud onderdeel](c-features-livefyre/c-content-collection-tags/t-feature-content.md)
       + [Inhoud uit Studio selecteren voor functionaliteit](c-features-livefyre/c-content-collection-tags/t-select-content-to-feature-from-studio.md)
@@ -141,7 +140,7 @@ ht-degree: 0%
       + [Moderne inhoud van een stream](c-features-livefyre/c-about-moderation/c-moderate-inline.md)
       + [Moderne inhoud met toepassingsinhoud](c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md)
       + [VEILIGE REGELS](c-features-livefyre/c-about-moderation/c-moderation.md)
-   + Kenmerken {#notifications-features} voor meldingen
+   + Meldingsfuncties {#notifications-features}
       + [Opmerkingmelding](c-features-livefyre/c-notifications-features/c-comment-notifier.md)
       + [E-mailmeldingen](c-features-livefyre/c-notifications-features/c-email-notifications.md)
       + [Netwerk-e-mail instellen](c-features-livefyre/c-notifications-features/t-set-up-network-email.md)
@@ -153,7 +152,7 @@ ht-degree: 0%
    + Sociaal delen {#social-sharing}
       + [Sociaal delen](c-features-livefyre/c-social-sharing/c-social-sharing.md)
       + [Sociaal delen instellen](c-features-livefyre/c-social-sharing/c-setting-up-social-sharing.md)
-   + Functies {#sort-features} sorteren
+   + Functies sorteren {#sort-features}
       + [Functies sorteren](c-features-livefyre/c-sort-features-composite/c-sort-features-composite.md)
       + [Opmerkingen bovenaan](c-features-livefyre/c-sort-features-composite/c-top-comments.md)
       + [Hot Threads](c-features-livefyre/c-sort-features-composite/c-hot-threads.md)
@@ -171,7 +170,7 @@ ht-degree: 0%
    + [Curven en UGC weergeven](c-features-livefyre/curate-display-ugc.md)
    + [UGC filteren op product-id](c-features-livefyre/filter-ugc-product-id.md)
 + Bibliotheek {#library}
-   + Elementen {#assets}
+   + Activa {#assets}
       + [Activa](c-library/c-assets/c-assets.md)
       + [Elementmappen maken](c-library/c-assets/t-create-folders.md)
       + [Mappen met middelen beheren](c-library/c-assets/t-manage-folders.md)
@@ -196,11 +195,11 @@ ht-degree: 0%
    + [Een nieuwe stream maken](c-streams/t-create-a-new-stream.md)
    + [Regels toevoegen voor uw stream](c-streams/t-add-rules-for-your-stream.md)
    + [Opties voor stroomregel voor alle stroomregels](c-streams/c-stream-rule-options-for-all-stream-rules.md)
-   + [Regels voor Facebook-pagina](c-streams/c-facebook-page-rules.md)
+   + [Facebook-paginaregels](c-streams/c-facebook-page-rules.md)
    + [E-mailregels](c-streams/c-email-rules.md)
-   + [Installatieregels](c-streams/c-instagram-rules.md)
-   + [Richtlijnen voor inhoud van Instagram](c-streams/c-instagram-content-guidelines.md)
-   + [Snelheidsbeperking installatieschema](c-streams/c-instagram-rate-limiting.md)
+   + [Instagram-regels](c-streams/c-instagram-rules.md)
+   + [Richtlijnen voor instagram-inhoud](c-streams/c-instagram-content-guidelines.md)
+   + [Limiet voor instagram-snelheden](c-streams/c-instagram-rate-limiting.md)
    + [RSS-regels](c-streams/c-rss-rules-streams.md)
    + [Tumblr-regels](c-streams/c-tumblr-rules.md)
    + [Twitter-regels](c-streams/c-twitter-rules.md)
@@ -210,13 +209,13 @@ ht-degree: 0%
    + [Rechten aanvragen](c-how-requesting-rights-works/c-how-requesting-rights-works.md)
    + [Rechten beheren](c-how-requesting-rights-works/c-managing-rights-requests.md)
    + [Rights Management instellen](c-how-requesting-rights-works/t-set-up-rights-management.md)
-   + [Een aanvraag voor Twitter-rechten verzenden](c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md)
-   + [Een aanvraag voor gedeeltelijk geautomatiseerde installatierechten verzenden](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
-   + [Verzoek om installatierechten handmatig verzenden](c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md)
+   + [Een Twitter Rights-aanvraag verzenden](c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md)
+   + [Een gedeeltelijk geautomatiseerde Instagram Rights Request verzenden](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
+   + [Instagram Rights Request handmatig verzenden](c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md)
    + [Geschiedenis van rechtenactiviteit weergeven](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [Inhoud beheren met een aanvraag voor rechten in behandeling uit de Asset Library](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
    + [Rechten voor een element uit de elementenbibliotheek handmatig verlenen of intrekken](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
-+ Gebruikers: Gebruikers van Studio- en Livefyre-netwerken beheren {#users-managing}
++ Gebruikers: De Gebruikers van het Netwerk van Studio en Livefyre beheren {#users-managing}
    + [Gebruikers: De Gebruikers van het Netwerk van Studio en Livefyre beheren](c-users/c-users.md)
    + [Zoeken naar gebruikers](c-users/t-search-for-users.md)
    + [Accountdetails weergeven](c-users/c-viewing-account-details.md)
@@ -225,7 +224,7 @@ ht-degree: 0%
    + [Gebruikersaccounts koppelen](c-users/t-link-user-accounts.md)
    + [Gebruikers die netwerken schakelen](c-users/c-users-switching-networks.md)
    + [Gebruikerssynchronisatie](c-users/t-set-up-user-sync.md)
-+ Gebruikers: Gebruikersaccounts {#users-creating-accounts} maken
++ Gebruikers: Gebruikersaccounts maken {#users-creating-accounts}
    + [Gebruikers: Gebruikersaccounts maken](c-users-creating-accounts-with-studio-access/c-users-creating-accounts-with-studio-access.md)
    + [Een gebruiker uitnodigen om een Studio-account te maken](c-users-creating-accounts-with-studio-access/t-invite-a-user-to-create-a-studio-account.md)
    + [Accepteer een uitnodiging om een Studio-account te maken](c-users-creating-accounts-with-studio-access/t-accept-an-invitation-to-create-a-studio-account.md)
@@ -234,7 +233,7 @@ ht-degree: 0%
    + [Gebruikersrollen en -machtigingen](c-users-creating-accounts-with-studio-access/c-user-types.md)
    + Een sociale account toevoegen {#add-social-account}
       + [Een sociale account toevoegen](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md)
-      + [Info over Instagram-accounts](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)
+      + [Over Instagram-accounts](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)
       + [Een token vernieuwen voor een sociaal account](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-refresh-a-token-for-a-social-account.md)
 + Instellingen: Overige {#settings-other}
    + [Credentials instellen](c-settings-other/t-set-up-credentials.md)
@@ -248,7 +247,7 @@ ht-degree: 0%
       + [Tekenreeksen lokaliseren](c-settings-other/c-translation-sets/c-localize-strings.md)
       + [Tekstreeksen controleren](c-settings-other/c-translation-sets/c-review-text-strings.md)
       + [Geeft tekstreeksen aan](c-settings-other/c-translation-sets/c-sidenotes-text-strings.md)
-   + SSL-afgedwongen {#ssl-enforcement}
+   + SSL-handhaving {#ssl-enforcement}
       + [SSL-handhaving](c-settings-other/c-ssl-enforcement/c-ssl-enforcement.md)
       + [SSL-controlelijst](c-settings-other/c-ssl-enforcement/c-ssl-checklist.md)
    + Privacyverzoeken {#privacy-requests}
