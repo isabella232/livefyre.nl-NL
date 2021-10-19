@@ -2,9 +2,9 @@
 title: Herinnering voor einde service van Livefyre
 description: Herinnering en gearchiveerde aankondigingen voor Livefyre en Livefyre Studio aan het einde van de service.
 exl-id: 78fe3f11-2365-4765-a0af-f817e9c80ea9
-source-git-commit: c1f1f501203ea64a282abc631318983011eb4e5b
+source-git-commit: 96f4e5f196446834cdf92a2774bd26f02b6b58a4
 workflow-type: tm+mt
-source-wordcount: '1867'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Vorig jaar hebben de veranderende dynamiek met sociale media leveranciers, waaronder Facebook en Twitter, het lastig gemaakt om Adobe-klanten een robuuste UGC-oplossing (door de gebruiker gegenereerde inhoud) te blijven bieden. Vanwege deze uitdagingen heeft Adobe de moeilijke beslissing genomen om een einde te maken aan de Livefyre-service. De laatste dag zullen de klanten tot Livefyre kunnen toegang hebben 30 November, 2021. Sinds januari 2021, werkt Adobe met klanten gebruikend Livefyre aan een vlotte overgang aan vertrouwde op partners van de Adobe en het adviseren van alternatieve oplossingen. Deze herinnering is bedoeld om ervoor te zorgen dat de einddatum van de Livefyre-service zichtbaar is. Adobe is vastbesloten om te zorgen voor wat nodig is voor een soepele overdracht. Als u vragen hebt, kunt u contact opnemen met uw Customer Success Manager of accountmanager.
 
-## Veelgestelde vragen over het einde van de service van Livefyre {#livefyre-eos-faq}
+## Veelgestelde vragen over einde service van Livefy {#livefyre-eos-faq}
 
 ### **_Wat verandert er met Livefyre?_**
 
