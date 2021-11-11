@@ -2,8 +2,7 @@
 description: In het deelvenster Sociaal delen kunt u uw toepassingsgegevens voor een sociale-medianetwerk toevoegen.
 title: Sociaal delen instellen
 exl-id: aa940263-4cec-4ca3-aa74-84749e4cf2d0
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: b1177a52f3c4eb20b684dbf26bf699912937b988
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -60,9 +59,8 @@ Voer de volgende informatie in voor de integratie Bitly als u bitmaps wilt insch
 * **[!UICONTROL Login:]** Uw door bitter ingevoerde aanmeldingsnaam voor de eindgebruiker.
 * **[!UICONTROL API Key:]** De door u bitter verschafte API-sleutel.
 
-
-
 Toepassingen die deze functie gebruiken:
+
 * [Carousel](/help/using/c-about-apps/c-carousel-app/c-carousel-app.md#c_carousel_app)
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Opmerkingen](/help/using/c-about-apps/c-comments/c-comments.md)
