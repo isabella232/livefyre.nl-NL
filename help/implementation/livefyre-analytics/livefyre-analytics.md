@@ -2,10 +2,9 @@
 description: Analyseer de gebruikers-, inhoud- en moderatoractiviteiten voor uw site.
 title: Analyse
 exl-id: dc0545ec-2294-44ab-87c4-67eb30c3f787
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 9cd6617c4204b2c09787ea294227f640018928ce
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '677'
 ht-degree: 0%
 
 ---
@@ -18,22 +17,22 @@ Analyseer de gebruikers-, inhoud- en moderatoractiviteiten voor uw site.
 
 Analyseer de gebruikers-, inhoud- en moderatoractiviteiten voor uw site.
 
-De Analytics van de levensparantie verleent toegang tot uw netwerkgegevens in gemakkelijk te lezen dashboards voor Conversations, Moderation en gegevens van de Gebruiker. Gebruik deze dashboards om de activiteit te controleren en snelle analyses op uw plaats(en) uit te voeren.
+Live Analytics biedt toegang tot uw netwerkgegevens in eenvoudig te lezen dashboards voor conversies, moderatie en gebruikersgegevens. Gebruik deze dashboards om de activiteit te controleren en snelle analyses op uw plaats(en) uit te voeren.
 
 De dashboards kunnen door plaats, datum, en activiteit worden gefiltreerd. Gebruik de keuzelijst Netwerk linksboven in het venster om de site te selecteren die u wilt weergeven. Klik op een kolomkop om de grafiek te sorteren, of klik met de muis boven de grafiek voor meer specifieke informatie over een willekeurig gegevenspunt.
 
 Deze pagina beschrijft:
 
-* Een [Datumbereik](https://answers.livefyre.com/livefyre-studio-version-1/studio/analytics/#DateRange) voor het dashboard selecteren
-* [Beschikbare activiteiten weergeven/verbergen](https://answers.livefyre.com/livefyre-studio-version-1/studio/analytics/#ShowHideActivities)
-* [Dashboardgegevens exporteren](https://answers.livefyre.com/livefyre-studio-version-1/studio/analytics/#ExportDashboardData)
-* [Het dashboard Verzamelingen](https://answers.livefyre.com/livefyre-studio-version-1/studio/analytics/#CollectionsDashboard)
-* [Het dashboard voor modernisering](https://answers.livefyre.com/livefyre-studio-version-1/studio/analytics/#ModerationDashboard)
-* [Het gebruikersdashboard](https://answers.livefyre.com/livefyre-studio-version-1/studio/analytics/#UsersDashboard)
+* Een datumbereik voor het dashboard selecteren
+* Beschikbare activiteiten weergeven/verbergen
+* Dashboardgegevens exporteren
+* Het dashboard Verzamelingen
+* Het dashboard voor modernisering
+* Het gebruikersdashboard
 
 >[!NOTE]
 >
->Analyses ondersteunen momenteel activiteiten die afkomstig zijn van Livefyre Core Apps en Moderation. De meeste activiteiten in deze dashboards zijn ook beschikbaar via [Live JavaScript Events](https://answers.livefyre.com/developers/reference/app-customizations/javascript-events/), die kunnen worden gebruikt om uw eigen aangepaste of externe analyseprogramma aan te sturen.
+>Analyses ondersteunen momenteel activiteiten die afkomstig zijn van Livefyre Core Apps en Moderation. De meeste activiteiten in deze dashboards zijn ook beschikbaar via LiveCycle JavaScript Events, die kunnen worden gebruikt om uw eigen aangepaste of externe analyseprogramma aan te sturen.
 
 ## Datumbereik {#concept_798C438120E643B6BE262C9997DC87C4}
 
@@ -43,18 +42,18 @@ Klik op de datumkeuzelijst om een bereik te selecteren dat u wilt weergeven. Geb
 
 Snelle datums:
 
-* **Vandaag:** Toont gegevens van middernacht de ochtend van de huidige dag, tot het laatste volledige uur vóór dit moment.
-* **Gisteren:** geeft de gegevens van de vorige 24 uur weer.
+* **Vandaag:** Hiermee geeft u gegevens weer van middernacht op de ochtend van de huidige dag tot het laatste volledige uur voor dit moment.
+* **Gisteren:** Geeft de gegevens van de vorige 24 uur weer.
 * **7 dagen:** Geeft de gegevens van de vorige 7 dagen weer, exclusief vandaag.
-* **30 dagen:** Geeft de gegevens van de voorgaande 30 dagen weer, exclusief vandaag.
-* **Deze week:** Hier worden gegevens weergegeven van middernacht op de ochtend van afgelopen zondag tot het laatste volledige uur voor dit moment.
-* **Deze maand:** Toont gegevens van middernacht de ochtend van de eerste dag van de huidige maand, tot het laatste volledige uur vóór dit moment.
-* **Vorige week:** geeft de gegevens van vorige week weer.
-* **Vorige maand:gegevens van vorige maand** weergeven.
+* **30 dagen:** Geeft de gegevens van de vorige 30 dagen weer, exclusief vandaag.
+* **Deze week:** Geeft gegevens weer van middernacht op de ochtend van afgelopen zondag tot het laatste volledige uur voor dit moment.
+* **Deze maand:** Geeft gegevens weer van middernacht op de ochtend van de eerste dag van de huidige maand tot het laatste volledige uur voor dit moment.
+* **Vorige week:** Hier worden de gegevens van vorige week weergegeven.
+* **Vorige maand:** Gegevens van vorige maand worden weergegeven.
 
-## Activiteiten {#concept_022D9851CBCE4A2FB80D0AE52A23744D} tonen/verbergen
+## Weergeven/verbergen {#concept_022D9851CBCE4A2FB80D0AE52A23744D}
 
-Activiteiten zijn acties die gebruikers op uw site uitvoeren, zoals opmerkingen plaatsen, markeren, delen en modereren. Gebruik **Activiteiten tonen/verbergen** keuzelijst om activiteiten te selecteren die u in het dashboard wilt opnemen.
+Activiteiten zijn acties die gebruikers op uw site uitvoeren, zoals opmerkingen plaatsen, markeren, delen en modereren. Gebruik de **Activiteiten tonen/verbergen** keuzelijst voor het selecteren van activiteiten die u wilt opnemen in het dashboard.
 
 >[!NOTE]
 >
@@ -64,22 +63,22 @@ Activiteiten zijn acties die gebruikers op uw site uitvoeren, zoals opmerkingen 
 
 De beschikbare activiteiten variëren per dashboardtype en export en kunnen het volgende omvatten:
 
-* **Post:** Toont gegevens van middernacht de ochtend van de huidige dag, tot het laatste volledige uur vóór dit moment.
-* **Reacties:** geeft de gegevens van de vorige 24 uur weer.
-* **Likes:** toont de gegevens van vorige 7 dagen, niet met inbegrip van vandaag.
-* **Niet leuk:** geeft de gegevens van de vorige 30 dagen weer, niet inclusief vandaag.
-* **Bevat media:** Toont gegevens van middernacht de ochtend van vorige Zondag, tot het laatste volledige uur vóór dit moment.
-* **Post heeft foto&#39;s geüpload:** geeft gegevens weer vanaf middernacht op de ochtend van de eerste dag van de huidige maand, tot het laatste volledige uur voor dit moment.
-* **Post heeft koppeling:** geeft de gegevens van vorige week weer.
-* **Post heeft @mnotices:Gegevens van vorige maand** worden weergegeven.
-* **Goedgekeurd:Gegevens van vorige maand** worden weergegeven.
-* **Bozo&#39;d:Gegevens van vorige maand** weergeven.
-* **Verlopen:Gegevens van vorige maand** worden weergegeven.
-* **Totaal van de modernisering:** Toont de gegevens van vorige maand.
+* **Post:** Hiermee geeft u gegevens weer van middernacht op de ochtend van de huidige dag tot het laatste volledige uur voor dit moment.
+* **Reacties:** Geeft de gegevens van de vorige 24 uur weer.
+* **Koppelingen:** Geeft de gegevens van de vorige 7 dagen weer, exclusief vandaag.
+* **Niet leuk:** Geeft de gegevens van de vorige 30 dagen weer, exclusief vandaag.
+* **Bevat media:** Geeft gegevens weer van middernacht op de ochtend van afgelopen zondag tot het laatste volledige uur voor dit moment.
+* **Post heeft foto-upload:** Geeft gegevens weer van middernacht op de ochtend van de eerste dag van de huidige maand tot het laatste volledige uur voor dit moment.
+* **Post heeft koppeling:** Hier worden de gegevens van vorige week weergegeven.
+* **Post heeft @mnotices:** Gegevens van vorige maand worden weergegeven.
+* **Goedgekeurd:** Gegevens van vorige maand worden weergegeven.
+* **Bozo&#39;d:** Gegevens van vorige maand worden weergegeven.
+* **Verlopen:** Gegevens van vorige maand worden weergegeven.
+* **Totaal moderatie:** Gegevens van vorige maand worden weergegeven.
 
 ## Dashboardgegevens exporteren {#concept_730DB61A9F894BE6BFB34E0E2A421ED3}
 
-Met het keuzemenu **Exporteren** kunt u uw dashboardgegevens exporteren als een CSV-bestand.
+Gebruik de **Exporteren** keuzemenu om uw dashboardgegevens te exporteren als een CSV-bestand.
 
 * Dagelijkse samenvatting (alleen verzamelingen): exporteert de dagelijkse tabellen van de laatste volledige week voor elke verzameling.
 * Tabelgegevens: Hiermee exporteert u alle opgeschoven verzamelingsgegevens (alle kolommen en alle rijen in het huidige rapport).
